@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "language": "tamil",
+  "name_terms": {
+    "english": [
+      "Tamil"
+    ],
+    "native_script": [
+      "தமிழ்"
+    ]
+  },
+  "native_role_terms": [
+    "மொழிபெயர்ப்பாளர்",
+    "மொழிபெயர்ப்பு"
+  ],
+  "adjacent_note": "Dialect-pair matches (+1, inferred) use adjacent_languages from languages.json."
+}

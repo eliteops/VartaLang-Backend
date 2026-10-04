@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "language": "marathi",
+  "name_terms": {
+    "english": [
+      "Marathi"
+    ],
+    "native_script": [
+      "मराठी"
+    ]
+  },
+  "native_role_terms": [
+    "अनुवादक",
+    "अनुवाद",
+    "दुभाषी"
+  ],
+  "adjacent_note": "Dialect-pair matches (+1, inferred) use adjacent_languages from languages.json."
+}

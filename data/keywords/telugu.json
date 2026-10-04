@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "language": "telugu",
+  "name_terms": {
+    "english": [
+      "Telugu"
+    ],
+    "native_script": [
+      "తెలుగు"
+    ]
+  },
+  "native_role_terms": [
+    "అనువాదకుడు",
+    "అనువాదం"
+  ],
+  "adjacent_note": "Dialect-pair matches (+1, inferred) use adjacent_languages from languages.json."
+}

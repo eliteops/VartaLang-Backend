@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "note": "Shared English terms. Loader should skip files starting with underscore when listing languages.",
+  "role_terms": [
+    "translator",
+    "translation",
+    "interpreter",
+    "interpretation",
+    "transcription",
+    "transcriber",
+    "localization",
+    "localisation",
+    "multilingual support",
+    "multilingual",
+    "voice",
+    "voice-over",
+    "voiceover",
+    "linguist",
+    "annotation",
+    "annotator",
+    "subtitling"
+  ],
+  "generic_terms": [
+    "regional language",
+    "vernacular",
+    "local language",
+    "bilingual",
+    "native speaker"
+  ]
+}

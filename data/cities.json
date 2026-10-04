@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "note": "serpapi_ll format and zoom to be confirmed in Harshit's Maps spike.",
+  "cities": [
+    {
+      "id": "delhi-ncr",
+      "display_name": "Delhi NCR",
+      "state": "Delhi",
+      "lat": 28.6139,
+      "lng": 77.209,
+      "serpapi_ll": "@28.6139,77.209,12z",
+      "aliases": [
+        "delhi",
+        "new delhi",
+        "noida",
+        "greater noida",
+        "gurgaon",
+        "gurugram",
+        "ghaziabad",
+        "faridabad"
+      ]
+    },
+    {
+      "id": "chennai",
+      "display_name": "Chennai",
+      "state": "Tamil Nadu",
+      "lat": 13.0827,
+      "lng": 80.2707,
+      "serpapi_ll": "@13.0827,80.2707,12z",
+      "aliases": [
+        "madras"
+      ]
+    },
+    {
+      "id": "kolkata",
+      "display_name": "Kolkata",
+      "state": "West Bengal",
+      "lat": 22.5726,
+      "lng": 88.3639,
+      "serpapi_ll": "@22.5726,88.3639,12z",
+      "aliases": [
+        "calcutta"
+      ]
+    },
+    {
+      "id": "patna",
+      "display_name": "Patna",
+      "state": "Bihar",
+      "lat": 25.5941,
+      "lng": 85.1376,
+      "serpapi_ll": "@25.5941,85.1376,12z",
+      "aliases": []
+    },
+    {
+      "id": "lucknow",
+      "display_name": "Lucknow",
+      "state": "Uttar Pradesh",
+      "lat": 26.8467,
+      "lng": 80.9462,
+      "serpapi_ll": "@26.8467,80.9462,12z",
+      "aliases": []
+    }
+  ]
+}

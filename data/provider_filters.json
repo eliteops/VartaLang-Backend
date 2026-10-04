@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "max_providers": 8,
+  "query_templates": [
+    "translation services {language} {city}",
+    "transcription services {language} {city}"
+  ],
+  "optional_query_templates": [
+    "localization agency {language} {city}"
+  ],
+  "include_categories": [
+    "Translation service",
+    "Translator",
+    "Transcription service",
+    "Localization service",
+    "Interpreter",
+    "Language service"
+  ],
+  "exclude_categories": [
+    "Language school",
+    "Tutoring service",
+    "Coaching center",
+    "School",
+    "Educational institution",
+    "Training center"
+  ],
+  "include_name_keywords": [
+    "translation",
+    "translator",
+    "translate",
+    "transcription",
+    "localization",
+    "localisation",
+    "interpreter",
+    "interpretation",
+    "subtitling",
+    "voice over",
+    "multilingual",
+    "linguistic"
+  ],
+  "exclude_name_keywords": [
+    "coaching",
+    "tuition",
+    "classes",
+    "spoken english",
+    "ielts",
+    "pte",
+    "course"
+  ],
+  "rule": "Keep a place if its category is in include_categories OR its name matches include_name_keywords. Drop it if its category is in exclude_categories AND its name matches nothing in include_name_keywords. Always drop names matching exclude_name_keywords. Category strings must be verified against real Maps responses in the spike."
+}

@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "flags": "IGNORECASE",
+  "hints": [
+    {
+      "id": "personal_messaging",
+      "message": "Worth double-checking: this listing asks you to contact through a personal messaging app or number.",
+      "patterns": [
+        "whats\\s?app",
+        "\\btelegram\\b",
+        "\\bwa\\.me\\b",
+        "\\bdm\\s+(me|us)\\b",
+        "व्हाट्सएप",
+        "व्हाट्सऐप",
+        "टेलीग्राम"
+      ]
+    },
+    {
+      "id": "application_fee",
+      "message": "Worth double-checking: this listing mentions a fee or deposit. Genuine employers do not ask you to pay to apply.",
+      "patterns": [
+        "registration\\s+fee?s?",
+        "security\\s+deposit",
+        "training\\s+fee",
+        "joining\\s+fee",
+        "application\\s+fee",
+        "processing\\s+fee",
+        "refundable\\s+(deposit|amount)",
+        "pay\\s+(rs\\.?|₹|inr)?\\s*\\d+",
+        "पंजीकरण\\s*शुल्क",
+        "रजिस्ट्रेशन\\s*फीस"
+      ]
+    }
+  ]
+}
