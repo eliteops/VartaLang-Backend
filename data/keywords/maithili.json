@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "language": "maithili",
+  "name_terms": {
+    "english": [
+      "Maithili"
+    ],
+    "native_script": [
+      "मैथिली"
+    ]
+  },
+  "native_role_terms": [
+    "अनुवादक",
+    "अनुवाद"
+  ],
+  "adjacent_note": "Dialect-pair matches (+1, inferred) use adjacent_languages from languages.json."
+}

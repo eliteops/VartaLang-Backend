@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "language": "bengali",
+  "name_terms": {
+    "english": [
+      "Bengali",
+      "Bangla"
+    ],
+    "native_script": [
+      "বাংলা"
+    ]
+  },
+  "native_role_terms": [
+    "অনুবাদক",
+    "অনুবাদ",
+    "দোভাষী"
+  ],
+  "adjacent_note": "Dialect-pair matches (+1, inferred) use adjacent_languages from languages.json."
+}

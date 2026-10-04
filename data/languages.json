@@ -1,0 +1,114 @@
+{
+  "version": 1,
+  "languages": [
+    {
+      "id": "hindi",
+      "name": "Hindi",
+      "native_name": "हिन्दी",
+      "script": "Devanagari",
+      "is_dialect": false,
+      "adjacent_languages": []
+    },
+    {
+      "id": "tamil",
+      "name": "Tamil",
+      "native_name": "தமிழ்",
+      "script": "Tamil",
+      "is_dialect": false,
+      "adjacent_languages": []
+    },
+    {
+      "id": "bengali",
+      "name": "Bengali",
+      "native_name": "বাংলা",
+      "script": "Bengali",
+      "is_dialect": false,
+      "adjacent_languages": []
+    },
+    {
+      "id": "maithili",
+      "name": "Maithili",
+      "native_name": "मैथिली",
+      "script": "Devanagari",
+      "is_dialect": true,
+      "adjacent_languages": [
+        "hindi"
+      ]
+    },
+    {
+      "id": "bhojpuri",
+      "name": "Bhojpuri",
+      "native_name": "भोजपुरी",
+      "script": "Devanagari",
+      "is_dialect": true,
+      "adjacent_languages": [
+        "hindi"
+      ]
+    },
+    {
+      "id": "telugu",
+      "name": "Telugu",
+      "native_name": "తెలుగు",
+      "script": "Telugu",
+      "is_dialect": false,
+      "adjacent_languages": []
+    },
+    {
+      "id": "marathi",
+      "name": "Marathi",
+      "native_name": "मराठी",
+      "script": "Devanagari",
+      "is_dialect": false,
+      "adjacent_languages": []
+    },
+    {
+      "id": "gujarati",
+      "name": "Gujarati",
+      "native_name": "ગુજરાતી",
+      "script": "Gujarati",
+      "is_dialect": false,
+      "adjacent_languages": []
+    }
+  ],
+  "demo_pairs": [
+    {
+      "language": "hindi",
+      "city": "delhi-ncr"
+    },
+    {
+      "language": "tamil",
+      "city": "chennai"
+    },
+    {
+      "language": "bengali",
+      "city": "kolkata"
+    },
+    {
+      "language": "maithili",
+      "city": "patna"
+    },
+    {
+      "language": "bhojpuri",
+      "city": "lucknow"
+    }
+  ],
+  "snapshot": {
+    "languages": [
+      "hindi",
+      "tamil",
+      "bengali",
+      "maithili",
+      "bhojpuri",
+      "telugu",
+      "marathi",
+      "gujarati"
+    ],
+    "cities": [
+      "delhi-ncr",
+      "chennai",
+      "kolkata",
+      "patna",
+      "lucknow"
+    ]
+  }
+}

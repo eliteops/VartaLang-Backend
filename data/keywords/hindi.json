@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "language": "hindi",
+  "name_terms": {
+    "english": [
+      "Hindi"
+    ],
+    "native_script": [
+      "हिन्दी",
+      "हिंदी"
+    ]
+  },
+  "native_role_terms": [
+    "अनुवादक",
+    "अनुवाद",
+    "दुभाषिया"
+  ],
+  "adjacent_note": "Dialect-pair matches (+1, inferred) use adjacent_languages from languages.json."
+}

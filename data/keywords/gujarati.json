@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "language": "gujarati",
+  "name_terms": {
+    "english": [
+      "Gujarati",
+      "Gujrati"
+    ],
+    "native_script": [
+      "ગુજરાતી"
+    ]
+  },
+  "native_role_terms": [
+    "અનુવાદક",
+    "અનુવાદ"
+  ],
+  "adjacent_note": "Dialect-pair matches (+1, inferred) use adjacent_languages from languages.json."
+}

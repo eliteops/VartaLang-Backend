@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "language": "bhojpuri",
+  "name_terms": {
+    "english": [
+      "Bhojpuri"
+    ],
+    "native_script": [
+      "भोजपुरी"
+    ]
+  },
+  "native_role_terms": [
+    "अनुवादक",
+    "अनुवाद"
+  ],
+  "adjacent_note": "Dialect-pair matches (+1, inferred) use adjacent_languages from languages.json."
+}
