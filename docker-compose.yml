@@ -1,0 +1,24 @@
+# Optional local Postgres for offline development and the clean-machine demo.
+# The app defaults to Neon Postgres; start this only when you want a local DB:
+#   docker compose up -d
+#   DATABASE_URL=postgresql+psycopg://postgres:postgres@localhost:5432/vartalang_radar
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: vartalang-radar-postgres
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: vartalang_radar
+    ports:
+      - "5432:5432"
+    volumes:
+      - vartalang_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  vartalang_pgdata:
