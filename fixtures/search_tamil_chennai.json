@@ -1,0 +1,50 @@
+{
+  "_note": "SAMPLE placeholder in the section-10 contract shape. Replace with the real saved SerpApi-derived response from the Day-1 spike.",
+  "meta": {
+    "source": "cache",
+    "fetched_at": "2026-10-05T09:00:00+05:30",
+    "daily_budget_remaining": 42,
+    "visibility": {"explicit": 3, "inferred": 2}
+  },
+  "listings": [
+    {
+      "title": "Tamil Translator (Content Localization)",
+      "company": "Sample Language Co",
+      "location": "Chennai, Tamil Nadu",
+      "salary_text": "Rs 25,000 - 35,000 a month",
+      "posted_days_ago": 2,
+      "snippet": "Translate marketing content from English to Tamil. Native fluency required.",
+      "apply_link": "https://example.com/jobs/1",
+      "source_name": "Example Jobs",
+      "relevance_label": "Explicit match",
+      "relevance_score": 8,
+      "matched_terms": ["Tamil (title)", "role: translator", "location match"],
+      "trust_hints": []
+    },
+    {
+      "title": "Voice Process Executive",
+      "company": "Sample BPO",
+      "location": "Chennai, Tamil Nadu",
+      "salary_text": null,
+      "posted_days_ago": 5,
+      "snippet": "Handle inbound customer calls in regional languages.",
+      "apply_link": "https://example.com/jobs/2",
+      "source_name": "Example Jobs",
+      "relevance_label": "May need this language",
+      "relevance_score": 4,
+      "matched_terms": ["role: voice", "regional language mention", "location match"],
+      "trust_hints": ["Worth double-checking: asks applicants to message a personal number"]
+    }
+  ],
+  "providers": [
+    {
+      "name": "Sample Translation Services",
+      "category": "Translation service",
+      "address": "Anna Nagar, Chennai",
+      "rating": 4.5,
+      "website": "https://example.com",
+      "phone": "+91 00000 00000"
+    }
+  ],
+  "notice": "Results come from public sources. VartaLang does not verify employers or providers. Never pay to apply."
+}
