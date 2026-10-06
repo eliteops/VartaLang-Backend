@@ -17,7 +17,7 @@ import os
 from pathlib import Path
 from urllib.parse import urlparse
 
-import requests
+import httpx
 import streamlit as st
 
 API_URL = os.getenv("API_URL", "http://localhost:8000")
@@ -47,7 +47,7 @@ def get_languages() -> list[str]:
     if DEMO_MODE:
         return FALLBACK_LANGUAGES
     try:
-        r = requests.get(f"{API_URL}/api/languages", timeout=5)
+        r = httpx.get(f"{API_URL}/api/languages", timeout=5.0)
         r.raise_for_status()
         data = r.json()
         langs = data.get("languages", data) if isinstance(data, dict) else data
@@ -66,7 +66,7 @@ def run_search(language: str, location: str, pin: str) -> tuple[dict, str | None
     if pin:
         body["pin_code"] = pin
     try:
-        r = requests.post(f"{API_URL}/api/search", json=body, timeout=15)
+        r = httpx.post(f"{API_URL}/api/search", json=body, timeout=15.0)
         if r.status_code == 429:
             return load_fixture(), "Too many searches right now. Showing saved results."
         if r.status_code == 422:
@@ -140,7 +140,7 @@ def render_explorer() -> None:
     rows, note, date = [], "", ""
     if not DEMO_MODE:
         try:
-            r = requests.get(f"{API_URL}/api/coverage", timeout=10)
+            r = httpx.get(f"{API_URL}/api/coverage", timeout=10.0)
             r.raise_for_status()
             data = r.json()
             rows = data.get("rows", [])

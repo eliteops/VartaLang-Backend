@@ -76,6 +76,25 @@ class LanguageKeywords:
 
     @classmethod
     def from_dict(cls, language: str, data: dict) -> LanguageKeywords:
+        """Build from a `data/keywords/<language>.json` document.
+
+        Real shape (PRD data files, owner: Dhawal)::
+
+            {
+                "language": "tamil",
+                "name_terms": {
+                    "english": ["Tamil"],
+                    "native_script": ["\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"]
+                },
+                "native_role_terms": [...],
+            }
+
+        Flat test shapes (``{"names": [...]}``) are also accepted so unit
+        tests can build keywords by hand. Adjacent languages live in
+        ``data/languages.json`` (``adjacent_languages``) -- see
+        :func:`load_keywords` -- not in the keywords files.
+        """
+
         def collect(*keys: str) -> list[str]:
             out: list[str] = []
             for key in keys:
@@ -86,9 +105,17 @@ class LanguageKeywords:
                     out.extend(v for v in val if isinstance(v, str))
             return out
 
-        names = collect("names", "name", "native", "native_names", "native_script", "aliases")
+        name_terms = data.get("name_terms") or {}
+        nested: list[str] = []
+        if isinstance(name_terms, dict):
+            for key in ("english", "native_script"):
+                val = name_terms.get(key)
+                if isinstance(val, (list, tuple)):
+                    nested.extend(v for v in val if isinstance(v, str))
+        nested.extend(v for v in (data.get("native_role_terms") or []) if isinstance(v, str))
+        flat = collect("names", "name", "native", "native_names", "native_script", "aliases")
         adjacent = collect("adjacent", "adjacent_languages")
-        names = [language, *names]
+        names = [language, *nested, *flat]
         return cls(
             language=language,
             names=tuple(dict.fromkeys(n.strip() for n in names if n.strip())),
@@ -96,10 +123,52 @@ class LanguageKeywords:
         )
 
 
-def load_keywords(language: str, data_dir: str | Path = "data/keywords") -> LanguageKeywords:
+def load_keywords(
+    language: str,
+    data_dir: str | Path = "data/keywords",
+    languages_file: str | Path | None = None,
+) -> LanguageKeywords:
+    """Load ``data/keywords/<language>.json`` plus adjacency from ``languages.json``."""
     path = Path(data_dir) / f"{language.strip().lower()}.json"
     with path.open(encoding="utf-8") as fh:
-        return LanguageKeywords.from_dict(language, json.load(fh))
+        kw = LanguageKeywords.from_dict(language, json.load(fh))
+    if not kw.adjacent:
+        adj = _adjacent_from_languages(language, languages_file, data_dir)
+        if adj:
+            kw = LanguageKeywords(language=kw.language, names=kw.names, adjacent=tuple(adj))
+    return kw
+
+
+def _adjacent_from_languages(
+    language: str, languages_file: str | Path | None, data_dir: str | Path
+) -> tuple[str, ...]:
+    """Read ``adjacent_languages`` for a language id from ``languages.json``."""
+    if languages_file is None:
+        languages_file = Path(data_dir).parent / "languages.json"
+    try:
+        with Path(languages_file).open(encoding="utf-8") as fh:
+            doc = json.load(fh)
+    except (OSError, ValueError):
+        return ()
+    want = language.strip().casefold()
+    for lang in doc.get("languages", []):
+        if str(lang.get("id", "")).casefold() == want:
+            adj = lang.get("adjacent_languages") or []
+            names = [str(a).strip() for a in adj if str(a).strip()]
+            # Resolve ids (e.g. "hindi") to display names ("Hindi") so the
+            # scorer matches listing text; keep the id too for safety.
+            id_to_name = {
+                str(item.get("id", "")).casefold(): str(item.get("name", ""))
+                for item in doc.get("languages", [])
+            }
+            out: list[str] = []
+            for name in names:
+                out.append(name)
+                display = id_to_name.get(name.casefold(), "")
+                if display and display not in out:
+                    out.append(display)
+            return tuple(dict.fromkeys(out))
+    return ()
 
 
 @dataclass

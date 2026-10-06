@@ -4,11 +4,19 @@
 Pure functions: build the Maps query terms, parse raw SerpApi `google_maps`
 results, filter by category/keywords, dedupe by place_id, keep the top 8.
 
-provider_filters.json is read tolerantly. Recognised keys (all optional):
-    query_terms      : provider-type terms used to build Maps queries
-    include_keywords : keep a place if name/category contains any of these
-    exclude_keywords : drop a place if name/category contains any of these
-Missing keys fall back to the defaults below.
+Real `data/provider_filters.json` keys (all optional, owner: Dhawal):
+    query_templates       : e.g. "translation services {language} {city}"
+    include_categories    : Maps category names to keep
+    exclude_categories    : Maps category names to drop
+    include_name_keywords : words to match in the business name (keep)
+    exclude_name_keywords : words to match in the business name (drop)
+Filter rule (from data/README.md): keep a place if its category is in
+``include_categories`` OR its name matches ``include_name_keywords``; drop
+it if its category is in ``exclude_categories`` AND its name matches
+nothing in ``include_name_keywords``; always drop names matching
+``exclude_name_keywords``. Legacy ``query_terms`` / ``include_keywords`` /
+``exclude_keywords`` keys are still accepted. Missing keys fall back to
+the defaults below.
 """
 
 from __future__ import annotations
@@ -51,9 +59,20 @@ def _list(filters: dict, *keys: str, default: tuple[str, ...]) -> tuple[str, ...
     return tuple(v.casefold() for v in default)
 
 
+def _render(template: str, language: str, city: str) -> str:
+    try:
+        return template.format(language=language, city=city)
+    except (KeyError, IndexError, ValueError):
+        return f"{template} {language} {city}".strip()
+
+
 def build_provider_queries(language: str, city: str, filters: dict | None = None) -> list[str]:
     """Server-built Maps queries: provider-type term + language + city (FR-2)."""
     filters = filters or {}
+    templates = filters.get("query_templates")
+    if isinstance(templates, (list, tuple)) and templates:
+        rendered = [_render(str(t), language, city) for t in templates if str(t).strip()]
+        return rendered[:MAX_QUERIES]
     terms = _list(filters, "query_terms", "search_terms", default=DEFAULT_QUERY_TERMS)
     return [f"{t} {language} {city}" for t in terms[:MAX_QUERIES]]
 
@@ -100,11 +119,29 @@ def parse_provider(raw: dict) -> dict | None:
     }
 
 
-def _passes(provider: dict, include: tuple[str, ...], exclude: tuple[str, ...]) -> bool:
-    text = f"{provider['name']} {provider.get('category') or ''}".casefold()
-    if any(x in text for x in exclude):
+def _passes(
+    provider: dict,
+    include_cats: tuple[str, ...],
+    exclude_cats: tuple[str, ...],
+    include_names: tuple[str, ...],
+    exclude_names: tuple[str, ...],
+    include_any: tuple[str, ...],
+    exclude_any: tuple[str, ...],
+) -> bool:
+    """Apply the data/README.md filter rule (category-aware)."""
+    name = (provider.get("name") or "").casefold()
+    category = (provider.get("category") or "").casefold()
+    if any(x in name for x in exclude_names):
         return False
-    return any(i in text for i in include)
+    if any(x in f"{name} {category}" for x in exclude_any):
+        return False
+    if category in exclude_cats and not any(i in name for i in include_names):
+        return False
+    if category in include_cats:
+        return True
+    if any(i in name for i in include_names):
+        return True
+    return any(i in f"{name} {category}" for i in include_any)
 
 
 def select_providers(
@@ -114,8 +151,14 @@ def select_providers(
 ) -> list[dict]:
     """Parse, filter, dedupe by place_id, rank (rating, then reviews), cap."""
     filters = filters or {}
-    include = _list(filters, "include_keywords", "keywords", "include", default=DEFAULT_INCLUDE)
-    exclude = _list(filters, "exclude_keywords", "blocklist", "exclude", default=DEFAULT_EXCLUDE)
+    include_cats = _list(filters, "include_categories", default=())
+    exclude_cats = _list(filters, "exclude_categories", default=())
+    include_names = _list(filters, "include_name_keywords", default=())
+    exclude_names = _list(filters, "exclude_name_keywords", default=())
+    include_any = _list(filters, "include_keywords", "keywords", "include", default=DEFAULT_INCLUDE)
+    exclude_any = _list(
+        filters, "exclude_keywords", "blocklist", "exclude", default=DEFAULT_EXCLUDE
+    )
 
     seen: set[str] = set()
     kept: list[dict] = []
@@ -124,7 +167,15 @@ def select_providers(
         if not p or p["place_id"] in seen:
             continue
         seen.add(p["place_id"])
-        if _passes(p, include, exclude):
+        if _passes(
+            p,
+            include_cats,
+            exclude_cats,
+            include_names,
+            exclude_names,
+            include_any,
+            exclude_any,
+        ):
             kept.append(p)
 
     kept.sort(key=lambda p: (p["rating"] is None, -(p["rating"] or 0), -p["reviews"]))
