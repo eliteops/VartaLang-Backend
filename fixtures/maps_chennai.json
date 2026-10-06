@@ -1,0 +1,1929 @@
+{
+  "engine": "google_maps",
+  "hl_used": "ta",
+  "hl_requested": "ta",
+  "queries": {
+    "translation_services": {
+      "search_metadata": {
+        "id": "6ac22af38b61d67289d3ae3a",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/dGl3u-xiwxDy6mh1QUnFYNLhjiNoPnMLyjtWpCfTBUE/6ac22af38b61d67289d3ae3a.json",
+        "markdown_endpoint": "https://serpapi.com/searches/dGl3u-xiwxDy6mh1QUnFYNLhjiNoPnMLyjtWpCfTBUE/6ac22af38b61d67289d3ae3a.md",
+        "created_at": "2026-10-04 10:31:15 UTC",
+        "processed_at": "2026-10-04 10:31:15 UTC",
+        "google_maps_url": "https://www.google.com/maps/search/translation+services+Tamil/@13.0827,80.2707,12z/data=!3m1!4b1!4m2!2m1!6e5?hl=ta&gl=in",
+        "raw_html_file": "https://serpapi.com/searches/dGl3u-xiwxDy6mh1QUnFYNLhjiNoPnMLyjtWpCfTBUE/6ac22af38b61d67289d3ae3a.html",
+        "prettify_html_file": "https://serpapi.com/searches/dGl3u-xiwxDy6mh1QUnFYNLhjiNoPnMLyjtWpCfTBUE/6ac22af38b61d67289d3ae3a.prettify",
+        "total_time_taken": 3.59
+      },
+      "search_parameters": {
+        "engine": "google_maps",
+        "type": "search",
+        "q": "translation services Tamil",
+        "ll": "@13.0827,80.2707,12z",
+        "google_domain": "google.com",
+        "hl": "ta",
+        "gl": "in"
+      },
+      "search_information": {
+        "local_results_state": "Results for exact spelling",
+        "query_displayed": "translation services Tamil"
+      },
+      "local_results": [
+        {
+          "position": 1,
+          "title": "Honey Translation Services",
+          "place_id": "ChIJUVDPW95lUjoRUrsAPp3FJm8",
+          "data_id": "0x3a5265de5bcf5051:0x6f26c59d3e00bb52",
+          "data_cid": "8009306266465778514",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a5265de5bcf5051%3A0x6f26c59d3e00bb52&engine=google_maps_reviews&hl=ta",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a5265de5bcf5051%3A0x6f26c59d3e00bb52&engine=google_maps_photos&hl=ta",
+          "gps_coordinates": {
+            "latitude": 13.0499216,
+            "longitude": 80.2105627
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=ta&place_id=ChIJUVDPW95lUjoRUrsAPp3FJm8",
+          "provider_id": "/g/1hd_kkj2w",
+          "rating": 4.6,
+          "reviews": 573,
+          "type": "\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+          "types": [
+            "\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+            "\u0b9f\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0bcd\u0bb7\u0ba9\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8"
+          ],
+          "address": "184/3, 2nd floor, Arcot Rd, opposite to Hotel Aadithya, near Viveks, Vadapalani, Chennai, Tamil Nadu 600026",
+          "country": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "open_state": "24 \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0\u0bae\u0bc1\u0bae\u0bcd \u0b87\u0baf\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd",
+          "hours": "24 \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0\u0bae\u0bc1\u0bae\u0bcd \u0b87\u0baf\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd",
+          "operating_hours": {
+            "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1": "Open 24 hours",
+            "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd": "Open 24 hours",
+            "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd": "Open 24 hours",
+            "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd": "Open 24 hours",
+            "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd": "Open 24 hours",
+            "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf": "Open 24 hours",
+            "\u0b9a\u0ba9\u0bbf": "Open 24 hours"
+          },
+          "phone": "072990 05577",
+          "website": "https://www.honeytranslations.com/",
+          "extensions": [
+            {
+              "accessibility": [
+                "\u0b9a\u0b95\u0bcd\u0b95\u0bb0 \u0ba8\u0bbe\u0bb1\u0bcd\u0b95\u0bbe\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8f\u0bb1\u0bcd\u0bb1 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc8",
+                "\u0b9a\u0b95\u0bcd\u0b95\u0bb0 \u0ba8\u0bbe\u0bb1\u0bcd\u0b95\u0bbe\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8f\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0bbf\u0bb5\u0bb1\u0bc8 \u0bb5\u0b9a\u0ba4\u0bbf"
+              ]
+            }
+          ],
+          "\u0b86\u0ba9\u0bcd\u0bb2\u0bc8\u0ba9\u0bbf\u0bb2\u0bcd_\u0bae\u0bc1\u0ba9\u0bcd\u0baa\u0ba4\u0bbf\u0bb5\u0bc1_\u0b9a\u0bc6\u0baf\u0bcd": "https://bookingpage.ai/redirect?url=https://honeytranslations.com/contact&tenant_id=58917da0-0f9f-471c-98b1-63014c417b46&business_name=Certified+Translation+Services+-+Honey+Translation+Services+in+Chennai&rwg_token=AE37R_iYpM9cXrQZo9Q_cqANkhipUGzew7a8kCVhZ4znagQX3TYSsNsAk6xkMnZOiodYi0Q5HdwqLLcZam9C-UDKhNIYjWMG_A%3D%3D",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmO_359Bv9hS8tuMntQdR0TVVD5eLN36bfxA7Gu0Q9PEsP1EU2BrUGEnt_D7_rqQBYqgDdVnCS0hC06fi8pabZ-2QbEgxXcSoicNfMQ5b8YPdFVeRsRwU6R_BMp5DxUnyG3DiyFcAsFjoOAk=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/sQen5XicHcRRE0IwAADgXyQrR3TXA4aXlBGXXlxmNqVNNqVf2XP_pru-h-_7YUoNcqPrPTMWVAjak0mSEQuuCFcLLO46HS9Saljqrv8c-vuhMkzHezoss9UUc4WaFByLAppktzesup3ddTQB5CSBTJZBvvLGPAq4quC6Gh_IKx8UNgX3M8B8YLWdPVzqs7ZCdUDnE85Eh_dtjMzaLpMmLEgq01dupZUXDyacc_6ODNi9Q-zK8CoO7m37WgIANPYfa_wHYp5G1g"
+        },
+        {
+          "position": 2,
+          "title": "Abayam Translations Services in Chennai | Language Translation",
+          "place_id": "ChIJ8f__z-NlUjoRbkimZyYYUX4",
+          "data_id": "0x3a5265e3cffffff1:0x7e51182667a6486e",
+          "data_cid": "9102082875119257710",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a5265e3cffffff1%3A0x7e51182667a6486e&engine=google_maps_reviews&hl=ta",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a5265e3cffffff1%3A0x7e51182667a6486e&engine=google_maps_photos&hl=ta",
+          "gps_coordinates": {
+            "latitude": 13.1934676,
+            "longitude": 80.1578317
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=ta&place_id=ChIJ8f__z-NlUjoRbkimZyYYUX4",
+          "provider_id": "/g/11c1wzh0p3",
+          "rating": 4.9,
+          "reviews": 379,
+          "type": "\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+          "types": [
+            "\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+            "\u0bb5\u0ba3\u0bbf\u0b95 \u0ba8\u0bbf\u0bb0\u0bcd\u0bb5\u0bbe\u0b95 \u0b86\u0bb2\u0bcb\u0b9a\u0b95\u0bb0\u0bcd",
+            "\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95 \u0baa\u0bb0\u0bbf\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+            "\u0b9a\u0bbe\u0ba9\u0bcd\u0bb1\u0bb3\u0bbf\u0baa\u0bcd\u0baa\u0bc1 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+            "\u0b86\u0bb2\u0bcb\u0b9a\u0b95\u0bb0\u0bcd",
+            "\u0bb5\u0bc6\u0bb3\u0bbf\u0ba8\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95 \u0b86\u0bb2\u0bcb\u0b9a\u0b95\u0bb0\u0bcd",
+            "\u0bae\u0bca\u0bb4\u0bbf \u0b95\u0bb1\u0bcd\u0bb1\u0bc1\u0ba4\u0bcd\u0ba4\u0bb0\u0bc1\u0bae\u0bcd \u0baa\u0bb3\u0bcd\u0bb3\u0bbf",
+            "\u0b9a\u0b9f\u0bcd\u0b9f\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd",
+            "\u0b85\u0ba9\u0bc8\u0ba4\u0bcd\u0ba4\u0bc1 \u0bb5\u0b9a\u0ba4\u0bbf\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0b89\u0bb3\u0bcd\u0bb3 \u0ba4\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bbf\u0b9f\u0bae\u0bcd",
+            "\u0b9f\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0bcd\u0bb7\u0ba9\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8"
+          ],
+          "address": "No:357, Avadi Rd, Eswaran Nagar, Red Hills, Pammadukulam, Chennai, Tamil Nadu 600052",
+          "country": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "phone": "073387 96796",
+          "website": "https://www.abayamtranslations.com/translation-services-in-chennai/",
+          "extensions": [
+            {
+              "accessibility": [
+                "\u0b9a\u0bc6\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0ba3\u0bc8\u0b95\u0bcd \u0b95\u0bb0\u0bc1\u0bb5\u0bbf \u0b89\u0ba4\u0bb5\u0bbf"
+              ]
+            }
+          ],
+          "unsupported_extensions": [
+            {
+              "accessibility": [
+                "\u0b9a\u0b95\u0bcd\u0b95\u0bb0 \u0ba8\u0bbe\u0bb1\u0bcd\u0b95\u0bbe\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8f\u0bb1\u0bcd\u0bb1 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc8",
+                "\u0b9a\u0b95\u0bcd\u0b95\u0bb0 \u0ba8\u0bbe\u0bb1\u0bcd\u0b95\u0bbe\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8f\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0bbf\u0bb5\u0bb1\u0bc8 \u0bb5\u0b9a\u0ba4\u0bbf"
+              ]
+            }
+          ],
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMcBjnt1d6zo9JAabrrvXcGJfp6RGlLxwbkLiM82dRhyI8WDzvncaXPRRb08ykHdcPlWwL57Rw9aKxQKVb8scTA0oROpuXeVedgfQPFY1geXBtCLpTENsdiwzC-rvJy2LwG48iL=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/DZWG3nicHcRRboIwGADgEyHFbVqX7AHZhsO6YWOUPcLfWpi1bdpKhQvuDN7GxO_hu_233hv3GseyfZoIrYXkF8ctaOW58hPQ51jY2rkIXJxmvZHnDSz_lE_YbNSLIq0ba_sK8uJoZjSX5BqaE-k2eMpoO3zhw_vYK6irktIG4eG0YlDKQyAvcxoW9fq6Xe8b7GCXIk1_zKXie87EcVt-_iaCV0ufEbP7-HasC2MW2b4YpiTkz7gjbyFBCEXtY4jUHT_nRog"
+        },
+        {
+          "position": 3,
+          "title": "\u0bb5\u0bc0 \u0b9a\u0baa\u0bcd\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd \u0bb2\u0bbe\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0bc7\u0b9c\u0bcd \u0b9a\u0bc7\u0bb0\u0bcd\u0bb5\u0bbf\u0b9a\u0bb8\u0bcd \u0baa\u0bcd\u0bb5\u0bcd\u0b9f\u0bcd. \u0bb2\u0b9f.",
+          "place_id": "ChIJ4U5GFfFmUjoR0JFjylKdJ_E",
+          "data_id": "0x3a5266f115464ee1:0xf1279d52ca6391d0",
+          "data_cid": "17377030666140750288",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a5266f115464ee1%3A0xf1279d52ca6391d0&engine=google_maps_reviews&hl=ta",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a5266f115464ee1%3A0xf1279d52ca6391d0&engine=google_maps_photos&hl=ta",
+          "gps_coordinates": {
+            "latitude": 13.0535319,
+            "longitude": 80.22660839999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=ta&place_id=ChIJ4U5GFfFmUjoR0JFjylKdJ_E",
+          "provider_id": "/g/1thfcw2x",
+          "rating": 4.6,
+          "reviews": 66,
+          "type": "\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+          "types": [
+            "\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+            "\u0bb5\u0ba3\u0bbf\u0b95 \u0bae\u0bc7\u0bae\u0bcd\u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1 \u0b9a\u0bc7\u0bb5\u0bc8",
+            "\u0b9f\u0bc6\u0bb8\u0bcd\u0b95\u0bcd\u0b9f\u0bbe\u0baa\u0bcd \u0baa\u0baa\u0bcd\u0bb3\u0bbf\u0bb7\u0bbf\u0b99\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+            "\u0bb5\u0bc7\u0bb2\u0bc8\u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1\u0bcb\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bcd"
+          ],
+          "address": "5th Floor, Ambica Complex, No: 32, Arcot Rd, Kodambakkam, Chennai, Tamil Nadu 600024",
+          "country": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "open_state": "24 \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0\u0bae\u0bc1\u0bae\u0bcd \u0b87\u0baf\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd",
+          "hours": "24 \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0\u0bae\u0bc1\u0bae\u0bcd \u0b87\u0baf\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd",
+          "operating_hours": {
+            "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1": "Open 24 hours",
+            "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd": "Open 24 hours",
+            "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd": "Open 24 hours",
+            "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd": "Open 24 hours",
+            "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd": "Open 24 hours",
+            "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf": "Open 24 hours",
+            "\u0b9a\u0ba9\u0bbf": "Open 24 hours"
+          },
+          "phone": "044 4556 6659",
+          "website": "https://www.viesupport.com/",
+          "unsupported_extensions": [
+            {
+              "accessibility": [
+                "\u0b9a\u0b95\u0bcd\u0b95\u0bb0 \u0ba8\u0bbe\u0bb1\u0bcd\u0b95\u0bbe\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8f\u0bb1\u0bcd\u0bb1 \u0ba8\u0bc1\u0bb4\u0bc8\u0bb5\u0bbe\u0baf\u0bbf\u0bb2\u0bcd",
+                "\u0b9a\u0b95\u0bcd\u0b95\u0bb0 \u0ba8\u0bbe\u0bb1\u0bcd\u0b95\u0bbe\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8f\u0bb1\u0bcd\u0bb1 \u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bbf\u0b99\u0bcd \u0bb5\u0b9a\u0ba4\u0bbf"
+              ]
+            }
+          ],
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMchOdmjYQZ0eeXgfrFBFTrWmImZZcPinsnRCXMY4NHmZ2ifPd6HWTVYDIH7dtDtbqeJtjH6iwOb4GIjJWV0oBdOoNAz7MqeITOgdxbOYpFZFqclmFFd6GfngC3Cs8S6N_DmUc5TyxjQggA=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/VXfUJXicHcTbDoIgAADQLzLpZq2tB9ORtildLJOXloCoE1Ch60_23N-0dR7O91Ma0-qFbTfleMCV4g27adYTJQ2TZkCUsHl_1doi2na9e9uIiJSIijrbYcDYmRc9XMGkT0UoMCbbSmq5985RNokDgUdVsaVOkCanzA-DGTW-yTu2MXXgVA-UT9ZhvUlPQK0oUrH7nkUdCxPE6TNHWQsx7EgjIKTOupDcG3t6fnDiiy-OZJq8nvWOc3f5GAIArPI_seQPaiNI3Q"
+        },
+        {
+          "position": 4,
+          "title": "smiley translation service",
+          "place_id": "ChIJRUDMeZthUjoRx-UY28KG8Vc",
+          "data_id": "0x3a52619b79cc4045:0x57f186c2db18e5c7",
+          "data_cid": "6336994322144617927",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52619b79cc4045%3A0x57f186c2db18e5c7&engine=google_maps_reviews&hl=ta",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a52619b79cc4045%3A0x57f186c2db18e5c7&engine=google_maps_photos&hl=ta",
+          "gps_coordinates": {
+            "latitude": 12.9638013,
+            "longitude": 80.2556328
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=ta&place_id=ChIJRUDMeZthUjoRx-UY28KG8Vc",
+          "provider_id": "/g/11n7fhxbjv",
+          "rating": 4.8,
+          "reviews": 40,
+          "type": "\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+          "types": [
+            "\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8"
+          ],
+          "address": "3/ 381, Anbazhagan St, Krishna Nagar, Palavakkam, Chennai, Tamil Nadu 600041",
+          "country": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "open_state": "24 \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0\u0bae\u0bc1\u0bae\u0bcd \u0b87\u0baf\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd",
+          "hours": "24 \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0\u0bae\u0bc1\u0bae\u0bcd \u0b87\u0baf\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd",
+          "operating_hours": {
+            "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1": "Open 24 hours",
+            "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd": "Open 24 hours",
+            "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd": "Open 24 hours",
+            "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd": "Open 24 hours",
+            "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd": "Open 24 hours",
+            "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf": "Open 24 hours",
+            "\u0b9a\u0ba9\u0bbf": "Open 24 hours"
+          },
+          "phone": "075503 85386",
+          "website": "https://www.smileytranslationservice.in/",
+          "extensions": [
+            {
+              "accessibility": [
+                "\u0b9a\u0b95\u0bcd\u0b95\u0bb0 \u0ba8\u0bbe\u0bb1\u0bcd\u0b95\u0bbe\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8f\u0bb1\u0bcd\u0bb1 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc8",
+                "\u0b9a\u0b95\u0bcd\u0b95\u0bb0 \u0ba8\u0bbe\u0bb1\u0bcd\u0b95\u0bbe\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8f\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0bbf\u0bb5\u0bb1\u0bc8 \u0bb5\u0b9a\u0ba4\u0bbf",
+                "\u0b9a\u0b95\u0bcd\u0b95\u0bb0 \u0ba8\u0bbe\u0bb1\u0bcd\u0b95\u0bbe\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8f\u0bb1\u0bcd\u0bb1 \u0ba8\u0bc1\u0bb4\u0bc8\u0bb5\u0bbe\u0baf\u0bbf\u0bb2\u0bcd",
+                "\u0b9a\u0b95\u0bcd\u0b95\u0bb0 \u0ba8\u0bbe\u0bb1\u0bcd\u0b95\u0bbe\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8f\u0bb1\u0bcd\u0bb1 \u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bbf\u0b99\u0bcd \u0bb5\u0b9a\u0ba4\u0bbf"
+              ]
+            }
+          ],
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOL-SmBqQRjpmUZte7L0SdSSbVuOci7_pA4EUDwpIHVg-fSnRdvrXPX_T_y781lISHsbnYcr1PcSDt08cKYzGSzfs7VsskOBP2eiajkQEo2JsC1QhDozbVzO0dgNbfsmYUbJBCo=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/jN5IfXicHcRLDoIwFADAE1WKmmBMXAgYvxGwQsANsaUUlX7kVY1c0DN4GxNnMd9PY62BqeO0zWggtBYtfwDvmFaWKztgWjqiOwMgBs48eJpWRjtEpH9PDlcj05Pl3g6TihCaPSJ28UozHy_S8GXWq0ygmqhD9ezyOC-P5dubuO2arICqgnVuzEho8YRti35J-hq8DOAW-fGQX87XW7LQww0EbtKEuqdZH-FK7GkNskjpxg_07OVijFHznyH1A_njRjg"
+        },
+        {
+          "position": 5,
+          "title": "Global Languages & Translation Services",
+          "place_id": "ChIJE-tWWQ1nUjoR-s8FcsIGDME",
+          "data_id": "0x3a52670d5956eb13:0xc10c06c27205cffa",
+          "data_cid": "13910500781247025146",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52670d5956eb13%3A0xc10c06c27205cffa&engine=google_maps_reviews&hl=ta",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a52670d5956eb13%3A0xc10c06c27205cffa&engine=google_maps_photos&hl=ta",
+          "gps_coordinates": {
+            "latitude": 13.061521599999999,
+            "longitude": 80.2635837
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=ta&place_id=ChIJE-tWWQ1nUjoR-s8FcsIGDME",
+          "provider_id": "/g/11mlvvl2b9",
+          "rating": 5,
+          "reviews": 4,
+          "type": "\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+          "types": [
+            "\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8"
+          ],
+          "address": "Club House Rd, near Bank of Baroda, Express Estate, Royapettah, Chennai, Tamil Nadu 600002",
+          "country": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "open_state": "24 \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0\u0bae\u0bc1\u0bae\u0bcd \u0b87\u0baf\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd",
+          "hours": "24 \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0\u0bae\u0bc1\u0bae\u0bcd \u0b87\u0baf\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd",
+          "operating_hours": {
+            "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1": "Open 24 hours",
+            "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd": "Open 24 hours",
+            "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd": "Open 24 hours",
+            "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd": "Open 24 hours",
+            "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd": "Open 24 hours",
+            "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf": "Open 24 hours",
+            "\u0b9a\u0ba9\u0bbf": "Open 24 hours"
+          },
+          "website": "https://sworncertifiedtranslation.com/",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPy53sO1NI1jb-3LfYmZ76k1-6fV0k_vEjVhWLTPk6zuz8AYER8B3zV3MG1Dn-bjYxWw2iaF8b8eyWeb4ssd8DNYgumF0zjGes9kEEoIYx2WzoyvfRxXGkmul2sxECY8CzxfCLI-dEPi2O9=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/FWnH0HicHcTBboIwGADgJ6q0dGPVZAeHlZAwJcbAussiWEBKqfEHLH1Jz3sbE7_D9_9ohuEKK8_rGrqojak7OYK8laYfZD8sSqO9-nYCQCV463C6djqd3ynsyS4mbYFoUgn9-xEogoIqw-pv4m3W5MkxVYEbHVsLfmBf1GX0OyKbHhWtsPndv5y2rGByzmXxBnBmm52oR73Fro0kLBXnJhbWz52Zp-pgfyKlx84Hy0PBQmerMInRmacXf7_8vBOMMWpel6h_Ao8vR3Q"
+        },
+        {
+          "position": 6,
+          "title": "PRP TRANSLATION SERVICES",
+          "place_id": "ChIJySJCvxlnUjoR-ggi4yLROMQ",
+          "data_id": "0x3a526719bf4222c9:0xc438d122e32208fa",
+          "data_cid": "14139280977899423994",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a526719bf4222c9%3A0xc438d122e32208fa&engine=google_maps_reviews&hl=ta",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a526719bf4222c9%3A0xc438d122e32208fa&engine=google_maps_photos&hl=ta",
+          "gps_coordinates": {
+            "latitude": 13.035484,
+            "longitude": 80.2495588
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=ta&place_id=ChIJySJCvxlnUjoR-ggi4yLROMQ",
+          "provider_id": "/g/11xzx_hplf",
+          "rating": 5,
+          "reviews": 14,
+          "type": "\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+          "types": [
+            "\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8"
+          ],
+          "address": "KB Dasan Rd, Teynampet, Chennai, Tamil Nadu 600018",
+          "country": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "open_state": "\u0ba4\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0bae\u0bc2\u0b9f\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 10 PM",
+          "hours": "\u0ba4\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0bae\u0bc2\u0b9f\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 10 PM",
+          "operating_hours": {
+            "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1": "9AM\u201310PM",
+            "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd": "9AM\u201310PM",
+            "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd": "9AM\u201310PM",
+            "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd": "9AM\u201310PM",
+            "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd": "9AM\u201310PM",
+            "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf": "9AM\u201310PM",
+            "\u0b9a\u0ba9\u0bbf": "9AM\u201310PM"
+          },
+          "phone": "094947 47616",
+          "website": "https://sites.google.com/view/pr-translation-services/home",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOiHQi9OuzkWHTZwHXh1_NrnAj_IqFf9HcHW2W6OlTAsncKf3ZH1c-SdaHmLebP6_gpyToAxfVmFJi_pgz1qpg3WsoN4Nc_bQMhF4WSZuma0CoxQLiElODl53gvHj6gTQZw1nQmifGeRxBr=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/U5A2l3icHcTNboIwAADgJ0KoKIlLPDCVdZsDO4k1XBrsSlvXPykI-pKe9zZL_A7f30N0nfMvYahEPOHWcsV6z1pqTcdMN6FWh7ytvQ-oD9PV1SldSIjkoujvvxiW1QCPApC8NemZvF-yZgEpxFOcFKpMvaGfTVxBQIP9Tw31lp12CeHuVtp0bA46-5DE8Tu4OB5jb_NZTskJfYlshvdVr-toZUe0lRtVrNU85ld4TniJqgEYpGXzxr7H13Y5gCiKAvGcBuYfXCpJLQ"
+        },
+        {
+          "position": 7,
+          "title": "Honey Universal Digital Private Limited",
+          "place_id": "ChIJ9fgCtOJnUjoR1MWY4yxwVR8",
+          "data_id": "0x3a5267e2b402f8f5:0x1f55702ce398c5d4",
+          "data_cid": "2257834126295483860",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a5267e2b402f8f5%3A0x1f55702ce398c5d4&engine=google_maps_reviews&hl=ta",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a5267e2b402f8f5%3A0x1f55702ce398c5d4&engine=google_maps_photos&hl=ta",
+          "gps_coordinates": {
+            "latitude": 13.0487653,
+            "longitude": 80.20822009999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=ta&place_id=ChIJ9fgCtOJnUjoR1MWY4yxwVR8",
+          "provider_id": "/g/11kbtgpszl",
+          "rating": 4.9,
+          "reviews": 47,
+          "type": "\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95 \u0baa\u0bb0\u0bbf\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+          "types": [
+            "\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95 \u0baa\u0bb0\u0bbf\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+            "\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8"
+          ],
+          "address": "Chandamama Building, Arcot Rd, Ottagapalayam, Kannika Puram, Vadapalani, Chennai, Tamil Nadu 600026",
+          "country": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "open_state": "24 \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0\u0bae\u0bc1\u0bae\u0bcd \u0b87\u0baf\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd",
+          "hours": "24 \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0\u0bae\u0bc1\u0bae\u0bcd \u0b87\u0baf\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd",
+          "operating_hours": {
+            "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1": "Open 24 hours",
+            "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd": "Open 24 hours",
+            "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd": "Open 24 hours",
+            "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd": "9AM\u20135PM",
+            "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd": "Open 24 hours",
+            "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf": "Open 24 hours",
+            "\u0b9a\u0ba9\u0bbf": "Open 24 hours"
+          },
+          "phone": "072990 05577",
+          "website": "https://www.honeytranslations.co.in/",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNF9fdKkURNRPqnsmfJm7HXpWwt90LaLA2MrFL6AvYmMnQkJTKrJ0WoII8shzfZAhUN5zoD4A0kunr5jumN353FhNITBxbrjuUq-OJbf8hxzSUqO4AqUItnr9h7Eb_bBwjT-OOlHeCIBE3C=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/NXivv3icHcRLjoIwAADQE1WqiIqJi8JILGLxQ-PMbIwg0ABtoS1iuOSsvc0kvsV7_zFjWr22rIbZk1LKssl7natMCpMLM8kkt0p11xpk2kL-s204Cdzisa_pmZyPndC8CPly991eB-PC6B6h2UEF0QI9f_hBnOow2asQXiXGK83G4hcxSpxRfs0RrHuhnKrnxHbsgBGceK9UVT3tQBymxYq9xgvt4jnqKDZCuWy5TW-pN1QJiONml_vY29r-ZphCCAH7nAHxDxaER-c"
+        },
+        {
+          "position": 8,
+          "title": "TransCloud Language Services | Certified Document Translation Services",
+          "place_id": "ChIJw4hrXoZlUjoR8EIxW-slfog",
+          "data_id": "0x3a5265865e6b88c3:0x887e25eb5b3142f0",
+          "data_cid": "9835340329001239280",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a5265865e6b88c3%3A0x887e25eb5b3142f0&engine=google_maps_reviews&hl=ta",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a5265865e6b88c3%3A0x887e25eb5b3142f0&engine=google_maps_photos&hl=ta",
+          "gps_coordinates": {
+            "latitude": 13.1189719,
+            "longitude": 80.27265349999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=ta&place_id=ChIJw4hrXoZlUjoR8EIxW-slfog",
+          "provider_id": "/g/11sq8d2gvw",
+          "rating": 5,
+          "reviews": 66,
+          "type": "\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+          "types": [
+            "\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+            "\u0b9f\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0bcd\u0bb7\u0ba9\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8"
+          ],
+          "address": "B-Block, 26/48, Kamaraj Nagar 3rd St, Meenambal Nagar, Ezhil Nagar, Kodungaiyur, Chennai, Tamil Nadu 600021",
+          "country": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "open_state": "24 \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0\u0bae\u0bc1\u0bae\u0bcd \u0b87\u0baf\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd",
+          "hours": "24 \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0\u0bae\u0bc1\u0bae\u0bcd \u0b87\u0baf\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd",
+          "operating_hours": {
+            "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1": "Open 24 hours",
+            "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd": "Open 24 hours",
+            "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd": "Open 24 hours",
+            "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd": "Open 24 hours",
+            "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd": "Open 24 hours",
+            "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf": "Open 24 hours",
+            "\u0b9a\u0ba9\u0bbf": "Open 24 hours"
+          },
+          "phone": "093446 97173",
+          "website": "http://www.transcloudservices.com/",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNHu7JSHRwGAwLYE94CBW-6aofvMB95XfN0s2f6gEk72JMMuf52A8xqFV2OJGsuazFG0-V9erXNPbcSfAY9ogGrWR3rVS-ncyTB8_BKDmwDMMYCfx5p5F3VrbnPgxb4EkDY5KjL=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/Zw0f4nicHcRdDoIgAADgE5GkUdnWg__Owlo2y6emTHCpYKBpXbAzdJu2vofv-6n6vlMbTWsqY8aEYE05qFISwfuS9zMiWo3JXClAlGY5z65p43BYRUl4GgNr3GeeuXDsC1jmgj6xbaIrjaHS6ZJ59UqPMB4o0q319PBT_RAFasjffgBBapbyGh8LklArMwUL5OVkyDQBnLzO9vpm79x2dDHOHDqhDvlGKgt-ZFOx8Go3Q7v7fjvOIYSg-k8A_wHcs0Mk"
+        },
+        {
+          "position": 9,
+          "title": "DocumenTranslations",
+          "place_id": "ChIJV6eadJ9jUjoRjTL5_mRvkVk",
+          "data_id": "0x3a52639f749aa757:0x59916f64fef9328d",
+          "data_cid": "6454062220563788429",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52639f749aa757%3A0x59916f64fef9328d&engine=google_maps_reviews&hl=ta",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a52639f749aa757%3A0x59916f64fef9328d&engine=google_maps_photos&hl=ta",
+          "gps_coordinates": {
+            "latitude": 13.082782199999999,
+            "longitude": 80.1797967
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=ta&place_id=ChIJV6eadJ9jUjoRjTL5_mRvkVk",
+          "provider_id": "/g/11svwqpt63",
+          "rating": 4.7,
+          "reviews": 58,
+          "type": "\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+          "types": [
+            "\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8"
+          ],
+          "address": "Office C, 333, Thiruvalluvar Salai, Paneer Nagar, Mogappair East, Chennai, Tamil Nadu 600037",
+          "country": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "open_state": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 10 AM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "hours": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 10 AM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "operating_hours": {
+            "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1": "Closed",
+            "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd": "10AM\u20136PM",
+            "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd": "10AM\u20136PM",
+            "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd": "10AM\u20136PM",
+            "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd": "10AM\u20136PM",
+            "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf": "10AM\u20136PM",
+            "\u0b9a\u0ba9\u0bbf": "10AM\u20136PM"
+          },
+          "phone": "088281 46546",
+          "website": "https://certifiedtranslationsindia.com/",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmO9BYvGkCk3lbzzZY0pDblo6P14Oq3kp5tmNk7P6dO3raQZ4I9oLQWBQr6dIDxssN082pDPcVY-k2qOelMNVqDVuHMeLaYVrTfd1DNn93N2QmGXlBLbPhCDYwPY8Mt3pFSWm69VmA=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/JjtupHicHcRRboMgAADQE1lRWleb7KNK2jVRxGyhpX-KTBNAEGi79IY9wm6zZO_j_b6mEKzfxbGa4Go0ZlTi5oXjZg5iDitudDy6zvuI-3hf3q3STV6w-1GWEqr--bwyYFGvTEaSdbNAaTdBY_lGsqGBrmuv61NuqvZctC4bTujHewy2qUWEUxbJdGmEqjFdEL191KLqGHVf30OC8JxDnLb6eFFF1ZOpROxB2LYO0B4-zzrLqd6_PxIAQDT9z6P5D_19RLk"
+        },
+        {
+          "position": 10,
+          "title": "\u0b85\u0bb0\u0baa\u0bbf\u0b95\u0bcd \u0b9f\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0bb2\u0bc7\u0bb7\u0ba9\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bb0\u0bcd (\u0b8f\u0b9f\u0bbf\u0b9a\u0bbf)",
+          "place_id": "ChIJV0-F2D1dUjoRjlgN3KqYQQg",
+          "data_id": "0x3a525d3dd8854f57:0x84198aadc0d588e",
+          "data_cid": "594924485393340558",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a525d3dd8854f57%3A0x84198aadc0d588e&engine=google_maps_reviews&hl=ta",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a525d3dd8854f57%3A0x84198aadc0d588e&engine=google_maps_photos&hl=ta",
+          "gps_coordinates": {
+            "latitude": 12.9612134,
+            "longitude": 80.2516794
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=ta&place_id=ChIJV0-F2D1dUjoRjlgN3KqYQQg",
+          "provider_id": "/g/1td5_4cy",
+          "rating": 4.8,
+          "reviews": 20,
+          "type": "\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+          "types": [
+            "\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8"
+          ],
+          "address": "No. 3/418, 1st Floor, 3/687, 1st St, MGR Nagar, Palavakkam, Chennai, Tamil Nadu 600041",
+          "country": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "open_state": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 9 AM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "hours": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 9 AM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "operating_hours": {
+            "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1": "Closed",
+            "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd": "9AM\u20137PM",
+            "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd": "9AM\u20137PM",
+            "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd": "9AM\u20137PM",
+            "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd": "9AM\u20137PM",
+            "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf": "9AM\u20137PM",
+            "\u0b9a\u0ba9\u0bbf": "9AM\u20135PM"
+          },
+          "phone": "044 4285 6196",
+          "website": "http://www.arabictranslationcentre.com/",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOMZJwXQ959vffkNLoA8EJ0jOXSeawFXDLgpWiBdCCxL0RxnigazP7IFllL1xjowJExKRDQLok4WjD8VCjPUBi9Abk2WZFmyUCZ4lkjN774gwwxNm_hFkSU4_adm4jNX_8q9X3ftA=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/6cjNFHicHcTbboIwAADQL0KqdgFMfMAiyViHtzAaXghDKPRCma222x_uE_ybJTsP5_k7GDPrje-LYb2gSlHR3XV3a9VkusksWiV9emu09lrtx-gxC3l4rzJLTtFL9Oh7nmMVh_sMsAO5dI1NSYLpXI67K0IOg7ObRtr8HIPXVAi8dEzZbO_ezskJKw5LloQfiB2L3RjFn3xVVqn8LlAFBWd5EEBqrctlPaT8UsC6uUrIclKHXxFZ9ybe2iUAwBv-b73pD0m2Rfo"
+        },
+        {
+          "position": 11,
+          "title": "\u0b9c\u0bc6\u0bae\u0bcd \u0bae\u0bc6\u0bbe\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0bb3\u0bb0\u0bcd",
+          "place_id": "ChIJSaIPBBBiUjoRgRlYkNDxoR4",
+          "data_id": "0x3a526210040fa249:0x1ea1f1d090581981",
+          "data_cid": "2207311170465438081",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a526210040fa249%3A0x1ea1f1d090581981&engine=google_maps_reviews&hl=ta",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a526210040fa249%3A0x1ea1f1d090581981&engine=google_maps_photos&hl=ta",
+          "gps_coordinates": {
+            "latitude": 13.087810399999999,
+            "longitude": 80.1097405
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=ta&place_id=ChIJSaIPBBBiUjoRgRlYkNDxoR4",
+          "provider_id": "/g/11clgvk53t",
+          "rating": 4.8,
+          "reviews": 27,
+          "type": "\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+          "types": [
+            "\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+            "\u0b9f\u0bc6\u0bb8\u0bcd\u0b95\u0bcd\u0b9f\u0bbe\u0baa\u0bcd \u0baa\u0baa\u0bcd\u0bb3\u0bbf\u0bb7\u0bbf\u0b99\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+            "\u0b9f\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0bcd\u0bb7\u0ba9\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8"
+          ],
+          "address": "D-201, Santha Towers, Paruthipattu, Avadi, Chennai, Poonamallee - Avadi High Rd, Avadi, \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0ba8\u0bbe\u0b9f\u0bc1 600071",
+          "country": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "open_state": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 8 AM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "hours": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 8 AM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "operating_hours": {
+            "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1": "Closed",
+            "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd": "8AM\u20138PM",
+            "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd": "8AM\u20138PM",
+            "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd": "8AM\u20138PM",
+            "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd": "8AM\u20138PM",
+            "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf": "8AM\u20138PM",
+            "\u0b9a\u0ba9\u0bbf": "8AM\u20138PM"
+          },
+          "phone": "086955 22244",
+          "website": "http://www.gemtranslators.com/",
+          "unsupported_extensions": [
+            {
+              "accessibility": [
+                "\u0b9a\u0b95\u0bcd\u0b95\u0bb0 \u0ba8\u0bbe\u0bb1\u0bcd\u0b95\u0bbe\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8f\u0bb1\u0bcd\u0bb1 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc8",
+                "\u0b9a\u0b95\u0bcd\u0b95\u0bb0 \u0ba8\u0bbe\u0bb1\u0bcd\u0b95\u0bbe\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8f\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0bbf\u0bb5\u0bb1\u0bc8 \u0bb5\u0b9a\u0ba4\u0bbf",
+                "\u0b9a\u0bc6\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0ba3\u0bc8\u0b95\u0bcd \u0b95\u0bb0\u0bc1\u0bb5\u0bbf \u0b89\u0ba4\u0bb5\u0bbf"
+              ]
+            }
+          ],
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMHUsNiv8ZusRMXPISFd2Iui_5ko6T8RMjyVCsHHmgzXb0DYvCGoPQO6prDMoKof-xubdOhOI-juqKi1xe42IBC-l6chzoFbCH80iP7k0CSYxX2xWVRA1-NzFDEAoISMwcupdsC=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/i8ML0HicHcTRboIwFADQL6oUNhlZsgdWxmhMBcEp7mWRwigKXORSZPzgvsG_MfE8nNu_GoYOXw2jVk-LEqCsC41FL6EdinZYSGiMsj8iEomGy8aubkTwhetqdL41xiKNeOLnFtfVz_IM9taJxelvxzAImnJOM-odRvYJ0Sa0u94TsIJfMuksD1XIyUlfVpU5Fc8Wf2ektqWawc9Y4NAqejlTlhym1Jr2u9g1yXr2vQ8XeCKuUnc5srerSSkl6rEk7R3HA0T-"
+        },
+        {
+          "position": 12,
+          "title": "Wistran Language Services",
+          "place_id": "ChIJ9UpZVqZfUjoRO-j1iKL3a8A",
+          "data_id": "0x3a525fa656594af5:0xc06bf7a288f5e83b",
+          "data_cid": "13865448155244783675",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a525fa656594af5%3A0xc06bf7a288f5e83b&engine=google_maps_reviews&hl=ta",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a525fa656594af5%3A0xc06bf7a288f5e83b&engine=google_maps_photos&hl=ta",
+          "gps_coordinates": {
+            "latitude": 12.9208781,
+            "longitude": 80.1593207
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=ta&place_id=ChIJ9UpZVqZfUjoRO-j1iKL3a8A",
+          "provider_id": "/g/11hhdwgltd",
+          "rating": 4.8,
+          "reviews": 20,
+          "type": "\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+          "types": [
+            "\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+            "\u0b9f\u0bc6\u0bb8\u0bcd\u0b95\u0bcd\u0b9f\u0bbe\u0baa\u0bcd \u0baa\u0baa\u0bcd\u0bb3\u0bbf\u0bb7\u0bbf\u0b99\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+            "\u0bb5\u0bb0\u0bc8\u0bb5\u0bbf\u0baf\u0bb2\u0bcd \u0b95\u0bb2\u0bc8\u0b9e\u0bb0\u0bcd",
+            "\u0b9a\u0b9f\u0bcd\u0b9f\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd",
+            "\u0b9f\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0bcd\u0bb7\u0ba9\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+            "\u0bb5\u0bc0\u0b9f\u0bbf\u0baf\u0bcb \u0b8e\u0b9f\u0bbf\u0b9f\u0bcd\u0b9f\u0bbf\u0b99\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8"
+          ],
+          "address": "4, 5th Cross St, PTC Colony, Sembakkam, Tambaram, Tamil Nadu 600073",
+          "country": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "open_state": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 7:30 AM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "hours": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 7:30 AM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "operating_hours": {
+            "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1": "Closed",
+            "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd": "7:30AM\u201311PM",
+            "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd": "7:30AM\u201311PM",
+            "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd": "7:30AM\u201311PM",
+            "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd": "7:30AM\u201311PM",
+            "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf": "7:30AM\u201311PM",
+            "\u0b9a\u0ba9\u0bbf": "7:30AM\u201310PM"
+          },
+          "phone": "075501 77386",
+          "website": "https://wistrantech.com/#/",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNbvfFsjqQPZc8KsdJzC5gmiJTQVCedSZnAdwvYje1xQEqLLD-RCab-gtyQEnS40pkzDIWgyo2swSjantXcuOvqpVET2ng2xiGqXfxw--wATD7eeOMfthrLpEsp73yW1fKxt48L=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/Q3HiWHicHcRLDoIwFADAE1U-ajQmLgigUVFEiKA7LKWI0BZeoeAFPYO3MXEW8_0UUgpYaVpVTCeUc1qRDkiLOZOEyQnmtUbbFABh0Cy7F1V9evT5BsomON_x8gDZ_m3Paf3cR8HVJll4Z1am-ltJjCFwG89z0MVOH4jKMXBZONPF6-3sYjpyE1RYpkwmuPP7RlzdyGTUHJ7bJskHhZCyImdBiH_MZdF6wgWxmI6xkR8GOVt6a2Xouo6K_xixH3wiR0o"
+        },
+        {
+          "position": 13,
+          "title": "Arabic to English translator in Chennai",
+          "place_id": "ChIJPxw0LA5mUjoRqto6guktoAg",
+          "data_id": "0x3a52660e2c341c3f:0x8a02de9823adaaa",
+          "data_cid": "621547229512653482",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52660e2c341c3f%3A0x8a02de9823adaaa&engine=google_maps_reviews&hl=ta",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a52660e2c341c3f%3A0x8a02de9823adaaa&engine=google_maps_photos&hl=ta",
+          "gps_coordinates": {
+            "latitude": 13.0593665,
+            "longitude": 80.2742574
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=ta&place_id=ChIJPxw0LA5mUjoRqto6guktoAg",
+          "provider_id": "/g/11bwkdtz_c",
+          "rating": 4.4,
+          "reviews": 17,
+          "type": "\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+          "types": [
+            "\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8"
+          ],
+          "address": "210, Triplicane High Rd, Padupakkam, Triplicane, Chennai, Tamil Nadu 600005",
+          "country": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "open_state": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 9 AM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "hours": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 9 AM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "operating_hours": {
+            "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1": "Closed",
+            "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd": "9AM\u20138PM",
+            "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd": "9AM\u20138PM",
+            "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd": "9AM\u20138PM",
+            "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd": "9AM\u20138PM",
+            "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf": "9AM\u20138PM",
+            "\u0b9a\u0ba9\u0bbf": "9AM\u20135PM"
+          },
+          "phone": "077080 80857",
+          "website": "http://www.earabictoenglish.com/",
+          "unsupported_extensions": [
+            {
+              "accessibility": [
+                "\u0b9a\u0b95\u0bcd\u0b95\u0bb0 \u0ba8\u0bbe\u0bb1\u0bcd\u0b95\u0bbe\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8f\u0bb1\u0bcd\u0bb1 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc8",
+                "\u0b9a\u0b95\u0bcd\u0b95\u0bb0 \u0ba8\u0bbe\u0bb1\u0bcd\u0b95\u0bbe\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8f\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0bbf\u0bb5\u0bb1\u0bc8 \u0bb5\u0b9a\u0ba4\u0bbf",
+                "\u0b9a\u0bc6\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0ba3\u0bc8\u0b95\u0bcd \u0b95\u0bb0\u0bc1\u0bb5\u0bbf \u0b89\u0ba4\u0bb5\u0bbf"
+              ]
+            }
+          ],
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNjBYL1WMzi-vhujZhZfBnu5qSHmoA-Jxyk7lriNX_2USK22Br9EDzGAVNJiUt03bccQQ0XCdiaVC0Y0q5bjM96qhS8XIdNr9uAFblfV28QxT-0SDp2jzs7WW2Xoc9XszrC-SFJErCPyztb=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/3GkYUHicHcTNboIwAADgJ6rUGqeYeICKm6hEUoXKZZGKFCwU2uJPX3Lnvc2SfYfv94cb0-mF4wg-GZVSlqIYdKGYbE3RmhGTjVOqi9aAacfDj040Ue2fd-N0byvw4EOd8ezmt8O0J1-N9ED4et9nQlUR_UYnskXIV26wsp9eEoXVycBJzlgcQ4qv1SXB8Az7aV7v3Y-ekzndXCPlDt46F7cEzePXEUCy6lBt9SxNEZXMpdoqDMg6DBQ-vK3Jl88xhBDw_xlo_wDckUdd"
+        },
+        {
+          "position": 14,
+          "title": "Akshaya French Translation Services",
+          "place_id": "ChIJsz7hOvRpUjoR8a11Cx-A7K4",
+          "data_id": "0x3a5269f43ae13eb3:0xaeec801f0b75adf1",
+          "data_cid": "12604590327927778801",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a5269f43ae13eb3%3A0xaeec801f0b75adf1&engine=google_maps_reviews&hl=ta",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a5269f43ae13eb3%3A0xaeec801f0b75adf1&engine=google_maps_photos&hl=ta",
+          "gps_coordinates": {
+            "latitude": 13.0570554,
+            "longitude": 80.27865109999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=ta&place_id=ChIJsz7hOvRpUjoR8a11Cx-A7K4",
+          "provider_id": "/g/11wqdhz1j9",
+          "rating": 5,
+          "reviews": 8,
+          "type": "\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+          "types": [
+            "\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8"
+          ],
+          "address": "Raja Hanumantha Ln, Narayana Krishnaraja Puram, Triplicane, Chennai, Tamil Nadu 600005",
+          "country": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "open_state": "24 \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0\u0bae\u0bc1\u0bae\u0bcd \u0b87\u0baf\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd",
+          "hours": "24 \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0\u0bae\u0bc1\u0bae\u0bcd \u0b87\u0baf\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd",
+          "operating_hours": {
+            "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1": "Open 24 hours",
+            "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd": "Open 24 hours",
+            "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd": "Open 24 hours",
+            "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd": "Open 24 hours",
+            "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd": "Open 24 hours",
+            "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf": "Open 24 hours",
+            "\u0b9a\u0ba9\u0bbf": "Open 24 hours"
+          },
+          "phone": "098402 22902",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNrgA2Fhf2kvJt6PARgG3NpIDSHkPtFqW0HrACOduGeficNkVyim2wGDi9X_z0fyrazFMDPmpxjKx4VBVUobZ4KxMpZmg0-7L0lcWPc-OBsnEZGUfe-JDnpH185wnT2FJjyXmy64ZETdorj=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/IkdEm3icHcRJDoIwAADAF1Uq4pp4QBEQFYkLGi5GaylbF9sq4Cc9-xsT5zDfT6a1UBPDqLJeh3BOKvxUWCLONGa6gzg1iLwqBZAy7PlLVDSUxDbdLDXLV6AHkb0jXi8US2fvl5F2HyfoS3u-vT89nOYoLOM2p2btOfn4fHnDtJXXt7txIiqaYtVY8Sw-8ltirZqNSCiBYLiGFTpFCGxnii0S75hiEDhM-N1Rv2YH0w2K9kzbgZUsDncui2ndhRCC7D8C7AcgbUg6"
+        },
+        {
+          "position": 15,
+          "title": "Ramana's Trend",
+          "place_id": "ChIJ8cN0PGnsAwoRMoEtJARuUJo",
+          "data_id": "0xa03ec693c74c3f1:0x9a506e04242d8132",
+          "data_cid": "11119508444043641138",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0xa03ec693c74c3f1%3A0x9a506e04242d8132&engine=google_maps_reviews&hl=ta",
+          "photos_link": "https://serpapi.com/search.json?data_id=0xa03ec693c74c3f1%3A0x9a506e04242d8132&engine=google_maps_photos&hl=ta",
+          "gps_coordinates": {
+            "latitude": 13.0489558,
+            "longitude": 80.2097347
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=ta&place_id=ChIJ8cN0PGnsAwoRMoEtJARuUJo",
+          "provider_id": "/g/11ld5x_wn6",
+          "rating": 4.7,
+          "reviews": 13,
+          "type": "\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+          "types": [
+            "\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+            "\u0ba8\u0b95\u0bb2\u0bcd \u0b8e\u0bb4\u0bc1\u0ba4\u0bc1\u0ba4\u0bb2\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+            "\u0b9f\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0bcd\u0bb7\u0ba9\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8"
+          ],
+          "address": "158, 2nd floor, Gulecha Towers, Arcot Rd, Ottagapalayam, Somasundara Bharathi Nagar, Vadapalani, Chennai, Tamil Nadu 600026",
+          "country": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "open_state": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 10 AM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "hours": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 10 AM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "operating_hours": {
+            "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1": "Closed",
+            "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd": "10AM\u20136:30PM",
+            "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd": "10AM\u20136:30PM",
+            "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd": "10AM\u20136:30PM",
+            "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd": "10AM\u20136:30PM",
+            "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf": "10AM\u20136:30PM",
+            "\u0b9a\u0ba9\u0bbf": "Closed"
+          },
+          "phone": "078713 33683",
+          "website": "https://www.ramanastrend.com/",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMJl-GUInvlfIPFeIzuc2OVCJORsPtTPNUCNb2EmX5mmyfmOQqoZqfY7kpOrRUefzWTnaKAOn71lK-rn_RNSjwtsSU1GL5E0LPg2_chfiTx9Pe19CTy3M8dIIjCCDFQAT1IGgMQr7zLyh-o=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/b5vpDXicHcTbTsIwAADQLypbR8jExIelwlLYpRudCi8Ea9eKvYy2gNtP-uzfmHgezu-PDGHwj1Gk5HwmrBWKXz13zJrATZgxqyPhTt4D5qMM3Qaly40CeYfNTfWYrDmeriypX9Cmbj0JlFQdqt6TlX5baD32um4u9nDp9-nXULu24_30Ss1pm9UmhWoLnDm21e58D37XwbxYrOKCiOTIZP9Jv5eEwyWi47x8-MD4jNDzuskoxLkoG5dOxSiBfbrDOI6B_J8B8wcvEUfI"
+        },
+        {
+          "position": 16,
+          "title": "\u0bae\u0bbe\u0b9f\u0bb0\u0bcd\u0ba9\u0bcd \u0b85\u0bb0\u0baa\u0bbf\u0b95\u0bcd \u0b9f\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0bb2\u0bc7\u0bb7\u0ba9\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0b9f\u0bb0\u0bcd",
+          "place_id": "ChIJdwo8GjxmUjoRoq6nmPxP4m8",
+          "data_id": "0x3a52663c1a3c0a77:0x6fe24ffc98a7aea2",
+          "data_cid": "8062094229258088098",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52663c1a3c0a77%3A0x6fe24ffc98a7aea2&engine=google_maps_reviews&hl=ta",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a52663c1a3c0a77%3A0x6fe24ffc98a7aea2&engine=google_maps_photos&hl=ta",
+          "gps_coordinates": {
+            "latitude": 13.0590456,
+            "longitude": 80.2743028
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=ta&place_id=ChIJdwo8GjxmUjoRoq6nmPxP4m8",
+          "provider_id": "/g/1hc7fh2fz",
+          "rating": 5,
+          "reviews": 14,
+          "type": "\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+          "types": [
+            "\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8"
+          ],
+          "address": "First Floor, 19, Hameedia Shopping Mall, No. 108 & 109, Triplicane High Rd, Police Quarters, Triplicane, Chennai, Tamil Nadu 600005",
+          "country": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "open_state": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 9 AM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "hours": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 9 AM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "operating_hours": {
+            "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1": "9AM\u20131:30PM",
+            "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd": "9AM\u20139PM",
+            "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd": "9AM\u20139PM",
+            "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd": "9AM\u20139PM",
+            "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd": "9AM\u20139PM",
+            "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf": "9AM\u20139PM",
+            "\u0b9a\u0ba9\u0bbf": "9AM\u20139PM"
+          },
+          "phone": "096004 20786",
+          "website": "http://arabictranslationchennai.com/",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmP-m3Ad5gILqdnC_918-VV5OVVDBDNPcx9RDC2fIRqIMW_VdEyD28A8_p7chlxrxQjcbKivKpGaaumZvK_Ep0055LPQ7t8UxtCNxNv2WhIHVlf3AAR0IHE6xtUjPidJlNggpLnPvg=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/ElEwBXicHcThjoIgAADgJyJJZ9lt_eDUFWkeuUVbf5yhQQ2RhIgesUe4t7ntvh_f70dYq81XEEgRzfg4ctk_TT-xUdle2Rkbh4BPrTGAmQClTsuBgCFCXcxx-ehU2qzmCaA0_qE0-84qwvyqztLwiusH3p8a2uXvLExQ0uglE9JP_nBnl-LmCr1p2-dwdkWTawjjuCSHpU2O3qaVr1x4EnhL5TVCqIZ4my-8Pd7JrdvJinNdKuL4-jWHEALxPwPqD7CWRQw"
+        },
+        {
+          "position": 17,
+          "title": "N&N Translations",
+          "place_id": "ChIJK9JM7LBdUjoRpgYcohOeAYM",
+          "data_id": "0x3a525db0ec4cd22b:0x83019e13a21c06a6",
+          "data_cid": "9440000101106583206",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a525db0ec4cd22b%3A0x83019e13a21c06a6&engine=google_maps_reviews&hl=ta",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a525db0ec4cd22b%3A0x83019e13a21c06a6&engine=google_maps_photos&hl=ta",
+          "gps_coordinates": {
+            "latitude": 12.9572491,
+            "longitude": 80.2072203
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=ta&place_id=ChIJK9JM7LBdUjoRpgYcohOeAYM",
+          "provider_id": "/g/11y_rrgv_g",
+          "rating": 5,
+          "reviews": 1,
+          "type": "\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+          "types": [
+            "\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8"
+          ],
+          "address": "9th St, Kuberan Nagar, Madipakkam, Chennai, Tamil Nadu 600091",
+          "country": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "open_state": "\u0bb5\u0bbf\u0bb0\u0bc8\u0bb5\u0bbf\u0bb2\u0bcd \u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u00b7 5 PM \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 9 AM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "hours": "\u0bb5\u0bbf\u0bb0\u0bc8\u0bb5\u0bbf\u0bb2\u0bcd \u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd \u00b7 5 PM \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 9 AM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "operating_hours": {
+            "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1": "9AM\u20135PM",
+            "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd": "9AM\u20135PM",
+            "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd": "9AM\u20135PM",
+            "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd": "9AM\u20135PM",
+            "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd": "9AM\u20135PM",
+            "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf": "9AM\u20135PM",
+            "\u0b9a\u0ba9\u0bbf": "9AM\u20135PM"
+          },
+          "phone": "094457 96968",
+          "website": "https://nandntranslations.com/",
+          "unsupported_extensions": [
+            {
+              "accessibility": [
+                "\u0b9a\u0b95\u0bcd\u0b95\u0bb0 \u0ba8\u0bbe\u0bb1\u0bcd\u0b95\u0bbe\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8f\u0bb1\u0bcd\u0bb1 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc8",
+                "\u0b9a\u0b95\u0bcd\u0b95\u0bb0 \u0ba8\u0bbe\u0bb1\u0bcd\u0b95\u0bbe\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8f\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0bbf\u0bb5\u0bb1\u0bc8 \u0bb5\u0b9a\u0ba4\u0bbf",
+                "\u0b9a\u0b95\u0bcd\u0b95\u0bb0 \u0ba8\u0bbe\u0bb1\u0bcd\u0b95\u0bbe\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8f\u0bb1\u0bcd\u0bb1 \u0ba8\u0bc1\u0bb4\u0bc8\u0bb5\u0bbe\u0baf\u0bbf\u0bb2\u0bcd",
+                "\u0b9a\u0b95\u0bcd\u0b95\u0bb0 \u0ba8\u0bbe\u0bb1\u0bcd\u0b95\u0bbe\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8f\u0bb1\u0bcd\u0bb1 \u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bbf\u0b99\u0bcd \u0bb5\u0b9a\u0ba4\u0bbf",
+                "\u0b9a\u0bc6\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0ba3\u0bc8\u0b95\u0bcd \u0b95\u0bb0\u0bc1\u0bb5\u0bbf \u0b89\u0ba4\u0bb5\u0bbf"
+              ]
+            }
+          ],
+          "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qaGvgSM8unQBY5mmsPN1KA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=22.117664&pitch=0&thumbfov=100",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/CzejA3icHc1NDgExGADQ23SnPxPGkDTCxkIIsbKSTlXbZPqjX6flOm7lNsQF3vu8Tc4RloRATkrlYlWN9qkGmESBdQh6UCJawDI4UhjJZnS9F3ZYReGDvfGH2BZ93nejP20uM-fgeGC7NZL9VQ5W-cxBiSQN1vUnpnDDOgkAVHlHkeGLBr1E5U2DGZu37RRFm6XhFP2feyicUfoF_FU6Vw"
+        },
+        {
+          "position": 18,
+          "title": "\u0b9a\u0bc8\u0ba9\u0bc0\u0bb8\u0bcd \u0b9f\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0bb2\u0bc7\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0ba9\u0bc8",
+          "place_id": "ChIJH6RRIRtvUjoRRlY4XCLBb-4",
+          "data_id": "0x3a526f1b2151a41f:0xee6fc1225c385646",
+          "data_cid": "17181163456761976390",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a526f1b2151a41f%3A0xee6fc1225c385646&engine=google_maps_reviews&hl=ta",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a526f1b2151a41f%3A0xee6fc1225c385646&engine=google_maps_photos&hl=ta",
+          "gps_coordinates": {
+            "latitude": 12.8843406,
+            "longitude": 80.22646189999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=ta&place_id=ChIJH6RRIRtvUjoRRlY4XCLBb-4",
+          "provider_id": "/g/11g4l4hr5x",
+          "rating": 5,
+          "reviews": 225,
+          "type": "\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+          "types": [
+            "\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8"
+          ],
+          "address": "172, Rajiv Gandhi Salai, Kamaraj Nagar, \u0b9a\u0bc6\u0bae\u0bcd\u0bae\u0b9e\u0bcd\u0b9a\u0bc7\u0bb0\u0bbf, \u0b9a\u0bc6\u0ba9\u0bcd\u0ba9\u0bc8, \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0ba8\u0bbe\u0b9f\u0bc1 600119",
+          "country": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "open_state": "\u0ba4\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0bae\u0bc2\u0b9f\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 9 PM",
+          "hours": "\u0ba4\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0bae\u0bc2\u0b9f\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 9 PM",
+          "operating_hours": {
+            "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1": "7AM\u20139PM",
+            "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd": "7AM\u20139PM",
+            "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd": "7AM\u20139PM",
+            "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd": "7AM\u20139PM",
+            "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd": "7AM\u20139PM",
+            "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf": "7AM\u20139PM",
+            "\u0b9a\u0ba9\u0bbf": "7AM\u20139PM"
+          },
+          "phone": "098418 48577",
+          "website": "https://www.facebook.com/chinesetranslator/",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNOMuQZlba-Nt2va5SYKxEvTVS8HOwy6VbWdl9WsVXtc-_fbwXV2I7FOaHCuWx9udaEg9WtCbLW_gOKCHkbUeWftHPUeRLiRqV5OlWdyB_wZB4OQG76DKdF_W8TKHKXPxC-T81Q=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/7cE5e3icHcRdboIwAADgE1XQTQWTPcyK1lStKLbIC2lLLYsV1JYfT7gzeJsl-x6-92_p3N3OPM-UHwNd19qoxqqnrCunKjeQ9c3TT24tkNb7hu3d3HZk28SZERzs3Kjl4-MZ91Gb0GOASPeaUMEKEzJLUydBfhFdSkfr6ZJwBBvWh03BIx0yB8WG5ZpgiK7ipNjFof1JHTY_hwcdE8OK1zzvsvkniVfTyQIXy5wFCUY43fcQJMEw_uqGvu-D8n8Jqj_Tb0Sv"
+        },
+        {
+          "position": 19,
+          "title": "Najiullah Russian Interpreter Translator",
+          "place_id": "ChIJP84dx0ZnUjoRhgqeSBV-rXk",
+          "data_id": "0x3a526746c71dce3f:0x79ad7e15489e0a86",
+          "data_cid": "8767802679437953670",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a526746c71dce3f%3A0x79ad7e15489e0a86&engine=google_maps_reviews&hl=ta",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a526746c71dce3f%3A0x79ad7e15489e0a86&engine=google_maps_photos&hl=ta",
+          "gps_coordinates": {
+            "latitude": 13.0533509,
+            "longitude": 80.2711872
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=ta&place_id=ChIJP84dx0ZnUjoRhgqeSBV-rXk",
+          "provider_id": "/g/11n0rcbbk7",
+          "rating": 5,
+          "reviews": 3,
+          "type": "\u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9 \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bcd",
+          "types": [
+            "\u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9 \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bcd"
+          ],
+          "address": "186, Peter's Rd, Indira Garden, Royapettah, Chennai, Tamil Nadu 600014",
+          "country": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "open_state": "24 \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0\u0bae\u0bc1\u0bae\u0bcd \u0b87\u0baf\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd",
+          "hours": "24 \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0\u0bae\u0bc1\u0bae\u0bcd \u0b87\u0baf\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd",
+          "operating_hours": {
+            "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1": "Open 24 hours",
+            "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd": "Open 24 hours",
+            "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd": "Open 24 hours",
+            "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd": "Open 24 hours",
+            "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd": "Open 24 hours",
+            "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf": "Open 24 hours",
+            "\u0b9a\u0ba9\u0bbf": "Open 24 hours"
+          },
+          "website": "https://russiantranslatorchennai.wordpress.com/",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOPp2RCKLfP5kSoxIAkUF-OfkG7sleofGk6AZkN0kQ-gKEYvLotJ59DjefHwofLbDemU9cLuNQH4Tvjg7uiC_s1ZL0Zvb16ZuCkj1H2VbLQfQqoIgWPNNzYWEpf-ORHZJDlaRha=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/iLVBWHicHcRbjoIwFADQFVWK4yOa-EFARW14jWjsj4GmLdLCRVvQuMFZg7uZxPNxPn-VtZ1ZOo6ufkYSQGreG_5g0Fre2hGDxpGPwhjEjOP5Q6ebOOnGmX8gIpmqX3jtPJVvUCzUdm40B7FVM4-qCKsUycP6MhCw--kiqLkInyBIGfAmXzDSR2k4OQ61nPc3_2pcSjAdSndGe1_Vbjg-lSQV6R128pxE0ftyXncCxVlI94EusqpYPV2MMaq-M9T-A6IaRRE"
+        },
+        {
+          "position": 20,
+          "title": "\u0b95\u0bca\u0bb0\u0bbf\u0baf\u0ba9\u0bcd \u0b87\u0ba9\u0bcd\u0b9f\u0bb0\u0bcd\u0baa\u0bbf\u0bb0\u0bc0\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd & \u0b9f\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0bb2\u0bc7\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd",
+          "place_id": "ChIJv-gW8CFwUjoRio8hI-p5KGA",
+          "data_id": "0x3a527021f016e8bf:0x602879ea23218f8a",
+          "data_cid": "6928922073228218250",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a527021f016e8bf%3A0x602879ea23218f8a&engine=google_maps_reviews&hl=ta",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a527021f016e8bf%3A0x602879ea23218f8a&engine=google_maps_photos&hl=ta",
+          "gps_coordinates": {
+            "latitude": 13.1791556,
+            "longitude": 80.2984101
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=ta&place_id=ChIJv-gW8CFwUjoRio8hI-p5KGA",
+          "provider_id": "/g/1q6nz9skf",
+          "rating": 4.9,
+          "reviews": 35,
+          "type": "\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+          "types": [
+            "\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8"
+          ],
+          "address": "8\u0bb5\u0ba4\u0bc1 \u0ba4\u0bc6\u0bb0\u0bc1, TKS \u0ba8\u0b95\u0bb0\u0bcd, \u0ba4\u0bbf\u0bb0\u0bc1\u0bb5\u0bca\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bc2\u0bb0\u0bcd, \u0b9a\u0bc6\u0ba9\u0bcd\u0ba9\u0bc8, \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0ba8\u0bbe\u0b9f\u0bc1 600057",
+          "country": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "open_state": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 8 AM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "hours": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 8 AM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "operating_hours": {
+            "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1": "8AM\u20131PM",
+            "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd": "8AM\u20138PM",
+            "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd": "8AM\u20138PM",
+            "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd": "8AM\u20138PM",
+            "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd": "8AM\u20138PM",
+            "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf": "8AM\u20138PM",
+            "\u0b9a\u0ba9\u0bbf": "8AM\u20138PM"
+          },
+          "phone": "099626 26889",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmN0uEuFmJkssKXGMbzpro8jkBgzuviQmWTariMB5lDqQKzr_XQIZUm06hGNBSv6vBPLROQZGD3EsokL8uNf0HH1cgc3-OlMy5ino3-Ta8ogQyKnLT40xaNtLhBYmd61mYlxOv-D=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/j8uRs3icHcTbboIwAADQL6qUMAlZsgc7FB03u7F4eTFYWcvohfWm8oP7Bv9myc7Defwya0fzHAScRTOqFOWdM50mStpO2hlRIqC6NQYQEyxe_chFBd3SrcTbYEy-z8rzNGqVfA-ITs73WOyaVvclmvP0B-eTPu3x5vgpYMyyCn342KNt8V7jY5ZGS6OGInHVF1yvQ0JJBGpe3ue9VBFo2kRRfM9l0TzBW1vZgqGDuMShOPBb7UH6cg0hhID9T4D8AyooRcg"
+        }
+      ],
+      "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?engine=google_maps&gl=in&google_domain=google.com&hl=ta&ll=%4013.0827%2C80.2707%2C12z&q=translation+services+Tamil&start=20&type=search"
+      }
+    },
+    "transcription_services": {
+      "search_metadata": {
+        "id": "6ac22af8477874db8799db63",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/YGSkdTOHhCuPeMXgX8Lf81JQgjXFqLKGd3tXNQSDxtE/6ac22af8477874db8799db63.json",
+        "markdown_endpoint": "https://serpapi.com/searches/YGSkdTOHhCuPeMXgX8Lf81JQgjXFqLKGd3tXNQSDxtE/6ac22af8477874db8799db63.md",
+        "created_at": "2026-10-04 10:31:20 UTC",
+        "processed_at": "2026-10-04 10:31:20 UTC",
+        "google_maps_url": "https://www.google.com/maps/search/transcription+services+Tamil/@13.0827,80.2707,12z/data=!3m1!4b1!4m2!2m1!6e5?hl=ta&gl=in",
+        "raw_html_file": "https://serpapi.com/searches/YGSkdTOHhCuPeMXgX8Lf81JQgjXFqLKGd3tXNQSDxtE/6ac22af8477874db8799db63.html",
+        "prettify_html_file": "https://serpapi.com/searches/YGSkdTOHhCuPeMXgX8Lf81JQgjXFqLKGd3tXNQSDxtE/6ac22af8477874db8799db63.prettify",
+        "total_time_taken": 6.11
+      },
+      "search_parameters": {
+        "engine": "google_maps",
+        "type": "search",
+        "q": "transcription services Tamil",
+        "ll": "@13.0827,80.2707,12z",
+        "google_domain": "google.com",
+        "hl": "ta",
+        "gl": "in"
+      },
+      "search_information": {
+        "local_results_state": "Results for exact spelling",
+        "query_displayed": "transcription services Tamil"
+      },
+      "local_results": [
+        {
+          "position": 1,
+          "title": "\u0bb0\u0bc7\u0baa\u0bbf\u0b9f\u0bcd \u0b95\u0bc7\u0bb0\u0bcd \u0b9f\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0bcd\u0bb7\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0bc8\u0bb5\u0bc7\u0b9f\u0bcd \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd",
+          "place_id": "ChIJIZX1Hg1nUjoRJ8lHWJLophM",
+          "data_id": "0x3a52670d1ef59521:0x13a6e8925847c927",
+          "data_cid": "1416074848098568487",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52670d1ef59521%3A0x13a6e8925847c927&engine=google_maps_reviews&hl=ta",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a52670d1ef59521%3A0x13a6e8925847c927&engine=google_maps_photos&hl=ta",
+          "gps_coordinates": {
+            "latitude": 13.013674799999999,
+            "longitude": 80.223603
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=ta&place_id=ChIJIZX1Hg1nUjoRJ8lHWJLophM",
+          "provider_id": "/g/1hm22d29j",
+          "rating": 3.8,
+          "reviews": 52,
+          "type": "\u0bae\u0bc6\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0b9f\u0bcd\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0bcd\u0bb7\u0ba9\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+          "types": [
+            "\u0bae\u0bc6\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0b9f\u0bcd\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0bcd\u0bb7\u0ba9\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+            "\u0b95\u0ba3\u0bbf\u0ba9\u0bbf \u0b86\u0ba4\u0bb0\u0bb5\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd",
+            "\u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0b99\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+            "\u0b86\u0bb0\u0bbe\u0baf\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bcd \u0bae\u0bc7\u0bae\u0bcd\u0baa\u0bbe\u0b9f\u0bc1",
+            "\u0b9f\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0bcd\u0bb7\u0ba9\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8"
+          ],
+          "type_id": "medical_transcription_service",
+          "type_ids": [
+            "medical_transcription_service",
+            "computer_support_and_services",
+            "medical_billing_service",
+            "research_and_product_development",
+            "transcription_service"
+          ],
+          "address": "VLV Complex, 2nd floor, 41, SH 48, Little Mount, Saidapet, Chennai, Tamil Nadu 600015",
+          "country": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "open_state": "\u0ba4\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0bae\u0bc2\u0b9f\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 7 PM",
+          "hours": "\u0ba4\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0bae\u0bc2\u0b9f\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 7 PM",
+          "operating_hours": {
+            "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1": "10AM\u20137PM",
+            "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd": "10AM\u20137PM",
+            "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd": "10AM\u20137PM",
+            "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd": "10AM\u20137PM",
+            "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd": "10AM\u20137PM",
+            "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf": "10AM\u20137PM",
+            "\u0b9a\u0ba9\u0bbf": "10AM\u20137PM"
+          },
+          "website": "https://rapidcare.ai/",
+          "unsupported_extensions": [
+            {
+              "accessibility": [
+                "\u0b9a\u0b95\u0bcd\u0b95\u0bb0 \u0ba8\u0bbe\u0bb1\u0bcd\u0b95\u0bbe\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8f\u0bb1\u0bcd\u0bb1 \u0ba8\u0bc1\u0bb4\u0bc8\u0bb5\u0bbe\u0baf\u0bbf\u0bb2\u0bcd"
+              ]
+            }
+          ],
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmfDP1zPsagPNILBAI1p-m6-lKUyhK8zM1qTUiUZoBhpeA9iMemxZhuAKMcs8aXvDeHKGDTOmNm7-1NvYvEJ9wB7XiQ8By_5msyXZdfSTfw5tK62dPqvMe5unR888dojo1A7tg3Rg=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/C08ulnicHcRLjoIwAADQE1WoBqkmsyjB-KlgByEiG2NKaTGUoi0weEOPMLeZZN7i_X6ktZ1ZO04jFzOhtWh4b_iL6dby1s6YVo7oDGAGGAfvEppeVBVS-KbmLmi8PwZ4DzuglqAh2SQJekfwmWZ1VuhAdhyv6oirn0L2mETMoHs-hHxHtmF6UrHyAYyH67A5rMbAz-tvFEw3T5kpL8rqnFajZ8lyXtLnEHGvbxOEUKkfGmLfikUivkboui6Q_zPQ_gHZhUUi"
+        },
+        {
+          "position": 2,
+          "title": "\u0b9a\u0bcd\u0bb5\u0bbf\u0ba9\u0bcd\u0b9a\u0bbf\u0baa\u0bcb\u0b9a\u0bbf\u0bb8\u0bcd",
+          "place_id": "ChIJM-0FUQpmUjoRU4yU9uCfF1w",
+          "data_id": "0x3a52660a5105ed33:0x5c179fe0f6948c53",
+          "data_cid": "6635948364512136275",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52660a5105ed33%3A0x5c179fe0f6948c53&engine=google_maps_reviews&hl=ta",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a52660a5105ed33%3A0x5c179fe0f6948c53&engine=google_maps_photos&hl=ta",
+          "gps_coordinates": {
+            "latitude": 13.0798176,
+            "longitude": 80.2573841
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=ta&place_id=ChIJM-0FUQpmUjoRU4yU9uCfF1w",
+          "provider_id": "/g/11gb3qx02q",
+          "rating": 4.9,
+          "reviews": 54,
+          "type": "\u0bae\u0bc6\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0b9f\u0bcd\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0bcd\u0bb7\u0ba9\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+          "types": [
+            "\u0bae\u0bc6\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0b9f\u0bcd\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0bcd\u0bb7\u0ba9\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8"
+          ],
+          "type_id": "medical_transcription_service",
+          "type_ids": [
+            "medical_transcription_service"
+          ],
+          "address": "962, \u0baa\u0bc2\u0ba8\u0bcd\u0ba4\u0bae\u0bb2\u0bcd\u0bb2\u0bbf \u0ba8\u0bc6\u0b9f\u0bc1\u0b9e\u0bcd\u0b9a\u0bbe\u0bb2\u0bc8, \u0baa\u0bc1\u0bb0\u0b9a\u0bc8\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bae\u0bcd, \u0b9a\u0bc6\u0ba9\u0bcd\u0ba9\u0bc8, \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0ba8\u0bbe\u0b9f\u0bc1 600084",
+          "country": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "open_state": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 9 AM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "hours": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 9 AM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "operating_hours": {
+            "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1": "Closed",
+            "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd": "9AM\u20136PM",
+            "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd": "9AM\u20136PM",
+            "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd": "9AM\u20136PM",
+            "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd": "9AM\u20136PM",
+            "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf": "9AM\u20136PM",
+            "\u0b9a\u0ba9\u0bbf": "Closed"
+          },
+          "phone": "091944 49555",
+          "website": "http://swinsifosys.com/",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkuDOaPO6Fl09qJkaf-KhEMrsJRTneFlRx67EJ23tevY8EgfcgslSGpCb7n0J1Hyu1KAKYymat2sa36OIgdU6zkfH50TgHNkBFyzeM5DBWzNxLwIOrkcZWIX4n5Q5BdbEFngYox=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/AiHKk3icHcRJDoIwAADAF1WKCC6JBxGQRUURg3jDWkrS2iItCnzQN_gbE-cw30-lVC0XmsYqY0SEIAy3EjdIcIW5GiHx0EgtAZJAais_OaQZbZ24OMSWx-D8GdKiBFHl7hoZJinHHks6a-qGY0PhVz5zSYmIZKdNvb5NOQx1v2_1aBXl_aNQY1kYVhyQ-9kaaOmbMCX-ntpeP-Cd6djZsO-27yBuKLpmwWXCzaNp32-ux0kuuuVbhxCC6j8C_Ac7l0Ry"
+        },
+        {
+          "position": 3,
+          "title": "\u0baa\u0bc8\u0bb2\u0b9f\u0bcd\u0b9f\u0bbf\u0b9a\u0bcd \u0b9f\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd \u0b9a\u0bb0\u0bcd\u0bb5\u0bc0\u0bb8\u0bcd",
+          "place_id": "ChIJmbdnYlVmUjoRrfEHnz60hSU",
+          "data_id": "0x3a5266556267b799:0x2585b43e9f07f1ad",
+          "data_cid": "2703765332354920877",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a5266556267b799%3A0x2585b43e9f07f1ad&engine=google_maps_reviews&hl=ta",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a5266556267b799%3A0x2585b43e9f07f1ad&engine=google_maps_photos&hl=ta",
+          "gps_coordinates": {
+            "latitude": 13.0374278,
+            "longitude": 80.2318123
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=ta&place_id=ChIJmbdnYlVmUjoRrfEHnz60hSU",
+          "provider_id": "/g/1tql3610",
+          "rating": 4.9,
+          "reviews": 14,
+          "type": "\u0bae\u0bc6\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0b9f\u0bcd\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0bcd\u0bb7\u0ba9\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+          "types": [
+            "\u0bae\u0bc6\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0b9f\u0bcd\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0bcd\u0bb7\u0ba9\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8"
+          ],
+          "type_id": "medical_transcription_service",
+          "type_ids": [
+            "medical_transcription_service"
+          ],
+          "address": "I Floor, A4 Sarojini Apts, 23/40, Sarojini St, T. Nagar, Chennai, Tamil Nadu 600017",
+          "country": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "open_state": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 10 AM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "hours": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 10 AM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "operating_hours": {
+            "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1": "Closed",
+            "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd": "10AM\u20134PM",
+            "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd": "10AM\u20134PM",
+            "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd": "10AM\u20134PM",
+            "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd": "10AM\u20134PM",
+            "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf": "10AM\u20134PM",
+            "\u0b9a\u0ba9\u0bbf": "Closed"
+          },
+          "phone": "097909 04391",
+          "website": "http://www.pilottechtranscription.com/",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWleymLqFFH4ygaz8apQ8tkKPT20uUENPTeVcQ5fEqjwm-0nyS0nhursvqdb8MIK3_X2-lnRYOtnuyptkxfeirY7x0uOgKWztTM3Oa1L0M5t4MS0LCVV-qEyZv8E0f14kCu3Kw2oEMOIOj8=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/M-86unicHcTdboIwGADQJ6p8_BibJbtYTI0GuqIynLtZWC1lAi3QVqwPufu9zZKdi_P701g7mKcg6Jp4IbWWnXBGTFwrK5RdcN0HcjCIG2SCl-0hL06d8H02bjbbxMvqgathj22b5kUE7o285oUo-X5Zk_E69wiUP4Jq3GRu4-UL010af75HqFOHM7PK-cG291p8T-fVHRyT6elhCxqzKsyALm1Cj5CtyxKNxH_cMIE6TNq1i9M50oSyHbvi5zkEANT8z5H6A8u7R1M"
+        },
+        {
+          "position": 4,
+          "title": "\u0baa\u0bbf\u0bb4\u0bc8\u0ba4\u0bbf\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0b9f\u0bc6\u0b95\u0bcd\u0ba9\u0bbe\u0bb2\u0b9c\u0bbf\u0bb8\u0bcd",
+          "place_id": "ChIJRQkDEKpjUjoRNFFx6k8syZg",
+          "data_id": "0x3a5263aa10030945:0x98c92c4fea715134",
+          "data_cid": "11009379485831221556",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a5263aa10030945%3A0x98c92c4fea715134&engine=google_maps_reviews&hl=ta",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a5263aa10030945%3A0x98c92c4fea715134&engine=google_maps_photos&hl=ta",
+          "gps_coordinates": {
+            "latitude": 13.122451199999999,
+            "longitude": 80.1480948
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=ta&place_id=ChIJRQkDEKpjUjoRNFFx6k8syZg",
+          "provider_id": "/g/1tfxwftr",
+          "rating": 4.7,
+          "reviews": 3,
+          "type": "\u0bae\u0bc6\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0b9f\u0bcd\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0bcd\u0bb7\u0ba9\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+          "types": [
+            "\u0bae\u0bc6\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0b9f\u0bcd\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0bcd\u0bb7\u0ba9\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+            "\u0baa\u0bbf\u0baa\u0bbf\u0b93 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+            "\u0b9a\u0bc7\u0bb5\u0bc8 \u0bae\u0bc8\u0baf\u0bae\u0bcd",
+            "\u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0b99\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8"
+          ],
+          "type_id": "medical_transcription_service",
+          "type_ids": [
+            "medical_transcription_service",
+            "bpo_company",
+            "call_center",
+            "medical_billing_service"
+          ],
+          "address": "#12, Avadi, to, Ambattur Red Hills Rd, OT, Ambattur, Chennai, Tamil Nadu 600053",
+          "country": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "open_state": "24 \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0\u0bae\u0bc1\u0bae\u0bcd \u0b87\u0baf\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd",
+          "hours": "24 \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0\u0bae\u0bc1\u0bae\u0bcd \u0b87\u0baf\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd",
+          "operating_hours": {
+            "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1": "Open 24 hours",
+            "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd": "Open 24 hours",
+            "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd": "Open 24 hours",
+            "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd": "Open 24 hours",
+            "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd": "Open 24 hours",
+            "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf": "Open 24 hours",
+            "\u0b9a\u0ba9\u0bbf": "Open 24 hours"
+          },
+          "phone": "093838 38001",
+          "website": "http://www.debugtechnologyservices.com/",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlW2F5Xaecw3xjOOb1kMkOdOuo-HmpQOSKmZtJvJ1S4ruM2_FKl2x0D9Jy0uJc1O7ANIMaRSzRMaUfmMYv5VUli5D1myg5Z96siMmcLomd3c_DL_ZLqDBdKmlniRbi_AvS4zyIB=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/6M-sj3icHcRJDoIwAADAF1VaFo0mHjDEyFKr4MqFQEFAW4q2oPhB3-BvTJzDfD-VUq2caRqrjFEpRMmKThYPKhpVNGpEBdfKVgIqgdTsVbjZHdlRX1qntKBP43UlJEM3fCM56QRY8XZLIp_Hyus9FJmPDuvJ0mf6CzpTb4CdRxGZ2GsXp2H0DnG6v3B87q3DntWWg_hQWvF0LGvMaSB4btDECZI4uDuL3OesqcOsTuw-Mt-Du5g_EYQQVP8paH5J20S1"
+        },
+        {
+          "position": 5,
+          "title": "\u0bb8\u0bcd-\u0bb8\u0bcd\u0b95\u0bcd\u0bb0\u0bbf\u0baa\u0bcd \u0bae\u0bc6\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0b9f\u0bbe\u0b95\u0bc1\u0bae\u0bc6\u0ba3\u0bcd\u0b9f\u0bc7\u0b9a\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0bc8\u0bb5\u0b9f\u0bcd \u0bb2\u0bbf\u0bae\u0bbf\u0b9f\u0bc6\u0b9f\u0bcd",
+          "place_id": "ChIJEy2HAxNnUjoRY7MQjR5yhy8",
+          "data_id": "0x3a52671303872d13:0x2f87721e8d10b363",
+          "data_cid": "3424831517179818851",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52671303872d13%3A0x2f87721e8d10b363&engine=google_maps_reviews&hl=ta",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a52671303872d13%3A0x2f87721e8d10b363&engine=google_maps_photos&hl=ta",
+          "gps_coordinates": {
+            "latitude": 12.9768733,
+            "longitude": 80.19953919999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=ta&place_id=ChIJEy2HAxNnUjoRY7MQjR5yhy8",
+          "provider_id": "/g/11h39ry63m",
+          "rating": 5,
+          "reviews": 6,
+          "type": "\u0bae\u0bc6\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0b9f\u0bcd\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0bcd\u0bb7\u0ba9\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+          "types": [
+            "\u0bae\u0bc6\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0b9f\u0bcd\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0bcd\u0bb7\u0ba9\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8"
+          ],
+          "type_id": "medical_transcription_service",
+          "type_ids": [
+            "medical_transcription_service"
+          ],
+          "address": "2/16, Giri St, SWAMY NAGAR, Ex-2, \u0baa\u0bc1\u0bb4\u0bc1\u0ba4\u0bbf\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bae\u0bcd, \u0bae\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0b95\u0bcd\u0b95\u0bae\u0bcd, \u0b9a\u0bc6\u0ba9\u0bcd\u0ba9\u0bc8, \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0ba8\u0bbe\u0b9f\u0bc1 600091",
+          "country": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "open_state": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 9 AM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "hours": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 9 AM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "operating_hours": {
+            "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1": "Closed",
+            "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd": "9AM\u20135AM",
+            "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd": "9AM\u20135PM",
+            "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd": "9AM\u20135PM",
+            "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd": "9AM\u20135PM",
+            "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf": "9AM\u20135AM",
+            "\u0b9a\u0ba9\u0bbf": "9AM\u20131PM"
+          },
+          "phone": "098407 49517",
+          "website": "https://z-scribe.com/",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmDaMo0nmH-I1ZGOPGWgDG6XBMdZFLAelEiio7qz2ft3deEam2CcFc8xfb3XmbJ7O6mvMReggNYgJvN_T8qHC6SYsrabLL6p9fivOxUoMFaLAmoDsb9c3m5ZSBfggquGIu8r6BB=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/clktgHicHcRJDoIwFADQE1VAYkUTFwwCEhDjEIaNgVo-JJQCLWi8oGfwNia-xft-ail7sVWUttYXwDm0dBJ0JLyTtJMLwpkCvUBEIKGY_vl0TZhTRFztmI8OWu7FJy8Bx8OpFT1yNzRpu28avh7ey0rqD7ov2NImLjFeVamnrAzWMWZzdKYAxwyC-Xi_GoNv40smxqIMQ9xvqmaOXzceuUVoMu6IckN0tsovVgUwTN5hMkZsWbunpqoqqv8T1P0ALC1EcQ"
+        },
+        {
+          "position": 6,
+          "title": "Virtual Practice Solutions India Pvt Ltd",
+          "place_id": "ChIJLW35g3RnUjoRuyIqH1c1CAI",
+          "data_id": "0x3a52677483f96d2d:0x20835571f2a22bb",
+          "data_cid": "146425636190823099",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52677483f96d2d%3A0x20835571f2a22bb&engine=google_maps_reviews&hl=ta",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a52677483f96d2d%3A0x20835571f2a22bb&engine=google_maps_photos&hl=ta",
+          "gps_coordinates": {
+            "latitude": 13.013881399999999,
+            "longitude": 80.2000779
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=ta&place_id=ChIJLW35g3RnUjoRuyIqH1c1CAI",
+          "provider_id": "/g/11ms23w9pc",
+          "rating": 5,
+          "reviews": 6,
+          "type": "\u0bae\u0bc6\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0b9f\u0bcd\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0bcd\u0bb7\u0ba9\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+          "types": [
+            "\u0bae\u0bc6\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0b9f\u0bcd\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0bcd\u0bb7\u0ba9\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8"
+          ],
+          "type_id": "medical_transcription_service",
+          "type_ids": [
+            "medical_transcription_service"
+          ],
+          "address": "Regus, Olympia Platina, South Phase, Guindy Industrial Estate, SIDCO Industrial Estate, Guindy, St.Thomas Mount, Tamil Nadu 600032",
+          "country": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "phone": "080150 83069",
+          "website": "https://vpsolutionsindia.com/",
+          "unsupported_extensions": [
+            {
+              "service_options": [
+                "\u0b86\u0ba9\u0bcd\u0b9a\u0bc8\u0b9f\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0b86\u0ba9\u0bcd\u0b9a\u0bc8\u0b9f\u0bcd_\u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd": false
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlplrSiQLYmv6bRixkFjeX0Q0zAFh-m77QEuzpnP52c5Qp00zgWRUhNxKXNjuN-FSwpRkg4QM64P-OQZH3l4oQrf7XexW5McAh_w94I_mTPHPyNdrrqR8kw0bToqfrO9bgteSkK7aAkCRU=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/wTHlk3icHcTBboIwAADQL6rUCTKX7EAWCYsT24KBeTGjq6220NqWwfhI7_6Nie_w7jfhvXFvQaDEYsa15or1jlmqO886P6O6DbhxgDrggiQjqKyUUbY446_v9m_ZkPMo0wurIYZTkgrQxjFe95PpUPRCI2wgnHhF9iIfN3V-6XOQFoMhkod4uwwR2OFDtlChxvYU12ysoi1NxHFYhZ_HtkQZ-s9_rb2SVznAptTXk92tGu5ZITfxTyI_yP59mEMIgXhOQfcAgw9HfA"
+        },
+        {
+          "position": 7,
+          "title": "Excellent Transcription Service",
+          "place_id": "ChIJk-W-I_JhUjoRwb7OIjNOZSM",
+          "data_id": "0x3a5261f223bee593:0x23654e3322cebec1",
+          "data_cid": "2550530745509527233",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a5261f223bee593%3A0x23654e3322cebec1&engine=google_maps_reviews&hl=ta",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a5261f223bee593%3A0x23654e3322cebec1&engine=google_maps_photos&hl=ta",
+          "gps_coordinates": {
+            "latitude": 13.0543079,
+            "longitude": 80.1808916
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=ta&place_id=ChIJk-W-I_JhUjoRwb7OIjNOZSM",
+          "provider_id": "/g/11zyzkmfym",
+          "type": "\u0bae\u0bc6\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0b9f\u0bcd\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0bcd\u0bb7\u0ba9\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+          "types": [
+            "\u0bae\u0bc6\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0b9f\u0bcd\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0bcd\u0bb7\u0ba9\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8"
+          ],
+          "type_id": "medical_transcription_service",
+          "type_ids": [
+            "medical_transcription_service"
+          ],
+          "address": "G R ENCLAVE, Anbu Nagar 5th St, Anbu Nagar, Valasaravakkam, Chennai, Tamil Nadu 600087",
+          "country": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "open_state": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 10 AM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "hours": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 10 AM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "operating_hours": {
+            "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1": "Closed",
+            "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd": "10AM\u20135PM",
+            "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd": "10AM\u20135PM",
+            "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd": "10AM\u20135PM",
+            "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd": "10AM\u20135PM",
+            "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf": "10AM\u20135PM",
+            "\u0b9a\u0ba9\u0bbf": "10AM\u20135PM"
+          },
+          "website": "https://excellenttranscriptions.net/"
+        },
+        {
+          "position": 8,
+          "title": "Fusionscribe Solutions Private Limited",
+          "place_id": "ChIJi8gRQYhdUjoR7QlEVj-YAIg",
+          "data_id": "0x3a525d884111c88b:0x8800983f564409ed",
+          "data_cid": "9800000186955860461",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a525d884111c88b%3A0x8800983f564409ed&engine=google_maps_reviews&hl=ta",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a525d884111c88b%3A0x8800983f564409ed&engine=google_maps_photos&hl=ta",
+          "gps_coordinates": {
+            "latitude": 12.962838999999999,
+            "longitude": 80.2053471
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=ta&place_id=ChIJi8gRQYhdUjoR7QlEVj-YAIg",
+          "provider_id": "/g/11vs887l4t",
+          "rating": 5,
+          "reviews": 2,
+          "unclaimed_listing": true,
+          "type": "\u0bae\u0bc6\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0b9f\u0bcd\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0bcd\u0bb7\u0ba9\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+          "types": [
+            "\u0bae\u0bc6\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0b9f\u0bcd\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0bcd\u0bb7\u0ba9\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8"
+          ],
+          "type_id": "medical_transcription_service",
+          "type_ids": [
+            "medical_transcription_service"
+          ],
+          "address": "Sri Ambal Towers, 288B, 4th Link Rd, Meenatchi Sundareswarar Koil, Sadasiva Nagar, Madipakkam, Kancheepuram, Chennai, Tamil Nadu 600091",
+          "country": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "open_state": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 9:30 AM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "hours": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 9:30 AM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "operating_hours": {
+            "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1": "Closed",
+            "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd": "9:30AM\u20135:30PM",
+            "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd": "9:30AM\u20135:30PM",
+            "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd": "9:30AM\u20135:30PM",
+            "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd": "9:30AM\u20135:30PM",
+            "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf": "9:30AM\u20135:30PM",
+            "\u0b9a\u0ba9\u0bbf": "9:30AM\u20135:30PM"
+          },
+          "phone": "099622 92974",
+          "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5Nhpnvkvi3HGoHByMb8pKQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=353.43924&pitch=0&thumbfov=100",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/z0MsL3icHc1hCsIgGADQ2_gvdbnBFkjQnwZR0AnCOZsfOf2Ypu02XavbFF3gvc_bpoRxx1hMizEpgykIL-PiBhWdQpicUQiR6jCzXLFkn_PgFbg9Kh9glM3Fos-PDKI_hv6wnocWT1eih5t2YHyS0ahFWzqVn7iEkU4YSZEtJ1Z2W7KqIkUjaC26bU0QkraSk_9yD1lWnH8Bi_I5uQ"
+        },
+        {
+          "position": 9,
+          "title": "\u0baa\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf \u0b87\u0ba9\u0bcd\u0baa\u0bb0\u0bcd\u0bae\u0bc7\u0b9f\u0bcd\u0b9f\u0bbf\u0b95\u0bcd\u0bb8\u0bcd \u0baa\u0bcd\u0bb5\u0bcd\u0b9f\u0bcd. \u0bb2\u0b9f.",
+          "place_id": "ChIJB1-cfI5mUjoRftE_PR9D6CU",
+          "data_id": "0x3a52668e7c9c5f07:0x25e8431f3d3fd17e",
+          "data_cid": "2731506975450845566",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52668e7c9c5f07%3A0x25e8431f3d3fd17e&engine=google_maps_reviews&hl=ta",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a52668e7c9c5f07%3A0x25e8431f3d3fd17e&engine=google_maps_photos&hl=ta",
+          "gps_coordinates": {
+            "latitude": 13.0638129,
+            "longitude": 80.22355519999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=ta&place_id=ChIJB1-cfI5mUjoRftE_PR9D6CU",
+          "provider_id": "/g/1td2kxj6",
+          "rating": 4.7,
+          "reviews": 35,
+          "type": "\u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0b99\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+          "types": [
+            "\u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0b99\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+            "\u0baa\u0bbf\u0baa\u0bbf\u0b93 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+            "\u0bb5\u0ba3\u0bbf\u0b95 \u0ba8\u0bc6\u0b9f\u0bcd\u0bb5\u0bca\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bbf\u0b99\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd"
+          ],
+          "type_id": "medical_billing_service",
+          "type_ids": [
+            "medical_billing_service",
+            "bpo_company",
+            "business_networking_company"
+          ],
+          "address": "New No.2, Old No. 99, 3rd Cross St, Kamarajar Nagar, Gill Nagar, Choolaimedu, Chennai, Tamil Nadu 600094",
+          "country": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "open_state": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 12 AM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "hours": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 12 AM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "operating_hours": {
+            "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1": "Closed",
+            "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd": "Open 24 hours",
+            "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd": "Open 24 hours",
+            "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd": "Open 24 hours",
+            "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd": "Open 24 hours",
+            "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf": "Open 24 hours",
+            "\u0b9a\u0ba9\u0bbf": "Closed"
+          },
+          "phone": "098400 20085",
+          "website": "http://www.bandi.co.in/",
+          "extensions": [
+            {
+              "service_options": [
+                "\u0b86\u0ba9\u0bcd\u0b9a\u0bc8\u0b9f\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd"
+              ]
+            },
+            {
+              "amenities": [
+                "\u0b87\u0bb0\u0bc1\u0baa\u0bbe\u0bb2\u0bb0\u0bcd \u0b95\u0bb4\u0bbf\u0bb5\u0bb1\u0bc8"
+              ]
+            },
+            {
+              "payments": [
+                "\u0b95\u0bbf\u0bb0\u0bc6\u0b9f\u0bbf\u0b9f\u0bcd \u0b95\u0bbe\u0bb0\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
+                "\u0b9f\u0bc6\u0baa\u0bbf\u0b9f\u0bcd \u0b95\u0bbe\u0bb0\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd",
+                "NFC \u0bae\u0bca\u0baa\u0bc8\u0bb2\u0bcd \u0baa\u0bc7\u0bae\u0bc6\u0ba3\u0bcd\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0b8f\u0bb1\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0bae\u0bcd"
+              ]
+            },
+            {
+              "parking": [
+                "\u0b86\u0ba9\u0bcd\u0b9a\u0bc8\u0b9f\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bbf\u0b99\u0bcd",
+                "\u0b87\u0bb2\u0bb5\u0b9a\u0baa\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bbf\u0b99\u0bcd \u0bb5\u0b9a\u0ba4\u0bbf",
+                "\u0bb5\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bbf\u0b99\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd \u0bb5\u0b9a\u0ba4\u0bbf (\u0b87\u0bb2\u0bb5\u0b9a\u0bae\u0bcd)"
+              ]
+            }
+          ],
+          "unsupported_extensions": [
+            {
+              "accessibility": [
+                "\u0b9a\u0b95\u0bcd\u0b95\u0bb0 \u0ba8\u0bbe\u0bb1\u0bcd\u0b95\u0bbe\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8f\u0bb1\u0bcd\u0bb1 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc8",
+                "\u0b9a\u0b95\u0bcd\u0b95\u0bb0 \u0ba8\u0bbe\u0bb1\u0bcd\u0b95\u0bbe\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8f\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0bbf\u0bb5\u0bb1\u0bc8 \u0bb5\u0b9a\u0ba4\u0bbf",
+                "\u0b9a\u0b95\u0bcd\u0b95\u0bb0 \u0ba8\u0bbe\u0bb1\u0bcd\u0b95\u0bbe\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8f\u0bb1\u0bcd\u0bb1 \u0ba8\u0bc1\u0bb4\u0bc8\u0bb5\u0bbe\u0baf\u0bbf\u0bb2\u0bcd"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0b86\u0ba9\u0bcd\u0b9a\u0bc8\u0b9f\u0bcd_\u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd": true
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmm8f3EPFc78pG4JbBGYWVeBJ0qUtIRkzRNtaNGd9_UGBGHyd9uSQ70qrpOCnexiy4pyPxvEs96oMU9MoM4SFx-O3AZROmD5qUffoSo8EiytiTGMlFyDWqzmoelj7UERXzo68bbsg=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/EKSJvHicHcTdToMwGADQJ-roAg4w8WI46FzCwLIO9cZIV34m5Strp5Q33CPsbUw8F-d-a41R-tFx-tZdNABNL65aXDgMRgxmwUE6jdKIa6Sd9Zbmh1LKoHbjPOF-oIi3qyLyXh5FtMMjMy_0e6Z787Unp_CTkYhs7Sm8Fq8-Hi8qex7E1FlP2Xz6iXW4gpSFKaRekUwoc9cfNJObh5HVNRQQxJ013YGkfWI35ThLEP3ZZzF9m2EVVJVunn6XGGPU_s_R8AfR4UXc"
+        },
+        {
+          "position": 10,
+          "title": "AQuity Solutions India Private Limited - Chennai",
+          "place_id": "ChIJZwD5T_xnUjoRjAAGva76S0k",
+          "data_id": "0x3a5267fc4ff90067:0x494bfaaebd06008c",
+          "data_cid": "5281590616424579212",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a5267fc4ff90067%3A0x494bfaaebd06008c&engine=google_maps_reviews&hl=ta",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a5267fc4ff90067%3A0x494bfaaebd06008c&engine=google_maps_photos&hl=ta",
+          "gps_coordinates": {
+            "latitude": 13.0221472,
+            "longitude": 80.1749553
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=ta&place_id=ChIJZwD5T_xnUjoRjAAGva76S0k",
+          "provider_id": "/g/11rxpm7ztx",
+          "rating": 3.1,
+          "reviews": 9,
+          "type": "\u0bae\u0bc6\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0b9f\u0bcd\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0bcd\u0bb7\u0ba9\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+          "types": [
+            "\u0bae\u0bc6\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0b9f\u0bcd\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0bcd\u0bb7\u0ba9\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8"
+          ],
+          "type_id": "medical_transcription_service",
+          "type_ids": [
+            "medical_transcription_service"
+          ],
+          "address": "DLF IT/ITES SEZ at 1/124, Ground Floor, Block 1C Shivaji Gardens, Moonlight Stop, Nandambakkam Post Mount Poonmallee, Road, Manapakkam, Chennai, Tamil Nadu 600089",
+          "country": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "open_state": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 12 AM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "hours": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 12 AM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "operating_hours": {
+            "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1": "Closed",
+            "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd": "Open 24 hours",
+            "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd": "Open 24 hours",
+            "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd": "Open 24 hours",
+            "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd": "Open 24 hours",
+            "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf": "Open 24 hours",
+            "\u0b9a\u0ba9\u0bbf": "Closed"
+          },
+          "website": "https://aquitysolutions.in/",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWntySDELb9at1iAALrSgZTTY5tp2T8RnkFmfeoPthXseD-OGTIPeT4T9y7puA6KKbPXi6Jhg5-4vLz6K2hU06la13eKoTHhTYCA2xj-ZeczyCp69c0qSO2o8wsZUNuvnWXFmb9JlQ=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/LjL3Z3icHcTdDsEwGADQJ6p1Q5nERePfFsY-MbuzplpsbWmHeUOP4G0kzsX5fqRzxg48r5TtltBalLy2_M60cly5FtOVJ4xFzCLr0fk2gb1yTTqexEV4dP6Z0vieihzg0HUmgP5WXafVievEyczyMVrPYJFw6EDY9ExNSRQVSXYmSym6qPOI3yQK5A6T8ui3eaRhLuEwosHrgnLO3s3IkJDhW7oOdP9p892qfqh9Nq2KcFluhk8fY4zkf4bUD8KJRMU"
+        },
+        {
+          "position": 11,
+          "title": "Dodecan Services Private Limited",
+          "place_id": "ChIJz-stPF5mUjoRwbZnkZSCgRE",
+          "data_id": "0x3a52665e3c2debcf:0x118182949167b6c1",
+          "data_cid": "1261432945246713537",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52665e3c2debcf%3A0x118182949167b6c1&engine=google_maps_reviews&hl=ta",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a52665e3c2debcf%3A0x118182949167b6c1&engine=google_maps_photos&hl=ta",
+          "gps_coordinates": {
+            "latitude": 13.049194499999999,
+            "longitude": 80.2218924
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=ta&place_id=ChIJz-stPF5mUjoRwbZnkZSCgRE",
+          "provider_id": "/g/11gcby1z98",
+          "rating": 5,
+          "reviews": 1,
+          "type": "\u0b95\u0ba3\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bbf\u0bb5\u0bbf\u0baf\u0bb2\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+          "types": [
+            "\u0b95\u0ba3\u0b95\u0bcd\u0b95\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bbf\u0bb5\u0bbf\u0baf\u0bb2\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+            "\u0ba4\u0b95\u0bb5\u0bb2\u0bcd \u0baa\u0ba4\u0bbf\u0bb5\u0bc1 \u0b9a\u0bc7\u0bb5\u0bc8",
+            "\u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0b9a\u0bcd \u0b9a\u0bbe\u0ba9\u0bcd\u0bb1\u0bbf\u0ba4\u0bb4\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+            "\u0bae\u0bc6\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0b9f\u0bcd\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0bcd\u0bb7\u0ba9\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+            "\u0b9a\u0bae\u0bcd\u0baa\u0bb3\u0baa\u0bcd \u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bb2\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8"
+          ],
+          "type_id": "bookkeeping_service",
+          "type_ids": [
+            "bookkeeping_service",
+            "data_entry_service",
+            "medical_certificate_service",
+            "medical_transcription_service",
+            "payroll_service"
+          ],
+          "address": "Ground floor, R.R. Villa, near Pro Lytes, 180/109, Rangarajapuram Main Rd, Kodambakkam, Chennai, Tamil Nadu 600024",
+          "country": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "open_state": "24 \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0\u0bae\u0bc1\u0bae\u0bcd \u0b87\u0baf\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd",
+          "hours": "24 \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0\u0bae\u0bc1\u0bae\u0bcd \u0b87\u0baf\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd",
+          "operating_hours": {
+            "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1": "Open 24 hours",
+            "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd": "Open 24 hours",
+            "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd": "Open 24 hours",
+            "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd": "Open 24 hours",
+            "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd": "Open 24 hours",
+            "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf": "Open 24 hours",
+            "\u0b9a\u0ba9\u0bbf": "Open 24 hours"
+          },
+          "phone": "098409 26427",
+          "website": "http://dodecan.com/",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm8ustr-E1dPKkZ-gcpqIjn5Kk4HmGuF0UBTlgQxsxWxhI9RneLn2CiyqBgjs78tqH4A0HPWU9lh_N8RQmSbfHpcNsPBANhEK0X-yeGYSrvPfLtV46Tv6OTHspWcK0X7pWQbJtcuczn3Xyt=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/sb2wRnicHclBcoIwFADQE0VipYqd6QIcaxSHBkRju-mMvzFRIQR-sOAlXXubdrp5m_e4a-csvnheoUcDVVWqkC3KBirjpHEDqEpPWSSABL2QZTwXZdCia8h8-M3jyydRYOvl2TzHF5-Vi_aNbqO8UGmHnej0cpoZuTZPs1NfR-qMk8DVzA8p42I7LfRXEmRpuTkcmYUEeRQmeh7TPenl4mPTXPlx7Xb-OL-O33OGVsDfTaxIDysHLdzMaN-7158hpZTof4GYX-JXSDU"
+        },
+        {
+          "position": 12,
+          "title": "Mastermind Healthcare RCM Tactics",
+          "place_id": "ChIJ4yMFLzphUjoRXxciYL9iBAQ",
+          "data_id": "0x3a52613a2f0523e3:0x40462bf6022175f",
+          "data_cid": "289464850149676895",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52613a2f0523e3%3A0x40462bf6022175f&engine=google_maps_reviews&hl=ta",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a52613a2f0523e3%3A0x40462bf6022175f&engine=google_maps_photos&hl=ta",
+          "gps_coordinates": {
+            "latitude": 13.0409653,
+            "longitude": 80.0979888
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=ta&place_id=ChIJ4yMFLzphUjoRXxciYL9iBAQ",
+          "provider_id": "/g/11rn8rphy4",
+          "rating": 4.9,
+          "reviews": 72,
+          "type": "\u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0b99\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+          "types": [
+            "\u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0b99\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+            "\u0baa\u0bbf\u0ba9\u0bcd \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bcd",
+            "\u0baa\u0bbf\u0baa\u0bbf\u0b93 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+            "\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95 \u0baa\u0bb0\u0bbf\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+            "\u0b9a\u0bc7\u0bb5\u0bc8 \u0bae\u0bc8\u0baf\u0bae\u0bcd",
+            "\u0ba4\u0b95\u0bb5\u0bb2\u0bcd \u0baa\u0ba4\u0bbf\u0bb5\u0bc1 \u0b9a\u0bc7\u0bb5\u0bc8",
+            "\u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bae\u0ba9\u0bc8",
+            "\u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0b95\u0bc1\u0bb4\u0bc1",
+            "\u0bae\u0bc6\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0b9f\u0bcd\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0bcd\u0bb7\u0ba9\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+            "\u0b9f\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0bcd\u0bb7\u0ba9\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8"
+          ],
+          "type_id": "medical_billing_service",
+          "type_ids": [
+            "medical_billing_service",
+            "back_office",
+            "bpo_company",
+            "business_to_business_service",
+            "call_center",
+            "data_entry_service",
+            "hospital",
+            "medical_group",
+            "medical_transcription_service",
+            "transcription_service"
+          ],
+          "address": "S.No 14/1, Plot No 3, VellaiPillai St, Kirupananda Variar Nagar, Ramachandran Nagar, Poonamallee, Tamil Nadu 600056",
+          "country": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "open_state": "24 \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0\u0bae\u0bc1\u0bae\u0bcd \u0b87\u0baf\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd",
+          "hours": "24 \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0\u0bae\u0bc1\u0bae\u0bcd \u0b87\u0baf\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd",
+          "operating_hours": {
+            "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1": "Open 24 hours",
+            "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd": "Open 24 hours",
+            "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd": "Open 24 hours",
+            "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd": "Open 24 hours",
+            "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd": "Open 24 hours",
+            "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf": "Open 24 hours",
+            "\u0b9a\u0ba9\u0bbf": "Open 24 hours"
+          },
+          "phone": "081228 77402",
+          "website": "http://mastermindhealthcare.com/",
+          "extensions": [
+            {
+              "accessibility": [
+                "\u0b9a\u0b95\u0bcd\u0b95\u0bb0 \u0ba8\u0bbe\u0bb1\u0bcd\u0b95\u0bbe\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8f\u0bb1\u0bcd\u0bb1 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc8",
+                "\u0b9a\u0b95\u0bcd\u0b95\u0bb0 \u0ba8\u0bbe\u0bb1\u0bcd\u0b95\u0bbe\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8f\u0bb1\u0bcd\u0bb1 \u0b95\u0bb4\u0bbf\u0bb5\u0bb1\u0bc8 \u0bb5\u0b9a\u0ba4\u0bbf",
+                "\u0b9a\u0bc6\u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0ba3\u0bc8\u0b95\u0bcd \u0b95\u0bb0\u0bc1\u0bb5\u0bbf \u0b89\u0ba4\u0bb5\u0bbf"
+              ]
+            },
+            {
+              "amenities": [
+                "\u0b87\u0bb0\u0bc1\u0baa\u0bbe\u0bb2\u0bb0\u0bcd \u0b95\u0bb4\u0bbf\u0bb5\u0bb1\u0bc8"
+              ]
+            },
+            {
+              "crowd": [
+                "LGBTQ+ \u0b9a\u0bae\u0bc2\u0b95\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bb0\u0bc8 \u0b8f\u0bb1\u0bcd\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0bca\u0bb3\u0bcd\u0bb3\u0bc1\u0bae\u0bcd \u0b87\u0b9f\u0bae\u0bcd"
+              ]
+            },
+            {
+              "parking": [
+                "\u0b86\u0ba9\u0bcd\u0b9a\u0bc8\u0b9f\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bbf\u0b99\u0bcd",
+                "\u0b87\u0bb2\u0bb5\u0b9a\u0baa\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bbf\u0b99\u0bcd \u0bb5\u0b9a\u0ba4\u0bbf",
+                "\u0b95\u0bc7\u0bb0\u0bc7\u0b9c\u0bbf\u0bb2\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bbf\u0b99\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd \u0bb5\u0b9a\u0ba4\u0bbf (\u0b87\u0bb2\u0bb5\u0b9a\u0bae\u0bcd)",
+                "\u0bb5\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bbf\u0b99\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd \u0bb5\u0b9a\u0ba4\u0bbf (\u0b87\u0bb2\u0bb5\u0b9a\u0bae\u0bcd)"
+              ]
+            }
+          ],
+          "unsupported_extensions": [
+            {
+              "service_options": [
+                "\u0b86\u0ba9\u0bcd\u0b9a\u0bc8\u0b9f\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0b86\u0ba9\u0bcd\u0b9a\u0bc8\u0b9f\u0bcd_\u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd": false
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnCQfhlq4i7SDj44k0ENPZH3jI-vJP6yKqV5A275nWuzZ7xW3PqKo8MEpI0vZIgeYuae1ieI3UKjqejLePME30VqILePcr3TieTkDwtPJ72GyqsfaPna6uKCcR-j506QCB8s3Pgrg=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/5MbZ9nicHcZbjoIwFADQFVWq5WFM5kORaGWcVEWJ_JHmWqjYUlp87dAluJsx_pyc96tyrrUTz2sqMhBaiwZ6Cx3XyoFyA64vnmgt4hZZb7rcsixX8eZUNcavo91c-v4ZJ3-sWBJJ0XXFwkdqDsF0FAUq759FdM8JM6ker5OW4mtBBRz7EoY1ULJPpQH5C2ydEHww9DPekayG7Dy_ObaKRouHsaeSqTLs05hvkQxwuIlnY0uY6MTPbYgxRtVXjtQ_edFEIw"
+        },
+        {
+          "position": 13,
+          "title": "Chennai Medical Transcription Training and Services",
+          "place_id": "ChIJIfNhs1JhUjoRhA9195mQNXQ",
+          "data_id": "0x3a526152b361f321:0x74359099f7750f84",
+          "data_cid": "8373758073121345412",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a526152b361f321%3A0x74359099f7750f84&engine=google_maps_reviews&hl=ta",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a526152b361f321%3A0x74359099f7750f84&engine=google_maps_photos&hl=ta",
+          "gps_coordinates": {
+            "latitude": 13.068166399999999,
+            "longitude": 80.1727552
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=ta&place_id=ChIJIfNhs1JhUjoRhA9195mQNXQ",
+          "provider_id": "/g/11yh1h2m90",
+          "type": "\u0baa\u0baf\u0bbf\u0bb1\u0bcd\u0b9a\u0bbf \u0bae\u0bc8\u0baf\u0bae\u0bcd",
+          "types": [
+            "\u0baa\u0baf\u0bbf\u0bb1\u0bcd\u0b9a\u0bbf \u0bae\u0bc8\u0baf\u0bae\u0bcd"
+          ],
+          "type_id": "training_center",
+          "type_ids": [
+            "training_center"
+          ],
+          "address": "359F+746, Brigade Xanadu Destino, Chinna Nolambur, Chennai, Tamil Nadu 600095",
+          "country": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "open_state": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 10:30 AM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "hours": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 10:30 AM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "operating_hours": {
+            "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1": "Closed",
+            "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd": "10:30AM\u20138:30PM",
+            "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd": "10:30AM\u20138:30PM",
+            "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd": "10:30AM\u20138:30PM",
+            "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd": "10:30AM\u20138:30PM",
+            "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf": "10:30AM\u20138:30PM",
+            "\u0b9a\u0ba9\u0bbf": "Closed"
+          },
+          "extensions": [
+            {
+              "from_the_business": [
+                "\u0baa\u0bc6\u0ba3\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0b9a\u0bcd \u0b9a\u0bca\u0ba8\u0bcd\u0ba4\u0bae\u0bbe\u0ba9\u0ba4\u0bbe\u0b95\u0b95\u0bcd \u0b95\u0ba3\u0bcd\u0b9f\u0bb1\u0bbf\u0baf\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0ba4\u0bc1"
+              ]
+            },
+            {
+              "service_options": [
+                "\u0b86\u0ba9\u0bcd\u0bb2\u0bc8\u0ba9\u0bcd \u0bb5\u0b95\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bcd",
+                "\u0b86\u0ba9\u0bcd\u0b9a\u0bc8\u0b9f\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd"
+              ]
+            },
+            {
+              "accessibility": [
+                "\u0b9a\u0b95\u0bcd\u0b95\u0bb0 \u0ba8\u0bbe\u0bb1\u0bcd\u0b95\u0bbe\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8f\u0bb1\u0bcd\u0bb1 \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc8"
+              ]
+            },
+            {
+              "planning": [
+                "\u0b85\u0baa\u0bcd\u0baa\u0bbe\u0baf\u0bbf\u0ba3\u0bcd\u0b9f\u0bcd\u0bae\u0bc6\u0ba3\u0bcd\u0b9f\u0bcd \u0b85\u0bb5\u0b9a\u0bbf\u0baf\u0bae\u0bcd"
+              ]
+            },
+            {
+              "parking": [
+                "\u0bb5\u0bc0\u0ba4\u0bbf\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bcd\u0b95\u0bbf\u0b99\u0bcd \u0b9a\u0bc6\u0baf\u0bcd\u0baf\u0bc1\u0bae\u0bcd \u0bb5\u0b9a\u0ba4\u0bbf (\u0b87\u0bb2\u0bb5\u0b9a\u0bae\u0bcd)"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0b86\u0ba9\u0bcd\u0bb2\u0bc8\u0ba9\u0bcd_\u0bb5\u0b95\u0bc1\u0baa\u0bcd\u0baa\u0bc1\u0b95\u0bb3\u0bcd": true,
+            "\u0b86\u0ba9\u0bcd\u0b9a\u0bc8\u0b9f\u0bcd_\u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd": true
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl2HO9Bd5NhrYUhlzsU039_7P-ZnyXUeACN2qyMNhJgbZsFsvLqv5dn8w3adcsvM1uxHNuQsDDfZ8OWErUWoaD1O7XvmkKFLqHcc1SDiLohjdIYaljmP7oy6tPzoTKX3pH6dVcDiz_85t8=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/PhYC7nicHcRNcoIwGADQE0VABsHOdGGNTqoI-IMgG4cmSLQhAb6AwiG7720607d4vz9c6xreDENwe1IqVYqig6KlSupC6glVlVHWgCggMBbkEJ0SMSXh_IM5AW8vMRcjxKY9v7oRyuSQxsViGUybYRfwTfmVwRp6v-kdJr2nnTMK_c7qXiTo9oDxLfPCZNXGicqxFbppX31v135DKLWO-O4r_mCfl1w8qshVw0xHozptU7smM3am-D5ePUd770_LNE3E_6dI_gGNnkfl"
+        },
+        {
+          "position": 14,
+          "title": "Shalom Transcription",
+          "place_id": "ChIJTYT0FxxfUjoRnQwWlW6IBe4",
+          "data_id": "0x3a525f1c17f4844d:0xee05886e95160c9d",
+          "data_cid": "17151264764439432349",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a525f1c17f4844d%3A0xee05886e95160c9d&engine=google_maps_reviews&hl=ta",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a525f1c17f4844d%3A0xee05886e95160c9d&engine=google_maps_photos&hl=ta",
+          "gps_coordinates": {
+            "latitude": 12.9241774,
+            "longitude": 80.13861109999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=ta&place_id=ChIJTYT0FxxfUjoRnQwWlW6IBe4",
+          "provider_id": "/g/11w8xqbkyq",
+          "unclaimed_listing": true,
+          "type": "\u0b9f\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0bcd\u0bb7\u0ba9\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+          "types": [
+            "\u0b9f\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0bcd\u0bb7\u0ba9\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8"
+          ],
+          "type_id": "transcription_service",
+          "type_ids": [
+            "transcription_service"
+          ],
+          "address": "S12, 33, Easwari Nagar Main Rd, Easwari Nagar, Selaiyur, Tambaram, Tamil Nadu 600073",
+          "country": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "phone": "+1 217-280-4520",
+          "website": "http://shalomtranscription.com/",
+          "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mPzllcO851Fn5zldD9T6xw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=135.73543&pitch=0&thumbfov=100",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/lnYywHicHc1LDsIgFADA27CTjxVtTYgb41YX7g3SJ7yEAilYak_jtbyNxgvMfN6ulJT3jOUyApQJoSacwedV0tTGaD3ohJmaOLBJsOKewz1o9IekQ8ReDZfFe3NupTgFufj-2F23cyXmfjMeIRSVQY_GUVt_4hh7alMmVbWcONWtyUtXJRpJd43cNCRhMU5x8l8ecVKC8y99bDmP"
+        },
+        {
+          "position": 15,
+          "title": "Kings Health",
+          "place_id": "ChIJsTOz-pCBHYERZBMJjXKcnUE",
+          "data_id": "0x811d8190fab333b1:0x419d9c728d091364",
+          "data_cid": "4728107199615275876",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x811d8190fab333b1%3A0x419d9c728d091364&engine=google_maps_reviews&hl=ta",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x811d8190fab333b1%3A0x419d9c728d091364&engine=google_maps_photos&hl=ta",
+          "gps_coordinates": {
+            "latitude": 13.0929256,
+            "longitude": 80.2220505
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=ta&place_id=ChIJsTOz-pCBHYERZBMJjXKcnUE",
+          "provider_id": "/g/11y3hpcwp2",
+          "rating": 5,
+          "reviews": 2,
+          "type": "\u0bae\u0bc6\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0b9f\u0bcd\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0bcd\u0bb7\u0ba9\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+          "types": [
+            "\u0bae\u0bc6\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0b9f\u0bcd\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0bcd\u0bb7\u0ba9\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8"
+          ],
+          "type_id": "medical_transcription_service",
+          "type_ids": [
+            "medical_transcription_service"
+          ],
+          "address": "7/333, 24th St, N Block, Annanagar East, Chennai, Tamil Nadu 600102",
+          "country": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "open_state": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 10 AM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "hours": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 10 AM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "operating_hours": {
+            "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1": "Closed",
+            "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd": "10AM\u201310PM",
+            "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd": "10AM\u201310PM",
+            "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd": "10AM\u201310PM",
+            "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd": "10AM\u201310PM",
+            "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf": "10AM\u201310PM",
+            "\u0b9a\u0ba9\u0bbf": "Closed"
+          },
+          "phone": "044 3504 3634",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmVZGH75Ja4EJcOua4QeCoGBtbtwhkKBcuQPB8B3h7htDigc2Od6HrMCNwG83TglmNxDxh8kkV7E4tWHI4nIF5V_7uMflWperQxFqtkoTSYMRq15u_wK1qMHecbCzupM7q3QlSg=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/vRoYbnicHcRRCoIwGADgE5ma2iToIa1cxSpLlHqJWmsLp1P3D6ULdoZuE_Q9fN-PAGj01Lal8EZcKS6Z0ayjqgZWw4iqyuaNtqi2tD3Hx0NWVPklwSjY3Pzlhu7NzU9ZrJII7tCLchtRkx6iMPIEErB4cTrePya4I_GuT0Iv47LaDYtBhGWZo6UPBV779XoV5FdkyFMWDevSYdVCqbLTmRxbNzDXfuu2BDN6j9-mIaj1Unnis951HMcS_6lV_wA5IUTU"
+        },
+        {
+          "position": 16,
+          "title": "CrewCore Consulting Services",
+          "place_id": "ChIJb0JLm7xdUjoRT0PEGIGDadA",
+          "data_id": "0x3a525dbc9b4b426f:0xd069838118c4434f",
+          "data_cid": "15017679022933164879",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a525dbc9b4b426f%3A0xd069838118c4434f&engine=google_maps_reviews&hl=ta",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a525dbc9b4b426f%3A0xd069838118c4434f&engine=google_maps_photos&hl=ta",
+          "gps_coordinates": {
+            "latitude": 12.977319999999999,
+            "longitude": 80.2222907
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=ta&place_id=ChIJb0JLm7xdUjoRT0PEGIGDadA",
+          "provider_id": "/g/11fnqkptcl",
+          "rating": 4.8,
+          "reviews": 9,
+          "type": "\u0bae\u0bc6\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0b9f\u0bcd\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0bcd\u0bb7\u0ba9\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+          "types": [
+            "\u0bae\u0bc6\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bb2\u0bcd \u0b9f\u0bcd\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0bcd\u0bb7\u0ba9\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+            "\u0baa\u0bbf\u0baa\u0bbf\u0b93 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+            "\u0baa\u0bbf\u0baa\u0bbf\u0b93 \u0bb5\u0bc7\u0bb2\u0bc8 \u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bc1 \u0b8f\u0b9c\u0bc6\u0ba9\u0bcd\u0b9a\u0bbf",
+            "\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bcd\u0b9a\u0bbe\u0bb0\u0bcd \u0bb5\u0bb4\u0bbf\u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+            "\u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0b99\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+            "\u0baa\u0baf\u0bbf\u0bb1\u0bcd\u0b9a\u0bbf \u0bae\u0bc8\u0baf\u0bae\u0bcd",
+            "\u0bb5\u0bc7\u0bb2\u0bc8\u0bb5\u0bbe\u0baf\u0bcd\u0baa\u0bcd\u0baa\u0bb1\u0bcd\u0bb1\u0bcb\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9 \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bcd"
+          ],
+          "type_id": "medical_transcription_service",
+          "type_ids": [
+            "medical_transcription_service",
+            "bpo_company",
+            "bpo_placement_agency",
+            "career_guidance_service",
+            "medical_billing_service",
+            "training_center",
+            "unemployment_office"
+          ],
+          "address": "8, 12, LIC Colony 1st St, LIC Colony, Velachery, Chennai, Tamil Nadu 600042",
+          "country": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "open_state": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 10 AM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "hours": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 10 AM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "operating_hours": {
+            "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1": "Closed",
+            "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd": "10AM\u20135PM",
+            "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd": "10AM\u20135PM",
+            "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd": "10AM\u20135PM",
+            "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd": "10AM\u20135PM",
+            "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf": "10AM\u20135PM",
+            "\u0b9a\u0ba9\u0bbf": "Closed"
+          },
+          "phone": "070947 71116",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl-f6ULxvJPUruMr4Yy7U_-juxiVeHHhucs_mG05B_9CcewEunQnsKHfzG5NLo7dWzDducU1bq58Qw0EB1vby0mciuj8Kw0rzklDJe_I8YXJdh0uyYSKTptR3VXPFjmg_E1nC7nNQ=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/6ZzOWXicHcRdDoIgAADgE5G4Mq2th34s02pamfrEFqJoCiaQ6Q07Qrdp63v4vh8qZSPmmlbR8SjnPK-IEqTFnEnC5AjzWssbAbAAQls6Z_8aVSCbhof3y_XDVh3bSdKbIQKlehc34jhUYYHqHTRWaLbGpLMVC5jwnGzYGacDN9No2KQKh_r9aVhBB-2V_rr3sMaFKi2vg-3wqDYuQXsrid2UQtUnF-_ayPP4Fvvbss6RrbO1yU7BotMhhID-x4D9AFwbRlk"
+        },
+        {
+          "position": 17,
+          "title": "\u0b8e\u0ba9\u0bcd\u0b9a\u0bc8\u0b9f\u0bcd \u0b9a\u0bca\u0bb2\u0bbf\u0baf\u0bc2\u0bb7\u0ba9\u0bcd\u0bb8\u0bcd \u0baa\u0bcd\u0bb5\u0bcd\u0b9f\u0bcd \u0bb2\u0b9f",
+          "place_id": "ChIJ443FVpNnUjoRVlsGp8t2NSY",
+          "data_id": "0x3a52679356c58de3:0x263576cba7065b56",
+          "data_cid": "2753237364259576662",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52679356c58de3%3A0x263576cba7065b56&engine=google_maps_reviews&hl=ta",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a52679356c58de3%3A0x263576cba7065b56&engine=google_maps_photos&hl=ta",
+          "gps_coordinates": {
+            "latitude": 13.007168499999999,
+            "longitude": 80.2539709
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=ta&place_id=ChIJ443FVpNnUjoRVlsGp8t2NSY",
+          "provider_id": "/g/11b6gdf331",
+          "rating": 4.3,
+          "reviews": 34,
+          "type": "\u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0b99\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+          "types": [
+            "\u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5 \u0baa\u0bbf\u0bb2\u0bcd\u0bb2\u0bbf\u0b99\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+            "\u0baa\u0bbf\u0baa\u0bbf\u0b93 \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+            "\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0b95 \u0baa\u0bb0\u0bbf\u0bae\u0bbe\u0bb1\u0bcd\u0bb1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+            "\u0b95\u0ba3\u0bbf\u0ba9\u0bbf \u0b86\u0ba4\u0bb0\u0bb5\u0bc1 \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd"
+          ],
+          "type_id": "medical_billing_service",
+          "type_ids": [
+            "medical_billing_service",
+            "bpo_company",
+            "business_to_business_service",
+            "computer_support_and_services"
+          ],
+          "address": "Gandhi Nagar 1st Main Rd, \u0b95\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf \u0ba8\u0b95\u0bb0\u0bcd, \u0b85\u0b9f\u0bc8\u0baf\u0bbe\u0bb1\u0bc1, \u0b9a\u0bc6\u0ba9\u0bcd\u0ba9\u0bc8, \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0ba8\u0bbe\u0b9f\u0bc1 600020",
+          "country": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "open_state": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 12 AM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "hours": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 12 AM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "operating_hours": {
+            "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1": "Closed",
+            "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd": "Open 24 hours",
+            "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd": "Open 24 hours",
+            "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd": "Open 24 hours",
+            "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd": "Open 24 hours",
+            "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf": "Open 24 hours",
+            "\u0b9a\u0ba9\u0bbf": "Closed"
+          },
+          "website": "https://nsightglobal.com/",
+          "extensions": [
+            {
+              "service_options": [
+                "\u0b86\u0ba9\u0bcd\u0b9a\u0bc8\u0b9f\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd"
+              ]
+            }
+          ],
+          "unsupported_extensions": [
+            {
+              "accessibility": [
+                "\u0b9a\u0b95\u0bcd\u0b95\u0bb0 \u0ba8\u0bbe\u0bb1\u0bcd\u0b95\u0bbe\u0bb2\u0bbf\u0b95\u0bcd\u0b95\u0bc1 \u0b8f\u0bb1\u0bcd\u0bb1 \u0ba8\u0bc1\u0bb4\u0bc8\u0bb5\u0bbe\u0baf\u0bbf\u0bb2\u0bcd"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0b86\u0ba9\u0bcd\u0b9a\u0bc8\u0b9f\u0bcd_\u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd": true
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlWE2Xl_1FOtdQycQns8Hm3lBrU5RDcTM1Z_AglnuCmSUqb1KJ2BMFU5orHGLbb_CYW1kaEXTq6evC7VZZ0HzJHVWks-ZgR0q0QDj3QgjRHNrbbd0kSg9uuhkJcuTFaKKhquUcl_X2L45Yy=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/MDwdHXicHcTNboIwAADgJ6q0IDpNdhAUG_APBEEuxFbSRkortHVxL7nz3mbJvsP3-8ONeeql4wjuTZhSTLRWtyNV0rTSTKjqHfbUgGqgnRXOTnkpyo1biQZFR3NP3zSV-gP3ngjGws_WNN-julkxIW3Yn4uBoCR2g31U-GrE2x0hTXgtUXfbVPkwa1_h_FLXEH_H-FJ2GtQsgwNM1w8vZY8MH0ZC7rA7s4W1vIupzaNbkvDBFlQ0lbub-tf35xeCEAL-PwXyD3QeRyE"
+        },
+        {
+          "position": 18,
+          "title": "TransCloud Language Services | Certified Document Translation Services",
+          "place_id": "ChIJw4hrXoZlUjoR8EIxW-slfog",
+          "data_id": "0x3a5265865e6b88c3:0x887e25eb5b3142f0",
+          "data_cid": "9835340329001239280",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a5265865e6b88c3%3A0x887e25eb5b3142f0&engine=google_maps_reviews&hl=ta",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a5265865e6b88c3%3A0x887e25eb5b3142f0&engine=google_maps_photos&hl=ta",
+          "gps_coordinates": {
+            "latitude": 13.1189719,
+            "longitude": 80.27265349999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=ta&place_id=ChIJw4hrXoZlUjoR8EIxW-slfog",
+          "provider_id": "/g/11sq8d2gvw",
+          "rating": 5,
+          "reviews": 66,
+          "type": "\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+          "types": [
+            "\u0bae\u0bca\u0bb4\u0bbf\u0baa\u0bc6\u0baf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0bc1\u0b9a\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8",
+            "\u0b9f\u0bbf\u0bb0\u0bbe\u0ba9\u0bcd\u0bb8\u0bcd\u0b95\u0bbf\u0bb0\u0bbf\u0baa\u0bcd\u0bb7\u0ba9\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator",
+            "transcription_service"
+          ],
+          "address": "B-Block, 26/48, Kamaraj Nagar 3rd St, Meenambal Nagar, Ezhil Nagar, Kodungaiyur, Chennai, Tamil Nadu 600021",
+          "country": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "open_state": "24 \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0\u0bae\u0bc1\u0bae\u0bcd \u0b87\u0baf\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd",
+          "hours": "24 \u0bae\u0ba3\u0bbf\u0ba8\u0bc7\u0bb0\u0bae\u0bc1\u0bae\u0bcd \u0b87\u0baf\u0b99\u0bcd\u0b95\u0bc1\u0bae\u0bcd",
+          "operating_hours": {
+            "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1": "Open 24 hours",
+            "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd": "Open 24 hours",
+            "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd": "Open 24 hours",
+            "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd": "Open 24 hours",
+            "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd": "Open 24 hours",
+            "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf": "Open 24 hours",
+            "\u0b9a\u0ba9\u0bbf": "Open 24 hours"
+          },
+          "phone": "093446 97173",
+          "website": "http://www.transcloudservices.com/",
+          "extensions": [
+            {
+              "service_options": [
+                "\u0b86\u0ba9\u0bcd\u0bb2\u0bc8\u0ba9\u0bcd \u0b85\u0baa\u0bcd\u0baa\u0bbe\u0baf\u0bbf\u0ba3\u0bcd\u0b9f\u0bcd\u0bae\u0bc6\u0ba3\u0bcd\u0b9f\u0bcd\u0b95\u0bb3\u0bcd",
+                "\u0b86\u0ba9\u0bcd\u0b9a\u0bc8\u0b9f\u0bcd \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd"
+              ]
+            },
+            {
+              "planning": [
+                "\u0b85\u0baa\u0bcd\u0baa\u0bbe\u0baf\u0bbf\u0ba3\u0bcd\u0b9f\u0bcd\u0bae\u0bc6\u0ba3\u0bcd\u0b9f\u0bcd \u0b85\u0bb5\u0b9a\u0bbf\u0baf\u0bae\u0bcd"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0b86\u0ba9\u0bcd\u0bb2\u0bc8\u0ba9\u0bcd_\u0b85\u0baa\u0bcd\u0baa\u0bbe\u0baf\u0bbf\u0ba3\u0bcd\u0b9f\u0bcd\u0bae\u0bc6\u0ba3\u0bcd\u0b9f\u0bcd\u0b95\u0bb3\u0bcd": true,
+            "\u0b86\u0ba9\u0bcd\u0b9a\u0bc8\u0b9f\u0bcd_\u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bcd": true
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl97rwxPTz-xO9OGhL5gAK37ifKxcSsr0yKTssPha7f6X54t0OgAWSOEtTt37-21G-ywryQcfM8YgHCHldSHwWYDTUNIppMxwD7FfZ7ziE2ELFdtwVF_fuvUeADEQHdbgznx7uR=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/r5qGv3icHcRRDoIgAADQE5GUFdXWh0uNZqUlZvXTCgXaTJ1goBfsDN2mrffxvh-hVC0XllUIe8Crihd5K_OGVqXKSzWg1cvitQRUAmk5-BiRtJijRpuI9MCE83AtthPuBDZ6ssDQWDawC4iUkbgjNj1PxgqG3Enj0FNE2QiMhmvQ6aY7ULabXThe4SKLsU4vLkn2m7reGe0in11R__RG3tbPlD75N9a-k9xxvQPOHrwvDWqPSz2EEALxn4LyBz0PRLY"
+        },
+        {
+          "position": 19,
+          "title": "ScribeMedics Solutions | Virtual Medical Scribe services",
+          "place_id": "ChIJjZWdDHxnUjoRpYC5RkC7JjY",
+          "data_id": "0x3a52677c0c9d958d:0x3626bb4046b980a5",
+          "data_cid": "3902012011901976741",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a52677c0c9d958d%3A0x3626bb4046b980a5&engine=google_maps_reviews&hl=ta",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a52677c0c9d958d%3A0x3626bb4046b980a5&engine=google_maps_photos&hl=ta",
+          "gps_coordinates": {
+            "latitude": 13.0650543,
+            "longitude": 80.2349601
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=ta&place_id=ChIJjZWdDHxnUjoRpYC5RkC7JjY",
+          "provider_id": "/g/11qg2_54_8",
+          "rating": 4.8,
+          "reviews": 6,
+          "type": "\u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9 \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bcd",
+          "types": [
+            "\u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9 \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bcd"
+          ],
+          "type_id": "corporate_office",
+          "type_ids": [
+            "corporate_office"
+          ],
+          "address": "82/5, Sterling Rd, opp. LOYOLA COLLEGE, Nungambakkam, Chennai, Tamil Nadu 600034",
+          "country": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "open_state": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 5 PM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "hours": "\u0bae\u0bc2\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bc1\u0bb3\u0bcd\u0bb3\u0ba4\u0bc1 \u00b7 \u0ba4\u0bbf\u0bb1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0ba8\u0bc7\u0bb0\u0bae\u0bcd: 5 PM \u0ba4\u0bbf\u0b99\u0bcd.",
+          "operating_hours": {
+            "\u0b9e\u0bbe\u0baf\u0bbf\u0bb1\u0bc1": "Closed",
+            "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bb3\u0bcd": "5PM\u20135AM",
+            "\u0b9a\u0bc6\u0bb5\u0bcd\u0bb5\u0bbe\u0baf\u0bcd": "5PM\u20135AM",
+            "\u0baa\u0bc1\u0ba4\u0ba9\u0bcd": "5PM\u20135AM",
+            "\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd": "5PM\u20135AM",
+            "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bbf": "5PM\u20135AM",
+            "\u0b9a\u0ba9\u0bbf": "Closed"
+          },
+          "website": "http://www.scribemedics.org/",
+          "extensions": [
+            {
+              "amenities": [
+                "\u0b95\u0bb4\u0bbf\u0baa\u0bcd\u0baa\u0bb1\u0bc8"
+              ]
+            }
+          ],
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkF3zmIXY42oPmz91TqJ3fd4WURJwtSakYgvc4Bc_v8ZFOpVKcxo20_h6DHCRbBlNtBHsrCox60ZbHHk2aCXw8ss4ZktDLiCqEkpVbnW9z-_T3QfuHQoEc175oVv1CJJt09yqWlMw=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/426s93icHcRJDoIwFADQE1XK4ICJC6maijMiKBsiFcEU-GArIDf0CN7GxLd4308qZSnGipKlei8BSLL4JeIng0LGhewxyJWkFIgJJJQpdfauzxd6ly_PF0ODfd6ZqlvZ-v1m-CfHbuTxyi9JzQyLhfUoWOxKb8Va0HCYDmaUOJGVbaVFxZNAO8BBRCnXruTcjIQwAi5n6wep5rz0osI3OxS6-uH-ogeYM3XYB69WiW1LbL4rP9s0k0bFGKP0P0PFD-kaRUY"
+        },
+        {
+          "position": 20,
+          "title": "MEDICAL BILLING & TRANSCRIPTION",
+          "place_id": "ChIJAdUnjfFnUjoRQpf2jzB0yUU",
+          "data_id": "0x3a5267f18d27d501:0x45c974308ff69742",
+          "data_cid": "5028678210858424130",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a5267f18d27d501%3A0x45c974308ff69742&engine=google_maps_reviews&hl=ta",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a5267f18d27d501%3A0x45c974308ff69742&engine=google_maps_photos&hl=ta",
+          "gps_coordinates": {
+            "latitude": 13.0482841,
+            "longitude": 80.2379196
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=ta&place_id=ChIJAdUnjfFnUjoRQpf2jzB0yUU",
+          "provider_id": "/g/11pcppn0wt",
+          "unclaimed_listing": true,
+          "type": "\u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9 \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bcd",
+          "types": [
+            "\u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9 \u0b85\u0bb2\u0bc1\u0bb5\u0bb2\u0b95\u0bae\u0bcd"
+          ],
+          "type_id": "corporate_office",
+          "type_ids": [
+            "corporate_office"
+          ],
+          "address": "24, Bhagirathi Ammal St, Rama Kamath Puram, T. Nagar, Chennai, Tamil Nadu 600017",
+          "country": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+          "website": "http://www.medicalbilling.in/",
+          "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pYM6hBSQAJt9_mo7hEpITA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=359.98883&pitch=0&thumbfov=100",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/aFgOLHicHc1BCgIhFADQ27hLnYZKA4kJWhS0iNq0GhwzFZzxM_7Guk3X6jZFF3jv8_aIkNeMZRytxSnYAuFpY56Bpi4lF62GkKlJPZsqhv7Rd4MOcQN6SOGm4Hpc-u351BxQtn1a-R3sLw0xXWtisAOqbPVoPHXlJ47pRh1kUpTgxCs5Jy9dVL2QVAohagIBjVec_Jd7mlTF-RdmFDlc"
+        }
+      ],
+      "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?engine=google_maps&gl=in&google_domain=google.com&hl=ta&ll=%4013.0827%2C80.2707%2C12z&q=transcription+services+Tamil&start=20&type=search"
+      }
+    }
+  }
+}

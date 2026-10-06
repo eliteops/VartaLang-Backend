@@ -1,0 +1,441 @@
+{
+  "engine": "google_jobs",
+  "hl_used": "hi",
+  "hl_requested": "hi",
+  "pages": [
+    {
+      "search_metadata": {
+        "id": "6ac22ac0079a2bf6ad8aeecb",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/KsWTuI0oAOs_GGSaPiVw1YN_r5nQ9irfgQXvIlGVa60/6ac22ac0079a2bf6ad8aeecb.json",
+        "markdown_endpoint": "https://serpapi.com/searches/KsWTuI0oAOs_GGSaPiVw1YN_r5nQ9irfgQXvIlGVa60/6ac22ac0079a2bf6ad8aeecb.md",
+        "created_at": "2026-10-04 10:30:24 UTC",
+        "processed_at": "2026-10-04 10:30:24 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=Hindi+translator+OR+interpreter+OR+transcription&uule=w+CAIQICILRGVsaGksSW5kaWE&hl=hi&gl=in&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/KsWTuI0oAOs_GGSaPiVw1YN_r5nQ9irfgQXvIlGVa60/6ac22ac0079a2bf6ad8aeecb.html",
+        "total_time_taken": 21.01
+      },
+      "search_parameters": {
+        "q": "Hindi translator OR interpreter OR transcription",
+        "engine": "google_jobs",
+        "location_requested": "Delhi, India",
+        "location_used": "Delhi,India",
+        "google_domain": "google.com",
+        "hl": "hi",
+        "gl": "in"
+      },
+      "filters": [
+        {
+          "name": "\u091c\u0949\u092c \u091f\u093e\u0907\u092a",
+          "options": [
+            {
+              "name": "\u092b\u093c\u0941\u0932 \u091f\u093e\u0907\u092e",
+              "parameters": {
+                "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rEulk5OLVyxHg2tSl2ZBQ7Za-s4ZQdrgNP2z8p8XgVvV3jbg_4ZiwXHE-H7_eIsRp3Za0ryW7ISr9ovpSD2sI6w2emHksVBp-g5S6GZ2vQ248xyv9lPZ73BazKcInql4770WoyEZsx12Ahge-b592DSqZnFEyBYO4X0vro4Lr2Oq80xUkvlgVjOTL_Zd9XkLTeYYmCtC6PrKFjhP-Qkahn8W3kiLFUr7CNVGGPR6Kag-3kXL1IH1ON_2sZsE3ZdQ05e3thCoImAuhw5gQo3gReeDKjswSKWTZon6DUbErPyAEoRf4LYLQrg9NJTeZ9XbiPCPLQcpUKwWKeyjHsDJ3_Qe0w_1aMDdT5RSUNnuvcIsDkPmi72Tjp6tCbkvzTQH63YUesF8KxnvDZ68oprfbbhS5JGj14jd_QDQ3AvZLvrLL41gf",
+                "q": "Hindi translator OR interpreter OR transcription \u092b\u093c\u0941\u0932 \u091f\u093e\u0907\u092e"
+              },
+              "link": "https://www.google.com/search?sca_esv=dce00dddc27a3d31&gl=in&hl=hi&sxsrf=APpeQntRBlgph5BhIUvoBSM4qlH0s0ocaQ:1791109844529&q=Hindi+translator+OR+interpreter+OR+transcription+%E0%A4%AB%E0%A4%BC%E0%A5%81%E0%A4%B2+%E0%A4%9F%E0%A4%BE%E0%A4%87%E0%A4%AE&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rEulk5OLVyxHg2tSl2ZBQ7Za-s4ZQdrgNP2z8p8XgVvV3jbg_4ZiwXHE-H7_eIsRp3Za0ryW7ISr9ovpSD2sI6w2emHksVBp-g5S6GZ2vQ248xyv9lPZ73BazKcInql4770WoyEZsx12Ahge-b592DSqZnFEyBYO4X0vro4Lr2Oq80xUkvlgVjOTL_Zd9XkLTeYYmCtC6PrKFjhP-Qkahn8W3kiLFUr7CNVGGPR6Kag-3kXL1IH1ON_2sZsE3ZdQ05e3thCoImAuhw5gQo3gReeDKjswSKWTZon6DUbErPyAEoRf4LYLQrg9NJTeZ9XbiPCPLQcpUKwWKeyjHsDJ3_Qe0w_1aMDdT5RSUNnuvcIsDkPmi72Tjp6tCbkvzTQH63YUesF8KxnvDZ68oprfbbhS5JGj14jd_QDQ3AvZLvrLL41gf&udm=8&sa=X&ved=2ahUKEwjDsaWQlKCXAxUUhysGHQ_tLyYQkbEKegQIGRAC",
+              "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&q=Hindi+translator+OR+interpreter+OR+transcription+%E0%A4%AB%E0%A4%BC%E0%A5%81%E0%A4%B2+%E0%A4%9F%E0%A4%BE%E0%A4%87%E0%A4%AE&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rEulk5OLVyxHg2tSl2ZBQ7Za-s4ZQdrgNP2z8p8XgVvV3jbg_4ZiwXHE-H7_eIsRp3Za0ryW7ISr9ovpSD2sI6w2emHksVBp-g5S6GZ2vQ248xyv9lPZ73BazKcInql4770WoyEZsx12Ahge-b592DSqZnFEyBYO4X0vro4Lr2Oq80xUkvlgVjOTL_Zd9XkLTeYYmCtC6PrKFjhP-Qkahn8W3kiLFUr7CNVGGPR6Kag-3kXL1IH1ON_2sZsE3ZdQ05e3thCoImAuhw5gQo3gReeDKjswSKWTZon6DUbErPyAEoRf4LYLQrg9NJTeZ9XbiPCPLQcpUKwWKeyjHsDJ3_Qe0w_1aMDdT5RSUNnuvcIsDkPmi72Tjp6tCbkvzTQH63YUesF8KxnvDZ68oprfbbhS5JGj14jd_QDQ3AvZLvrLL41gf"
+            },
+            {
+              "name": "\u092a\u093e\u0930\u094d\u091f \u091f\u093e\u0907\u092e",
+              "parameters": {
+                "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rYrXcG7Cw9FmTTsZT4t0ucYVY8p97f6JmVlMd6zlF5sSBS6WrbwmiheuYHiyb-6RGPOfYPaMVxk2col5TXTsUZa5delArTtqCKE0GV3qmbX0mq7J0bZSn2l-Sw7KWS-ZOHf_PvieVFlj4MDuF6O47SBSkazowRgXzU_QMKF0M8ksoJw8XpUl6ce7RZECWZlZKelWKg73RD2hcHadX4ws4J5ZaxxjOnw-ZPUepLEFMz3V2LpV7f4nAgXgFV-dGbcyuoXLIb9hH0aqs6nv_NjVyr_Ne8B4XuLldq-XzdjW1bqPA4g4J-XYyjpjBJN6Wb7Nd1I5jHXYWEP5r5zBmo7fBa_noJvCeDkoPoaIIM1mqjjhtZgFsYpbYkbvwJkiQtl1eoc6zwSoxtXwiArlYT70QaNGPvZYOxLlipR4QsdHDNQp8U6kM",
+                "q": "Hindi translator OR interpreter OR transcription \u092a\u093e\u0930\u094d\u091f \u091f\u093e\u0907\u092e"
+              },
+              "link": "https://www.google.com/search?sca_esv=dce00dddc27a3d31&gl=in&hl=hi&sxsrf=APpeQntRBlgph5BhIUvoBSM4qlH0s0ocaQ:1791109844529&q=Hindi+translator+OR+interpreter+OR+transcription+%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F+%E0%A4%9F%E0%A4%BE%E0%A4%87%E0%A4%AE&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYrXcG7Cw9FmTTsZT4t0ucYVY8p97f6JmVlMd6zlF5sSBS6WrbwmiheuYHiyb-6RGPOfYPaMVxk2col5TXTsUZa5delArTtqCKE0GV3qmbX0mq7J0bZSn2l-Sw7KWS-ZOHf_PvieVFlj4MDuF6O47SBSkazowRgXzU_QMKF0M8ksoJw8XpUl6ce7RZECWZlZKelWKg73RD2hcHadX4ws4J5ZaxxjOnw-ZPUepLEFMz3V2LpV7f4nAgXgFV-dGbcyuoXLIb9hH0aqs6nv_NjVyr_Ne8B4XuLldq-XzdjW1bqPA4g4J-XYyjpjBJN6Wb7Nd1I5jHXYWEP5r5zBmo7fBa_noJvCeDkoPoaIIM1mqjjhtZgFsYpbYkbvwJkiQtl1eoc6zwSoxtXwiArlYT70QaNGPvZYOxLlipR4QsdHDNQp8U6kM&udm=8&sa=X&ved=2ahUKEwjDsaWQlKCXAxUUhysGHQ_tLyYQkbEKegQIGRAD",
+              "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&q=Hindi+translator+OR+interpreter+OR+transcription+%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F+%E0%A4%9F%E0%A4%BE%E0%A4%87%E0%A4%AE&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYrXcG7Cw9FmTTsZT4t0ucYVY8p97f6JmVlMd6zlF5sSBS6WrbwmiheuYHiyb-6RGPOfYPaMVxk2col5TXTsUZa5delArTtqCKE0GV3qmbX0mq7J0bZSn2l-Sw7KWS-ZOHf_PvieVFlj4MDuF6O47SBSkazowRgXzU_QMKF0M8ksoJw8XpUl6ce7RZECWZlZKelWKg73RD2hcHadX4ws4J5ZaxxjOnw-ZPUepLEFMz3V2LpV7f4nAgXgFV-dGbcyuoXLIb9hH0aqs6nv_NjVyr_Ne8B4XuLldq-XzdjW1bqPA4g4J-XYyjpjBJN6Wb7Nd1I5jHXYWEP5r5zBmo7fBa_noJvCeDkoPoaIIM1mqjjhtZgFsYpbYkbvwJkiQtl1eoc6zwSoxtXwiArlYT70QaNGPvZYOxLlipR4QsdHDNQp8U6kM"
+            },
+            {
+              "name": "\u0915\u0949\u0928\u094d\u091f\u094d\u0930\u0948\u0915\u094d\u091f",
+              "parameters": {
+                "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rM1vzxiQSuIsOxyVXVZ3uJie-7tdvQIjXjPDNBD8vk43SXKNUZ_1AKdxTkUZ2tjrBY161shGmRxzVP9K0qlskIHVJOXoZ_kLsOpsvLYXEKRMK95ALVwS0LkaVW-oNyEAnJBNOHs8q9AwqgreBHC5QmAUTLaeJUkaQeYKSG9LjZM5-IwEcGrwtreT_wQl4Vy3O1z6CWWKbFtEhIiK7AZ6bY-EHQ16Z17Spumlitb7NQf3kf67HZb2IMYbNqD6ZIgueraQ0974wkOxBCT3VaSSI3fMhoMHcY6hvaxo5SszSO-Zpele6rypYinnXAyKtznEvz6n5vPJIuRLYOwtRW1oGJssohK0zJL_Yvz8Zmwwlcn_p6au31oI6uUSVwt4DybftP75wPIefLisXdLJFdOFVTughHvrxVoSWB4uWaiN7FjKwjsSG",
+                "q": "Hindi translator OR interpreter OR transcription \u0915\u0949\u0928\u094d\u091f\u094d\u0930\u0948\u0915\u094d\u091f"
+              },
+              "link": "https://www.google.com/search?sca_esv=dce00dddc27a3d31&gl=in&hl=hi&sxsrf=APpeQntRBlgph5BhIUvoBSM4qlH0s0ocaQ:1791109844529&q=Hindi+translator+OR+interpreter+OR+transcription+%E0%A4%95%E0%A5%89%E0%A4%A8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%88%E0%A4%95%E0%A5%8D%E0%A4%9F&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rM1vzxiQSuIsOxyVXVZ3uJie-7tdvQIjXjPDNBD8vk43SXKNUZ_1AKdxTkUZ2tjrBY161shGmRxzVP9K0qlskIHVJOXoZ_kLsOpsvLYXEKRMK95ALVwS0LkaVW-oNyEAnJBNOHs8q9AwqgreBHC5QmAUTLaeJUkaQeYKSG9LjZM5-IwEcGrwtreT_wQl4Vy3O1z6CWWKbFtEhIiK7AZ6bY-EHQ16Z17Spumlitb7NQf3kf67HZb2IMYbNqD6ZIgueraQ0974wkOxBCT3VaSSI3fMhoMHcY6hvaxo5SszSO-Zpele6rypYinnXAyKtznEvz6n5vPJIuRLYOwtRW1oGJssohK0zJL_Yvz8Zmwwlcn_p6au31oI6uUSVwt4DybftP75wPIefLisXdLJFdOFVTughHvrxVoSWB4uWaiN7FjKwjsSG&udm=8&sa=X&ved=2ahUKEwjDsaWQlKCXAxUUhysGHQ_tLyYQkbEKegQIGRAE",
+              "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&q=Hindi+translator+OR+interpreter+OR+transcription+%E0%A4%95%E0%A5%89%E0%A4%A8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%88%E0%A4%95%E0%A5%8D%E0%A4%9F&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rM1vzxiQSuIsOxyVXVZ3uJie-7tdvQIjXjPDNBD8vk43SXKNUZ_1AKdxTkUZ2tjrBY161shGmRxzVP9K0qlskIHVJOXoZ_kLsOpsvLYXEKRMK95ALVwS0LkaVW-oNyEAnJBNOHs8q9AwqgreBHC5QmAUTLaeJUkaQeYKSG9LjZM5-IwEcGrwtreT_wQl4Vy3O1z6CWWKbFtEhIiK7AZ6bY-EHQ16Z17Spumlitb7NQf3kf67HZb2IMYbNqD6ZIgueraQ0974wkOxBCT3VaSSI3fMhoMHcY6hvaxo5SszSO-Zpele6rypYinnXAyKtznEvz6n5vPJIuRLYOwtRW1oGJssohK0zJL_Yvz8Zmwwlcn_p6au31oI6uUSVwt4DybftP75wPIefLisXdLJFdOFVTughHvrxVoSWB4uWaiN7FjKwjsSG"
+            },
+            {
+              "name": "\u0907\u0902\u091f\u0930\u094d\u0928\u0936\u093f\u092a",
+              "parameters": {
+                "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rNSwSk6_99-y5nNsLR4QBwGB9BlhONXjNYRGvoiQjXXBwnravOvzj0Q-bRa1-wU3Son7Lk7I4U9J0VSTiJwDOJ55jABZwyK6Sgoa42OmIg0rnmZwE5ShfjZVdNs9SPTaCby_sEchVuBP-vdt5_MoPmEp2mRAcso8rbNSVwFgeBUmmGMSkZO653YmbWkzgg_AQht7CLGSxrQ6dZBHIyEg9H1qcB3z7b_ZOxVCO01ffshPbUS_jr3j5LXe4dRzhCTj6S_m5v0eUiVCo7QYN8gcKH455I7S5b5cvOTL6FFf7QBu1Ky_FQh1-jTMcyRByFdSXM6ffwkdMIDPZ87ZffDOz-9ylnaVMVec6k-WuRnCtJks6-3c-L-byw-L8i55kPfasE6y3VEHwb53Ax5KzPGyk1l9Axm3nElRtBjdGTWRa69XnbElj",
+                "q": "Hindi translator OR interpreter OR transcription \u0907\u0902\u091f\u0930\u094d\u0928\u0936\u093f\u092a"
+              },
+              "link": "https://www.google.com/search?sca_esv=dce00dddc27a3d31&gl=in&hl=hi&sxsrf=APpeQntRBlgph5BhIUvoBSM4qlH0s0ocaQ:1791109844529&q=Hindi+translator+OR+interpreter+OR+transcription+%E0%A4%87%E0%A4%82%E0%A4%9F%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B6%E0%A4%BF%E0%A4%AA&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rNSwSk6_99-y5nNsLR4QBwGB9BlhONXjNYRGvoiQjXXBwnravOvzj0Q-bRa1-wU3Son7Lk7I4U9J0VSTiJwDOJ55jABZwyK6Sgoa42OmIg0rnmZwE5ShfjZVdNs9SPTaCby_sEchVuBP-vdt5_MoPmEp2mRAcso8rbNSVwFgeBUmmGMSkZO653YmbWkzgg_AQht7CLGSxrQ6dZBHIyEg9H1qcB3z7b_ZOxVCO01ffshPbUS_jr3j5LXe4dRzhCTj6S_m5v0eUiVCo7QYN8gcKH455I7S5b5cvOTL6FFf7QBu1Ky_FQh1-jTMcyRByFdSXM6ffwkdMIDPZ87ZffDOz-9ylnaVMVec6k-WuRnCtJks6-3c-L-byw-L8i55kPfasE6y3VEHwb53Ax5KzPGyk1l9Axm3nElRtBjdGTWRa69XnbElj&udm=8&sa=X&ved=2ahUKEwjDsaWQlKCXAxUUhysGHQ_tLyYQkbEKegQIGRAF",
+              "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&q=Hindi+translator+OR+interpreter+OR+transcription+%E0%A4%87%E0%A4%82%E0%A4%9F%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B6%E0%A4%BF%E0%A4%AA&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rNSwSk6_99-y5nNsLR4QBwGB9BlhONXjNYRGvoiQjXXBwnravOvzj0Q-bRa1-wU3Son7Lk7I4U9J0VSTiJwDOJ55jABZwyK6Sgoa42OmIg0rnmZwE5ShfjZVdNs9SPTaCby_sEchVuBP-vdt5_MoPmEp2mRAcso8rbNSVwFgeBUmmGMSkZO653YmbWkzgg_AQht7CLGSxrQ6dZBHIyEg9H1qcB3z7b_ZOxVCO01ffshPbUS_jr3j5LXe4dRzhCTj6S_m5v0eUiVCo7QYN8gcKH455I7S5b5cvOTL6FFf7QBu1Ky_FQh1-jTMcyRByFdSXM6ffwkdMIDPZ87ZffDOz-9ylnaVMVec6k-WuRnCtJks6-3c-L-byw-L8i55kPfasE6y3VEHwb53Ax5KzPGyk1l9Axm3nElRtBjdGTWRa69XnbElj"
+            }
+          ]
+        },
+        {
+          "name": "\u091c\u0949\u092c \u091f\u093e\u0907\u092a",
+          "options": [
+            {
+              "name": "\u092b\u093c\u0941\u0932 \u091f\u093e\u0907\u092e",
+              "parameters": {
+                "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rEulk5OLVyxHg2tSl2ZBQ7Za-s4ZQdrgNP2z8p8XgVvV3jbg_4ZiwXHE-H7_eIsRp3Za0ryW7ISr9ovpSD2sI6w2emHksVBp-g5S6GZ2vQ248xyv9lPZ73BazKcInql4770WoyEZsx12Ahge-b592DSqZnFEyBYO4X0vro4Lr2Oq80xUkvlgVjOTL_Zd9XkLTeYYmCtC6PrKFjhP-Qkahn8W3kiLFUr7CNVGGPR6Kag-3kXL1IH1ON_2sZsE3ZdQ05e3thCoImAuhw5gQo3gReeDKjswSKWTZon6DUbErPyAEoRf4LYLQrg9NJTeZ9XbiPCPLQcpUKwWKeyjHsDJ3_Qe0w_1aMDdT5RSUNnuvcIsDkPmi72Tjp6tCbkvzTQH63YUesF8KxnvDZ68oprfbbhS5JGj14jd_QDQ3AvZLvrLL41gf",
+                "q": "Hindi translator OR interpreter OR transcription \u092b\u093c\u0941\u0932 \u091f\u093e\u0907\u092e"
+              },
+              "link": "https://www.google.com/search?sca_esv=dce00dddc27a3d31&gl=in&hl=hi&sxsrf=APpeQntRBlgph5BhIUvoBSM4qlH0s0ocaQ:1791109844529&q=Hindi+translator+OR+interpreter+OR+transcription+%E0%A4%AB%E0%A4%BC%E0%A5%81%E0%A4%B2+%E0%A4%9F%E0%A4%BE%E0%A4%87%E0%A4%AE&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rEulk5OLVyxHg2tSl2ZBQ7Za-s4ZQdrgNP2z8p8XgVvV3jbg_4ZiwXHE-H7_eIsRp3Za0ryW7ISr9ovpSD2sI6w2emHksVBp-g5S6GZ2vQ248xyv9lPZ73BazKcInql4770WoyEZsx12Ahge-b592DSqZnFEyBYO4X0vro4Lr2Oq80xUkvlgVjOTL_Zd9XkLTeYYmCtC6PrKFjhP-Qkahn8W3kiLFUr7CNVGGPR6Kag-3kXL1IH1ON_2sZsE3ZdQ05e3thCoImAuhw5gQo3gReeDKjswSKWTZon6DUbErPyAEoRf4LYLQrg9NJTeZ9XbiPCPLQcpUKwWKeyjHsDJ3_Qe0w_1aMDdT5RSUNnuvcIsDkPmi72Tjp6tCbkvzTQH63YUesF8KxnvDZ68oprfbbhS5JGj14jd_QDQ3AvZLvrLL41gf&udm=8&sa=X&ved=2ahUKEwjDsaWQlKCXAxUUhysGHQ_tLyYQkbEKegQIGRAC",
+              "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&q=Hindi+translator+OR+interpreter+OR+transcription+%E0%A4%AB%E0%A4%BC%E0%A5%81%E0%A4%B2+%E0%A4%9F%E0%A4%BE%E0%A4%87%E0%A4%AE&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rEulk5OLVyxHg2tSl2ZBQ7Za-s4ZQdrgNP2z8p8XgVvV3jbg_4ZiwXHE-H7_eIsRp3Za0ryW7ISr9ovpSD2sI6w2emHksVBp-g5S6GZ2vQ248xyv9lPZ73BazKcInql4770WoyEZsx12Ahge-b592DSqZnFEyBYO4X0vro4Lr2Oq80xUkvlgVjOTL_Zd9XkLTeYYmCtC6PrKFjhP-Qkahn8W3kiLFUr7CNVGGPR6Kag-3kXL1IH1ON_2sZsE3ZdQ05e3thCoImAuhw5gQo3gReeDKjswSKWTZon6DUbErPyAEoRf4LYLQrg9NJTeZ9XbiPCPLQcpUKwWKeyjHsDJ3_Qe0w_1aMDdT5RSUNnuvcIsDkPmi72Tjp6tCbkvzTQH63YUesF8KxnvDZ68oprfbbhS5JGj14jd_QDQ3AvZLvrLL41gf"
+            },
+            {
+              "name": "\u092a\u093e\u0930\u094d\u091f \u091f\u093e\u0907\u092e",
+              "parameters": {
+                "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rYrXcG7Cw9FmTTsZT4t0ucYVY8p97f6JmVlMd6zlF5sSBS6WrbwmiheuYHiyb-6RGPOfYPaMVxk2col5TXTsUZa5delArTtqCKE0GV3qmbX0mq7J0bZSn2l-Sw7KWS-ZOHf_PvieVFlj4MDuF6O47SBSkazowRgXzU_QMKF0M8ksoJw8XpUl6ce7RZECWZlZKelWKg73RD2hcHadX4ws4J5ZaxxjOnw-ZPUepLEFMz3V2LpV7f4nAgXgFV-dGbcyuoXLIb9hH0aqs6nv_NjVyr_Ne8B4XuLldq-XzdjW1bqPA4g4J-XYyjpjBJN6Wb7Nd1I5jHXYWEP5r5zBmo7fBa_noJvCeDkoPoaIIM1mqjjhtZgFsYpbYkbvwJkiQtl1eoc6zwSoxtXwiArlYT70QaNGPvZYOxLlipR4QsdHDNQp8U6kM",
+                "q": "Hindi translator OR interpreter OR transcription \u092a\u093e\u0930\u094d\u091f \u091f\u093e\u0907\u092e"
+              },
+              "link": "https://www.google.com/search?sca_esv=dce00dddc27a3d31&gl=in&hl=hi&sxsrf=APpeQntRBlgph5BhIUvoBSM4qlH0s0ocaQ:1791109844529&q=Hindi+translator+OR+interpreter+OR+transcription+%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F+%E0%A4%9F%E0%A4%BE%E0%A4%87%E0%A4%AE&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYrXcG7Cw9FmTTsZT4t0ucYVY8p97f6JmVlMd6zlF5sSBS6WrbwmiheuYHiyb-6RGPOfYPaMVxk2col5TXTsUZa5delArTtqCKE0GV3qmbX0mq7J0bZSn2l-Sw7KWS-ZOHf_PvieVFlj4MDuF6O47SBSkazowRgXzU_QMKF0M8ksoJw8XpUl6ce7RZECWZlZKelWKg73RD2hcHadX4ws4J5ZaxxjOnw-ZPUepLEFMz3V2LpV7f4nAgXgFV-dGbcyuoXLIb9hH0aqs6nv_NjVyr_Ne8B4XuLldq-XzdjW1bqPA4g4J-XYyjpjBJN6Wb7Nd1I5jHXYWEP5r5zBmo7fBa_noJvCeDkoPoaIIM1mqjjhtZgFsYpbYkbvwJkiQtl1eoc6zwSoxtXwiArlYT70QaNGPvZYOxLlipR4QsdHDNQp8U6kM&udm=8&sa=X&ved=2ahUKEwjDsaWQlKCXAxUUhysGHQ_tLyYQkbEKegQIGRAD",
+              "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&q=Hindi+translator+OR+interpreter+OR+transcription+%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F+%E0%A4%9F%E0%A4%BE%E0%A4%87%E0%A4%AE&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rYrXcG7Cw9FmTTsZT4t0ucYVY8p97f6JmVlMd6zlF5sSBS6WrbwmiheuYHiyb-6RGPOfYPaMVxk2col5TXTsUZa5delArTtqCKE0GV3qmbX0mq7J0bZSn2l-Sw7KWS-ZOHf_PvieVFlj4MDuF6O47SBSkazowRgXzU_QMKF0M8ksoJw8XpUl6ce7RZECWZlZKelWKg73RD2hcHadX4ws4J5ZaxxjOnw-ZPUepLEFMz3V2LpV7f4nAgXgFV-dGbcyuoXLIb9hH0aqs6nv_NjVyr_Ne8B4XuLldq-XzdjW1bqPA4g4J-XYyjpjBJN6Wb7Nd1I5jHXYWEP5r5zBmo7fBa_noJvCeDkoPoaIIM1mqjjhtZgFsYpbYkbvwJkiQtl1eoc6zwSoxtXwiArlYT70QaNGPvZYOxLlipR4QsdHDNQp8U6kM"
+            },
+            {
+              "name": "\u0915\u0949\u0928\u094d\u091f\u094d\u0930\u0948\u0915\u094d\u091f",
+              "parameters": {
+                "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rM1vzxiQSuIsOxyVXVZ3uJie-7tdvQIjXjPDNBD8vk43SXKNUZ_1AKdxTkUZ2tjrBY161shGmRxzVP9K0qlskIHVJOXoZ_kLsOpsvLYXEKRMK95ALVwS0LkaVW-oNyEAnJBNOHs8q9AwqgreBHC5QmAUTLaeJUkaQeYKSG9LjZM5-IwEcGrwtreT_wQl4Vy3O1z6CWWKbFtEhIiK7AZ6bY-EHQ16Z17Spumlitb7NQf3kf67HZb2IMYbNqD6ZIgueraQ0974wkOxBCT3VaSSI3fMhoMHcY6hvaxo5SszSO-Zpele6rypYinnXAyKtznEvz6n5vPJIuRLYOwtRW1oGJssohK0zJL_Yvz8Zmwwlcn_p6au31oI6uUSVwt4DybftP75wPIefLisXdLJFdOFVTughHvrxVoSWB4uWaiN7FjKwjsSG",
+                "q": "Hindi translator OR interpreter OR transcription \u0915\u0949\u0928\u094d\u091f\u094d\u0930\u0948\u0915\u094d\u091f"
+              },
+              "link": "https://www.google.com/search?sca_esv=dce00dddc27a3d31&gl=in&hl=hi&sxsrf=APpeQntRBlgph5BhIUvoBSM4qlH0s0ocaQ:1791109844529&q=Hindi+translator+OR+interpreter+OR+transcription+%E0%A4%95%E0%A5%89%E0%A4%A8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%88%E0%A4%95%E0%A5%8D%E0%A4%9F&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rM1vzxiQSuIsOxyVXVZ3uJie-7tdvQIjXjPDNBD8vk43SXKNUZ_1AKdxTkUZ2tjrBY161shGmRxzVP9K0qlskIHVJOXoZ_kLsOpsvLYXEKRMK95ALVwS0LkaVW-oNyEAnJBNOHs8q9AwqgreBHC5QmAUTLaeJUkaQeYKSG9LjZM5-IwEcGrwtreT_wQl4Vy3O1z6CWWKbFtEhIiK7AZ6bY-EHQ16Z17Spumlitb7NQf3kf67HZb2IMYbNqD6ZIgueraQ0974wkOxBCT3VaSSI3fMhoMHcY6hvaxo5SszSO-Zpele6rypYinnXAyKtznEvz6n5vPJIuRLYOwtRW1oGJssohK0zJL_Yvz8Zmwwlcn_p6au31oI6uUSVwt4DybftP75wPIefLisXdLJFdOFVTughHvrxVoSWB4uWaiN7FjKwjsSG&udm=8&sa=X&ved=2ahUKEwjDsaWQlKCXAxUUhysGHQ_tLyYQkbEKegQIGRAE",
+              "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&q=Hindi+translator+OR+interpreter+OR+transcription+%E0%A4%95%E0%A5%89%E0%A4%A8%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%88%E0%A4%95%E0%A5%8D%E0%A4%9F&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rM1vzxiQSuIsOxyVXVZ3uJie-7tdvQIjXjPDNBD8vk43SXKNUZ_1AKdxTkUZ2tjrBY161shGmRxzVP9K0qlskIHVJOXoZ_kLsOpsvLYXEKRMK95ALVwS0LkaVW-oNyEAnJBNOHs8q9AwqgreBHC5QmAUTLaeJUkaQeYKSG9LjZM5-IwEcGrwtreT_wQl4Vy3O1z6CWWKbFtEhIiK7AZ6bY-EHQ16Z17Spumlitb7NQf3kf67HZb2IMYbNqD6ZIgueraQ0974wkOxBCT3VaSSI3fMhoMHcY6hvaxo5SszSO-Zpele6rypYinnXAyKtznEvz6n5vPJIuRLYOwtRW1oGJssohK0zJL_Yvz8Zmwwlcn_p6au31oI6uUSVwt4DybftP75wPIefLisXdLJFdOFVTughHvrxVoSWB4uWaiN7FjKwjsSG"
+            },
+            {
+              "name": "\u0907\u0902\u091f\u0930\u094d\u0928\u0936\u093f\u092a",
+              "parameters": {
+                "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rNSwSk6_99-y5nNsLR4QBwGB9BlhONXjNYRGvoiQjXXBwnravOvzj0Q-bRa1-wU3Son7Lk7I4U9J0VSTiJwDOJ55jABZwyK6Sgoa42OmIg0rnmZwE5ShfjZVdNs9SPTaCby_sEchVuBP-vdt5_MoPmEp2mRAcso8rbNSVwFgeBUmmGMSkZO653YmbWkzgg_AQht7CLGSxrQ6dZBHIyEg9H1qcB3z7b_ZOxVCO01ffshPbUS_jr3j5LXe4dRzhCTj6S_m5v0eUiVCo7QYN8gcKH455I7S5b5cvOTL6FFf7QBu1Ky_FQh1-jTMcyRByFdSXM6ffwkdMIDPZ87ZffDOz-9ylnaVMVec6k-WuRnCtJks6-3c-L-byw-L8i55kPfasE6y3VEHwb53Ax5KzPGyk1l9Axm3nElRtBjdGTWRa69XnbElj",
+                "q": "Hindi translator OR interpreter OR transcription \u0907\u0902\u091f\u0930\u094d\u0928\u0936\u093f\u092a"
+              },
+              "link": "https://www.google.com/search?sca_esv=dce00dddc27a3d31&gl=in&hl=hi&sxsrf=APpeQntRBlgph5BhIUvoBSM4qlH0s0ocaQ:1791109844529&q=Hindi+translator+OR+interpreter+OR+transcription+%E0%A4%87%E0%A4%82%E0%A4%9F%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B6%E0%A4%BF%E0%A4%AA&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rNSwSk6_99-y5nNsLR4QBwGB9BlhONXjNYRGvoiQjXXBwnravOvzj0Q-bRa1-wU3Son7Lk7I4U9J0VSTiJwDOJ55jABZwyK6Sgoa42OmIg0rnmZwE5ShfjZVdNs9SPTaCby_sEchVuBP-vdt5_MoPmEp2mRAcso8rbNSVwFgeBUmmGMSkZO653YmbWkzgg_AQht7CLGSxrQ6dZBHIyEg9H1qcB3z7b_ZOxVCO01ffshPbUS_jr3j5LXe4dRzhCTj6S_m5v0eUiVCo7QYN8gcKH455I7S5b5cvOTL6FFf7QBu1Ky_FQh1-jTMcyRByFdSXM6ffwkdMIDPZ87ZffDOz-9ylnaVMVec6k-WuRnCtJks6-3c-L-byw-L8i55kPfasE6y3VEHwb53Ax5KzPGyk1l9Axm3nElRtBjdGTWRa69XnbElj&udm=8&sa=X&ved=2ahUKEwjDsaWQlKCXAxUUhysGHQ_tLyYQkbEKegQIGRAF",
+              "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&q=Hindi+translator+OR+interpreter+OR+transcription+%E0%A4%87%E0%A4%82%E0%A4%9F%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A4%B6%E0%A4%BF%E0%A4%AA&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rNSwSk6_99-y5nNsLR4QBwGB9BlhONXjNYRGvoiQjXXBwnravOvzj0Q-bRa1-wU3Son7Lk7I4U9J0VSTiJwDOJ55jABZwyK6Sgoa42OmIg0rnmZwE5ShfjZVdNs9SPTaCby_sEchVuBP-vdt5_MoPmEp2mRAcso8rbNSVwFgeBUmmGMSkZO653YmbWkzgg_AQht7CLGSxrQ6dZBHIyEg9H1qcB3z7b_ZOxVCO01ffshPbUS_jr3j5LXe4dRzhCTj6S_m5v0eUiVCo7QYN8gcKH455I7S5b5cvOTL6FFf7QBu1Ky_FQh1-jTMcyRByFdSXM6ffwkdMIDPZ87ZffDOz-9ylnaVMVec6k-WuRnCtJks6-3c-L-byw-L8i55kPfasE6y3VEHwb53Ax5KzPGyk1l9Axm3nElRtBjdGTWRa69XnbElj"
+            }
+          ]
+        }
+      ],
+      "jobs_results": [
+        {
+          "title": "Hindi Translator Job",
+          "company_name": "CryptoMize",
+          "location": "\u0928\u0908 \u0926\u093f\u0932\u094d\u0932\u0940, \u0926\u093f\u0932\u094d\u0932\u0940",
+          "via": "Crypto Mize",
+          "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Hindi+translator+OR+interpreter+OR+transcription&htidocid=fY_DnqLXe2TjhrVHAAAAAA%3D%3D&hl=hi-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_-N6y8iV5ZGZl5KpEFKUmFeck1iSX6TglZ-koKvwYMmKB0t7HiyZ-mDJhgdLGxRArKXtQGrNgyX7wGIgzjog9WBJk4J7fn56TipQYBVQCqIWpGX6gyUdQGrag6XdD5bMkbLOKCkpKLbS1y8uztFLLy5JLMlM1kvOz9XPz0tNyq_Qz8pPKgYR8cUZiUWpBUDnpMYbmRpU6BXkpWs5gVwENm7ZgyX7HyzZ9GBpL5hs0MEihuQ256LKgpJ838yqVABqvUQd8AAAAA&shmds=v1_ARwrE22mm-rrBiRSuHvKAqKMWiI65mboMYSaSDAKSLeBNhXlNg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Hindi+translator+OR+interpreter+OR+transcription&htidocid=fY_DnqLXe2TjhrVHAAAAAA%3D%3D",
+          "thumbnail": "https://serpapi.com/searches/6ac22ac0079a2bf6ad8aeecb/images/3FwmTj8IzdlOrXaVH1TYHLAl69vhozAV8tk9bRlONu8.png",
+          "extensions": [
+            "\u095e\u0941\u0932-\u091f\u093e\u0907\u092e"
+          ],
+          "source_link": "https://cryptomize.com/careers/job-openings/hindi-translator/",
+          "job_title": "Hindi Translator Job",
+          "description": "Hindi Translator jobs in Delhi at CryptoMize are open on a rolling, always-hiring basis \u2014 Hindi is our highest-volume language surface, and capacity is staffed ahead of engagements, not after. This is a full-time, permanent position with immediate joining at our New Delhi HQ, inside the linguistics cell that serves political, reputation, and intelligence engagements across the Hindi belt and beyond. Experienced Hindi-to-English and English-to-Hindi professionals will find the complete job description below: responsibilities owned from day one, requirements, seniority path, and selection process.\n\nWhat you will actually do:\n\nHold sign-off on Hindi-English deliverables for the electoral book \u2014 speeches, rally material, and booth-level literature carrying your review markRule on register per audience: the rhetorical Hindi a rally demands against the everyday Hindi a booth volunteer reads, each choice defended at reviewGovern parallel terminology for electoral and administrative vocabulary across the Hindi belt\u2019s state-by-state variationSkills that matter: Native Hindi at sign-off authority, Rhetorical versus everyday register arbitration, State-by-state electoral vocabulary governance, Devanagari production quality at volume, Code-switch preservation judgment, Hindi media-cycle monitoring for engagements.\n\nTools you will use: SDL Trados Studio, memoQ translation memory and terminology, TermBase glossary management, Xbench-class QA tooling.\n\nLocation: New Delhi (HQ), E4, Vasant Vihar. Type: full-time permanent. Availability: immediate, rolling intake. Compensation: discussed at screening. Apply: https://cryptomize.com/careers/job-openings/apply/",
+          "apply_options": [
+            {
+              "title": "Crypto Mize",
+              "link": "https://cryptomize.com/careers/job-openings/hindi-translator/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+            },
+            {
+              "title": "SimplyHired",
+              "link": "https://www.simplyhired.co.in/job/38y82JCXppZ6a9JqRWyOFcYeZwD2kKTu1udQp3ddEMTRe8iTcDvYVw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+            },
+            {
+              "title": "BeBee",
+              "link": "https://bebee.com/in/jobs/hindi-translator-shuban-jweller-delhi-delhi--t7xk-857272318?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+            },
+            {
+              "title": "Jooble",
+              "link": "https://in.jooble.org/jdp/7361426982328281281?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+            },
+            {
+              "title": "Myjobb AI",
+              "link": "https://myjobb.ai/jobs/hindi-translator/10927197?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+            },
+            {
+              "title": "Talents Jobs",
+              "link": "https://talentsjobs.in/hindi-translator-talent-it-solutions-0-to-8-years-151277?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+            }
+          ],
+          "job_id": "eyJqb2JfdGl0bGUiOiJIaW5kaSBUcmFuc2xhdG9yIEpvYiIsImNvbXBhbnlfbmFtZSI6IkNyeXB0b01pemUiLCJodGlkb2NpZCI6ImZZX0RucUxYZTJUamhyVkhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lMUkdWc2FHa3NTVzVrYVdFIiwiZ2wiOiJpbiIsImhsIjoiaGkiLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBUR2xRY0ZwbmRuTllhVUppU1VaNlUzVkJhbGxxUjBGMWMzcDNia3hPYkVGeFkzaHNjbnBEVnpoVVVsaE9WbFI1Y0ZoeVptRTNhSHBTYVMxdlZIZG9jbUpUYjNac2JuTkdSM2hwU1dwck9WaEJTUzFzVDNWb2RISkNXV05pWVdodWNFazFSRE5EVEcxRU1tVk1UM2cyVVVoMk5YZzRjMFpNUjNKcmJFaGljWE51U0hjMFRYRVNGekZEY2tOaGMxQXpTRFZUVDNKMVJWQnFPWEZmYzFGSkdpSkJSSE55T1daVWNGZFZNbmhIYlZobVprRjNlRlpzVEdaSldWUk9ja2g1Y0RGMyIsImZjdiI6IjMiLCJmY19pZCI6ImZZX0RucUxYZTJUamhyVkhBQUFBQUE9PSJ9"
+        },
+        {
+          "title": "Hindi Translator",
+          "company_name": "Double8 Event & Advertising Pvt Ltd",
+          "location": "\u0926\u093f\u0932\u094d\u0932\u0940",
+          "via": "Indeed",
+          "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Hindi+translator+OR+interpreter+OR+transcription&htidocid=qC8U3TM_ok1W7CVNAAAAAA%3D%3D&hl=hi-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_-N6zsiV5pGZl5KpEFKUmFeck1iSX6Sgq_BgyYoHS3seLJn6YMmGB0sbFECspe1Aas2DJfvAYiDOOiD1YEmTgnt-fnpOKlBgFVAKohakZfqDJR1AatqDpd0PlsyRss4oKSkottLXLy7O0UsvLkksyUzWS87P1c_PS03Kr9DPyk8qBhHxxRmJRakFQKekxhuZGlToFeSlazk8WLLswZL9D5ZserC0F0w2IDnAJb80KSfVQsG1LDWvREFNwTGlLLWoJLM4My9dIaCsRMGnJAUAB-Nfz-oAAAA&shmds=v1_ARwrE23E8y2rILPvcIpL8NHaZmYFEji7_uAaUUJXkW884Q2_2g&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Hindi+translator+OR+interpreter+OR+transcription&htidocid=qC8U3TM_ok1W7CVNAAAAAA%3D%3D",
+          "extensions": [
+            "6 \u0926\u093f\u0928 \u092a\u0939\u0932\u0947",
+            "\u20b915\u00a0\u0939\u091c\u093c\u093e\u0930 \u092a\u094d\u0930\u0924\u093f \u092e\u093e\u0939",
+            "\u095e\u0941\u0932-\u091f\u093e\u0907\u092e"
+          ],
+          "source_link": "https://in.indeed.com/viewjob?jk=a7dfebb0073924b7",
+          "job_title": "Hindi Translator",
+          "description": "HINDI TRANSLATOR AND PROOF READING JOB\n\n\nSHOULD BE CAPABLE OF DOING HINDI TRANSLATION FROM ENGLISH TO HINDI, PROOF READING, TYPING OF ADVERTISEMENT TENDER DOCUMENT, BOOKS ETC.\n\n\nSHOULD HAVE 5-6 YEAR EXPERIENCE IN ADVERTISING FIELD.\n\n\nSHARE CV ON DELHI@DOUBLE8EVENTS.COM\n\n\nJob Types: Permanent, Full-time\n\n\nPay: From \u20b915,000.00 per month\n\n\nExperience:\n\n\n\n total work: 3 years (Preferred)\n Hindi: 5 years (Preferred)\n\nLanguage:\n\n\n\n English (Preferred)\n Hindi (Preferred)\n\nWork Location: In person",
+          "apply_options": [
+            {
+              "title": "Indeed",
+              "link": "https://in.indeed.com/viewjob?jk=a7dfebb0073924b7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+            }
+          ],
+          "job_id": "eyJqb2JfdGl0bGUiOiJIaW5kaSBUcmFuc2xhdG9yIiwiY29tcGFueV9uYW1lIjoiRG91YmxlOCBFdmVudCBcdTAwMjYgQWR2ZXJ0aXNpbmcgUHZ0IEx0ZCIsImh0aWRvY2lkIjoicUM4VTNUTV9vazFXN0NWTkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUxSR1ZzYUdrc1NXNWthV0UiLCJnbCI6ImluIiwiaGwiOiJoaSIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNXVnNjSE00VVRCUFpXNDJRMnBvTVRacFRqQkxZVmM1ZERjeVRrcFBhR2xSZVhSSmNUWkdUV1JXWjNSTGNsaHRVSGhoY0VsdFZrbFZWVUZKWlVnMmNYZFpNRXBQYjFsWFYwVlhSMFJ2VXpsMVEybG9hVUYxYldReVpETldkRkJKYlZWQ1RuRjRlRTE0U2s4NGRUaDVOWE4xVTBWYWVqaDFkVEJDYUZsb2JsVjNaVEoyVWtNU0Z6RkRja05oYzFBelNEVlRUM0oxUlZCcU9YRmZjMUZKR2lKQlJITnlPV1pSUmxWUVNVeDZkek14TkdSQ09XZFNkRVU0UTB4VFNXbzBUbGxCIiwiZmN2IjoiMyIsImZjX2lkIjoicUM4VTNUTV9vazFXN0NWTkFBQUFBQT09In0="
+        },
+        {
+          "title": "Hindi Translator",
+          "company_name": "Varahe Analytics Private Limited",
+          "location": "\u0928\u094b\u090f\u0921\u093e, \u0909\u0924\u094d\u0924\u0930 \u092a\u094d\u0930\u0926\u0947\u0936",
+          "via": "Getmereferred.com",
+          "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Hindi+translator+OR+interpreter+OR+transcription&htidocid=SFeSFcPNhlyHtSYAAAAAAA%3D%3D&hl=hi-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_-NqZeJK88jMS8lUCClKzCvOSSzJL1LQVXiwZMWDpT0Plkx9sGTDg6UNCiDW0nYgtebBkn1gMRBnHZB6sKRJwT0_Pz0nFSiwCigFUQvSMv3Bkg4gNe3B0u4HS-ZIWWeUlBQUW-nrFxfn6KUXlySWZCbrJefn6ufnpSblV-hn5ScVg4j44ozEotQCoFNS441MDSr0CvLSteLALgKa0_9gyUKgG3SABnc-WLLkwdJeEAm2dhWYs-HBkmVgd21DcmFYYlFiRqqCY15iTiXQ2mKFgKLMMqAFCj6ZuZklqSkArY0ymwgBAAA&shmds=v1_ARwrE20jh517UQemeeLRbIAHhKEhiZrEIA_sP1x5dr2ECeFwrQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Hindi+translator+OR+interpreter+OR+transcription&htidocid=SFeSFcPNhlyHtSYAAAAAAA%3D%3D",
+          "extensions": [
+            "\u095e\u0941\u0932-\u091f\u093e\u0907\u092e"
+          ],
+          "source_link": "https://getmereferred.com/job-listing/hindi-translator-varahe-analytics-private-limited-noida-2-to-4-years-experience-c0e614d3-1135-4b3f-93ae-647f4ac874d3",
+          "job_title": "Hindi Translator",
+          "description": "Job Description: Hindi Translator, National Campaigns   Location:  Delhi; for projects across India \"Please Note: This is a Short-term contractual role for a duration of 6 Months of Contract.\"  About Varahe Analytics:   Varahe Analytics is one of Indias premier integrated political consulting firms, specialising in building data-driven, 360-degree election management systems. We help our clients with strategic advice and implementation, combining data-backed insights and in-depth ground intelligence into a holistic electoral campaign. We are passionate about our democracy and the politics that shape our world. We draw on some of the sharpest minds from distinguished institutions and diverse professional backgrounds to help us build electoral strategies that spark conversations, drive change, and shape electoral and legislative ecosystems in our country. About the Team:   Varahe Analytics is seeking highly skilled Hindi translators to support our projects. The ideal candidate will possess a strong command of both English and Hindi and a passion for delivering accurate, impactful communication. What Would This Role Entail?   Write clear, fluent, and polished Hindi that reads naturally, not like a literal translation. Translate content from English to Hindi with accuracy. Review and edit others' Hindi documents. Improve grammar, tone, flow, and consistency in Hindi content. Maintain terminology consistency across documents. Work under tight deadlines in a fast-paced environment. Ensure all Hindi content is client-ready and meets quality expectations. Maintain the confidentiality of sensitive documents. Work closely with internal teams to understand context and intent.  Necessary Qualifications/Skills:   Fast typing skills in both English and Hindi, with 12 years of experience in translation or content writing. Bachelors degree in English, Hindi Literature, or a related field preferred, with excellent Hindi grammar, vocabulary, sentence structure, and strong editing and proofreading skills. Proficiency in Google Workspace and MS Office, along with a basic understanding of Indian politics and governance. Goal-driven, deadline-oriented, and detail-focused, with a strong commitment to high-quality output.  Good to Have Skills:   Basic knowledge of politics and the nature of Indias democracy & experience in translating briefs.  How to Apply  If you're a professional looking for a high-impact challenge, interested in joining a team of like-minded and motivated individuals who think strategically, act decisively, and get things done, drop in an email at",
+          "apply_options": [
+            {
+              "title": "Getmereferred.com",
+              "link": "https://getmereferred.com/job-listing/hindi-translator-varahe-analytics-private-limited-noida-2-to-4-years-experience-c0e614d3-1135-4b3f-93ae-647f4ac874d3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+            },
+            {
+              "title": "Jobaaj",
+              "link": "https://www.jobaaj.com/job/pw-physicswallah-law-hindi-translator-noida-uttar-pradesh-0-to-1-years-889226?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+            },
+            {
+              "title": "Trabajo.org",
+              "link": "https://in.trabajo.org/job-4056-8d5879209a779f22bb931e1168258921?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+            },
+            {
+              "title": "Jobrapido.com",
+              "link": "https://in.jobrapido.com/jobpreview/5508492642431795200?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+            },
+            {
+              "title": "Kit Job",
+              "link": "https://www.kitjob.in/job/341829298/hindi-translator-noida?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+            }
+          ],
+          "job_id": "eyJqb2JfdGl0bGUiOiJIaW5kaSBUcmFuc2xhdG9yIiwiY29tcGFueV9uYW1lIjoiVmFyYWhlIEFuYWx5dGljcyBQcml2YXRlIExpbWl0ZWQiLCJodGlkb2NpZCI6IlNGZVNGY1BOaGx5SHRTWUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lMUkdWc2FHa3NTVzVrYVdFIiwiZ2wiOiJpbiIsImhsIjoiaGkiLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTblo0UzNKZk9YcERYelpvTm5sdU1WcDZRbVExTVMxWldXRm1UR3d3Ym1OYVJWb3dMWHBKT1hKV1NrUjNURVIxTVZkbE5tdzBhemR3VDBKVFkxRlFabEowV0ZCRVVVdDRWbTVKYW5WSldsSXlVWEU0V2paR01EWkhUSEYyYkZrNFFUUmtlazUzUm1aWFkzTlFWSGQyYTJoQk5qVTNMVGxzWWpOM1psWmFWVGxSYlRKblJtOFNGekZEY2tOaGMxQXpTRFZUVDNKMVJWQnFPWEZmYzFGSkdpSkJSSE55T1daVGFFdE1UbTFuUVhCSWFHMVFjbEZQWnpOaWRGbG1OVk5mZWt4MyIsImZjdiI6IjMiLCJmY19pZCI6IlNGZVNGY1BOaGx5SHRTWUFBQUFBQUE9PSJ9"
+        },
+        {
+          "title": "Hindi Translator (Freelancer) (Noida)",
+          "company_name": "Soul AI",
+          "location": "\u0928\u094b\u090f\u0921\u093e, \u0909\u0924\u094d\u0924\u0930 \u092a\u094d\u0930\u0926\u0947\u0936",
+          "via": "Jobrapido.com",
+          "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Hindi+translator+OR+interpreter+OR+transcription&htidocid=2dNyBzQdvCCIS-uQAAAAAA%3D%3D&hl=hi-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_-NqZOKq9sjMS8lUCClKzCvOSSzJL1LQcCtKTc1JzEtOLdJU0PDLz0xJ1FTQVXiwZMWDpT0Plkx9sGTDg6UNCiDW0nYgtebBkn1gMRBnHZB6sKRJwT0_Pz0nFSiwCigFUQvSMv3Bkg4gNe3B0u4HS-ZIWWeUlBQUW-nrFxfn6KUXlySWZCbrJefn6ufnpSblV-hn5ScVg4j44ozEotQCoPtS441MDSr0CvLStVzBLgKa0_9gyUKgG3SABnc-WLLkwdJeEAm2dhWYs-HBkmVgd21DcmFwfmmOgqMnAHy8qJoEAQAA&shmds=v1_ARwrE23Ngls-jiSatEf3J4LeS8njztZgb-Pxci8k0R4hCg7qaQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Hindi+translator+OR+interpreter+OR+transcription&htidocid=2dNyBzQdvCCIS-uQAAAAAA%3D%3D",
+          "extensions": [
+            "18 \u0926\u093f\u0928 \u092a\u0939\u0932\u0947",
+            "\u095e\u0941\u0932-\u091f\u093e\u0907\u092e"
+          ],
+          "source_link": "https://in.jobrapido.com/jobpreview/6553426918186680320",
+          "job_title": "Hindi Translator (Freelancer) (Noida)",
+          "description": "About Us:  \n\n- We are a new-age AI solutions firm with an ultra-high-quality talent pool out of India for RLHF  \n\n- Our experts in the specific domain of their expertise help curate hyper-specific LLM datasets  \n\n- We have operations across the US and India and are working with the top AI firms globally to take their large language models (LLMs) to the next level of quality and consistency  \n\n- We are looking for skilled freelance translators who are proficient in Hindi  \n\n- This role involves translation and content creation  \n\n- If you are fluent in reading, writing/typing, and communicating in Hindi and are seeking a flexible, remote role, this opportunity is for you!  \n\n- Key Responsibilities:  \n\n- Translate content to Hindi  \n\n- Create high-quality, culturally relevant written content as needed  \n\n- Maintain consistency, accuracy, and context in all tasks  \n\n- Requirements:  \n\n- Fluency in reading, writing/typing, and understanding in Hindi  \n\n- Solid translation, and communication skills  \n\n- Previous experience in content creation, transcription, or translation is a plus  \n\n- Why join us  \n\n- Pay up to \u201a500 per hour, with potential for growth based on performance  \n\n- Flexible working hours  \n\n- Remote work opportunity, offering work-life balance  \n\n- NOTEPay will vary by project and typically is up to Rs  \n\n- 500 per hour (if you work an average of 3 hours every day that could be as high as Rs 45K per month) once you clear our screening process  \n\n- Join us and be part of a dynamic team creating impactful multilingual content!  \n\n-",
+          "apply_options": [
+            {
+              "title": "Jobrapido.com",
+              "link": "https://in.jobrapido.com/jobpreview/6553426918186680320?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+            }
+          ],
+          "job_id": "eyJqb2JfdGl0bGUiOiJIaW5kaSBUcmFuc2xhdG9yIChGcmVlbGFuY2VyKSAoTm9pZGEpIiwiY29tcGFueV9uYW1lIjoiU291bCBBSSIsImh0aWRvY2lkIjoiMmROeUJ6UWR2Q0NJUy11UUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUxSR1ZzYUdrc1NXNWthV0UiLCJnbCI6ImluIiwiaGwiOiJoaSIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNWYzBRemMzYlVFdE5YWmFUaTFXWkVkbFdtOXRNamR6TlhkVk5YUjZTMms0UmtoWVNWUXhNMjlTUTIxcExWbDFOM0JhVTFNeFFqVjNkMjFEVG5NemNYQnplR0pEYnpjM2VDMUhaMHRJTTJsNFVIWk9NVkpRT0dsNmQyUkllbkJSVFU1eU0wSlVORU51Y0hoTE9HUnFhSGhMTWxKNlFsQmhOV3N3UkY5bVoxVmtVRGczTmtVU0Z6RkRja05oYzFBelNEVlRUM0oxUlZCcU9YRmZjMUZKR2lKQlJITnlPV1pUT1VaMFVrNXlhMngyVEZoYWMzWkdTR280UWw5NVNIZE1lWGxuIiwiZmN2IjoiMyIsImZjX2lkIjoiMmROeUJ6UWR2Q0NJUy11UUFBQUFBQT09In0="
+        },
+        {
+          "title": "Translator (Hindi) - Freelancer",
+          "company_name": "PW (PhysicsWallah)",
+          "location": "\u0928\u094b\u090f\u0921\u093e, \u0909\u0924\u094d\u0924\u0930 \u092a\u094d\u0930\u0926\u0947\u0936",
+          "via": "Foundit",
+          "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Hindi+translator+OR+interpreter+OR+transcription&htidocid=A1QMtW7FcmMSQ9I3AAAAAA%3D%3D&hl=hi-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_02Ov0oDQRDGwTKPYLVlIsmdCDbaJymvCKQMm3O5u7DuHjsrxC5YmIiKldrYCLMiQSSVpc8yj-Ls2qSZb775--vcHnSuJk4a0NJbJ7rjxlw0PTEQQ6eUlqZUjg3hJ4UHwmfCHYWViFlYs3wR_qZaNN8shDdiZG2lFRe23PqfjSuvhBuWFwr3hG-H57X3LZzlOYDOKvDSN2VW2svcGjW3y3xh5xDDDGrpVMt8anZyerzMWlMdFYmI7zwRvjNDnw_fESKFxxjT220yO8KPxPWzR1hMRbeor6EpYSq1lnXvD8mGyDYJAQAA&shmds=v1_ARwrE2095WvmvQEODHX5n8qQAOpb1ov2iUPHGJKZ1K25DR6agw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Hindi+translator+OR+interpreter+OR+transcription&htidocid=A1QMtW7FcmMSQ9I3AAAAAA%3D%3D",
+          "extensions": [
+            "\u095e\u0941\u0932-\u091f\u093e\u0907\u092e"
+          ],
+          "source_link": "https://www.foundit.in/job/translator-hindi-freelancer-pw-physicswallah-noida-39388199",
+          "job_title": "Translator (Hindi) - Freelancer",
+          "description": "Job Title: Translator (Hindi)\n\nEmployment Type: Freelancer\n\nLocation: Work From Home\n\n\n\n\nOpen Position\n\nsBiology: Hindi Translato\n\nr\nQualification & Eligibili\n\ntyMust have strong subject knowledge in the selected subject area.Excellent command over the Hindi language with the ability to perform accurate and contextual translations.A science background will be an added advantag\n\ne.\nExperie\n\nnce0 \u2013 1 year of relevant experie\n\nnce\nSkill\n\n SetFamiliarity with auto-translation tools to ensure efficient and timely delivery.Understanding of high-quality translation standards and accuracy requireme\n\nnts.\nRoles & Responsibil\n\nitiesTranslate educational content into Hindi with high accuracy, maintaining the context and subject integrity.Ensure consistency, clarity, and correctness in all translated mater\n\nials.",
+          "apply_options": [
+            {
+              "title": "Foundit",
+              "link": "https://www.foundit.in/job/translator-hindi-freelancer-pw-physicswallah-noida-39388199?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+            },
+            {
+              "title": "Jooble",
+              "link": "https://in.jooble.org/jdp/8535354308764629423?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+            },
+            {
+              "title": "Jobrapido.com",
+              "link": "https://in.jobrapido.com/jobpreview/396406061726171136?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+            },
+            {
+              "title": "Talent.com",
+              "link": "https://in.talent.com/view?id=614911174930671567&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+            }
+          ],
+          "job_id": "eyJqb2JfdGl0bGUiOiJUcmFuc2xhdG9yIChIaW5kaSkgLSBGcmVlbGFuY2VyIiwiY29tcGFueV9uYW1lIjoiUFcgKFBoeXNpY3NXYWxsYWgpIiwiaHRpZG9jaWQiOiJBMVFNdFc3RmNtTVNROUkzQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTFJHVnNhR2tzU1c1a2FXRSIsImdsIjoiaW4iLCJobCI6ImhpIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU1ZsSVZYcG5NbWhGWkdsb2IzcHVRMjFKY1ZwWVNVcE1SV1I0VFVoYVNtTXpZbFYyV21OeFh6aENVMXBwYVhkdE1XOXNabTV3WjI1bU5tcGhhM0ZqY0RaM1IyeERjblpvVlhOSmNHOUJOV1EwYnpsT1RsOHdORWhXUm5OS2NUQlpTbmhCUjJRdGJtdEJRME5DVWsxM2RYQTVUekpwVjFsd01tVTRURWxtVDB0elpFNVBjVkFTRnpGRGNrTmhjMUF6U0RWVFQzSjFSVkJxT1hGZmMxRkpHaUpCUkhOeU9XWlJkMU5wUnpGR1QwSmtaR1V4Ukc5UGIyTlVVV016WTBsRmJHbG4iLCJmY3YiOiIzIiwiZmNfaWQiOiJBMVFNdFc3RmNtTVNROUkzQUFBQUFBPT0ifQ=="
+        },
+        {
+          "title": "Executive/Senior Executive - Hindi Junior Translator",
+          "company_name": "Government e Marketplace (GeM)",
+          "location": "\u0928\u0908 \u0926\u093f\u0932\u094d\u0932\u0940, \u0926\u093f\u0932\u094d\u0932\u0940",
+          "via": "Getmereferred.com",
+          "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Hindi+translator+OR+interpreter+OR+transcription&htidocid=I26SFaPSd6mBe37dAAAAAA%3D%3D&hl=hi-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_-NaxMTVxehakZpcWpJZlqofnJqXmV-kABdQ0FXwyMxLyVTwKgVLhBQl5hXnJJYAmboKD5aseLC058GSqQ-WbHiwtEEBxFraDqTWPFiyDywG4qwDUg-WNCm45-en56QCBVYBpSBqQVqmP1jSAaSmPVja_WDJHCnrjJKSgmIrff3i4hy99OKSxJLMZL3k_Fz9_LzUpPwK_az8pGIQEV-ckViUWgB0Smq8kalBhV5BXrpWGMhFYOOWPViy_8GSTQ-W9oLJBh0sYihuK0stystNzStRSFXwTSzKTi0BGp2cqqDhnuqrCQCDCq-9JQEAAA&shmds=v1_ARwrE22cJmWLrMWUUIbslHicBxICr3RkEfZLE3VZ1yzts8G0LA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Hindi+translator+OR+interpreter+OR+transcription&htidocid=I26SFaPSd6mBe37dAAAAAA%3D%3D",
+          "thumbnail": "https://serpapi.com/searches/6ac22ac0079a2bf6ad8aeecb/images/WX5EjJVHbyP6BIFFgcco5pPPxzv46_wcFpTpmCkB_w4.jpeg",
+          "extensions": [
+            "\u095e\u0941\u0932-\u091f\u093e\u0907\u092e"
+          ],
+          "source_link": "https://getmereferred.com/job-listing/executive-senior-executive-hindi-junior-translator-government-e-marketplace-gem-delhi-2-to-4-years-experience-272b66c0-a778-4ff6-ab0d-b9e0b38c94e1",
+          "job_title": "Executive/Senior Executive - Hindi Junior Translator",
+          "description": "About GeM   Government eMarketplace is a unified digital platform that facilitates end-to-end procurement of goods and services by various government departments, organizations, and public sector undertakings (PSUs). Our Honourable Prime Minister's concerted efforts to harness the power of digital platforms to achieve 'Minimum Government, Maximum Governance' led to the genesis of GeM in 2016. GeM provides a paperless, cashless and contactless ecosystem for government buyers to directly purchase productsand services from pan-India sellersand service providersthrough an onlineplatform. GeM covers the entire gamut of procurement process, right from vendor registration and item selection by buyers to receipt of goods and facilitation of timely payments. GeM has envisioned to utilise the agility and speed that come along with a digital platformcreated with a strategic intent to reinvigorate public procurement systems and bring about a lasting changefor the underserved as well as the nation. Built on the pillars of Efficiency, Transparency and Inclusivity, GeM has emerged as a digital tool in nation's interest,aimed at catalyzing excellence in public procurement. To know more about us, please visit-  You may also follow us on-:  Twitter LinkedIn Koo App YouTube Facebook   What is it like to work at GeM?  Opportunity to work with a team of highlypassionate professionals from Private and Government sector Unbounded space for creativity and innovation. Agileand collaborative work environment Highly transparent and open work culture Work-Life balance Various kinds of health covers (Insurance) for individual and family A great opportunity to learn and hone your skills  Compensation:  Government e-Marketplace offers competitive salaryand other additional benefits. Type of employment : This is a contractual role under Project Management Unit (PMU) of GeM. Location:  This position is basedin Delhi. Job Description for Junior Translator:  Translate documents, correspondence, reports, circulars, notifications, rules, and policies from English to Hindi and vice versa. Proofread and edit the translated documents. Promote the use of Hindi in the office and ensure compliance with the provisions of the Official Language Act. Plan and prepare departmental activities and reports as per the Official Language Policy and annual program. Provide training to employees on Hindi typing and translation. Maintain an organized record of translated documents. Ensure the quality and timeliness of documents. Carry out necessary actions related to language inspections by the Parliamentary Official Language Committee/Department of Commerce/Official Language Department. Organize Hindi workshops for employees and officers under the guidance of the controlling officer. Ensure that documents uploaded on the website by the office are in Hindi/bilingual, as per the prescribed norms. Coordinate the entire process of organizing Hindi Pakhwada and Hindi Day celebrations in the office. Complete other administrative and language-related tasks assigned by senior officers.          (Job Description):    ,   ,   , ,   ,                                                                                                                                                                  /     /                                                                                     /   ,      ,                                                         -         Education Qualification  Essential   Master's degree from a recognized University in Hindi or English with English or Hindi as a compulsory subject at the degree level. OR Master's degree from a recognized University in any discipline, with Hindi or English medium and English or Hindi respectively as a compulsory subject or as a medium of examination at degree level.  Essential Professional Qualification  One-year Diploma in Translation.  Essential Experience:  Minimum 2 years of experience of translation work from Hindi to English and vice-versa Experience of the above in a government or similar set up shall be preferred        :                      ,                                              ,                                                                 :                  2                                                  GeM selection committee reserves the right to relax or extend the eligibility criteria and educational qualification. In case numbers of applications received are very high, GeM reserves the right to shortlist candidates and invite only shortlisted candidates for an interview round. The crucial date for determining eligibility will be the last date of receipt of applications. No applications shall be entertained under any circumstances after the stipulated date. Incomplete applications shall be rejected. GeM reserves the right to shortlist candidates for interview. Applicants should note that mere fulfillment of minimum eligibility criteria may not ensure consideration for short listing for interview. GeM will not entertain any correspondence on this subject and decisions of GeM will be final in all matter.",
+          "apply_options": [
+            {
+              "title": "Getmereferred.com",
+              "link": "https://getmereferred.com/job-listing/executive-senior-executive-hindi-junior-translator-government-e-marketplace-gem-delhi-2-to-4-years-experience-272b66c0-a778-4ff6-ab0d-b9e0b38c94e1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+            },
+            {
+              "title": "Kit Job",
+              "link": "https://www.kitjob.in/job/339750715/junior-executive-delhi?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+            }
+          ],
+          "job_id": "eyJqb2JfdGl0bGUiOiJFeGVjdXRpdmUvU2VuaW9yIEV4ZWN1dGl2ZSAtIEhpbmRpIEp1bmlvciBUcmFuc2xhdG9yIiwiY29tcGFueV9uYW1lIjoiR292ZXJubWVudCBlIE1hcmtldHBsYWNlIChHZU0pIiwiaHRpZG9jaWQiOiJJMjZTRmFQU2Q2bUJlMzdkQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTFJHVnNhR2tzU1c1a2FXRSIsImdsIjoiaW4iLCJobCI6ImhpIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwVEU1RU0ySnVUbEJZUzBFM1JqSlhXbGMyY2xablYxQklaMUJqU0hweGFuRmhORU5uVVVvelNWTnZVRGRtVTFoRlRUZDNVbXhzUmt3MWMyZGFNR016ZEhKdlFWUXhTWEl0Ym14UE5uSmxZWFpVUVdkWWRFZFRjalF5TVZGTlEzazBTaTB5Um5sM1JrMTJOekZzVURJeFVWZHpMWFE1V0VGNk5WRm9iRWRoT1Rad1oycDFkRTRTRnpGRGNrTmhjMUF6U0RWVFQzSjFSVkJxT1hGZmMxRkpHaUpCUkhOeU9XWlRRazh4TUhwc1ZGRk9WMDUwTm1VdFVrWktiVzUzUjJaV2IwSkIiLCJmY3YiOiIzIiwiZmNfaWQiOiJJMjZTRmFQU2Q2bUJlMzdkQUFBQUFBPT0ifQ=="
+        },
+        {
+          "title": "Chinese-English / Chinese-Hindi Translator",
+          "company_name": "Huake Group",
+          "location": "\u0917\u094d\u0930\u0947\u091f\u0930 \u0928\u094b\u090f\u0921\u093e, \u0909\u0924\u094d\u0924\u0930 \u092a\u094d\u0930\u0926\u0947\u0936",
+          "via": "Glassdoor",
+          "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Hindi+translator+OR+interpreter+OR+transcription&htidocid=VgeJZg1yOhZ4ko1LAAAAAA%3D%3D&hl=hi-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_-Oax8TVwOickZmXWpyq65qXnpNZnKGgrwAT8cjMS8lUCClKzCvOSSzJL1LQVXiwZMWDpT0Plkx9sGTDg6UNCiDW0nYgtebBkn1gMRBnHZB6sKRJwT0_Pz0nFSiwCigFUQvSMv3Bkg4gNe3B0u4HS-ZIWWeUlBQUW-nrFxfn6KUXlySWZCbrJefn6ufnpSblV-hn5ScVg4j44ozEotQCoFNS441MDSr0CvLStWJAxi3thVj9YMl8iEUrwEb3P1iyEOgsHaBA54MlS8DKlkAUrILqWbIMrG0bkqM9ShOzUxXci_JLCwCSVcc9IQEAAA&shmds=v1_ARwrE20rTy8KYZHUlRC7lCWje7V8mgKbbU9nXz3poUhKFvViYA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Hindi+translator+OR+interpreter+OR+transcription&htidocid=VgeJZg1yOhZ4ko1LAAAAAA%3D%3D",
+          "extensions": [
+            "5 \u0926\u093f\u0928 \u092a\u0939\u0932\u0947",
+            "\u20b940\u00a0\u0939\u091c\u093c\u093e\u0930\u2013\u20b960\u00a0\u0939\u091c\u093c\u093e\u0930 \u092a\u094d\u0930\u0924\u093f \u092e\u093e\u0939",
+            "\u095e\u0941\u0932-\u091f\u093e\u0907\u092e"
+          ],
+          "source_link": "https://www.glassdoor.co.in/job-listing/chinese-english-chinese-hindi-translator-huake-group-JV_IC4475367_KO0,40_KE41,52.htm?jl=1010244957204",
+          "job_title": "Chinese-English / Chinese-Hindi Translator",
+          "description": "Position: Chinese-English / Chinese-Hindi Translator\n\nDepartment: Projects / Engineering\n\nLocation: As per Project Requirement\n\nReporting To: Project Manager / Project Head\n\nEmployment Type: Full-Time\n\nJob Summary\n\nWe are looking for a fluent translator with expertise in Chinese-English or Chinese-Hindi translation, specifically for technical and construction documents. The candidate will be responsible for providing translation and interpretation for project meetings, translating technical documents and drawings, and facilitating effective communication between Chinese and local teams.\n\nKey Responsibilities\n\n\u25cf 1. Translation Services\n\n\u25cb Provide accurate translation of technical and engineering documents.\n\n\u25cb Translate project specifications, drawings, reports, and correspondence.\n\n\u25cb Translate meeting minutes, project communications, and official documents.\n\n\u25cb Ensure technical terminology accuracy and project-specific terminology consistency.\n\n\u25cf 2. On-Site Interpretation\n\n\u25cb Provide real-time interpretation for project meetings, site discussions, and coordination activities.\n\n\u25cb Facilitate communication between Chinese project teams and local teams.\n\n\u25cb Assist in technical discussions and problem-solving sessions.\n\n\u25cb Ensure clear and accurate communication of complex technical information.\n\n\u25cf 3. Technical Document Translation\n\n\u25cb Handle translation of engineering documents, technical drawings, and blueprints.\n\n\u25cb Translate HVAC, electrical, ELV, and architectural technical specifications.\n\n\u25cb Prepare translated versions of quality reports, test results, and commissioning documents.\n\n\u25cb Maintain accuracy of technical measurements, dimensions, and specifications.\n\n\u25cf 4. Project Communication Support\n\n\u25cb Assist in communication between Chinese management and local project teams.\n\n\u25cb Prepare translated project instructions and procedural documents.\n\n\u25cb Support safety training and induction sessions with translation assistance.\n\n\u25cb Facilitate vendor and subcontractor communications.\n\n\u25cf 5. Documentation & Records\n\n\u25cb Maintain translation records and documentation accuracy.\n\n\u25cb Prepare translated versions of project handover documentation.\n\n\u25cb Support preparation of bilingual project reports and communications.\n\n\u25cb Ensure consistency of terminology across all translated documents.\n\n\u25cf 6. Quality Assurance\n\n\u25cb Verify accuracy and completeness of all translations.\n\n\u25cb Ensure technical terminology is correctly interpreted.\n\n\u25cb Maintain confidentiality of project information.\n\n\u25cb Coordinate with project teams to clarify technical details when needed.\n\nRequired Technical Skills\n\n\u25cf Chinese-English Translation\n\n\u25cf Chinese-Hindi Translation\n\n\u25cf Technical Document Translation\n\n\u25cf Engineering Drawing Translation\n\n\u25cf Simultaneous Interpretation Skills\n\n\u25cf Construction & Engineering Terminology\n\n\u25cf HVAC Systems Knowledge\n\n\u25cf Electrical Systems Knowledge\n\n\u25cf Project Management Terminology\n\n\u25cf Quality Report Translation\n\n\u25cf Commissioning Document Translation\n\n\u25cf Microsoft Office Proficiency\n\n\u25cf CAD Drawing Interpretation\n\n\u25cf Cross-Cultural Communication\n\nEducation\n\n\u25cf Bachelor's degree or above\n\nExperience\n\n\u25cf Demonstrated experience in technical and engineering translation.\n\n\u25cf Minimum 2 years of construction or industrial project translation experience.\n\n\u25cf Strong verbal and written translation skills with high accuracy standards.\n\nLanguage Requirements\n\n\u25cf Fluent in Chinese and English or Chinese and Hindi - MANDATORY\n\n\u25cf Native or near-native proficiency in both languages required\n\n\u25cf Strong English communication skills (written and verbal)\n\n\u25cf Technical English terminology knowledge for construction and engineering\n\nInterview Details\n\n\u25cf Interview Mode: Face-to-Face\n\n\u25cf Location Preference: Candidates from nearby/local locations are strongly preferred\n\n\u25cf Interview Location: Huake Engineering India Pvt. Ltd.\nPlot No. 21A, Sector 24, YEIDA, Vill- Fatehpur Atta, Greater Noida, Gautam Buddha Nagar, UP - 203201 ,\n\n\u25cf No remote interviews will be conducted\n\nPay: \u20b940,000.00 - \u20b960,000.00 per month\n\nBenefits:\n\nHealth insuranceLeave encashmentLife insuranceProvident FundWork Location: In person",
+          "apply_options": [
+            {
+              "title": "Glassdoor",
+              "link": "https://www.glassdoor.co.in/job-listing/chinese-english-chinese-hindi-translator-huake-group-JV_IC4475367_KO0,40_KE41,52.htm?jl=1010244957204&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+            },
+            {
+              "title": "SimplyHired",
+              "link": "https://www.simplyhired.co.in/job/0wPjkxfELOmct0LTZvOYv8fWo8YSyzvdDy-M5-2kXIQ_tbJp4SmdKA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+            },
+            {
+              "title": "Glassdoor",
+              "link": "https://www.glassdoor.com/job-listing/chinese-english-chinese-hindi-translator-huake-group-JV_KO0,40_KE41,52.htm?jl=1010244957204&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+            }
+          ],
+          "job_id": "eyJqb2JfdGl0bGUiOiJDaGluZXNlLUVuZ2xpc2ggLyBDaGluZXNlLUhpbmRpIFRyYW5zbGF0b3IiLCJjb21wYW55X25hbWUiOiJIdWFrZSBHcm91cCIsImh0aWRvY2lkIjoiVmdlSlpnMXlPaFo0a28xTEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUxSR1ZzYUdrc1NXNWthV0UiLCJnbCI6ImluIiwiaGwiOiJoaSIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFRFaGhRV1E0Y205aFEyOW1iV0ZUVVZrMGNGOUJjM1l5YkRkMGQxZEpNMmN0VTBWaGEyMTFWa3cwVjJwblYwUlFibTQxVEZwR1oweEplRVk1YUhsTFpHMXhUa3hzWDE5a1MxaElabFpFVTFGU1pFVlBZemQ2TXpCb2JGZEpRaTF0TTBWbldFOXlPRU5vZWpoNloyRnZaMVZ5VldwU1VVWlBXVVEyVjBkQlZYa3lWMEl6VFhBU0Z6RkRja05oYzFBelNEVlRUM0oxUlZCcU9YRmZjMUZKR2lKQlJITnlPV1pTVUcxb1NVZERkM0pEVW1Wa1FXNXdVR3RTT0ZORFRYaDNhSFZSIiwiZmN2IjoiMyIsImZjX2lkIjoiVmdlSlpnMXlPaFo0a28xTEFBQUFBQT09In0="
+        },
+        {
+          "title": "Language Translator (Spanish, Russian, Mandarin Chinese, Hindi)",
+          "company_name": "Hindco Recruitment Consultants",
+          "location": "\u0928\u094b\u090f\u0921\u093e, \u0909\u0924\u094d\u0924\u0930 \u092a\u094d\u0930\u0926\u0947\u0936",
+          "via": "HudsonSignals",
+          "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Hindi+translator+OR+interpreter+OR+transcription&htidocid=q0ihN8Q0eTOZdf4wAAAAAA%3D%3D&hl=hi-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_02PvUoDQRDH0TKPYDWlypkTwUbLFFpoEy2FMLksdyuX2eNmD1KKjYqKVbSxEeYkBJGAYOmzzKO4ezY285_v-U3va703XztByhvMDZzXSFyidzVsnlVIlosEhg2zRUrgFGmCtSUYFJYMmwSOLU3sFuyAykLbB5W5ykrbK4heexPkQ-Wny8XgM4jKNRw5l5cmJJah9NcbR15UboM8a3uv8rpxWHhf8UGaMpf9nD16m_UzN00dmbGbpZduzNGMuMDaVAHbjPb2d2f9ivLti44o7HlSeQsMSVh8pyLaPkbbnV12wUrlveP6_kcYH8scDE1WN9ZPDXkYOOKm9EiefwFSmSNINgEAAA&shmds=v1_ARwrE23WxWT6BDmFWt5d8oH4Mux_Vk04ZBeeVJvS-czgxyiwiA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Hindi+translator+OR+interpreter+OR+transcription&htidocid=q0ihN8Q0eTOZdf4wAAAAAA%3D%3D",
+          "extensions": [
+            "2 \u0926\u093f\u0928 \u092a\u0939\u0932\u0947",
+            "\u095e\u0941\u0932-\u091f\u093e\u0907\u092e"
+          ],
+          "source_link": "https://jobs.hudsonsignals.com/jobs/bdce896a-a69a-458f-858b-7723feb24a08",
+          "job_title": "Language Translator (Spanish, Russian, Mandarin Chinese, Hindi)",
+          "description": "## Language Translator (Spanish, Russian, Mandarin Chinese, Hindi)\n\nThis role involves providing high-quality translation and interpretation services across multiple languages. The successful candidate will be responsible for accurately conveying information between languages, ensuring clarity and cultural sensitivity in all communications. This position requires a strong command of the specified languages and excellent communication skills.\n\n**Key Responsibilities:**\n\n*   Translate written materials from various languages into English and vice versa.\n*   Provide simultaneous and consecutive interpretation during meetings and conferences.\n*   Ensure accuracy and consistency in translations, adhering to established terminology and style guides.\n*   Maintain confidentiality of sensitive information.\n*   Collaborate with subject matter experts to ensure accurate translation of technical or specialized content.\n\n**Requirements/Qualifications:**\n\n*   Fluency in Spanish, Russian, Mandarin Chinese, and Hindi.\n*   Excellent written and verbal communication skills in English.\n*   Proven experience in translation and interpretation.\n*   Strong attention to detail and accuracy.\n*   Ability to work independently and as part of a team.\n*   Proficiency in translation software and tools.\n\n**About the Company:**\n\nHindco Recruitment Consultants is a staffing and recruitment firm specializing in connecting talented professionals with leading organizations. They focus on providing tailored solutions to meet the evolving needs of businesses across various sectors.",
+          "apply_options": [
+            {
+              "title": "HudsonSignals",
+              "link": "https://jobs.hudsonsignals.com/jobs/bdce896a-a69a-458f-858b-7723feb24a08?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+            }
+          ],
+          "job_id": "eyJqb2JfdGl0bGUiOiJMYW5ndWFnZSBUcmFuc2xhdG9yIChTcGFuaXNoLCBSdXNzaWFuLCBNYW5kYXJpbiBDaGluZXNlLCBIaW5kaSkiLCJjb21wYW55X25hbWUiOiJIaW5kY28gUmVjcnVpdG1lbnQgQ29uc3VsdGFudHMiLCJodGlkb2NpZCI6InEwaWhOOFEwZVRPWmRmNHdBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lMUkdWc2FHa3NTVzVrYVdFIiwiZ2wiOiJpbiIsImhsIjoiaGkiLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTamhsUzI5MVRHMWFZakF4UzNWaWNWRk5NV0pmVTB0RFRtVklSRXhhYm1KdWRWQktWRGRrZVVOdlp6QkJSVU5NWHpSMldGTklRWGd3Y1ZsWGFUYzBTekF3WjFBeGR5MUNMVGd3VVVwTlZURlFVbkpuU0hWWk5XbENUVVV4WXpJMFFtMUZaWE5NZW5STVFUbHBUbmRSU0ZCTU56TkVOMVJIV1U5WU1TMUNiMWxUZDFCdFRXd1NGekZEY2tOaGMxQXpTRFZUVDNKMVJWQnFPWEZmYzFGSkdpSkJSSE55T1daUlltcHBhMFYwZWtnMlZXNUljVkphZGxWek5rczNWVEZpT1hGbiIsImZjdiI6IjMiLCJmY19pZCI6InEwaWhOOFEwZVRPWmRmNHdBQUFBQUE9PSJ9"
+        },
+        {
+          "title": "Hindi And Tamil Transcription Expert",
+          "company_name": "The Class Of One - Global Online School",
+          "location": "\u0928\u094b\u090f\u0921\u093e, \u0909\u0924\u094d\u0924\u0930 \u092a\u094d\u0930\u0926\u0947\u0936",
+          "via": "Shine",
+          "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Hindi+translator+OR+interpreter+OR+transcription&htidocid=2J--vK_bbgr73OkEAAAAAA%3D%3D&hl=hi-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_01PPUsEMRAFy_sJVlOL7opgo5WInN0Vbn9k9-JuJJeETYrFSmxUVKzUxkJhInKIXGXpb5mf4iTXXDNv3ny8eTN63xhdniozU3BkZlCJudJQ9cL4plcuKGvgZHCyD7ADhF8UHwifCZcUryBl8Ybhm_Av1xL5YSC8hrG1rZZcWHBrNZtWXglvGV4o3hO-bR52ITh_UJbe66L1QQTVFI2dl9bI2g7lha19ClPfiV46LYKc7u3vDoUz7ZbMjljnifCDPWyz8B0hUnxMMZ9dZLIk_My-ftccVp2EYy28h8k5TIzkF8fa1kIz0Yr5WdNZq_8BTRLfkiMBAAA&shmds=v1_ARwrE22e5yXw9Ln_DpxhZ6KAmHzEt5FRXNlv2yRx17LWrMSvYA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Hindi+translator+OR+interpreter+OR+transcription&htidocid=2J--vK_bbgr73OkEAAAAAA%3D%3D",
+          "extensions": [
+            "\u095e\u0941\u0932-\u091f\u093e\u0907\u092e"
+          ],
+          "source_link": "https://www.shine.com/jobs/hindi-and-tamil-transcription-expert/the-class-of-one-global-online-school/19429069",
+          "job_title": "Hindi And Tamil Transcription Expert",
+          "description": "Company Description The Content provider is focused on transforming traditional learning structures and building the content for the future through innovative, technology-enabled education. it aims to make high-quality learning accessible, flexible, and engaging for students across diverse geographies. Team members join a mission-driven organization committed to reimagining education for the next generation of learners.\n\n\n\n\nRole Description This is an on-site Hindi and Tamil Transcription Expert role based in Noida. The transcription expert will listen to audio and video content in Hindi and Tamil and accurately convert it into written text, ensuring proper grammar, spelling, and formatting. Day-to-day responsibilities include reviewing and editing transcripts, maintaining consistency with style guidelines, and verifying the accuracy of spoken content, including educational terminology. The role also involves collaborating with content creators and academic teams to support the development of learning materials, subtitles, and documentation in Hindi and Tamil. The expert will manage transcription files, meet project deadlines, and help maintain high quality standards for multilingual resources.\n\nQualifications\n\nStrong proficiency in Hindi and Tamil, with excellent listening, comprehension, and writing skills in both languages.Demonstrated experience in transcription, with the ability to produce accurate, well-formatted written documents from audio and video sources.Excellent attention to detail, including strong command of grammar, spelling, punctuation, and formatting standards.Familiarity with educational content or e-learning environments, preferably in a school or academic setting.Comfort with using computers, transcription tools, and basic productivity software for document creation and management.Strong time management skills and the ability to work on-site in Noida, meeting deadlines and handling multiple assignments.Effective communication and collaboration skills for working with educators, content developers, and operations staff.Relevant academic background in languages, linguistics, education, or a related field is preferred; prior transcription experience is an advantage. .",
+          "apply_options": [
+            {
+              "title": "Shine",
+              "link": "https://www.shine.com/jobs/hindi-and-tamil-transcription-expert/the-class-of-one-global-online-school/19429069?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+            }
+          ],
+          "job_id": "eyJqb2JfdGl0bGUiOiJIaW5kaSBBbmQgVGFtaWwgVHJhbnNjcmlwdGlvbiBFeHBlcnQiLCJjb21wYW55X25hbWUiOiJUaGUgQ2xhc3MgT2YgT25lIC0gR2xvYmFsIE9ubGluZSBTY2hvb2wiLCJodGlkb2NpZCI6IjJKLS12S19iYmdyNzNPa0VBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lMUkdWc2FHa3NTVzVrYVdFIiwiZ2wiOiJpbiIsImhsIjoiaGkiLCJmYyI6IkVzd0JDb3dCUVVwcFZEUjBURjlGT0VwQ1JtMUZMVUZ1YjBZeWFscDNRVVZEWVc5NVZtbFVTRk4wYjFoeGNucFdjazgxWVROQ1YxOHROVGR4TmtwSWRYYzNOa1JJWmpOblVrVnFhWFYxVG05b1MydHZjME5OTjNKeVVrVTRWSFI2VW1WR1psbHRZa1Y0Tm5wWmJEaEdOamszVkZJMWVHSTFSSHBZZVZwMVkyMXNjMkl3WlU1SVFteFZYelZGU3psMk4wc1NGekZEY2tOaGMxQXpTRFZUVDNKMVJWQnFPWEZmYzFGSkdpSkJSSE55T1daVWNVZFBSV1YwV25RMFMySmlaazVzZGxKaFRqWk5kSFpPZURsMyIsImZjdiI6IjMiLCJmY19pZCI6IjJKLS12S19iYmdyNzNPa0VBQUFBQUE9PSJ9"
+        },
+        {
+          "title": "JHT",
+          "company_name": "Staff Selection Commission (SSC)",
+          "location": "\u0928\u0908 \u0926\u093f\u0932\u094d\u0932\u0940, \u0926\u093f\u0932\u094d\u0932\u0940",
+          "via": "AspirantAI",
+          "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Hindi+translator+OR+interpreter+OR+transcription&htidocid=MAUUhUKOT4btWPFaAAAAAA%3D%3D&hl=hi-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_-P6xMgV6eURoqCr8GDJigdLex4smfpgyYYHSxsUQKyl7UBqzYMl-8BiIM46IPVgSZOCe35-ek4qUGAVUAqiFqRl-oMlHUBq2oOl3Q-WzJGyzigpKSi20tcvLs7RSy8uSSzJTNZLzs_Vz89LTcqv0M_KTyoGEfHFGYlFqQU5iSWp8UamBhV6BXnpWhEgF4GNW_Zgyf4HSzY9WNoLJht0sIghuS24JDEtTSE4NSc1uSQzP0_BOT83N7O4GMTUCA521gQAwwXzBfUAAAA&shmds=v1_ARwrE23SAXhii2OAnmQ55TRcfVDh-E8p5csAPKRLs-IoJ1LdnQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Hindi+translator+OR+interpreter+OR+transcription&htidocid=MAUUhUKOT4btWPFaAAAAAA%3D%3D",
+          "extensions": [
+            "22 \u0918\u0902\u091f\u0947 \u092a\u0939\u0932\u0947",
+            "\u20b925\u00a0\u0939\u091c\u093c\u093e\u0930\u2013\u20b91\u00a0\u0932\u093e\u0916 \u092a\u094d\u0930\u0924\u093f \u092e\u093e\u0939",
+            "\u095e\u0941\u0932-\u091f\u093e\u0907\u092e"
+          ],
+          "source_link": "https://www.aspirantai.co.in/drive/ssc-jht-recruitment-2026-apply-online-for-84-junior-hindi-translator-posts-3046588",
+          "job_title": "JHT",
+          "description": "Qualification: Master's degree in Hindi/English with translation diploma or experience, Nationality: Citizen of India or eligible subjects of Nepal/Bhutan or persons of Indian origin from specified countries with a Government of India eligibility certificate.. Candidates must have a Master\u2019s degree in Hindi with English as a compulsory/elective subject at graduation level, or a Master\u2019s degree in English with Hindi as a compulsory/elective subject, or a Master\u2019s in any subject with Hindi/English as medium or compulsory subject at degree level, In addition, they must possess either a recognized Diploma/Certificate in translation (Hindi\u2013English\u2013Hindi) or relevant translation experience (2 years for junior posts and 3 years for senior posts) in Central/State Government or PSU offices.. Streams: Graduate, Diploma.",
+          "apply_options": [
+            {
+              "title": "AspirantAI",
+              "link": "https://www.aspirantai.co.in/drive/ssc-jht-recruitment-2026-apply-online-for-84-junior-hindi-translator-posts-3046588?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+            }
+          ],
+          "job_id": "eyJqb2JfdGl0bGUiOiJKSFQiLCJjb21wYW55X25hbWUiOiJTdGFmZiBTZWxlY3Rpb24gQ29tbWlzc2lvbiAoU1NDKSIsImh0aWRvY2lkIjoiTUFVVWhVS09UNGJ0V1BGYUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUxSR1ZzYUdrc1NXNWthV0UiLCJnbCI6ImluIiwiaGwiOiJoaSIsImZjIjoiRXN3QkNvd0JRVXBwVkRSMFNWaFhaRkpoVEZGSlZESmlRM1YxUTNwSFRIWnVkMkpKYWtSTWJFazNaVGxVTUdGcWRsbGhiRE5yY0RJMk1DMVNWVU5RUzJkMVFtaENhRVo2TkhwMVlqQTRWR3BvT1dGUVVqUmpTbDlQZERSVWExODFjMlZWTWxablgxbFNUa0ZhWW0xUlYybzJVWFZFY25ZMU1YTjBXa3RDUTFaTk5qVnRVM054Ums1YVdFSlFiRXhZTm00U0Z6RkRja05oYzFBelNEVlRUM0oxUlZCcU9YRmZjMUZKR2lKQlJITnlPV1pVV0haeWFqQnlTbTU0TjNscE5FRmZlVlJGVkVvemNUWldkSGwzIiwiZmN2IjoiMyIsImZjX2lkIjoiTUFVVWhVS09UNGJ0V1BGYUFBQUFBQT09In0="
+        }
+      ],
+      "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTeTFOTFZKU1lsbHhZVFo2VFVvemFXZG1lbEEwUVhSVloxSm9NV05CUkdFd09HNXJialpLU205SFducFlObTlPTlhBMmVtVlVhMkZaYzBWdWJUQmtObFphVldsUmFscGtVMDVEYldGWldVZHdOVGt3YVZacFJWZEtPSGRFU1hWSGExZ3dkMnRTVERKSFptWTBaRTV1YVRkT1gyUnFPR0Z3TURCRVozTTJaVGgxVVY5ck5WSlZTVlF5WlRGUFExRm9ZVk4wV2xFNFpqWlliMk42TVZKMlpURXRUa1J1V21wVU4wMWtUMGx4UWxCVFVYZ3RlWE10Um1WZk1XRXpWR2R1V0hCblVEaFdZa1F5Y2tFMFpXZ3djR04yV2xrMFgyYzRYMjVPVmtWc2FuQlpkbXRJZVZRNWRXZENabFZwZWxoTFEzSlRiRXRCTm5CUWJGWXpOVkpLTTJ4SFlsQk9SV3cwYmtZNE4ySlJVa1ZVZUc5bVozbEhNREZUVDJOSGVGVnZNbmxXYmtsU2RrSkRkbTF5UmxsRlpFbDZZM2xFV2pkclVEUkJVSEZETURCQmIzSmtjR0Z6UkVKM01HOHhiVFpqZDFsdFptcERRbkpqT1V4MlVFcEtVV3BqVldKcVNYVmlla010Wm5Kd1VVcEtVREZXYjJKRVFtZFJZVmx5U2tKbFdXTmxObXBqWVZwMVNFOW9ZV1JSUmpCMFJuWmxRMEoyVWpGRVowSmxlbXhaTFVsSU5EWTBNamxSVkMxVlIySlJlV3d3VFZreE1IWmtUV2hFY2tsNVkwZEljVlJOUkcxeGRqaHZZamw0TlRBM00yVXRjRWt3WVRZMVJGRVNGekZEY2tOaGMxQXpTRFZUVDNKMVJWQnFPWEZmYzFGSkdpSkJSSE55T1daVGNrNUtZamx1VVZJM1NuWnNSSFZ6V0ZVMGRsTkRWMUI1ZUhSbiIsImZjdiI6IjMifQ==",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&next_page_token=eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTeTFOTFZKU1lsbHhZVFo2VFVvemFXZG1lbEEwUVhSVloxSm9NV05CUkdFd09HNXJialpLU205SFducFlObTlPTlhBMmVtVlVhMkZaYzBWdWJUQmtObFphVldsUmFscGtVMDVEYldGWldVZHdOVGt3YVZacFJWZEtPSGRFU1hWSGExZ3dkMnRTVERKSFptWTBaRTV1YVRkT1gyUnFPR0Z3TURCRVozTTJaVGgxVVY5ck5WSlZTVlF5WlRGUFExRm9ZVk4wV2xFNFpqWlliMk42TVZKMlpURXRUa1J1V21wVU4wMWtUMGx4UWxCVFVYZ3RlWE10Um1WZk1XRXpWR2R1V0hCblVEaFdZa1F5Y2tFMFpXZ3djR04yV2xrMFgyYzRYMjVPVmtWc2FuQlpkbXRJZVZRNWRXZENabFZwZWxoTFEzSlRiRXRCTm5CUWJGWXpOVkpLTTJ4SFlsQk9SV3cwYmtZNE4ySlJVa1ZVZUc5bVozbEhNREZUVDJOSGVGVnZNbmxXYmtsU2RrSkRkbTF5UmxsRlpFbDZZM2xFV2pkclVEUkJVSEZETURCQmIzSmtjR0Z6UkVKM01HOHhiVFpqZDFsdFptcERRbkpqT1V4MlVFcEtVV3BqVldKcVNYVmlla010Wm5Kd1VVcEtVREZXYjJKRVFtZFJZVmx5U2tKbFdXTmxObXBqWVZwMVNFOW9ZV1JSUmpCMFJuWmxRMEoyVWpGRVowSmxlbXhaTFVsSU5EWTBNamxSVkMxVlIySlJlV3d3VFZreE1IWmtUV2hFY2tsNVkwZEljVlJOUkcxeGRqaHZZamw0TlRBM00yVXRjRWt3WVRZMVJGRVNGekZEY2tOaGMxQXpTRFZUVDNKMVJWQnFPWEZmYzFGSkdpSkJSSE55T1daVGNrNUtZamx1VVZJM1NuWnNSSFZ6V0ZVMGRsTkRWMUI1ZUhSbiIsImZjdiI6IjMifQ%3D%3D&q=Hindi+translator+OR+interpreter+OR+transcription"
+      }
+    },
+    {
+      "search_metadata": {
+        "id": "6ac22be27ec029984eb2c112",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/Gt05s5T2BY8c3zVhDm8FGJgL8Wir6QvTgph7cn9XKAE/6ac22be27ec029984eb2c112.json",
+        "markdown_endpoint": "https://serpapi.com/searches/Gt05s5T2BY8c3zVhDm8FGJgL8Wir6QvTgph7cn9XKAE/6ac22be27ec029984eb2c112.md",
+        "created_at": "2026-10-04 10:35:14 UTC",
+        "processed_at": "2026-10-04 10:35:14 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=Hindi+translator+OR+interpreter+OR+transcription&uule=w+CAIQICILRGVsaGksSW5kaWE&hl=hi&gl=in&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/Gt05s5T2BY8c3zVhDm8FGJgL8Wir6QvTgph7cn9XKAE/6ac22be27ec029984eb2c112.html",
+        "prettify_html_file": "https://serpapi.com/searches/Gt05s5T2BY8c3zVhDm8FGJgL8Wir6QvTgph7cn9XKAE/6ac22be27ec029984eb2c112.prettify",
+        "total_time_taken": 0.52
+      },
+      "search_parameters": {
+        "q": "Hindi translator OR interpreter OR transcription",
+        "engine": "google_jobs",
+        "location_requested": "Delhi, India",
+        "location_used": "Delhi,India",
+        "google_domain": "google.com",
+        "hl": "hi",
+        "gl": "in",
+        "next_page_token": "eyJmYyI6IkVxSUVDdUlEUVVwcFZEUjBTeTFOTFZKU1lsbHhZVFo2VFVvemFXZG1lbEEwUVhSVloxSm9NV05CUkdFd09HNXJialpLU205SFducFlObTlPTlhBMmVtVlVhMkZaYzBWdWJUQmtObFphVldsUmFscGtVMDVEYldGWldVZHdOVGt3YVZacFJWZEtPSGRFU1hWSGExZ3dkMnRTVERKSFptWTBaRTV1YVRkT1gyUnFPR0Z3TURCRVozTTJaVGgxVVY5ck5WSlZTVlF5WlRGUFExRm9ZVk4wV2xFNFpqWlliMk42TVZKMlpURXRUa1J1V21wVU4wMWtUMGx4UWxCVFVYZ3RlWE10Um1WZk1XRXpWR2R1V0hCblVEaFdZa1F5Y2tFMFpXZ3djR04yV2xrMFgyYzRYMjVPVmtWc2FuQlpkbXRJZVZRNWRXZENabFZwZWxoTFEzSlRiRXRCTm5CUWJGWXpOVkpLTTJ4SFlsQk9SV3cwYmtZNE4ySlJVa1ZVZUc5bVozbEhNREZUVDJOSGVGVnZNbmxXYmtsU2RrSkRkbTF5UmxsRlpFbDZZM2xFV2pkclVEUkJVSEZETURCQmIzSmtjR0Z6UkVKM01HOHhiVFpqZDFsdFptcERRbkpqT1V4MlVFcEtVV3BqVldKcVNYVmlla010Wm5Kd1VVcEtVREZXYjJKRVFtZFJZVmx5U2tKbFdXTmxObXBqWVZwMVNFOW9ZV1JSUmpCMFJuWmxRMEoyVWpGRVowSmxlbXhaTFVsSU5EWTBNamxSVkMxVlIySlJlV3d3VFZreE1IWmtUV2hFY2tsNVkwZEljVlJOUkcxeGRqaHZZamw0TlRBM00yVXRjRWt3WVRZMVJGRVNGekZEY2tOaGMxQXpTRFZUVDNKMVJWQnFPWEZmYzFGSkdpSkJSSE55T1daVGNrNUtZamx1VVZJM1NuWnNSSFZ6V0ZVMGRsTkRWMUI1ZUhSbiIsImZjdiI6IjMifQ=="
+      },
+      "jobs_results": [
+        {
+          "title": "Chinese Translator",
+          "company_name": "Kunshan Q Tech Microelectronics",
+          "location": "\u0917\u094d\u0930\u0947\u091f\u0930 \u0928\u094b\u090f\u0921\u093e, \u0909\u0924\u094d\u0924\u0930 \u092a\u094d\u0930\u0926\u0947\u0936",
+          "via": "JobLeads",
+          "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Hindi+translator+OR+interpreter+OR+transcription&htidocid=_MvwSyh3XfkgQC59AAAAAA%3D%3D&hl=hi-IN&shem=epsd1,esd2e,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_01OsUoEMRAFy_sEq9SiuyLYaGlhIVcI1x97YdisrJklk4MrxUZFxUpFEESYyHGIWFnet8ynONm1sMnLvHlv3hu9bIzckWs8EJhJqDy1VcRgdozwUtKd8KPwt6QLk3_pSuFTeN1zefhSEL40x4h1C0qsdDVos-VZ-FrhSdKt8OvmoYuxo4OyJGqLmmIVG1tYPC_RwwwX5RnOKD9TclWATqvAdG9_d1F0vt7q8rl0P0QLvw1By_70g_C71tpW4kaYexkPgtWfhz9628-_0idzr0HenJoJWGfGjQ0ILdgY0DeWfgHjqSubHAEAAA&shmds=v1_ARwrE2138MbxSOucZniI3YqouN5JGF1CcNviBQuhUd9OARVIiw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Hindi+translator+OR+interpreter+OR+transcription&htidocid=_MvwSyh3XfkgQC59AAAAAA%3D%3D",
+          "extensions": [
+            "6 \u0926\u093f\u0928 \u092a\u0939\u0932\u0947",
+            "\u20b92.79\u00a0\u0932\u093e\u0916\u2013\u20b95.02\u00a0\u0932\u093e\u0916 \u092a\u094d\u0930\u0924\u093f \u0935\u0930\u094d\u0937",
+            "\u095e\u0941\u0932-\u091f\u093e\u0907\u092e"
+          ],
+          "source_link": "https://www.jobleads.com/in/job/chinese-translator--greater-noida--e0b40ccd9c7c8a31f4ae641d05586d6c4",
+          "job_title": "Chinese Translator",
+          "description": "Job Summary:\nWe are seeking a skilled Chinese Translator to translate documents and facilitate communication between Chinese and English-speaking stakeholders.\n\n\nKey Responsibilities:\n\nTranslate written documents (Chinese English)\nProvide interpretation during meetings and calls\nEnsure accuracy and cultural relevance in translations\nAssist cross-border communication\n\nRequirements:\n\nProficiency in Mandarin and English\nHSK certification preferred\nPrior translation experience",
+          "apply_options": [
+            {
+              "title": "JobLeads",
+              "link": "https://www.jobleads.com/in/job/chinese-translator--greater-noida--e0b40ccd9c7c8a31f4ae641d05586d6c4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+            }
+          ],
+          "job_id": "eyJqb2JfdGl0bGUiOiJDaGluZXNlIFRyYW5zbGF0b3IiLCJjb21wYW55X25hbWUiOiJLdW5zaGFuIFEgVGVjaCBNaWNyb2VsZWN0cm9uaWNzIiwiaHRpZG9jaWQiOiJfTXZ3U3loM1hma2dRQzU5QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJTFJHVnNhR2tzU1c1a2FXRSIsImdsIjoiaW4iLCJobCI6ImhpIiwiZmMiOiJFc3dCQ293QlFVcHBWRFIwU2pFNVgxcFFSVmxVV1hGUFRXWm5lbXRtZW1GNlpIWndVRU5DTFRWc1VtcEtYMGhrTm05dGVEaFFTelY2UTJ0SlZuZFdTVEJCY1VKNWFHWm1jek5XWHpCeVZFMUpNbEJDZFhoUU5EQlJhMGxLWTJnemFVdGlTamhDVlVzNWJraEJSamd0Y0U5SVdrd3hiVFp5VFhWak5UUTNNMHBzVms5a1JVZDRUMWcwYlRKM2VXTktVbllTRnpSNWRrTmhiMmxIUVZseFluQjBVVkJ2T0hWalowRlJHaUpCUkhOeU9XWlVVMjFsWTNSQlNYSnRjV3RMVW5VM2FtMTVhbU0yTW1ZMU5teG4iLCJmY3YiOiIzIiwiZmNfaWQiOiJfTXZ3U3loM1hma2dRQzU5QUFBQUFBPT0ifQ=="
+        }
+      ],
+      "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTakU1WDFwUVJWbFVXWEZQVFdabmVtdG1lbUY2Wkhad1VFTkNMVFZzVW1wS1gwaGtObTl0ZURoUVN6VjZRMnRKVm5kV1NUQkJjVUo1YUdabWN6TldYekJ5VkUxSk1sQkNkWGhRTkRCUmEwbEtZMmd6YVV0aVNqaENWVXM1YmtoQlJqZ3RjRTlJV2t3eGJUWnlUWFZqTlRRM00wcHNWazlrUlVkNFQxZzBiVEozZVdOS1VuWVNGelI1ZGtOaGIybEhRVmx4WW5CMFVWQnZPSFZqWjBGUkdpSkJSSE55T1daVVUyMWxZM1JCU1hKdGNXdExVblUzYW0xNWFtTTJNbVkxTm14biIsImZjdiI6IjMifQ==",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&gl=in&google_domain=google.com&hl=hi&location=Delhi%2C+India&next_page_token=eyJmYyI6IkVzd0JDb3dCUVVwcFZEUjBTakU1WDFwUVJWbFVXWEZQVFdabmVtdG1lbUY2Wkhad1VFTkNMVFZzVW1wS1gwaGtObTl0ZURoUVN6VjZRMnRKVm5kV1NUQkJjVUo1YUdabWN6TldYekJ5VkUxSk1sQkNkWGhRTkRCUmEwbEtZMmd6YVV0aVNqaENWVXM1YmtoQlJqZ3RjRTlJV2t3eGJUWnlUWFZqTlRRM00wcHNWazlrUlVkNFQxZzBiVEozZVdOS1VuWVNGelI1ZGtOaGIybEhRVmx4WW5CMFVWQnZPSFZqWjBGUkdpSkJSSE55T1daVVUyMWxZM1JCU1hKdGNXdExVblUzYW0xNWFtTTJNbVkxTm14biIsImZjdiI6IjMifQ%3D%3D&q=Hindi+translator+OR+interpreter+OR+transcription"
+      }
+    }
+  ]
+}

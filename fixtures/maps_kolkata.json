@@ -1,0 +1,2038 @@
+{
+  "engine": "google_maps",
+  "hl_used": "bn",
+  "hl_requested": "bn",
+  "queries": {
+    "translation_services": {
+      "search_metadata": {
+        "id": "6ac22b142f47f8b73eaa1e88",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/JoRFQD94IxAlxtUOAuDQd8dgMGznJWTTgMP0QM2IPBk/6ac22b142f47f8b73eaa1e88.json",
+        "markdown_endpoint": "https://serpapi.com/searches/JoRFQD94IxAlxtUOAuDQd8dgMGznJWTTgMP0QM2IPBk/6ac22b142f47f8b73eaa1e88.md",
+        "created_at": "2026-10-04 10:31:48 UTC",
+        "processed_at": "2026-10-04 10:31:48 UTC",
+        "google_maps_url": "https://www.google.com/maps/search/translation+services+Bengali/@22.5726,88.3639,12z/data=!3m1!4b1!4m2!2m1!6e5?hl=bn&gl=in",
+        "raw_html_file": "https://serpapi.com/searches/JoRFQD94IxAlxtUOAuDQd8dgMGznJWTTgMP0QM2IPBk/6ac22b142f47f8b73eaa1e88.html",
+        "prettify_html_file": "https://serpapi.com/searches/JoRFQD94IxAlxtUOAuDQd8dgMGznJWTTgMP0QM2IPBk/6ac22b142f47f8b73eaa1e88.prettify",
+        "total_time_taken": 1.1
+      },
+      "search_parameters": {
+        "engine": "google_maps",
+        "type": "search",
+        "q": "translation services Bengali",
+        "ll": "@22.5726,88.3639,12z",
+        "google_domain": "google.com",
+        "hl": "bn",
+        "gl": "in"
+      },
+      "search_information": {
+        "local_results_state": "Results for exact spelling",
+        "query_displayed": "translation services Bengali"
+      },
+      "local_results": [
+        {
+          "position": 1,
+          "title": "\u0985\u09cd\u09af\u09be\u09b8\u09cd\u09a5\u09c7\u099f\u09bf\u0995 \u09ab\u09b0\u09c7\u09a8 \u09b2\u09cd\u09af\u09be\u0999\u09cd\u0997\u09c1\u09af\u09bc\u09c7\u099c \u09b8\u09be\u09b0\u09cd\u09ad\u09bf\u09b8",
+          "place_id": "ChIJU0akdWtxAjoRI7l80aImsIw",
+          "data_id": "0x3a02716b75a44653:0x8cb026a2d17cb923",
+          "data_cid": "10137645241952155939",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a02716b75a44653%3A0x8cb026a2d17cb923&engine=google_maps_reviews&hl=bn",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a02716b75a44653%3A0x8cb026a2d17cb923&engine=google_maps_photos&hl=bn",
+          "gps_coordinates": {
+            "latitude": 22.480922099999997,
+            "longitude": 88.37216459999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=bn&place_id=ChIJU0akdWtxAjoRI7l80aImsIw",
+          "provider_id": "/g/11fz9ym043",
+          "rating": 4.7,
+          "reviews": 32,
+          "type": "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995",
+          "types": [
+            "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator"
+          ],
+          "address": "FL-3D,3/91, Vidyasagar colony P.O, P.S, Naktala, Netaji Nagar, Kolkata, West Bengal 700047",
+          "country": "\u09ad\u09be\u09b0\u09a4",
+          "open_state": "\u09e8\u09ea \u0998\u09a3\u09cd\u099f\u09be \u0996\u09cb\u09b2\u09be",
+          "hours": "\u09e8\u09ea \u0998\u09a3\u09cd\u099f\u09be \u0996\u09cb\u09b2\u09be",
+          "operating_hours": {
+            "\u09b0\u09ac\u09bf\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09b8\u09cb\u09ae\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09ae\u0999\u09cd\u0997\u09b2\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09ac\u09c1\u09a7\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09ac\u09c3\u09b9\u09b8\u09cd\u09aa\u09a4\u09bf\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09b6\u09c1\u0995\u09cd\u09b0\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09b6\u09a8\u09bf\u09ac\u09be\u09b0": "Open 24 hours"
+          },
+          "phone": "079084 03316",
+          "website": "http://afltranslator.com/",
+          "extensions": [
+            {
+              "service_options": [
+                "\u0985\u09a8\u09b2\u09be\u0987\u09a8 \u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f",
+                "\u0985\u09a8\u09b8\u09be\u0987\u099f \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be"
+              ]
+            },
+            {
+              "planning": [
+                "\u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f \u09a8\u09bf\u09a4\u09c7 \u09b9\u09ac\u09c7"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0985\u09a8\u09b2\u09be\u0987\u09a8_\u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f": true,
+            "\u0985\u09a8\u09b8\u09be\u0987\u099f_\u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be": true
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnWc1ua61oHNlrCrKovDC7N8cU5BC7jxQ-cd-WhA1mTtNol5Y1UISVj_1nA2AKVwuMi_yq2iL5H6u4L0XFEPOPUBIHPq4OFPFofDkHiiVf1VIO-kXb40pcfla3A2rae1MeATlzJcA=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/VNtYC3icHcRbcoIwFADQFUUSBO0440dEmVAV0srLLwdvw0NjgiTU2h12Cd1NZ3o-zu9Pa21vFo4j2-mk0bqRYjRiAK2sUHYC-uY0vUFgkHEoe-dpoQogYzUjmsVyCIat_lwH8_gFMn8VzC9fbwg-UNFSckttrKV_JFl0yC8noqhLt_lj3Hen593tdj6bjd4Ol-GGJzxbRYzfvSTkoa7XV9Z1eU3yKEHX8uzhHmpZTak7VILsBU3l9yvQ5YNgjFH7PyD1B1GoQ3I"
+        },
+        {
+          "position": 2,
+          "title": "\u09af\u09b6\u09cd\u09ac\u09c0 \u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u09b2\u09c7\u09b6\u09a8",
+          "place_id": "ChIJH0oaVpF1AjoRHRukSiUIJxE",
+          "data_id": "0x3a027591561a4a1f:0x112708254aa41b1d",
+          "data_cid": "1235965578995571485",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a027591561a4a1f%3A0x112708254aa41b1d&engine=google_maps_reviews&hl=bn",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a027591561a4a1f%3A0x112708254aa41b1d&engine=google_maps_photos&hl=bn",
+          "gps_coordinates": {
+            "latitude": 22.5769348,
+            "longitude": 88.427971
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=bn&place_id=ChIJH0oaVpF1AjoRHRukSiUIJxE",
+          "provider_id": "/g/11rd45qh59",
+          "rating": 4.8,
+          "reviews": 25,
+          "type": "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995",
+          "types": [
+            "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995",
+            "\u09b8\u09be\u09b0\u09cd\u099f\u09bf\u09ab\u09bf\u0995\u09c7\u09b6\u09a8 \u098f\u099c\u09c7\u09a8\u09cd\u09b8\u09bf",
+            "\u0986\u0987\u09a8\u09bf \u09aa\u09b0\u09be\u09ae\u09b0\u09cd\u09b6",
+            "\u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u0995\u09cd\u09b0\u09bf\u09aa\u09b6\u09a8 \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator",
+            "certification_agency",
+            "legal_services",
+            "transcription_service"
+          ],
+          "address": "15th Floor, EM-4, Street No. 13, beside Techno India College, opposite to Monotel Hotel, EM Block, Sector V, Bidhannagar, Kolkata, West Bengal 700091",
+          "country": "\u09ad\u09be\u09b0\u09a4",
+          "open_state": "\u0996\u09cb\u09b2\u09be \u0986\u099b\u09c7 \u00b7 \u09e7\u09e6:\u09e6\u09e6 PM-\u098f \u09ac\u09a8\u09cd\u09a7 \u09b9\u09ac\u09c7",
+          "hours": "\u0996\u09cb\u09b2\u09be \u0986\u099b\u09c7 \u00b7 \u09e7\u09e6:\u09e6\u09e6 PM-\u098f \u09ac\u09a8\u09cd\u09a7 \u09b9\u09ac\u09c7",
+          "operating_hours": {
+            "\u09b0\u09ac\u09bf\u09ac\u09be\u09b0": "\u09ee:\u09e6\u09e6AM\u2013\u09e7\u09e6:\u09e6\u09e6PM",
+            "\u09b8\u09cb\u09ae\u09ac\u09be\u09b0": "\u09ee:\u09e6\u09e6AM\u2013\u09e7\u09e6:\u09e6\u09e6PM",
+            "\u09ae\u0999\u09cd\u0997\u09b2\u09ac\u09be\u09b0": "\u09ee:\u09e6\u09e6AM\u2013\u09e7\u09e6:\u09e6\u09e6PM",
+            "\u09ac\u09c1\u09a7\u09ac\u09be\u09b0": "\u09ee:\u09e6\u09e6AM\u2013\u09e7\u09e6:\u09e6\u09e6PM",
+            "\u09ac\u09c3\u09b9\u09b8\u09cd\u09aa\u09a4\u09bf\u09ac\u09be\u09b0": "\u09ee:\u09e6\u09e6AM\u2013\u09e7\u09e6:\u09e6\u09e6PM",
+            "\u09b6\u09c1\u0995\u09cd\u09b0\u09ac\u09be\u09b0": "\u09ee:\u09e6\u09e6AM\u2013\u09e7\u09e6:\u09e6\u09e6PM",
+            "\u09b6\u09a8\u09bf\u09ac\u09be\u09b0": "\u09ee:\u09e6\u09e6AM\u2013\u09e7\u09e6:\u09e6\u09e6PM"
+          },
+          "phone": "099111 95559",
+          "website": "https://www.translate-englishto.com/translation-service-kolkata/",
+          "extensions": [
+            {
+              "service_options": [
+                "\u0985\u09a8\u09b2\u09be\u0987\u09a8 \u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f"
+              ]
+            },
+            {
+              "amenities": [
+                "\u09aa\u09c1\u09b0\u09c1\u09b7 \u0993 \u09ae\u09b9\u09bf\u09b2\u09be \u0989\u09ad\u09df\u09c7\u09b0 \u099c\u09a8\u09cd\u09af \u099f\u09df\u09b2\u09c7\u099f"
+              ]
+            },
+            {
+              "planning": [
+                "\u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f \u09a8\u09bf\u09a4\u09c7 \u09b9\u09ac\u09c7"
+              ]
+            }
+          ],
+          "unsupported_extensions": [
+            {
+              "service_options": [
+                "\u0985\u09a8\u09b8\u09be\u0987\u099f \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0985\u09a8\u09b2\u09be\u0987\u09a8_\u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f": true,
+            "\u0985\u09a8\u09b8\u09be\u0987\u099f_\u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be": false
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlJZdCJyB6cNfHxOF70AqXeLLDXBVRmN2CT1vcNDUPJErNdAo-qb_E-freJG78iPl0xXbdMHkc2xTVjGafkIl8ZMu9g7kLD_u8-p62z74V73UnbF79fDFEuPxnypKUjiaxsvtRr=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/FVRSc3icHcRdDoIgAADgE5FkLaytB_MnMzPn1FwvLRG1JDDBoi7YGbpNW9_D9_00UnZioWm0mYxqzmtKBkF6zJkkTI4wv2l1JwAWQGimF0fJgfrH0vJfqxkOK0_tXQTNe06CwM5XWXwLdSsZP3Bop5Hv9GFpcnAvTg6oeuKvkXGJKFR5Ue68Fusqya7rc9VuqHHcDfMatYF9GgzQzfQ3mmZokrLCRfPKdp0hUuzVbdPr5azEQ8b98jmGEILmPwbsB-toRAs"
+        },
+        {
+          "position": 3,
+          "title": "\u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u09b2\u09c7\u09b6\u09a8 \u09b2\u09bf\u0999\u09cd\u0997\u09c1\u09af\u09bc\u09bf\u09b8\u09cd\u099f\u09bf\u0995 \u09b8\u09be\u09b0\u09cd\u09ad\u09bf\u09b8\u09c7\u09b8",
+          "place_id": "ChIJAQAAjLxwAjoRFNbF50Cdy4U",
+          "data_id": "0x3a0270bc8c000001:0x85cb9d40e7c5d614",
+          "data_cid": "9640972329408648724",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a0270bc8c000001%3A0x85cb9d40e7c5d614&engine=google_maps_reviews&hl=bn",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a0270bc8c000001%3A0x85cb9d40e7c5d614&engine=google_maps_photos&hl=bn",
+          "gps_coordinates": {
+            "latitude": 22.695387399999998,
+            "longitude": 88.3910346
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=bn&place_id=ChIJAQAAjLxwAjoRFNbF50Cdy4U",
+          "provider_id": "/g/1t_kdyfq",
+          "rating": 4.5,
+          "reviews": 18,
+          "type": "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995",
+          "types": [
+            "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995",
+            "\u09b8\u09be\u09b0\u09cd\u099f\u09bf\u09ab\u09bf\u0995\u09c7\u09b6\u09a8 \u098f\u099c\u09c7\u09a8\u09cd\u09b8\u09bf",
+            "\u0987\u09a8\u09cd\u099f\u09be\u09b0\u09a8\u09c7\u099f \u09ac\u09bf\u09aa\u09a3\u09a8 \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be",
+            "\u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u0995\u09cd\u09b0\u09bf\u09aa\u09b6\u09a8 \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be",
+            "\u0993\u09df\u09c7\u09ac \u09a1\u09bf\u099c\u09be\u0987\u09a8\u09be\u09b0"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator",
+            "certification_agency",
+            "internet_marketing_service",
+            "transcription_service",
+            "website_designer"
+          ],
+          "address": "Sidharth Tower, Road No. 1, H B Town, \u09b8\u09cb\u09a6\u09aa\u09c1\u09b0, \u0996\u09a1\u09bc\u09a6\u09b9, \u0993\u09af\u09bc\u09c7\u09b8\u09cd\u099f \u09ac\u09c7\u0999\u09cd\u0997\u09b2 700110",
+          "country": "\u09ad\u09be\u09b0\u09a4",
+          "open_state": "\u09e8\u09ea \u0998\u09a3\u09cd\u099f\u09be \u0996\u09cb\u09b2\u09be",
+          "hours": "\u09e8\u09ea \u0998\u09a3\u09cd\u099f\u09be \u0996\u09cb\u09b2\u09be",
+          "operating_hours": {
+            "\u09b0\u09ac\u09bf\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09b8\u09cb\u09ae\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09ae\u0999\u09cd\u0997\u09b2\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09ac\u09c1\u09a7\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09ac\u09c3\u09b9\u09b8\u09cd\u09aa\u09a4\u09bf\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09b6\u09c1\u0995\u09cd\u09b0\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09b6\u09a8\u09bf\u09ac\u09be\u09b0": "Open 24 hours"
+          },
+          "phone": "096749 80112",
+          "website": "http://www.tran-solution.net/",
+          "extensions": [
+            {
+              "from_the_business": [
+                "\u09ae\u09b9\u09bf\u09b2\u09be\u09a6\u09c7\u09b0 \u09ae\u09be\u09b2\u09bf\u0995\u09be\u09a8\u09be\u09a7\u09c0\u09a8 \u09b9\u09bf\u09b8\u09c7\u09ac\u09c7 \u099a\u09bf\u09b9\u09cd\u09a8\u09bf\u09a4 \u0995\u09b0\u09c7"
+              ]
+            },
+            {
+              "service_options": [
+                "\u0985\u09a8\u09b2\u09be\u0987\u09a8 \u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f",
+                "\u0985\u09a8\u09b8\u09be\u0987\u099f \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be"
+              ]
+            },
+            {
+              "parking": [
+                "\u0985\u09a8-\u09b8\u09be\u0987\u099f \u09aa\u09be\u09b0\u09cd\u0995\u09bf\u0982 \u0986\u099b\u09c7",
+                "\u09ab\u09cd\u09b0\u09bf \u09aa\u09be\u09b0\u09cd\u0995\u09bf\u0982\u09df\u09c7\u09b0 \u099c\u09be\u09df\u0997\u09be \u0989\u09aa\u09b2\u09ad\u09cd\u09af",
+                "\u09b0\u09be\u09b8\u09cd\u09a4\u09be\u09df \u09ab\u09cd\u09b0\u09bf \u09aa\u09be\u09b0\u09cd\u0995\u09bf\u0982 \u0989\u09aa\u09b2\u09ad\u09cd\u09af"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0985\u09a8\u09b2\u09be\u0987\u09a8_\u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f": true,
+            "\u0985\u09a8\u09b8\u09be\u0987\u099f_\u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be": true
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnExjrFwyaPGnD2C9KZzSaEll3e-Tj47L8TNEtyjMiqqe6pzaEHAlaH_0E_l0pA3vw1jVuzrYfC-HtLTBrTB7IzoT8sW7-ABOELziViFRcV3nmlUO_xrnKxddJQjfnO8gZhs-vy=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/gXW_nXicHcRdboIwAADgE1XqWAZb4gNoGZtsIOsw-kJIqUBTW2zLXy_oGXYbk30P39-9NabXb47DW3fVSNlwOmiqiBSGCrMi8uo0vQZEA-0EcZ7ho0AzU9G0VNm72D1tX_dn-1Mhzl0KMHv2Eh9_I7Owr-52oy-9rVAc8CouISo57AN3nNasGKw6XbYgNgkOFQ69Dyuxr48eCMIUJbYruignhSuu_DctZyX2c11_HthFpH5zbjUYl820hhCC9n8CxAOVw0Wq"
+        },
+        {
+          "position": 4,
+          "title": "\u098f\u09b2\u09ab\u09bf\u09a8 \u0987\u09a8\u09cd\u09a1\u09bf\u09af\u09bc\u09be",
+          "place_id": "ChIJt-bD_UnPcasRgqPKwGeicaM",
+          "data_id": "0xab71cf49fdc3e6b7:0xa371a267c0caa382",
+          "data_cid": "11777373067050394498",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0xab71cf49fdc3e6b7%3A0xa371a267c0caa382&engine=google_maps_reviews&hl=bn",
+          "photos_link": "https://serpapi.com/search.json?data_id=0xab71cf49fdc3e6b7%3A0xa371a267c0caa382&engine=google_maps_photos&hl=bn",
+          "gps_coordinates": {
+            "latitude": 22.4456739,
+            "longitude": 88.4095045
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=bn&place_id=ChIJt-bD_UnPcasRgqPKwGeicaM",
+          "provider_id": "/g/11tn2wchx5",
+          "rating": 4.6,
+          "reviews": 12,
+          "type": "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995",
+          "types": [
+            "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator"
+          ],
+          "address": "401, Ground Floor, New Green Park, Sonarpur Station Rd, Netajipalli, Narendrapur, Rajpur Sonarpur, West Bengal 700103",
+          "country": "\u09ad\u09be\u09b0\u09a4",
+          "open_state": "\u0996\u09cb\u09b2\u09be \u0986\u099b\u09c7 \u00b7 \u09ed:\u09e9\u09e6 PM-\u098f \u09ac\u09a8\u09cd\u09a7 \u09b9\u09ac\u09c7",
+          "hours": "\u0996\u09cb\u09b2\u09be \u0986\u099b\u09c7 \u00b7 \u09ed:\u09e9\u09e6 PM-\u098f \u09ac\u09a8\u09cd\u09a7 \u09b9\u09ac\u09c7",
+          "operating_hours": {
+            "\u09b0\u09ac\u09bf\u09ac\u09be\u09b0": "\u09ef:\u09e9\u09e6AM\u2013\u09ed:\u09e9\u09e6PM",
+            "\u09b8\u09cb\u09ae\u09ac\u09be\u09b0": "\u09ef:\u09e9\u09e6AM\u2013\u09ed:\u09e9\u09e6PM",
+            "\u09ae\u0999\u09cd\u0997\u09b2\u09ac\u09be\u09b0": "\u09ef:\u09e9\u09e6AM\u2013\u09ed:\u09e9\u09e6PM",
+            "\u09ac\u09c1\u09a7\u09ac\u09be\u09b0": "\u09ef:\u09e9\u09e6AM\u2013\u09ed:\u09e9\u09e6PM",
+            "\u09ac\u09c3\u09b9\u09b8\u09cd\u09aa\u09a4\u09bf\u09ac\u09be\u09b0": "\u09ef:\u09e9\u09e6AM\u2013\u09ed:\u09e9\u09e6PM",
+            "\u09b6\u09c1\u0995\u09cd\u09b0\u09ac\u09be\u09b0": "\u09ef:\u09e9\u09e6AM\u2013\u09ed:\u09e9\u09e6PM",
+            "\u09b6\u09a8\u09bf\u09ac\u09be\u09b0": "\u09ef:\u09e9\u09e6AM\u2013\u09ed:\u09e9\u09e6PM"
+          },
+          "phone": "098117 08306",
+          "website": "http://elfinindiaservices.in/",
+          "extensions": [
+            {
+              "service_options": [
+                "\u0985\u09a8\u09b2\u09be\u0987\u09a8 \u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f",
+                "\u0985\u09a8\u09b8\u09be\u0987\u099f \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be"
+              ]
+            }
+          ],
+          "unsupported_extensions": [
+            {
+              "accessibility": [
+                "\u09b9\u09c1\u0987\u09b2\u099a\u09c7\u09df\u09be\u09b0 \u09a8\u09bf\u09df\u09c7 \u09a2\u09cb\u0995\u09be\u09b0 \u09aa\u09cd\u09b0\u09ac\u09c7\u09b6\u09aa\u09a5",
+                "\u09b9\u09c1\u0987\u09b2\u099a\u09c7\u09af\u09bc\u09be\u09b0 \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0\u09af\u09cb\u0997\u09cd\u09af \u0986\u09b8\u09a8",
+                "\ufeff\u09b9\u09c1\u0987\u09b2\u099a\u09c7\u09df\u09be\u09b0 \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0\u09c7\u09b0 \u09b8\u09c1\u09ac\u09bf\u09a7\u09be \u09b8\u09b9 \u09b6\u09cc\u099a\u09be\u09b2\u09df"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0985\u09a8\u09b2\u09be\u0987\u09a8_\u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f": true,
+            "\u0985\u09a8\u09b8\u09be\u0987\u099f_\u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be": true
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnsKziOIa_mDCFXfuPhEuIWVDF2h6qRq7TWaELBFWVoDYG8Hj0geukmE0DjkKFtIEvYY6bCvWCPDPsUsyZpT6wOdXfnWXJ0idhxY6qNibc3RL6wDCHhnYWFkXOiHfZdWe-jUvU=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/GDVfr3icHcRRboIwAADQE1XqTOpi4sdGqTCNEAKW8rNoKRSQFtYC6gG9g7cx2ft4r6e0tjcbx7nK1aLSurqK0Yg_rpUVyi647pyqN4AbYJwvP44Sqsz-UYfB-bfDLsnKMZLeGNATJh8SDfGwTujZO3wTetKY7T79BlZibDsP4qbdExt4E2Po4k7UjXBkUnPP-wTNYZGVimY_sC7kjaHhWF_4Kj6gGbu-VIySNgtrv8wLKkCTTul2XkIIgfyfA_UGQElE7w"
+        },
+        {
+          "position": 5,
+          "title": "\u099a\u09c0\u09a8\u09be \u09a6\u09cb\u09ad\u09be\u09b7\u09c0 \u09b8\u09be\u09b0\u09cd\u09ad\u09bf\u09b8",
+          "place_id": "ChIJMewsqaZ4AjoRBOpKuoOggCY",
+          "data_id": "0x3a0278a6a92cec31:0x2680a083ba4aea04",
+          "data_cid": "2774393858086857220",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a0278a6a92cec31%3A0x2680a083ba4aea04&engine=google_maps_reviews&hl=bn",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a0278a6a92cec31%3A0x2680a083ba4aea04&engine=google_maps_photos&hl=bn",
+          "gps_coordinates": {
+            "latitude": 22.604894899999998,
+            "longitude": 88.2602874
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=bn&place_id=ChIJMewsqaZ4AjoRBOpKuoOggCY",
+          "provider_id": "/g/11c4wwrvq7",
+          "rating": 2.5,
+          "reviews": 2,
+          "type": "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995",
+          "types": [
+            "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995",
+            "\u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u0995\u09cd\u09b0\u09bf\u09aa\u09b6\u09a8 \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator",
+            "transcription_service"
+          ],
+          "address": "\u09ac\u09a8\u09cd\u09a6\u09c7\u09b2, Andul, \u09b9\u09be\u0993\u09dc\u09be, \u09a8\u09bf\u09ac\u09cd\u09b0\u09be, \u0993\u09af\u09bc\u09c7\u09b8\u09cd\u099f \u09ac\u09c7\u0999\u09cd\u0997\u09b2 711403",
+          "country": "\u09ad\u09be\u09b0\u09a4",
+          "open_state": "\u0996\u09cb\u09b2\u09be \u0986\u099b\u09c7 \u00b7 \u09e7\u09e6:\u09e6\u09e6 PM-\u098f \u09ac\u09a8\u09cd\u09a7 \u09b9\u09ac\u09c7",
+          "hours": "\u0996\u09cb\u09b2\u09be \u0986\u099b\u09c7 \u00b7 \u09e7\u09e6:\u09e6\u09e6 PM-\u098f \u09ac\u09a8\u09cd\u09a7 \u09b9\u09ac\u09c7",
+          "operating_hours": {
+            "\u09b0\u09ac\u09bf\u09ac\u09be\u09b0": "\u09ef:\u09e6\u09e6AM\u2013\u09e7\u09e6:\u09e6\u09e6PM",
+            "\u09b8\u09cb\u09ae\u09ac\u09be\u09b0": "\u09ef:\u09e6\u09e6AM\u2013\u09e7\u09e6:\u09e6\u09e6PM",
+            "\u09ae\u0999\u09cd\u0997\u09b2\u09ac\u09be\u09b0": "\u09ef:\u09e6\u09e6AM\u2013\u09e7\u09e6:\u09e6\u09e6PM",
+            "\u09ac\u09c1\u09a7\u09ac\u09be\u09b0": "\u09ef:\u09e6\u09e6AM\u2013\u09e7\u09e6:\u09e6\u09e6PM",
+            "\u09ac\u09c3\u09b9\u09b8\u09cd\u09aa\u09a4\u09bf\u09ac\u09be\u09b0": "\u09ef:\u09e6\u09e6AM\u2013\u09e7\u09e6:\u09e6\u09e6PM",
+            "\u09b6\u09c1\u0995\u09cd\u09b0\u09ac\u09be\u09b0": "\u09ef:\u09e6\u09e6AM\u2013\u09e7\u09e6:\u09e6\u09e6PM",
+            "\u09b6\u09a8\u09bf\u09ac\u09be\u09b0": "\u09ef:\u09e6\u09e6AM\u2013\u09e7\u09e6:\u09e6\u09e6PM"
+          },
+          "phone": "088676 81142",
+          "website": "https://www.globaltranslation.in/certified-translation",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkPjG0O_gNgNJTsqOSNtnSYaku53VtcvQkPseA3IMhMVWgujmIQ3TiniZXmV7Y0clAorShNFuwSG2JWUNDHOhwQcVvHmFGf11h5BsvJ5AJrTh49Of2mteGXIwfn0ewZwqezCwsO=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/j1d7Z3icHcTdCoIwGADQJzJnJlHQhRX5A22aptVNxJhb6bbymw56wZ6htwk6F-f7EcY8Yem6nfAnXGvesQFYT7UyTJkJ1dLlT3AoOOCG8SEr6zZ7RIhcOeY4LeFFCmxUcb61Q-BXho55mwEL_WQv9lXNh4dMcr-8q_vlJKv5GdEu1H0h8G6wRTRN6yPexkTYnFZjLHdR43kiWMOYBmHal2K2IM1UGhadEtsoxOzFvth7Y4GsrIcQcsR_6qgfwsxF6w"
+        },
+        {
+          "position": 6,
+          "title": "\u09b6\u09cd\u09b0\u09c7\u09af\u09bc\u09be\u0982\u09b6 \u098f\u09a8\u09cd\u099f\u09be\u09b0\u09aa\u09cd\u09b0\u09be\u0987\u099c",
+          "place_id": "ChIJjWIDYYB7AjoRgP70B5PRO_U",
+          "data_id": "0x3a027b806103628d:0xf53bd19307f4fe80",
+          "data_cid": "17670947992342167168",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a027b806103628d%3A0xf53bd19307f4fe80&engine=google_maps_reviews&hl=bn",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a027b806103628d%3A0xf53bd19307f4fe80&engine=google_maps_photos&hl=bn",
+          "gps_coordinates": {
+            "latitude": 22.4795357,
+            "longitude": 88.29764929999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=bn&place_id=ChIJjWIDYYB7AjoRgP70B5PRO_U",
+          "provider_id": "/g/11y50bdccp",
+          "rating": 4.9,
+          "reviews": 25,
+          "type": "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995",
+          "types": [
+            "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995",
+            "\u09ad\u09cd\u09b0\u09ae\u09a3 \u09b8\u0982\u09b8\u09cd\u09a5\u09be"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator",
+            "travel_agency"
+          ],
+          "address": "50, Sarsuna Main Rd, opposite of BADAMTALA CLUB, Talpukur, Paschim Barisha, \u0995\u09b2\u0995\u09be\u09a4\u09be, \u0993\u09af\u09bc\u09c7\u09b8\u09cd\u099f \u09ac\u09c7\u0999\u09cd\u0997\u09b2 700061",
+          "country": "\u09ad\u09be\u09b0\u09a4",
+          "open_state": "\u0996\u09cb\u09b2\u09be \u0986\u099b\u09c7 \u00b7 \u09ed:\u09e6\u09e6 PM-\u098f \u09ac\u09a8\u09cd\u09a7 \u09b9\u09ac\u09c7",
+          "hours": "\u0996\u09cb\u09b2\u09be \u0986\u099b\u09c7 \u00b7 \u09ed:\u09e6\u09e6 PM-\u098f \u09ac\u09a8\u09cd\u09a7 \u09b9\u09ac\u09c7",
+          "operating_hours": {
+            "\u09b0\u09ac\u09bf\u09ac\u09be\u09b0": "\u09e7\u09e7:\u09e6\u09e6AM\u2013\u09ed:\u09e6\u09e6PM",
+            "\u09b8\u09cb\u09ae\u09ac\u09be\u09b0": "\u09e7\u09e7:\u09e6\u09e6AM\u2013\u09ed:\u09e6\u09e6PM",
+            "\u09ae\u0999\u09cd\u0997\u09b2\u09ac\u09be\u09b0": "\u09e7\u09e7:\u09e6\u09e6AM\u2013\u09ed:\u09e6\u09e6PM",
+            "\u09ac\u09c1\u09a7\u09ac\u09be\u09b0": "\u09e7\u09e7:\u09e6\u09e6AM\u2013\u09ed:\u09e6\u09e6PM",
+            "\u09ac\u09c3\u09b9\u09b8\u09cd\u09aa\u09a4\u09bf\u09ac\u09be\u09b0": "\u09e7\u09e7:\u09e6\u09e6AM\u2013\u09ed:\u09e6\u09e6PM",
+            "\u09b6\u09c1\u0995\u09cd\u09b0\u09ac\u09be\u09b0": "\u09e7\u09e7:\u09e6\u09e6AM\u2013\u09ed:\u09e6\u09e6PM",
+            "\u09b6\u09a8\u09bf\u09ac\u09be\u09b0": "\u09e7\u09e7:\u09e6\u09e6AM\u2013\u09ed:\u09e6\u09e6PM"
+          },
+          "phone": "070446 31678",
+          "website": "https://www.shreyanshenterprise.co.in/",
+          "extensions": [
+            {
+              "from_the_business": [
+                "\u09ae\u09b9\u09bf\u09b2\u09be\u09a6\u09c7\u09b0 \u09ae\u09be\u09b2\u09bf\u0995\u09be\u09a8\u09be\u09a7\u09c0\u09a8 \u09b9\u09bf\u09b8\u09c7\u09ac\u09c7 \u099a\u09bf\u09b9\u09cd\u09a8\u09bf\u09a4 \u0995\u09b0\u09c7"
+              ]
+            },
+            {
+              "service_options": [
+                "\u0985\u09a8\u09b8\u09be\u0987\u099f \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0985\u09a8\u09b8\u09be\u0987\u099f_\u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be": true
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkYYfKtNLix9eXdfmOHTiEykQ0_RAR1I4hEa80Lmmokn3-RfoNC8_9rpClzsBf9NMBtOaeZ4ajBMLTnif1Wy7Xm1LRVQQmzOjzo0EXx3ouziA10dmhzAUY35bsvpzkM5AtJy8JLTw=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/6FNxynicHcRdboIwAADgE1XaIBGW7KEYEn8KjIYp7MUgthShLbF1Sm-4I3gbk30P3-tPWDuZD88bhb_otO5Gdjfs1mplmbKLVkuvmwxoDTAe3tCv8jjUNd_bjPTPiFUXLvNN2SfzUMATxRRtlyJpQkik1IPyAeU6W4en6DatR2diHmVpbPOG_Syba5ySUvUcHedVJRGhh6KQLr86DZPq6eu76zGCFykc_q794Gx-JzekAba7OdyR8vH5QBBCIP5vgXoDFXlF-Q"
+        },
+        {
+          "position": 7,
+          "title": "\u09b8\u09cd\u09ac\u09b8\u09cd\u09a4\u09bf\u0995\u09be \u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u09b2\u09c7\u09b6\u09a8 & \u0995\u09a8\u09cd\u099f\u09c7\u09a8\u09cd\u099f \u09a1\u09c7\u09ad\u09c7\u09b2\u09aa\u09be\u09b0",
+          "place_id": "ChIJl_ZVDMx3AjoRdkwMsbaldpI",
+          "data_id": "0x3a0277cc0c55f697:0x9276a5b6b10c4c76",
+          "data_cid": "10553804980862340214",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a0277cc0c55f697%3A0x9276a5b6b10c4c76&engine=google_maps_reviews&hl=bn",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a0277cc0c55f697%3A0x9276a5b6b10c4c76&engine=google_maps_photos&hl=bn",
+          "gps_coordinates": {
+            "latitude": 22.595139399999997,
+            "longitude": 88.382423
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=bn&place_id=ChIJl_ZVDMx3AjoRdkwMsbaldpI",
+          "provider_id": "/g/11lfcxdml1",
+          "rating": 3.7,
+          "reviews": 3,
+          "type": "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995",
+          "types": [
+            "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator"
+          ],
+          "address": "139/H/6, Bidhannagar Road Muchi Bazar, near Anurag Diagnostic and Health Care, Kolkata, West Bengal 700067",
+          "country": "\u09ad\u09be\u09b0\u09a4",
+          "open_state": "\u09ac\u09a8\u09cd\u09a7 \u09b9\u09df\u09c7 \u0997\u09c7\u099b\u09c7 \u00b7 \u09b8\u09cb\u09ae \u09ef:\u09e6\u09e6 AM-\u098f \u0996\u09c1\u09b2\u09ac\u09c7",
+          "hours": "\u09ac\u09a8\u09cd\u09a7 \u09b9\u09df\u09c7 \u0997\u09c7\u099b\u09c7 \u00b7 \u09b8\u09cb\u09ae \u09ef:\u09e6\u09e6 AM-\u098f \u0996\u09c1\u09b2\u09ac\u09c7",
+          "operating_hours": {
+            "\u09b0\u09ac\u09bf\u09ac\u09be\u09b0": "Closed",
+            "\u09b8\u09cb\u09ae\u09ac\u09be\u09b0": "\u09ef:\u09e6\u09e6AM\u2013\u09ec:\u09e6\u09e6PM",
+            "\u09ae\u0999\u09cd\u0997\u09b2\u09ac\u09be\u09b0": "\u09ef:\u09e6\u09e6AM\u2013\u09ec:\u09e6\u09e6PM",
+            "\u09ac\u09c1\u09a7\u09ac\u09be\u09b0": "\u09ef:\u09e6\u09e6AM\u2013\u09ec:\u09e6\u09e6PM",
+            "\u09ac\u09c3\u09b9\u09b8\u09cd\u09aa\u09a4\u09bf\u09ac\u09be\u09b0": "\u09ef:\u09e6\u09e6AM\u2013\u09ec:\u09e6\u09e6PM",
+            "\u09b6\u09c1\u0995\u09cd\u09b0\u09ac\u09be\u09b0": "\u09ef:\u09e6\u09e6AM\u2013\u09ec:\u09e6\u09e6PM",
+            "\u09b6\u09a8\u09bf\u09ac\u09be\u09b0": "\u09ef:\u09e6\u09e6AM\u2013\u09ec:\u09e6\u09e6PM"
+          },
+          "phone": "087702 31137",
+          "website": "https://www.facebook.com/stcd071212",
+          "extensions": [
+            {
+              "service_options": [
+                "\u0985\u09a8\u09b2\u09be\u0987\u09a8 \u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f"
+              ]
+            }
+          ],
+          "unsupported_extensions": [
+            {
+              "service_options": [
+                "\u0985\u09a8\u09b8\u09be\u0987\u099f \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0985\u09a8\u09b2\u09be\u0987\u09a8_\u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f": true,
+            "\u0985\u09a8\u09b8\u09be\u0987\u099f_\u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be": false
+          },
+          "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jKxwbx2KEcJtc_Z8_0euRA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=175.76408&pitch=0&thumbfov=100",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/cAy3k3icHc0xDsIgFADQ27AJtFFbTYhxcLGbo0tD6RcwtPyU31Jv47W8jcYLvPd5OyJMRyESTQC0eMjoVwhpg5rbGG0AjT5xEwexFILcPHSj9uGEeoy-V89mzd1aNhdzJdPe61bCfDsz07UmeBhJJdCTcdzmnzjFnltMLKtaMqcOJXvprIpqx6v9VtYMPRmnJPsvj7ioQsovjgk5vw"
+        },
+        {
+          "position": 8,
+          "title": "Anubadok Lingo Services (\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995 \u09b2\u09bf\u0982\u0997\u09cb \u09b8\u09be\u09b0\u09cd\u09ad\u09bf\u09b8\u09c7\u09b8)",
+          "place_id": "ChIJkbwxctN2AjoReswHgIJ1E3o",
+          "data_id": "0x3a0276d37231bc91:0x7a1375828007cc7a",
+          "data_cid": "8796503700538903674",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a0276d37231bc91%3A0x7a1375828007cc7a&engine=google_maps_reviews&hl=bn",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a0276d37231bc91%3A0x7a1375828007cc7a&engine=google_maps_photos&hl=bn",
+          "gps_coordinates": {
+            "latitude": 22.5075398,
+            "longitude": 88.3825401
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=bn&place_id=ChIJkbwxctN2AjoReswHgIJ1E3o",
+          "provider_id": "/g/1thbv20g",
+          "rating": 3.8,
+          "reviews": 4,
+          "type": "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995",
+          "types": [
+            "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995",
+            "\u09ad\u09be\u09b7\u09be \u09b6\u09bf\u0995\u09cd\u09b7\u09be \u0995\u09c7\u09a8\u09cd\u09a6\u09cd\u09b0",
+            "\u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u0995\u09cd\u09b0\u09bf\u09aa\u09b6\u09a8 \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator",
+            "language_school",
+            "transcription_service"
+          ],
+          "address": "Urban Primary Helath Center, High School for Boys, 4/107 Nelinagar PO-Haltu 1st Floor near KMC, Haltu, Kolkata, West Bengal 700078",
+          "country": "\u09ad\u09be\u09b0\u09a4",
+          "open_state": "\u09ac\u09a8\u09cd\u09a7 \u09b9\u09df\u09c7 \u0997\u09c7\u099b\u09c7 \u00b7 \u09b8\u09cb\u09ae \u09ee:\u09e6\u09e6 AM-\u098f \u0996\u09c1\u09b2\u09ac\u09c7",
+          "hours": "\u09ac\u09a8\u09cd\u09a7 \u09b9\u09df\u09c7 \u0997\u09c7\u099b\u09c7 \u00b7 \u09b8\u09cb\u09ae \u09ee:\u09e6\u09e6 AM-\u098f \u0996\u09c1\u09b2\u09ac\u09c7",
+          "operating_hours": {
+            "\u09b0\u09ac\u09bf\u09ac\u09be\u09b0": "Closed",
+            "\u09b8\u09cb\u09ae\u09ac\u09be\u09b0": "\u09ee:\u09e6\u09e6AM\u2013\u09e7:\u09e6\u09e6PM, \u09eb:\u09e6\u09e6\u2013\u09ef:\u09e6\u09e6PM",
+            "\u09ae\u0999\u09cd\u0997\u09b2\u09ac\u09be\u09b0": "\u09ee:\u09e6\u09e6AM\u2013\u09e7:\u09e6\u09e6PM, \u09eb:\u09e6\u09e6\u2013\u09ef:\u09e6\u09e6PM",
+            "\u09ac\u09c1\u09a7\u09ac\u09be\u09b0": "\u09ee:\u09e6\u09e6AM\u2013\u09e7:\u09e6\u09e6PM, \u09eb:\u09e6\u09e6\u2013\u09ef:\u09e6\u09e6PM",
+            "\u09ac\u09c3\u09b9\u09b8\u09cd\u09aa\u09a4\u09bf\u09ac\u09be\u09b0": "\u09ee:\u09e6\u09e6AM\u2013\u09e7:\u09e6\u09e6PM, \u09eb:\u09e6\u09e6\u2013\u09ef:\u09e6\u09e6PM",
+            "\u09b6\u09c1\u0995\u09cd\u09b0\u09ac\u09be\u09b0": "\u09ee:\u09e6\u09e6AM\u2013\u09e7:\u09e6\u09e6PM, \u09ea:\u09e6\u09e6\u2013\u09ee:\u09e6\u09e6PM",
+            "\u09b6\u09a8\u09bf\u09ac\u09be\u09b0": "\u09ee:\u09e6\u09e6AM\u2013\u09e7:\u09e6\u09e6PM"
+          },
+          "phone": "094330 55250",
+          "website": "http://www.anubadok.in/"
+        },
+        {
+          "position": 9,
+          "title": "\u09ac\u09bf\u099c\u09a8\u09c7\u09b8 \u0986\u09a8\u09aa\u09cd\u09b2\u09be\u0997\u09a1 | \u09b8\u09cd\u0995\u09bf\u09b2\u09ac\u0995\u09cd\u09b8 \u099f\u09cd\u09b0\u09c7\u0987\u09a8\u09bf\u0982 \u0985\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u0995\u09a8\u09b8\u09be\u09b2\u099f\u09c7\u09a8\u09cd\u09b8\u09bf \u098f\u09b2\u098f\u09b2\u09aa\u09bf",
+          "place_id": "ChIJ6_FRPQN1AjoRe-W55rRA6NE",
+          "data_id": "0x3a0275033d51f1eb:0xd1e840b4e6b9e57b",
+          "data_cid": "15125410494233044347",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a0275033d51f1eb%3A0xd1e840b4e6b9e57b&engine=google_maps_reviews&hl=bn",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a0275033d51f1eb%3A0xd1e840b4e6b9e57b&engine=google_maps_photos&hl=bn",
+          "gps_coordinates": {
+            "latitude": 22.5955439,
+            "longitude": 88.4221907
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=bn&place_id=ChIJ6_FRPQN1AjoRe-W55rRA6NE",
+          "provider_id": "/g/11zb_t_clv",
+          "rating": 5,
+          "reviews": 26,
+          "type": "\u09ac\u09bf\u099c\u09a8\u09c7\u09b8 \u09ae\u09cd\u09af\u09be\u09a8\u09c7\u099c\u09ae\u09c7\u09a8\u09cd\u099f \u0995\u09b2\u09b8\u09be\u09b2\u09cd\u099f\u09be\u09a8\u099f",
+          "types": [
+            "\u09ac\u09bf\u099c\u09a8\u09c7\u09b8 \u09ae\u09cd\u09af\u09be\u09a8\u09c7\u099c\u09ae\u09c7\u09a8\u09cd\u099f \u0995\u09b2\u09b8\u09be\u09b2\u09cd\u099f\u09be\u09a8\u099f",
+            "\u09ac\u09bf\u09a8\u09bf\u09df\u09cb\u0997 \u09ac\u09cd\u09af\u09be\u0982\u0995",
+            "Online share trading center"
+          ],
+          "type_id": "business_management_consultant",
+          "type_ids": [
+            "business_management_consultant",
+            "investment_bank",
+            "online_share_trading_center"
+          ],
+          "address": "BG - 145, BG \u09ac\u09cd\u09b2\u0995, Sector 2, \u09ac\u09bf\u09a7\u09be\u09a8\u09a8\u0997\u09b0, \u0995\u09b2\u0995\u09be\u09a4\u09be, \u0993\u09af\u09bc\u09c7\u09b8\u09cd\u099f \u09ac\u09c7\u0999\u09cd\u0997\u09b2 700091",
+          "country": "\u09ad\u09be\u09b0\u09a4",
+          "open_state": "\u0996\u09cb\u09b2\u09be \u0986\u099b\u09c7 \u00b7 \u09ec:\u09e6\u09e6 PM-\u098f \u09ac\u09a8\u09cd\u09a7 \u09b9\u09ac\u09c7",
+          "hours": "\u0996\u09cb\u09b2\u09be \u0986\u099b\u09c7 \u00b7 \u09ec:\u09e6\u09e6 PM-\u098f \u09ac\u09a8\u09cd\u09a7 \u09b9\u09ac\u09c7",
+          "operating_hours": {
+            "\u09b0\u09ac\u09bf\u09ac\u09be\u09b0": "\u09e7\u09e7:\u09e6\u09e6AM\u2013\u09ec:\u09e6\u09e6PM",
+            "\u09b8\u09cb\u09ae\u09ac\u09be\u09b0": "\u09e7\u09e7:\u09e6\u09e6AM\u2013\u09ed:\u09e6\u09e6PM",
+            "\u09ae\u0999\u09cd\u0997\u09b2\u09ac\u09be\u09b0": "\u09e7\u09e7:\u09e6\u09e6AM\u2013\u09ed:\u09e6\u09e6PM",
+            "\u09ac\u09c1\u09a7\u09ac\u09be\u09b0": "\u09e7\u09e7:\u09e6\u09e6AM\u2013\u09ed:\u09e6\u09e6PM",
+            "\u09ac\u09c3\u09b9\u09b8\u09cd\u09aa\u09a4\u09bf\u09ac\u09be\u09b0": "\u09e7\u09e7:\u09e6\u09e6AM\u2013\u09ed:\u09e6\u09e6PM",
+            "\u09b6\u09c1\u0995\u09cd\u09b0\u09ac\u09be\u09b0": "\u09e7\u09e7:\u09e6\u09e6AM\u2013\u09ed:\u09e6\u09e6PM",
+            "\u09b6\u09a8\u09bf\u09ac\u09be\u09b0": "\u09e7\u09e7:\u09e6\u09e6AM\u2013\u09ed:\u09e6\u09e6PM"
+          },
+          "phone": "098676 30701",
+          "website": "http://www.busunp.com/",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmXNq4QhhPye5MMr1YyA1L5EgBh0VRYw1WvYXXFVGnt_VUf8QSOdAJCLiUrC9X6BY3-zOpdxkOvTqZIv5TH6uU1iM2Y9xJtt8KYPymyzKu5OoIrGNMgF5LZ0YMaq0ZmZIw9DhLNjis9ftuX=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/p7ZBnXicHcRLcoIwAADQE0WSahzpTBfgFyWAlk_CxnEQE1ohQAKIl3Td23TGt3h_L6F1rT4N4y6mEy4lv-edyttMVjqv9CSTpcFrBTIFlGHtTkGYlNRrZkchgjHHhLSIjRZy8ZrbAsYnNqCkZ5Ru4m2lz3F0Wxy__au1X7pF1C5NOrfZFDz9-vr49fuwSZ0eh7t5F6GCfDDzsdd6cWDBWI7PQ4d96bRbj_ANdlPIyKWBaZk6g7kSrvdTKPOmO_o1IAghEO8zUP0DcuxHPg"
+        },
+        {
+          "position": 10,
+          "title": "\u099c\u09c7\u0995\u09c7 \u0987\u09a8\u09ab\u09cb\u099f\u09c7\u0995 \u0987\u09a8\u0995.",
+          "place_id": "ChIJgXZ_GepwAjoRJ5UyYRebFaU",
+          "data_id": "0x3a0270ea197f7681:0xa5159b1761329527",
+          "data_cid": "11895584515486291239",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a0270ea197f7681%3A0xa5159b1761329527&engine=google_maps_reviews&hl=bn",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a0270ea197f7681%3A0xa5159b1761329527&engine=google_maps_photos&hl=bn",
+          "gps_coordinates": {
+            "latitude": 22.505312,
+            "longitude": 88.3477271
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=bn&place_id=ChIJgXZ_GepwAjoRJ5UyYRebFaU",
+          "provider_id": "/g/1tywwcb3",
+          "rating": 4.8,
+          "reviews": 12,
+          "type": "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995",
+          "types": [
+            "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995",
+            "\u09b8\u09be\u09b0\u09cd\u09ad\u09bf\u09b8\u09bf\u0982 \u09b8\u09b9 \u09a5\u09be\u0995\u09be\u09b0 \u09ac\u09cd\u09af\u09ac\u09b8\u09cd\u09a5\u09be"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator",
+            "serviced_accommodation"
+          ],
+          "address": "Charu market, 64, Russa Road E 1st Ln, \u09ac\u09be\u09a6\u09be\u09ae \u09a4\u09be\u09b2\u09cd\u09b2\u09be, \u099f\u09be\u09b2\u09bf\u0997\u099e\u09cd\u099c, \u0995\u09b2\u0995\u09be\u09a4\u09be, \u0993\u09af\u09bc\u09c7\u09b8\u09cd\u099f \u09ac\u09c7\u0999\u09cd\u0997\u09b2 700033",
+          "country": "\u09ad\u09be\u09b0\u09a4",
+          "phone": "091237 87744",
+          "website": "https://jkinfotechinc.in/",
+          "extensions": [
+            {
+              "planning": [
+                "\u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f \u09a8\u09bf\u09a4\u09c7 \u09b9\u09ac\u09c7"
+              ]
+            }
+          ],
+          "unsupported_extensions": [
+            {
+              "service_options": [
+                "\u0985\u09a8\u09b2\u09be\u0987\u09a8 \u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f",
+                "\u0985\u09a8\u09b8\u09be\u0987\u099f \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0985\u09a8\u09b2\u09be\u0987\u09a8_\u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f": false,
+            "\u0985\u09a8\u09b8\u09be\u0987\u099f_\u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be": false
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkYJyd_igMT-bCi0li2P02davN-cUdJQTatH--pWMQHj077YevQLCOuLW6C5qAd69RTk8MMzlWO0JnUejnrhRX1sv7GOtvLxcM-YXTXo5jUwQk3K-toEBaOhttELPcRQF-XczcySg=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/1LoeRHicHc7dboIwGADQJ_qkahS3ZBeOoATpoFgCXBn8aMrfWmYrTt_QR9jbbNnNuT4_z8ba0bw6ztAsZ1JrOYirERfUygplZ6g_HTkaQAPG2QZpwvO-DO_1qZWUw9lrydAuErKoq-kDMKtDxisbAIw5ZUFHXLcUE4u8-Brla2_1ta3XLynvN5Q-hjwmocpEpy5NWszN5O5jO0XfSKEseKFXXXZj_fIAVvvvVfzX9KMEU7aDAh94P8q325wQAs2_COoXm65E5A"
+        },
+        {
+          "position": 11,
+          "title": "\u09ae\u09be\u09a8\u09b8 \u09b8\u09be\u09b9\u09be",
+          "place_id": "ChIJVzLx8m1xAjoR--OcMghcfBM",
+          "data_id": "0x3a02716df2f13257:0x137c5c08329ce3fb",
+          "data_cid": "1404098374111388667",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a02716df2f13257%3A0x137c5c08329ce3fb&engine=google_maps_reviews&hl=bn",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a02716df2f13257%3A0x137c5c08329ce3fb&engine=google_maps_photos&hl=bn",
+          "gps_coordinates": {
+            "latitude": 22.4534651,
+            "longitude": 88.38099249999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=bn&place_id=ChIJVzLx8m1xAjoR--OcMghcfBM",
+          "provider_id": "/g/11tsj000hk",
+          "rating": 5,
+          "reviews": 2,
+          "type": "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995",
+          "types": [
+            "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator"
+          ],
+          "address": "Landmark: Jagarani Sangha Club, Kalitala Rd, Laskarpur, Garia, Kolkata, West Bengal 700153",
+          "country": "\u09ad\u09be\u09b0\u09a4",
+          "open_state": "\u09ac\u09a8\u09cd\u09a7 \u09b9\u09df\u09c7 \u0997\u09c7\u099b\u09c7 \u00b7 \u09b8\u09cb\u09ae \u09e7\u09e8:\u09e6\u09e6 AM-\u098f \u0996\u09c1\u09b2\u09ac\u09c7",
+          "hours": "\u09ac\u09a8\u09cd\u09a7 \u09b9\u09df\u09c7 \u0997\u09c7\u099b\u09c7 \u00b7 \u09b8\u09cb\u09ae \u09e7\u09e8:\u09e6\u09e6 AM-\u098f \u0996\u09c1\u09b2\u09ac\u09c7",
+          "operating_hours": {
+            "\u09b0\u09ac\u09bf\u09ac\u09be\u09b0": "Closed",
+            "\u09b8\u09cb\u09ae\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09ae\u0999\u09cd\u0997\u09b2\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09ac\u09c1\u09a7\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09ac\u09c3\u09b9\u09b8\u09cd\u09aa\u09a4\u09bf\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09b6\u09c1\u0995\u09cd\u09b0\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09b6\u09a8\u09bf\u09ac\u09be\u09b0": "Open 24 hours"
+          },
+          "phone": "082400 57537",
+          "website": "https://manassahaenterprise.com.free/",
+          "extensions": [
+            {
+              "service_options": [
+                "\u0985\u09a8\u09b2\u09be\u0987\u09a8 \u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f",
+                "\u0985\u09a8\u09b8\u09be\u0987\u099f \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be"
+              ]
+            },
+            {
+              "amenities": [
+                "\u09aa\u09c1\u09b0\u09c1\u09b7 \u0993 \u09ae\u09b9\u09bf\u09b2\u09be \u0989\u09ad\u09df\u09c7\u09b0 \u099c\u09a8\u09cd\u09af \u099f\u09df\u09b2\u09c7\u099f"
+              ]
+            },
+            {
+              "crowd": [
+                "LGBTQ+ \u09ac\u09be\u09a8\u09cd\u09a7\u09ac"
+              ]
+            },
+            {
+              "parking": [
+                "\u0985\u09a8-\u09b8\u09be\u0987\u099f \u09aa\u09be\u09b0\u09cd\u0995\u09bf\u0982 \u0986\u099b\u09c7",
+                "\u09ab\u09cd\u09b0\u09bf \u09aa\u09be\u09b0\u09cd\u0995\u09bf\u0982\u09df\u09c7\u09b0 \u099c\u09be\u09df\u0997\u09be \u0989\u09aa\u09b2\u09ad\u09cd\u09af",
+                "\u09b0\u09be\u09b8\u09cd\u09a4\u09be\u09df \u09ab\u09cd\u09b0\u09bf \u09aa\u09be\u09b0\u09cd\u0995\u09bf\u0982 \u0989\u09aa\u09b2\u09ad\u09cd\u09af"
+              ]
+            }
+          ],
+          "unsupported_extensions": [
+            {
+              "accessibility": [
+                "\u09b8\u09b9\u09be\u09df\u0995 '\u09b9\u09bf\u09df\u09be\u09b0\u09bf\u0982 \u09b2\u09c1\u09aa' \u09b8\u09bf\u09b8\u09cd\u099f\u09c7\u09ae",
+                "\u09b9\u09c1\u0987\u09b2\u099a\u09c7\u09af\u09bc\u09be\u09b0 \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0\u09af\u09cb\u0997\u09cd\u09af \u0986\u09b8\u09a8",
+                "\ufeff\u09b9\u09c1\u0987\u09b2\u099a\u09c7\u09df\u09be\u09b0 \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0\u09c7\u09b0 \u09b8\u09c1\u09ac\u09bf\u09a7\u09be \u09b8\u09b9 \u09b6\u09cc\u099a\u09be\u09b2\u09df"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0985\u09a8\u09b2\u09be\u0987\u09a8_\u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f": true,
+            "\u0985\u09a8\u09b8\u09be\u0987\u099f_\u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be": true
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlLrcvfRNekHzAMuSoyk9QVaFGSo78YT1iypmzk3Kf6unNJNQypx1Ww1bK6DUSRnqNN0Qm1L47_E8YpbtFigKqoRwZJZPBT6kFjYOVlADMXVPUpmNQ5Jli0ZtH2tyWMrkKwjg32=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/38Nq8XicHcRdboIwAADgEyGtKDqTPbAoIyCVP0F4MdpgwZa20jKGF_QM3mbJvofv_Wq0lmpjmqyxZkQIwupB1T0WXNdcz7DoTCKVgZWhTMdLoqxg-x7_3BJUU-_phEMqJvoR5xf3OxWrdZnBdpLdk1rBzR448lE8yV9YjPAa2NtjmvAHQiDu4H6xOu_WpbxqtyXBQyRj5VfRV2ZT914ecuZsw1MeHWWH4qXPWlBpb66nIuxpMN6JNf8cIQDAaP7HBv8Du9VFTw"
+        },
+        {
+          "position": 12,
+          "title": "\u09a1\u09bf\u099f\u09bf\u09aa\u09bf \u09ad\u09bf\u09a1\u09bf\u0993 \u098f\u09a1\u09bf\u099f\u09bf\u0982 \u0997\u09cd\u09b0\u09be\u09ab\u09bf\u0995\u09cd\u09b8 \u09a1\u09bf\u099c\u09be\u0987\u09a8 \u09ac\u09c7\u0999\u09cd\u0997\u09b2\u09bf \u099f\u09be\u0987\u09aa\u09bf\u0982 \u09aa\u09cd\u09b0\u09bf\u09a8\u09cd\u099f\u09bf\u0982 \u0987\u09a8 \u0995\u09b2\u0995\u09be\u09a4\u09be",
+          "place_id": "ChIJD9dc49R3AjoR66O8-dv-6Bw",
+          "data_id": "0x3a0277d4e35cd70f:0x1ce8fedbf9bca3eb",
+          "data_cid": "2083195048400036843",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a0277d4e35cd70f%3A0x1ce8fedbf9bca3eb&engine=google_maps_reviews&hl=bn",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a0277d4e35cd70f%3A0x1ce8fedbf9bca3eb&engine=google_maps_photos&hl=bn",
+          "gps_coordinates": {
+            "latitude": 22.5991823,
+            "longitude": 88.3603047
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=bn&place_id=ChIJD9dc49R3AjoR66O8-dv-6Bw",
+          "provider_id": "/g/11flrpm583",
+          "rating": 4.9,
+          "reviews": 103,
+          "type": "\u0997\u09cd\u09b0\u09be\u09ab\u09bf\u0995 \u09a1\u09bf\u099c\u09be\u0987\u09a8\u09be\u09b0",
+          "types": [
+            "\u0997\u09cd\u09b0\u09be\u09ab\u09bf\u0995 \u09a1\u09bf\u099c\u09be\u0987\u09a8\u09be\u09b0",
+            "\u09ac\u09cd\u09af\u09be\u09a8\u09be\u09b0\u09c7\u09b0 \u09a6\u09cb\u0995\u09be\u09a8",
+            "\u09a1\u09bf\u099c\u09bf\u099f\u09be\u09b2 \u09aa\u09cd\u09b0\u09bf\u09a8\u09cd\u099f\u09bf\u0982 \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be",
+            "\u09b8\u09cd\u0995\u09cd\u09b0\u09bf\u09a8 \u09aa\u09cd\u09b0\u09bf\u09a8\u09cd\u099f\u09bf\u0982 \u09b8\u09b0\u09ac\u09b0\u09be\u09b9\u09c7\u09b0 \u09a6\u09cb\u0995\u09be\u09a8",
+            "\u09ad\u09bf\u09a1\u09bf\u0993 \u09b8\u09ae\u09cd\u09aa\u09be\u09a6\u09a8\u09be \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be"
+          ],
+          "type_id": "graphic_designer",
+          "type_ids": [
+            "graphic_designer",
+            "banner_store",
+            "digital_printing_service",
+            "screen_printing_supply_store",
+            "video_editing_service"
+          ],
+          "address": "3, Gopi Roy Ln, \u09b8\u09ad\u09be\u09ac\u09be\u099c\u09be\u09b0, \u0995\u09c1\u09ae\u09be\u09b0\u099f\u09c1\u09b2\u09bf, \u09b9\u09be\u099f\u0996\u09cb\u09b2\u09be, \u0995\u09b2\u0995\u09be\u09a4\u09be, \u0993\u09af\u09bc\u09c7\u09b8\u09cd\u099f \u09ac\u09c7\u0999\u09cd\u0997\u09b2 700005",
+          "country": "\u09ad\u09be\u09b0\u09a4",
+          "open_state": "\u0996\u09cb\u09b2\u09be \u0986\u099b\u09c7 \u00b7 \u09ee:\u09e6\u09e6 PM-\u098f \u09ac\u09a8\u09cd\u09a7 \u09b9\u09ac\u09c7",
+          "hours": "\u0996\u09cb\u09b2\u09be \u0986\u099b\u09c7 \u00b7 \u09ee:\u09e6\u09e6 PM-\u098f \u09ac\u09a8\u09cd\u09a7 \u09b9\u09ac\u09c7",
+          "operating_hours": {
+            "\u09b0\u09ac\u09bf\u09ac\u09be\u09b0": "\u09e7\u09e7:\u09e6\u09e6AM\u2013\u09ee:\u09e6\u09e6PM",
+            "\u09b8\u09cb\u09ae\u09ac\u09be\u09b0": "\u09e7\u09e7:\u09e6\u09e6AM\u2013\u09ee:\u09e6\u09e6PM",
+            "\u09ae\u0999\u09cd\u0997\u09b2\u09ac\u09be\u09b0": "\u09e7\u09e7:\u09e6\u09e6AM\u2013\u09ee:\u09e6\u09e6PM",
+            "\u09ac\u09c1\u09a7\u09ac\u09be\u09b0": "\u09e7\u09e7:\u09e6\u09e6AM\u2013\u09ee:\u09e6\u09e6PM",
+            "\u09ac\u09c3\u09b9\u09b8\u09cd\u09aa\u09a4\u09bf\u09ac\u09be\u09b0": "\u09e7\u09e7:\u09e6\u09e6AM\u2013\u09ee:\u09e6\u09e6PM",
+            "\u09b6\u09c1\u0995\u09cd\u09b0\u09ac\u09be\u09b0": "\u09e7\u09e7:\u09e6\u09e6AM\u2013\u09ee:\u09e6\u09e6PM",
+            "\u09b6\u09a8\u09bf\u09ac\u09be\u09b0": "\u09e7\u09e7:\u09e6\u09e6AM\u2013\u09ee:\u09e6\u09e6PM"
+          },
+          "phone": "098318 29836",
+          "website": "https://sudiptamitra.netlify.app/",
+          "extensions": [
+            {
+              "service_options": [
+                "\u0985\u09a8\u09b2\u09be\u0987\u09a8 \u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f",
+                "\u0985\u09a8\u09b8\u09be\u0987\u099f \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be"
+              ]
+            },
+            {
+              "planning": [
+                "\u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f \u09a8\u09bf\u09a4\u09c7 \u09b9\u09ac\u09c7"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0985\u09a8\u09b2\u09be\u0987\u09a8_\u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f": true,
+            "\u0985\u09a8\u09b8\u09be\u0987\u099f_\u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be": true
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkDdDrZFGV-PGSerwoUnlna2VhY1bE-DS8dUDTugzvphkWItnMBC01XPeGi3WrO75ANsizi98zra9feIOq8kUmsR9_Sk6aEUUDuMCF0EnwuLonryGPMGVfPLw0rAN2RndbVQRY=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/nSnetnicHcRRboIwGADgE1WKRgdLfECLnYloBxbmXgxCpQT8i20ZGQf0Dt7GxO_hez6ktZ35dJxWziaVUlUreiN0ocAKsJNC3ZyqM6gwyDjBV8yOWUNKon83NEWMJkIPikML-TSVJ_cSIpJ4JSfHvhr_OtlkWwvRao3dHyZoPcv04WMe7E091r436ty_iu3h7jX8ZmL_nDSLPOSc9NF6g0MY-p0C_U9ZRNMr2w1YB_tpDOUl_Y5Py8HFGCP5vkDwAjQSRJ8"
+        },
+        {
+          "position": 13,
+          "title": "\u09b9\u09cb\u09ae",
+          "place_id": "ChIJMffr-3Sd-DkRETDidR-pvww",
+          "data_id": "0x39f89d74fbebf731:0xcbfa91f75e23011",
+          "data_cid": "918638801593708561",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x39f89d74fbebf731%3A0xcbfa91f75e23011&engine=google_maps_reviews&hl=bn",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x39f89d74fbebf731%3A0xcbfa91f75e23011&engine=google_maps_photos&hl=bn",
+          "gps_coordinates": {
+            "latitude": 22.6434203,
+            "longitude": 88.36655069999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=bn&place_id=ChIJMffr-3Sd-DkRETDidR-pvww",
+          "provider_id": "/g/11zf9kf9mp",
+          "type": "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995",
+          "types": [
+            "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator"
+          ],
+          "address": "Rajkumar Mukherjee Rd, \u09ac\u09b0\u09be\u09b9\u09a8\u0997\u09b0, \u0995\u09b2\u0995\u09be\u09a4\u09be, \u09ac\u09b0\u09be\u09b9\u09a8\u0997\u09b0, \u0993\u09af\u09bc\u09c7\u09b8\u09cd\u099f \u09ac\u09c7\u0999\u09cd\u0997\u09b2 700036",
+          "country": "\u09ad\u09be\u09b0\u09a4",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkXKl4dnt7akxh0j_B8AwhgWuzZ5PEhmvxpz_aoF74P6au3LCiI1lud0ro-qVVcjwjlvAwYXefnjtQm7gvHgevkynkAolkVP6bzulfmChcUOBTOVVie759C3eAEd_Ex7oUmqRN_5-_ZncZN=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/j8IeEnicHcTNboIwAADgJ6rUIHZbskMlGM0WZUar49KwUlvpH9oWGC-5895myb7D9_sjQ-j8S5Jomc6Ec0Lz6PmDORu4DTPmTCI6D5gHPsGbQ3k8q8ubXjQ2oFqNErZ09YQHKc5xqrKykKYfu4nWbo0W5bKO6Xt-2851bODDgTshrB1a3ePh88Kvtg0fBol-I3ivvq3CTitSLr-mqK8ml-y0Xx33hNw4yp7zlOOiocWI3MncDzuaAVpZVu1ehzmEEMj_GbB_rCNJ7A"
+        },
+        {
+          "position": 14,
+          "title": "\u09ac\u09c7\u0999\u09cd\u0997\u09b2\u09bf \u099f\u09cd\u09b0\u09be\u09a8\u09b8\u09cd\u09b2\u09c7\u09b6\u09a8",
+          "place_id": "ChIJ1VHuYseB-DkRNUFiCabp8YI",
+          "data_id": "0x39f881c762ee51d5:0x82f1e9a609624135",
+          "data_cid": "9435579593649176885",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x39f881c762ee51d5%3A0x82f1e9a609624135&engine=google_maps_reviews&hl=bn",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x39f881c762ee51d5%3A0x82f1e9a609624135&engine=google_maps_photos&hl=bn",
+          "gps_coordinates": {
+            "latitude": 22.5745093,
+            "longitude": 88.3493393
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=bn&place_id=ChIJ1VHuYseB-DkRNUFiCabp8YI",
+          "provider_id": "/g/11c1113t3v",
+          "rating": 3.9,
+          "reviews": 18,
+          "type": "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995",
+          "types": [
+            "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator"
+          ],
+          "address": "711405, Kolkata, West Bengal 700001",
+          "country": "\u09ad\u09be\u09b0\u09a4",
+          "open_state": "Permanently closed",
+          "hours": "Permanently closed",
+          "phone": "093312 28356",
+          "website": "http://www.bengalitranslation.net/",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWltZzsXv3Mc5mNhg8SBQ0r_mqWf1T6kXhpv3w-WMGRDT_DN4El9f2aWxaOwQiQSkIO-qq7hLEzC9XdM5CBWIfCBI27sM7WPmlAKrb0YAZGvAypFUj2dsbiy927jFE1aoPT5UEc=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/n8ARNXicHcRREkJAAADQE20WSZrpA6lMKaRZ-Wm0YatlsRvpgN2h2zTT-3jfDxGi5jNJokQdFYwVNHvyrMWsElklRpiVUlFzgDngkrkO_QhRkbx53Kke1sodKaYHK4DtuWxQLkeTR0zqTu0B8lbhIjovdmOHGrmSole674NbcHi4e9A0Otk6b9uIr55mW8jNbctVdO7pyC-puWkv8GQmq84c6uXxrlz55TYYin5fOnLK_Eg7OnjeyxBCQP5jUP0A-3dDWg"
+        },
+        {
+          "position": 15,
+          "title": "\u09ab\u09bf\u0989\u09b6\u09a8 \u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u09b2\u09c7\u09b6\u09a8\u09b8 (\u0995\u09cd\u09b0\u09bf\u09af\u09bc\u09c7\u099f\u09bf\u09ad \u0987\u0982\u09b2\u09bf\u09b6 \u09a4\u09cb \u09ac\u09c7\u0999\u09cd\u0997\u09b2\u09bf \u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u09b2\u09c7\u09b6\u09a8 & \u09aa\u09cd\u09b0\u09c1\u09ab\u09b0\u09c0\u09a1\u09bf\u0982)",
+          "place_id": "ChIJadU0tllxAjoRE5si185s818",
+          "data_id": "0x3a027159b634d569:0x5ff36cced7229b13",
+          "data_cid": "6913989488572275475",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a027159b634d569%3A0x5ff36cced7229b13&engine=google_maps_reviews&hl=bn",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a027159b634d569%3A0x5ff36cced7229b13&engine=google_maps_photos&hl=bn",
+          "gps_coordinates": {
+            "latitude": 22.4726598,
+            "longitude": 88.37435119999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=bn&place_id=ChIJadU0tllxAjoRE5si185s818",
+          "provider_id": "/g/11spw2gc7l",
+          "rating": 5,
+          "reviews": 1,
+          "type": "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995",
+          "types": [
+            "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator"
+          ],
+          "address": "A-14, Ramgarh, Ganguly Bagan, \u0995\u09b2\u0995\u09be\u09a4\u09be, \u0993\u09af\u09bc\u09c7\u09b8\u09cd\u099f \u09ac\u09c7\u0999\u09cd\u0997\u09b2 700047",
+          "country": "\u09ad\u09be\u09b0\u09a4",
+          "open_state": "Permanently closed",
+          "hours": "Permanently closed",
+          "extensions": [
+            {
+              "service_options": [
+                "\u0985\u09a8\u09b8\u09be\u0987\u099f \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be"
+              ]
+            },
+            {
+              "planning": [
+                "\u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f \u09a8\u09bf\u09a4\u09c7 \u09b9\u09ac\u09c7"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0985\u09a8\u09b8\u09be\u0987\u099f_\u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be": true
+          },
+          "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OeUSk2pi0iqy3vl4PcpnSA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=239.90541&pitch=0&thumbfov=100",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/NmjsfXicHc3bDcIgFADQbfgT6MPEmhDjBJo0fhtKr-VGCteCYLdxLbfRuMA5n7dNieJeiJgWgJQRCuELXNyQ5lMIkwNNGLkJs8iVSPY5D16jO5D2AUd1gkt_rwklPtYmu_ZsyPdHZoarcQg-qQh6MZZP5ScuYeQTRVbUTjKrupqtuqi66Xgnt23FCJOxSrL_cgtZVVJ-AZA7Ocw"
+        },
+        {
+          "position": 16,
+          "title": "\u09b0\u09bf\u09b2\u09be\u09af\u09bc\u09c7\u09a8\u09cd\u09b8 \u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u09b2\u09c7\u09b6\u09a8 \u09b8\u09be\u09b0\u09cd\u09ad\u09bf\u09b8\u09c7\u09b8",
+          "place_id": "ChIJwYy5BQ11AjoRNRtZHhqgJIQ",
+          "data_id": "0x3a02750d05b98cc1:0x8424a01a1e591b35",
+          "data_cid": "9521911546206821173",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a02750d05b98cc1%3A0x8424a01a1e591b35&engine=google_maps_reviews&hl=bn",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a02750d05b98cc1%3A0x8424a01a1e591b35&engine=google_maps_photos&hl=bn",
+          "gps_coordinates": {
+            "latitude": 22.5729014,
+            "longitude": 88.4371575
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=bn&place_id=ChIJwYy5BQ11AjoRNRtZHhqgJIQ",
+          "provider_id": "/g/11yq5_vmgj",
+          "type": "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995",
+          "types": [
+            "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator"
+          ],
+          "address": "1st Floor, D2, & GP, Address :, Salt Lake, EP Block, Sector V, Bidhannagar, Kolkata, West Bengal 700091",
+          "country": "\u09ad\u09be\u09b0\u09a4",
+          "open_state": "Temporarily closed",
+          "hours": "Temporarily closed",
+          "website": "https://www.honeytranslations.com/",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmVmXpnHNDL2msbd6WPfK0706hXkTkdY963B9OGHo_BnIS897wzajrLLGwhr9rAOo2sh6UzSQOWpXG8Fpv6uTboernTVtH-ss2AmeByXfPqhMwbiBjhz71YSjfeNtIM0npqvOP8zUhjlnrJ=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/4SV6NXicHcTLboJAFADQLxoZMRmgSReQpmCLgoKCq6bgwC0yD-eOkvKTXfdvTDyL8_8H1mp8cZwRVoteqX7kN-SmVdJyaRetEk6vkbRI0AmTfV5W4ihqLZPtW-oKbM6syrtP6lEG9aW8nE8BW0VBFifqK5Lrwg-8af4eTJrGE5jAhJlyEdhhLnZZpevYf9d3disbxY0sjzYhiG4oePRbd_kVNlPzEw0we8tTMXR8a9cbKvX1nuX-fIBhlObjdVpSSgk8b4l8ALDTSJQ"
+        }
+      ]
+    },
+    "transcription_services": {
+      "search_metadata": {
+        "id": "6ac22b1685f8c658e155ad78",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/OMXnS0quqmcoNS4_oGIGFIiyEHwaqLOwR7YesdmIBV4/6ac22b1685f8c658e155ad78.json",
+        "markdown_endpoint": "https://serpapi.com/searches/OMXnS0quqmcoNS4_oGIGFIiyEHwaqLOwR7YesdmIBV4/6ac22b1685f8c658e155ad78.md",
+        "created_at": "2026-10-04 10:31:50 UTC",
+        "processed_at": "2026-10-04 10:31:50 UTC",
+        "google_maps_url": "https://www.google.com/maps/search/transcription+services+Bengali/@22.5726,88.3639,12z/data=!3m1!4b1!4m2!2m1!6e5?hl=bn&gl=in",
+        "raw_html_file": "https://serpapi.com/searches/OMXnS0quqmcoNS4_oGIGFIiyEHwaqLOwR7YesdmIBV4/6ac22b1685f8c658e155ad78.html",
+        "prettify_html_file": "https://serpapi.com/searches/OMXnS0quqmcoNS4_oGIGFIiyEHwaqLOwR7YesdmIBV4/6ac22b1685f8c658e155ad78.prettify",
+        "total_time_taken": 0.85
+      },
+      "search_parameters": {
+        "engine": "google_maps",
+        "type": "search",
+        "q": "transcription services Bengali",
+        "ll": "@22.5726,88.3639,12z",
+        "google_domain": "google.com",
+        "hl": "bn",
+        "gl": "in"
+      },
+      "search_information": {
+        "local_results_state": "Results for exact spelling",
+        "query_displayed": "transcription services Bengali"
+      },
+      "local_results": [
+        {
+          "position": 1,
+          "title": "\u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u09b2\u09c7\u09b6\u09a8 \u09b2\u09bf\u0999\u09cd\u0997\u09c1\u09af\u09bc\u09bf\u09b8\u09cd\u099f\u09bf\u0995 \u09b8\u09be\u09b0\u09cd\u09ad\u09bf\u09b8\u09c7\u09b8",
+          "place_id": "ChIJAQAAjLxwAjoRFNbF50Cdy4U",
+          "data_id": "0x3a0270bc8c000001:0x85cb9d40e7c5d614",
+          "data_cid": "9640972329408648724",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a0270bc8c000001%3A0x85cb9d40e7c5d614&engine=google_maps_reviews&hl=bn",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a0270bc8c000001%3A0x85cb9d40e7c5d614&engine=google_maps_photos&hl=bn",
+          "gps_coordinates": {
+            "latitude": 22.695387399999998,
+            "longitude": 88.3910346
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=bn&place_id=ChIJAQAAjLxwAjoRFNbF50Cdy4U",
+          "provider_id": "/g/1t_kdyfq",
+          "rating": 4.5,
+          "reviews": 18,
+          "type": "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995",
+          "types": [
+            "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995",
+            "\u09b8\u09be\u09b0\u09cd\u099f\u09bf\u09ab\u09bf\u0995\u09c7\u09b6\u09a8 \u098f\u099c\u09c7\u09a8\u09cd\u09b8\u09bf",
+            "\u0987\u09a8\u09cd\u099f\u09be\u09b0\u09a8\u09c7\u099f \u09ac\u09bf\u09aa\u09a3\u09a8 \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be",
+            "\u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u0995\u09cd\u09b0\u09bf\u09aa\u09b6\u09a8 \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be",
+            "\u0993\u09df\u09c7\u09ac \u09a1\u09bf\u099c\u09be\u0987\u09a8\u09be\u09b0"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator",
+            "certification_agency",
+            "internet_marketing_service",
+            "transcription_service",
+            "website_designer"
+          ],
+          "address": "Sidharth Tower, Road No. 1, H B Town, \u09b8\u09cb\u09a6\u09aa\u09c1\u09b0, \u0996\u09a1\u09bc\u09a6\u09b9, \u0993\u09af\u09bc\u09c7\u09b8\u09cd\u099f \u09ac\u09c7\u0999\u09cd\u0997\u09b2 700110",
+          "country": "\u09ad\u09be\u09b0\u09a4",
+          "open_state": "\u09e8\u09ea \u0998\u09a3\u09cd\u099f\u09be \u0996\u09cb\u09b2\u09be",
+          "hours": "\u09e8\u09ea \u0998\u09a3\u09cd\u099f\u09be \u0996\u09cb\u09b2\u09be",
+          "operating_hours": {
+            "\u09b0\u09ac\u09bf\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09b8\u09cb\u09ae\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09ae\u0999\u09cd\u0997\u09b2\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09ac\u09c1\u09a7\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09ac\u09c3\u09b9\u09b8\u09cd\u09aa\u09a4\u09bf\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09b6\u09c1\u0995\u09cd\u09b0\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09b6\u09a8\u09bf\u09ac\u09be\u09b0": "Open 24 hours"
+          },
+          "phone": "096749 80112",
+          "website": "http://www.tran-solution.net/",
+          "extensions": [
+            {
+              "from_the_business": [
+                "\u09ae\u09b9\u09bf\u09b2\u09be\u09a6\u09c7\u09b0 \u09ae\u09be\u09b2\u09bf\u0995\u09be\u09a8\u09be\u09a7\u09c0\u09a8 \u09b9\u09bf\u09b8\u09c7\u09ac\u09c7 \u099a\u09bf\u09b9\u09cd\u09a8\u09bf\u09a4 \u0995\u09b0\u09c7"
+              ]
+            },
+            {
+              "service_options": [
+                "\u0985\u09a8\u09b2\u09be\u0987\u09a8 \u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f",
+                "\u0985\u09a8\u09b8\u09be\u0987\u099f \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be"
+              ]
+            },
+            {
+              "parking": [
+                "\u0985\u09a8-\u09b8\u09be\u0987\u099f \u09aa\u09be\u09b0\u09cd\u0995\u09bf\u0982 \u0986\u099b\u09c7",
+                "\u09ab\u09cd\u09b0\u09bf \u09aa\u09be\u09b0\u09cd\u0995\u09bf\u0982\u09df\u09c7\u09b0 \u099c\u09be\u09df\u0997\u09be \u0989\u09aa\u09b2\u09ad\u09cd\u09af",
+                "\u09b0\u09be\u09b8\u09cd\u09a4\u09be\u09df \u09ab\u09cd\u09b0\u09bf \u09aa\u09be\u09b0\u09cd\u0995\u09bf\u0982 \u0989\u09aa\u09b2\u09ad\u09cd\u09af"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0985\u09a8\u09b2\u09be\u0987\u09a8_\u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f": true,
+            "\u0985\u09a8\u09b8\u09be\u0987\u099f_\u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be": true
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnpoIYgcO4nGWWdUv4u9O22AwyF6jRgwTLVK5dcaOQjJWbtnfCXD4eULe64WbJggAxx3aU-JDAhd9DEkpIpVOOMaGhAuHH-CKjkJCvuzP3sjvRvZMjG2F9JX8v_5MrmoicLguJBTg=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/erVIeHicHcRdToMwAADgE3UgsEVMfKjgYB2kk8A6fTGs1NZua5v1h-kNPYK3MfF7-H5_hHPGPkTRWaQLrjU_M2_ZlWrlmHILqi8RNxZQC2wE627XE2X05pVTnKmKkGkImc9xksD5a72SHZ_7Zr9dTnTELxKRo1MfxaHM2NCwVUaOiHN4u6XjAFAJxZSXzyezMXuM27ES0Nc1KLbyhIrgv3eplaELb62sknWODvfhfdleL_qTNtyjp54_zndxHAPxPwXqD-0zRWY"
+        },
+        {
+          "position": 2,
+          "title": "\u09af\u09b6\u09cd\u09ac\u09c0 \u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u09b2\u09c7\u09b6\u09a8",
+          "place_id": "ChIJH0oaVpF1AjoRHRukSiUIJxE",
+          "data_id": "0x3a027591561a4a1f:0x112708254aa41b1d",
+          "data_cid": "1235965578995571485",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a027591561a4a1f%3A0x112708254aa41b1d&engine=google_maps_reviews&hl=bn",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a027591561a4a1f%3A0x112708254aa41b1d&engine=google_maps_photos&hl=bn",
+          "gps_coordinates": {
+            "latitude": 22.5769348,
+            "longitude": 88.427971
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=bn&place_id=ChIJH0oaVpF1AjoRHRukSiUIJxE",
+          "provider_id": "/g/11rd45qh59",
+          "rating": 4.8,
+          "reviews": 25,
+          "type": "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995",
+          "types": [
+            "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995",
+            "\u09b8\u09be\u09b0\u09cd\u099f\u09bf\u09ab\u09bf\u0995\u09c7\u09b6\u09a8 \u098f\u099c\u09c7\u09a8\u09cd\u09b8\u09bf",
+            "\u0986\u0987\u09a8\u09bf \u09aa\u09b0\u09be\u09ae\u09b0\u09cd\u09b6",
+            "\u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u0995\u09cd\u09b0\u09bf\u09aa\u09b6\u09a8 \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator",
+            "certification_agency",
+            "legal_services",
+            "transcription_service"
+          ],
+          "address": "15th Floor, EM-4, Street No. 13, beside Techno India College, opposite to Monotel Hotel, EM Block, Sector V, Bidhannagar, Kolkata, West Bengal 700091",
+          "country": "\u09ad\u09be\u09b0\u09a4",
+          "open_state": "\u0996\u09cb\u09b2\u09be \u0986\u099b\u09c7 \u00b7 \u09e7\u09e6:\u09e6\u09e6 PM-\u098f \u09ac\u09a8\u09cd\u09a7 \u09b9\u09ac\u09c7",
+          "hours": "\u0996\u09cb\u09b2\u09be \u0986\u099b\u09c7 \u00b7 \u09e7\u09e6:\u09e6\u09e6 PM-\u098f \u09ac\u09a8\u09cd\u09a7 \u09b9\u09ac\u09c7",
+          "operating_hours": {
+            "\u09b0\u09ac\u09bf\u09ac\u09be\u09b0": "\u09ee:\u09e6\u09e6AM\u2013\u09e7\u09e6:\u09e6\u09e6PM",
+            "\u09b8\u09cb\u09ae\u09ac\u09be\u09b0": "\u09ee:\u09e6\u09e6AM\u2013\u09e7\u09e6:\u09e6\u09e6PM",
+            "\u09ae\u0999\u09cd\u0997\u09b2\u09ac\u09be\u09b0": "\u09ee:\u09e6\u09e6AM\u2013\u09e7\u09e6:\u09e6\u09e6PM",
+            "\u09ac\u09c1\u09a7\u09ac\u09be\u09b0": "\u09ee:\u09e6\u09e6AM\u2013\u09e7\u09e6:\u09e6\u09e6PM",
+            "\u09ac\u09c3\u09b9\u09b8\u09cd\u09aa\u09a4\u09bf\u09ac\u09be\u09b0": "\u09ee:\u09e6\u09e6AM\u2013\u09e7\u09e6:\u09e6\u09e6PM",
+            "\u09b6\u09c1\u0995\u09cd\u09b0\u09ac\u09be\u09b0": "\u09ee:\u09e6\u09e6AM\u2013\u09e7\u09e6:\u09e6\u09e6PM",
+            "\u09b6\u09a8\u09bf\u09ac\u09be\u09b0": "\u09ee:\u09e6\u09e6AM\u2013\u09e7\u09e6:\u09e6\u09e6PM"
+          },
+          "phone": "099111 95559",
+          "website": "https://www.translate-englishto.com/translation-service-kolkata/",
+          "extensions": [
+            {
+              "service_options": [
+                "\u0985\u09a8\u09b2\u09be\u0987\u09a8 \u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f"
+              ]
+            },
+            {
+              "amenities": [
+                "\u09aa\u09c1\u09b0\u09c1\u09b7 \u0993 \u09ae\u09b9\u09bf\u09b2\u09be \u0989\u09ad\u09df\u09c7\u09b0 \u099c\u09a8\u09cd\u09af \u099f\u09df\u09b2\u09c7\u099f"
+              ]
+            },
+            {
+              "planning": [
+                "\u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f \u09a8\u09bf\u09a4\u09c7 \u09b9\u09ac\u09c7"
+              ]
+            }
+          ],
+          "unsupported_extensions": [
+            {
+              "service_options": [
+                "\u0985\u09a8\u09b8\u09be\u0987\u099f \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0985\u09a8\u09b2\u09be\u0987\u09a8_\u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f": true,
+            "\u0985\u09a8\u09b8\u09be\u0987\u099f_\u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be": false
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlJZdCJyB6cNfHxOF70AqXeLLDXBVRmN2CT1vcNDUPJErNdAo-qb_E-freJG78iPl0xXbdMHkc2xTVjGafkIl8ZMu9g7kLD_u8-p62z74V73UnbF79fDFEuPxnypKUjiaxsvtRr=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/FVRSc3icHcRdDoIgAADgE5FkLaytB_MnMzPn1FwvLRG1JDDBoi7YGbpNW9_D9_00UnZioWm0mYxqzmtKBkF6zJkkTI4wv2l1JwAWQGimF0fJgfrH0vJfqxkOK0_tXQTNe06CwM5XWXwLdSsZP3Bop5Hv9GFpcnAvTg6oeuKvkXGJKFR5Ue68Fusqya7rc9VuqHHcDfMatYF9GgzQzfQ3mmZokrLCRfPKdp0hUuzVbdPr5azEQ8b98jmGEILmPwbsB-toRAs"
+        },
+        {
+          "position": 3,
+          "title": "\u099a\u09c0\u09a8\u09be \u09a6\u09cb\u09ad\u09be\u09b7\u09c0 \u09b8\u09be\u09b0\u09cd\u09ad\u09bf\u09b8",
+          "place_id": "ChIJMewsqaZ4AjoRBOpKuoOggCY",
+          "data_id": "0x3a0278a6a92cec31:0x2680a083ba4aea04",
+          "data_cid": "2774393858086857220",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a0278a6a92cec31%3A0x2680a083ba4aea04&engine=google_maps_reviews&hl=bn",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a0278a6a92cec31%3A0x2680a083ba4aea04&engine=google_maps_photos&hl=bn",
+          "gps_coordinates": {
+            "latitude": 22.604894899999998,
+            "longitude": 88.2602874
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=bn&place_id=ChIJMewsqaZ4AjoRBOpKuoOggCY",
+          "provider_id": "/g/11c4wwrvq7",
+          "rating": 2.5,
+          "reviews": 2,
+          "type": "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995",
+          "types": [
+            "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995",
+            "\u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u0995\u09cd\u09b0\u09bf\u09aa\u09b6\u09a8 \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator",
+            "transcription_service"
+          ],
+          "address": "\u09ac\u09a8\u09cd\u09a6\u09c7\u09b2, Andul, \u09b9\u09be\u0993\u09dc\u09be, \u09a8\u09bf\u09ac\u09cd\u09b0\u09be, \u0993\u09af\u09bc\u09c7\u09b8\u09cd\u099f \u09ac\u09c7\u0999\u09cd\u0997\u09b2 711403",
+          "country": "\u09ad\u09be\u09b0\u09a4",
+          "open_state": "\u0996\u09cb\u09b2\u09be \u0986\u099b\u09c7 \u00b7 \u09e7\u09e6:\u09e6\u09e6 PM-\u098f \u09ac\u09a8\u09cd\u09a7 \u09b9\u09ac\u09c7",
+          "hours": "\u0996\u09cb\u09b2\u09be \u0986\u099b\u09c7 \u00b7 \u09e7\u09e6:\u09e6\u09e6 PM-\u098f \u09ac\u09a8\u09cd\u09a7 \u09b9\u09ac\u09c7",
+          "operating_hours": {
+            "\u09b0\u09ac\u09bf\u09ac\u09be\u09b0": "\u09ef:\u09e6\u09e6AM\u2013\u09e7\u09e6:\u09e6\u09e6PM",
+            "\u09b8\u09cb\u09ae\u09ac\u09be\u09b0": "\u09ef:\u09e6\u09e6AM\u2013\u09e7\u09e6:\u09e6\u09e6PM",
+            "\u09ae\u0999\u09cd\u0997\u09b2\u09ac\u09be\u09b0": "\u09ef:\u09e6\u09e6AM\u2013\u09e7\u09e6:\u09e6\u09e6PM",
+            "\u09ac\u09c1\u09a7\u09ac\u09be\u09b0": "\u09ef:\u09e6\u09e6AM\u2013\u09e7\u09e6:\u09e6\u09e6PM",
+            "\u09ac\u09c3\u09b9\u09b8\u09cd\u09aa\u09a4\u09bf\u09ac\u09be\u09b0": "\u09ef:\u09e6\u09e6AM\u2013\u09e7\u09e6:\u09e6\u09e6PM",
+            "\u09b6\u09c1\u0995\u09cd\u09b0\u09ac\u09be\u09b0": "\u09ef:\u09e6\u09e6AM\u2013\u09e7\u09e6:\u09e6\u09e6PM",
+            "\u09b6\u09a8\u09bf\u09ac\u09be\u09b0": "\u09ef:\u09e6\u09e6AM\u2013\u09e7\u09e6:\u09e6\u09e6PM"
+          },
+          "phone": "088676 81142",
+          "website": "https://www.globaltranslation.in/certified-translation",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkPjG0O_gNgNJTsqOSNtnSYaku53VtcvQkPseA3IMhMVWgujmIQ3TiniZXmV7Y0clAorShNFuwSG2JWUNDHOhwQcVvHmFGf11h5BsvJ5AJrTh49Of2mteGXIwfn0ewZwqezCwsO=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/j1d7Z3icHcTdCoIwGADQJzJnJlHQhRX5A22aptVNxJhb6bbymw56wZ6htwk6F-f7EcY8Yem6nfAnXGvesQFYT7UyTJkJ1dLlT3AoOOCG8SEr6zZ7RIhcOeY4LeFFCmxUcb61Q-BXho55mwEL_WQv9lXNh4dMcr-8q_vlJKv5GdEu1H0h8G6wRTRN6yPexkTYnFZjLHdR43kiWMOYBmHal2K2IM1UGhadEtsoxOzFvth7Y4GsrIcQcsR_6qgfwsxF6w"
+        },
+        {
+          "position": 4,
+          "title": "\u0985\u09cd\u09af\u09be\u09b8\u09cd\u09a5\u09c7\u099f\u09bf\u0995 \u09ab\u09b0\u09c7\u09a8 \u09b2\u09cd\u09af\u09be\u0999\u09cd\u0997\u09c1\u09af\u09bc\u09c7\u099c \u09b8\u09be\u09b0\u09cd\u09ad\u09bf\u09b8",
+          "place_id": "ChIJU0akdWtxAjoRI7l80aImsIw",
+          "data_id": "0x3a02716b75a44653:0x8cb026a2d17cb923",
+          "data_cid": "10137645241952155939",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a02716b75a44653%3A0x8cb026a2d17cb923&engine=google_maps_reviews&hl=bn",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a02716b75a44653%3A0x8cb026a2d17cb923&engine=google_maps_photos&hl=bn",
+          "gps_coordinates": {
+            "latitude": 22.480922099999997,
+            "longitude": 88.37216459999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=bn&place_id=ChIJU0akdWtxAjoRI7l80aImsIw",
+          "provider_id": "/g/11fz9ym043",
+          "rating": 4.7,
+          "reviews": 32,
+          "type": "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995",
+          "types": [
+            "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator"
+          ],
+          "address": "FL-3D,3/91, Vidyasagar colony P.O, P.S, Naktala, Netaji Nagar, Kolkata, West Bengal 700047",
+          "country": "\u09ad\u09be\u09b0\u09a4",
+          "open_state": "\u09e8\u09ea \u0998\u09a3\u09cd\u099f\u09be \u0996\u09cb\u09b2\u09be",
+          "hours": "\u09e8\u09ea \u0998\u09a3\u09cd\u099f\u09be \u0996\u09cb\u09b2\u09be",
+          "operating_hours": {
+            "\u09b0\u09ac\u09bf\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09b8\u09cb\u09ae\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09ae\u0999\u09cd\u0997\u09b2\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09ac\u09c1\u09a7\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09ac\u09c3\u09b9\u09b8\u09cd\u09aa\u09a4\u09bf\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09b6\u09c1\u0995\u09cd\u09b0\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09b6\u09a8\u09bf\u09ac\u09be\u09b0": "Open 24 hours"
+          },
+          "phone": "079084 03316",
+          "website": "http://afltranslator.com/",
+          "extensions": [
+            {
+              "service_options": [
+                "\u0985\u09a8\u09b2\u09be\u0987\u09a8 \u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f",
+                "\u0985\u09a8\u09b8\u09be\u0987\u099f \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be"
+              ]
+            },
+            {
+              "planning": [
+                "\u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f \u09a8\u09bf\u09a4\u09c7 \u09b9\u09ac\u09c7"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0985\u09a8\u09b2\u09be\u0987\u09a8_\u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f": true,
+            "\u0985\u09a8\u09b8\u09be\u0987\u099f_\u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be": true
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk-drI7z2ovZneiXL0kK0lE6tP_oQFueRtjMRvpSqcDV7BsQqaGcpAm_KK0i1OTsOSYVffoIkLfuRJta--3v1SWN42i-2Rfee38wG817SNQBSUMsdQtemYAwtRBurELHJnvsGR7M1_edv9l=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/HF5NEHicHcTbToMwGADgJ-powcg08QLiZBuwjXbudEOW8nMQaBl_KYkv6bVvY-J38f3-1MYM-Oo4Xe0tKq2rDiaEUWplQJmF1L1TDUgkEnSCNT8czy0pxo3_7Wp7U9BcEtrGtFs9m0Ous48JuPlKuR3EQ76f_BCzxz2SQ9DncUwbtj_iXlxPZak3bVJOfGvuhHiWifPuyW2Iy0sAbzlHS-aLXRaKzxSLzEB_DWbDw2lcJeutshhxP2U5FPale5sZpZTU_0ui_gDAj0de"
+        },
+        {
+          "position": 5,
+          "title": "Anubadok Lingo Services (\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995 \u09b2\u09bf\u0982\u0997\u09cb \u09b8\u09be\u09b0\u09cd\u09ad\u09bf\u09b8\u09c7\u09b8)",
+          "place_id": "ChIJkbwxctN2AjoReswHgIJ1E3o",
+          "data_id": "0x3a0276d37231bc91:0x7a1375828007cc7a",
+          "data_cid": "8796503700538903674",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a0276d37231bc91%3A0x7a1375828007cc7a&engine=google_maps_reviews&hl=bn",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a0276d37231bc91%3A0x7a1375828007cc7a&engine=google_maps_photos&hl=bn",
+          "gps_coordinates": {
+            "latitude": 22.5075398,
+            "longitude": 88.3825401
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=bn&place_id=ChIJkbwxctN2AjoReswHgIJ1E3o",
+          "provider_id": "/g/1thbv20g",
+          "rating": 3.8,
+          "reviews": 4,
+          "type": "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995",
+          "types": [
+            "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995",
+            "\u09ad\u09be\u09b7\u09be \u09b6\u09bf\u0995\u09cd\u09b7\u09be \u0995\u09c7\u09a8\u09cd\u09a6\u09cd\u09b0",
+            "\u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u0995\u09cd\u09b0\u09bf\u09aa\u09b6\u09a8 \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator",
+            "language_school",
+            "transcription_service"
+          ],
+          "address": "Urban Primary Helath Center, High School for Boys, 4/107 Nelinagar PO-Haltu 1st Floor near KMC, Haltu, Kolkata, West Bengal 700078",
+          "country": "\u09ad\u09be\u09b0\u09a4",
+          "open_state": "\u09ac\u09a8\u09cd\u09a7 \u09b9\u09df\u09c7 \u0997\u09c7\u099b\u09c7 \u00b7 \u09b8\u09cb\u09ae \u09ee:\u09e6\u09e6 AM-\u098f \u0996\u09c1\u09b2\u09ac\u09c7",
+          "hours": "\u09ac\u09a8\u09cd\u09a7 \u09b9\u09df\u09c7 \u0997\u09c7\u099b\u09c7 \u00b7 \u09b8\u09cb\u09ae \u09ee:\u09e6\u09e6 AM-\u098f \u0996\u09c1\u09b2\u09ac\u09c7",
+          "operating_hours": {
+            "\u09b0\u09ac\u09bf\u09ac\u09be\u09b0": "Closed",
+            "\u09b8\u09cb\u09ae\u09ac\u09be\u09b0": "\u09ee:\u09e6\u09e6AM\u2013\u09e7:\u09e6\u09e6PM, \u09eb:\u09e6\u09e6\u2013\u09ef:\u09e6\u09e6PM",
+            "\u09ae\u0999\u09cd\u0997\u09b2\u09ac\u09be\u09b0": "\u09ee:\u09e6\u09e6AM\u2013\u09e7:\u09e6\u09e6PM, \u09eb:\u09e6\u09e6\u2013\u09ef:\u09e6\u09e6PM",
+            "\u09ac\u09c1\u09a7\u09ac\u09be\u09b0": "\u09ee:\u09e6\u09e6AM\u2013\u09e7:\u09e6\u09e6PM, \u09eb:\u09e6\u09e6\u2013\u09ef:\u09e6\u09e6PM",
+            "\u09ac\u09c3\u09b9\u09b8\u09cd\u09aa\u09a4\u09bf\u09ac\u09be\u09b0": "\u09ee:\u09e6\u09e6AM\u2013\u09e7:\u09e6\u09e6PM, \u09eb:\u09e6\u09e6\u2013\u09ef:\u09e6\u09e6PM",
+            "\u09b6\u09c1\u0995\u09cd\u09b0\u09ac\u09be\u09b0": "\u09ee:\u09e6\u09e6AM\u2013\u09e7:\u09e6\u09e6PM, \u09ea:\u09e6\u09e6\u2013\u09ee:\u09e6\u09e6PM",
+            "\u09b6\u09a8\u09bf\u09ac\u09be\u09b0": "\u09ee:\u09e6\u09e6AM\u2013\u09e7:\u09e6\u09e6PM"
+          },
+          "phone": "094330 55250",
+          "website": "http://www.anubadok.in/"
+        },
+        {
+          "position": 6,
+          "title": "\u09b8\u09bf\u098f\u09b8 \u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u0995\u09cd\u09b0\u09bf\u09aa\u09cd\u099f \u0995\u09a8\u09b8\u09be\u09b2\u09cd\u099f\u09bf\u0982 \u09b8\u09be\u09b0\u09cd\u09ad\u09bf\u09b8\u09c7\u09b8",
+          "place_id": "ChIJm2WcB393AjoR8LkSCqlL3Es",
+          "data_id": "0x3a02777f079c659b:0x4bdc4ba90a12b9f0",
+          "data_cid": "5466327237111495152",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a02777f079c659b%3A0x4bdc4ba90a12b9f0&engine=google_maps_reviews&hl=bn",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a02777f079c659b%3A0x4bdc4ba90a12b9f0&engine=google_maps_photos&hl=bn",
+          "gps_coordinates": {
+            "latitude": 22.5500129,
+            "longitude": 88.3689678
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=bn&place_id=ChIJm2WcB393AjoR8LkSCqlL3Es",
+          "provider_id": "/g/11mhmzmtr8",
+          "rating": 5,
+          "reviews": 102,
+          "type": "\u09ac\u09bf\u09b6\u09cd\u09ac\u09ac\u09bf\u09a6\u09cd\u09af\u09be\u09b2\u09df",
+          "types": [
+            "\u09ac\u09bf\u09b6\u09cd\u09ac\u09ac\u09bf\u09a6\u09cd\u09af\u09be\u09b2\u09df"
+          ],
+          "type_id": "university",
+          "type_ids": [
+            "university"
+          ],
+          "address": "59B, Linton St, \u09ac\u09c7\u09a8\u09bf\u09df\u09be\u09aa\u09c1\u0995\u09c1\u09b0, \u0995\u09b2\u0995\u09be\u09a4\u09be, \u0993\u09af\u09bc\u09c7\u09b8\u09cd\u099f \u09ac\u09c7\u0999\u09cd\u0997\u09b2 700014",
+          "country": "\u09ad\u09be\u09b0\u09a4",
+          "open_state": "\u09ac\u09a8\u09cd\u09a7 \u09b9\u09df\u09c7 \u0997\u09c7\u099b\u09c7 \u00b7 \u09b8\u09cb\u09ae \u09e7\u09e7:\u09e6\u09e6 AM-\u098f \u0996\u09c1\u09b2\u09ac\u09c7",
+          "hours": "\u09ac\u09a8\u09cd\u09a7 \u09b9\u09df\u09c7 \u0997\u09c7\u099b\u09c7 \u00b7 \u09b8\u09cb\u09ae \u09e7\u09e7:\u09e6\u09e6 AM-\u098f \u0996\u09c1\u09b2\u09ac\u09c7",
+          "operating_hours": {
+            "\u09b0\u09ac\u09bf\u09ac\u09be\u09b0": "Closed",
+            "\u09b8\u09cb\u09ae\u09ac\u09be\u09b0": "\u09e7\u09e7:\u09e6\u09e6AM\u2013\u09ec:\u09e6\u09e6PM",
+            "\u09ae\u0999\u09cd\u0997\u09b2\u09ac\u09be\u09b0": "\u09e7\u09e7:\u09e6\u09e6AM\u2013\u09ec:\u09e6\u09e6PM",
+            "\u09ac\u09c1\u09a7\u09ac\u09be\u09b0": "\u09e7\u09e7:\u09e6\u09e6AM\u2013\u09ec:\u09e6\u09e6PM",
+            "\u09ac\u09c3\u09b9\u09b8\u09cd\u09aa\u09a4\u09bf\u09ac\u09be\u09b0": "\u09e7\u09e7:\u09e6\u09e6AM\u2013\u09ec:\u09e6\u09e6PM",
+            "\u09b6\u09c1\u0995\u09cd\u09b0\u09ac\u09be\u09b0": "\u09e7\u09e7:\u09e6\u09e6AM\u2013\u09ec:\u09e6\u09e6PM",
+            "\u09b6\u09a8\u09bf\u09ac\u09be\u09b0": "Closed"
+          },
+          "phone": "083359 37211",
+          "website": "http://cstranscript-verification.com/",
+          "extensions": [
+            {
+              "from_the_business": [
+                "\u09ae\u09b9\u09bf\u09b2\u09be\u09a6\u09c7\u09b0 \u09ae\u09be\u09b2\u09bf\u0995\u09be\u09a8\u09be\u09a7\u09c0\u09a8 \u09b9\u09bf\u09b8\u09c7\u09ac\u09c7 \u099a\u09bf\u09b9\u09cd\u09a8\u09bf\u09a4 \u0995\u09b0\u09c7"
+              ]
+            }
+          ],
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk9R1ZrlN0znPn-FFxauqm4HyxNb3PkmwwvvhRfbMBzPshTZrx9nji0r0PUnecTmx0-k49Vf8hN3HoPx_fmMBJX2JpgTNjkXJ4ICPBvUGtNFH1M_EalAZjMyunvvpIPWJPkR_4F=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/Glg3V3icHcTBboIwGADgJyqUwUGW7CCLCCQ0fwhOw4VoA1RKW0ZLqb7gnsG3Mdl3-F5_zJhZf_r-xEJvUGqYulV3C1XSdNJ4VAl_mDWiGml_n1VQn3lcBc0yEfyUIFGauuv6K6Ls4cgtBC62zVpW9bcyeYJmdbO4WI53vGA4yY7WwmHEo_in3zESZgpc24syKS4fxTzUZOSXIsq_IbGnoyFpFpTt4Trtm7F8rNLaOYdzAbxqo_RrCzDGiP1PkXwD9fBF8Q"
+        },
+        {
+          "position": 7,
+          "title": "\u09b8\u09cd\u09ac\u09b8\u09cd\u09a4\u09bf\u0995\u09be \u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u09b2\u09c7\u09b6\u09a8 & \u0995\u09a8\u09cd\u099f\u09c7\u09a8\u09cd\u099f \u09a1\u09c7\u09ad\u09c7\u09b2\u09aa\u09be\u09b0",
+          "place_id": "ChIJl_ZVDMx3AjoRdkwMsbaldpI",
+          "data_id": "0x3a0277cc0c55f697:0x9276a5b6b10c4c76",
+          "data_cid": "10553804980862340214",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a0277cc0c55f697%3A0x9276a5b6b10c4c76&engine=google_maps_reviews&hl=bn",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a0277cc0c55f697%3A0x9276a5b6b10c4c76&engine=google_maps_photos&hl=bn",
+          "gps_coordinates": {
+            "latitude": 22.595139399999997,
+            "longitude": 88.382423
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=bn&place_id=ChIJl_ZVDMx3AjoRdkwMsbaldpI",
+          "provider_id": "/g/11lfcxdml1",
+          "rating": 3.7,
+          "reviews": 3,
+          "type": "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995",
+          "types": [
+            "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator"
+          ],
+          "address": "139/H/6, Bidhannagar Road Muchi Bazar, near Anurag Diagnostic and Health Care, Kolkata, West Bengal 700067",
+          "country": "\u09ad\u09be\u09b0\u09a4",
+          "open_state": "\u09ac\u09a8\u09cd\u09a7 \u09b9\u09df\u09c7 \u0997\u09c7\u099b\u09c7 \u00b7 \u09b8\u09cb\u09ae \u09ef:\u09e6\u09e6 AM-\u098f \u0996\u09c1\u09b2\u09ac\u09c7",
+          "hours": "\u09ac\u09a8\u09cd\u09a7 \u09b9\u09df\u09c7 \u0997\u09c7\u099b\u09c7 \u00b7 \u09b8\u09cb\u09ae \u09ef:\u09e6\u09e6 AM-\u098f \u0996\u09c1\u09b2\u09ac\u09c7",
+          "operating_hours": {
+            "\u09b0\u09ac\u09bf\u09ac\u09be\u09b0": "Closed",
+            "\u09b8\u09cb\u09ae\u09ac\u09be\u09b0": "\u09ef:\u09e6\u09e6AM\u2013\u09ec:\u09e6\u09e6PM",
+            "\u09ae\u0999\u09cd\u0997\u09b2\u09ac\u09be\u09b0": "\u09ef:\u09e6\u09e6AM\u2013\u09ec:\u09e6\u09e6PM",
+            "\u09ac\u09c1\u09a7\u09ac\u09be\u09b0": "\u09ef:\u09e6\u09e6AM\u2013\u09ec:\u09e6\u09e6PM",
+            "\u09ac\u09c3\u09b9\u09b8\u09cd\u09aa\u09a4\u09bf\u09ac\u09be\u09b0": "\u09ef:\u09e6\u09e6AM\u2013\u09ec:\u09e6\u09e6PM",
+            "\u09b6\u09c1\u0995\u09cd\u09b0\u09ac\u09be\u09b0": "\u09ef:\u09e6\u09e6AM\u2013\u09ec:\u09e6\u09e6PM",
+            "\u09b6\u09a8\u09bf\u09ac\u09be\u09b0": "\u09ef:\u09e6\u09e6AM\u2013\u09ec:\u09e6\u09e6PM"
+          },
+          "phone": "087702 31137",
+          "website": "https://www.facebook.com/stcd071212",
+          "extensions": [
+            {
+              "service_options": [
+                "\u0985\u09a8\u09b2\u09be\u0987\u09a8 \u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f"
+              ]
+            }
+          ],
+          "unsupported_extensions": [
+            {
+              "service_options": [
+                "\u0985\u09a8\u09b8\u09be\u0987\u099f \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0985\u09a8\u09b2\u09be\u0987\u09a8_\u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f": true,
+            "\u0985\u09a8\u09b8\u09be\u0987\u099f_\u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be": false
+          },
+          "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jKxwbx2KEcJtc_Z8_0euRA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=175.76408&pitch=0&thumbfov=100",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/cAy3k3icHc0xDsIgFADQ27AJtFFbTYhxcLGbo0tD6RcwtPyU31Jv47W8jcYLvPd5OyJMRyESTQC0eMjoVwhpg5rbGG0AjT5xEwexFILcPHSj9uGEeoy-V89mzd1aNhdzJdPe61bCfDsz07UmeBhJJdCTcdzmnzjFnltMLKtaMqcOJXvprIpqx6v9VtYMPRmnJPsvj7ioQsovjgk5vw"
+        },
+        {
+          "position": 8,
+          "title": "\u09aa\u09be\u09b0\u09b8\u09c7\u09aa\u09b6\u09a8 \u09ae\u09be\u0987\u09a8\u09cd\u09a1\u09b8",
+          "place_id": "ChIJtV9sbxBxAjoRNyWRkqfmYZw",
+          "data_id": "0x3a0271106f6c5fb5:0x9c61e6a792912537",
+          "data_cid": "11268541350050604343",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a0271106f6c5fb5%3A0x9c61e6a792912537&engine=google_maps_reviews&hl=bn",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a0271106f6c5fb5%3A0x9c61e6a792912537&engine=google_maps_photos&hl=bn",
+          "gps_coordinates": {
+            "latitude": 22.487909,
+            "longitude": 88.3500179
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=bn&place_id=ChIJtV9sbxBxAjoRNyWRkqfmYZw",
+          "provider_id": "/g/11h764kzc5",
+          "rating": 5,
+          "reviews": 4,
+          "type": "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995",
+          "types": [
+            "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995",
+            "\u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u0995\u09cd\u09b0\u09bf\u09aa\u09b6\u09a8 \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator",
+            "transcription_service"
+          ],
+          "address": "57/2X, \u09a8\u09c7\u09a4\u09be\u099c\u09c0 \u09b8\u09c1\u09ad\u09be\u09b7 \u099a\u09a8\u09cd\u09a6\u09cd\u09b0 \u09ac\u09cb\u09b8 \u09b0\u09cb\u09a1, \u09a8\u09c7\u09b9\u09c7\u09b0\u09c1 \u0995\u09cb\u09b2\u09cb\u09a8\u09bf, \u0985\u09b6\u09cb\u0995 \u09a8\u0997\u09b0, \u099f\u09be\u09b2\u09bf\u0997\u099e\u09cd\u099c, \u0995\u09b2\u0995\u09be\u09a4\u09be, \u0993\u09af\u09bc\u09c7\u09b8\u09cd\u099f \u09ac\u09c7\u0999\u09cd\u0997\u09b2 700040",
+          "country": "\u09ad\u09be\u09b0\u09a4",
+          "open_state": "\u09ac\u09a8\u09cd\u09a7 \u09b9\u09df\u09c7 \u0997\u09c7\u099b\u09c7 \u00b7 \u09b8\u09cb\u09ae \u09e7\u09e6:\u09e6\u09e6 AM-\u098f \u0996\u09c1\u09b2\u09ac\u09c7",
+          "hours": "\u09ac\u09a8\u09cd\u09a7 \u09b9\u09df\u09c7 \u0997\u09c7\u099b\u09c7 \u00b7 \u09b8\u09cb\u09ae \u09e7\u09e6:\u09e6\u09e6 AM-\u098f \u0996\u09c1\u09b2\u09ac\u09c7",
+          "operating_hours": {
+            "\u09b0\u09ac\u09bf\u09ac\u09be\u09b0": "Closed",
+            "\u09b8\u09cb\u09ae\u09ac\u09be\u09b0": "\u09e7\u09e6:\u09e6\u09e6AM\u2013\u09ed:\u09e6\u09e6PM",
+            "\u09ae\u0999\u09cd\u0997\u09b2\u09ac\u09be\u09b0": "\u09e7\u09e6:\u09e6\u09e6AM\u2013\u09ed:\u09e6\u09e6PM",
+            "\u09ac\u09c1\u09a7\u09ac\u09be\u09b0": "\u09e7\u09e6:\u09e6\u09e6AM\u2013\u09ed:\u09e6\u09e6PM",
+            "\u09ac\u09c3\u09b9\u09b8\u09cd\u09aa\u09a4\u09bf\u09ac\u09be\u09b0": "\u09e7\u09e6:\u09e6\u09e6AM\u2013\u09ed:\u09e6\u09e6PM",
+            "\u09b6\u09c1\u0995\u09cd\u09b0\u09ac\u09be\u09b0": "\u09e7\u09e6:\u09e6\u09e6AM\u2013\u09ed:\u09e6\u09e6PM",
+            "\u09b6\u09a8\u09bf\u09ac\u09be\u09b0": "\u09e7\u09e6:\u09e6\u09e6AM\u2013\u09ed:\u09e6\u09e6PM"
+          },
+          "phone": "083359 93606",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkNGu6E8OpiulWX0CL9GZg_PtKiRGAHOr2UYfSndDUPULzZRbpwQTKa3Rx76ItKAVTSsp_WJ9neKa2-fO4PaeVHIMea6O7CBfWw9-yOOfw30xcDzqyPNYPRWEofrw79kYMQ_TwO=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/5dvOhnicHcRRboIwAADQE1U6MTCW-MHUgENtrWDFH4K1BSNrKy2pekHPsNuY7H28v1drrTZfnte1_qhRqun4YHjPlLRc2hFTv16jDWAGGC9OCc7pdZMMweIT6cvQ0QOcraLk2FTYZheSxCnqx0UpdvI8L3Cxeh7JSbttntU-uYfB0mbxPt8ZXdGfSPKsHgOBJrjm-3S55nWAwtm3oC4CD4SE8-GdzZ-3B96UmNCFEr0Lo2u53la5Q1P3ASEE7f8MyDcsBERB"
+        },
+        {
+          "position": 9,
+          "title": "\u098f\u09b2\u09ab\u09bf\u09a8 \u0987\u09a8\u09cd\u09a1\u09bf\u09af\u09bc\u09be",
+          "place_id": "ChIJt-bD_UnPcasRgqPKwGeicaM",
+          "data_id": "0xab71cf49fdc3e6b7:0xa371a267c0caa382",
+          "data_cid": "11777373067050394498",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0xab71cf49fdc3e6b7%3A0xa371a267c0caa382&engine=google_maps_reviews&hl=bn",
+          "photos_link": "https://serpapi.com/search.json?data_id=0xab71cf49fdc3e6b7%3A0xa371a267c0caa382&engine=google_maps_photos&hl=bn",
+          "gps_coordinates": {
+            "latitude": 22.4456739,
+            "longitude": 88.4095045
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=bn&place_id=ChIJt-bD_UnPcasRgqPKwGeicaM",
+          "provider_id": "/g/11tn2wchx5",
+          "rating": 4.6,
+          "reviews": 12,
+          "type": "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995",
+          "types": [
+            "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator"
+          ],
+          "address": "401, Ground Floor, New Green Park, Sonarpur Station Rd, Netajipalli, Narendrapur, Rajpur Sonarpur, West Bengal 700103",
+          "country": "\u09ad\u09be\u09b0\u09a4",
+          "open_state": "\u0996\u09cb\u09b2\u09be \u0986\u099b\u09c7 \u00b7 \u09ed:\u09e9\u09e6 PM-\u098f \u09ac\u09a8\u09cd\u09a7 \u09b9\u09ac\u09c7",
+          "hours": "\u0996\u09cb\u09b2\u09be \u0986\u099b\u09c7 \u00b7 \u09ed:\u09e9\u09e6 PM-\u098f \u09ac\u09a8\u09cd\u09a7 \u09b9\u09ac\u09c7",
+          "operating_hours": {
+            "\u09b0\u09ac\u09bf\u09ac\u09be\u09b0": "\u09ef:\u09e9\u09e6AM\u2013\u09ed:\u09e9\u09e6PM",
+            "\u09b8\u09cb\u09ae\u09ac\u09be\u09b0": "\u09ef:\u09e9\u09e6AM\u2013\u09ed:\u09e9\u09e6PM",
+            "\u09ae\u0999\u09cd\u0997\u09b2\u09ac\u09be\u09b0": "\u09ef:\u09e9\u09e6AM\u2013\u09ed:\u09e9\u09e6PM",
+            "\u09ac\u09c1\u09a7\u09ac\u09be\u09b0": "\u09ef:\u09e9\u09e6AM\u2013\u09ed:\u09e9\u09e6PM",
+            "\u09ac\u09c3\u09b9\u09b8\u09cd\u09aa\u09a4\u09bf\u09ac\u09be\u09b0": "\u09ef:\u09e9\u09e6AM\u2013\u09ed:\u09e9\u09e6PM",
+            "\u09b6\u09c1\u0995\u09cd\u09b0\u09ac\u09be\u09b0": "\u09ef:\u09e9\u09e6AM\u2013\u09ed:\u09e9\u09e6PM",
+            "\u09b6\u09a8\u09bf\u09ac\u09be\u09b0": "\u09ef:\u09e9\u09e6AM\u2013\u09ed:\u09e9\u09e6PM"
+          },
+          "phone": "098117 08306",
+          "website": "http://elfinindiaservices.in/",
+          "extensions": [
+            {
+              "service_options": [
+                "\u0985\u09a8\u09b2\u09be\u0987\u09a8 \u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f",
+                "\u0985\u09a8\u09b8\u09be\u0987\u099f \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be"
+              ]
+            }
+          ],
+          "unsupported_extensions": [
+            {
+              "accessibility": [
+                "\u09b9\u09c1\u0987\u09b2\u099a\u09c7\u09df\u09be\u09b0 \u09a8\u09bf\u09df\u09c7 \u09a2\u09cb\u0995\u09be\u09b0 \u09aa\u09cd\u09b0\u09ac\u09c7\u09b6\u09aa\u09a5",
+                "\u09b9\u09c1\u0987\u09b2\u099a\u09c7\u09af\u09bc\u09be\u09b0 \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0\u09af\u09cb\u0997\u09cd\u09af \u0986\u09b8\u09a8",
+                "\ufeff\u09b9\u09c1\u0987\u09b2\u099a\u09c7\u09df\u09be\u09b0 \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0\u09c7\u09b0 \u09b8\u09c1\u09ac\u09bf\u09a7\u09be \u09b8\u09b9 \u09b6\u09cc\u099a\u09be\u09b2\u09df"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0985\u09a8\u09b2\u09be\u0987\u09a8_\u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f": true,
+            "\u0985\u09a8\u09b8\u09be\u0987\u099f_\u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be": true
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl2oIXf-n_TCfCICa3NS56pwKfXirAOjav8sMRlDcEJ4Y-MlBmjWe3eMNBcfwYqpAPsiBjoWntODzQ39BDZW_c1ZwCJKr1XKgCLRxPqny33uXV5TC6YZ-_703bLQ0cw5grQoMuIqg=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/a2Hb2HicHcRLjoIwAADQE1XKVNQxmQUUExFRQCKfDdGmFEltgRY7Mzf0CN7GxLd4r2erda_WlsVbNGNSMk4nRUcihaZCz4i8W6xXgCigLHebxlnOv2RQNEDUGW5wgC_ocHIWvQmb4ja6x-7yWKko5T7Z7OYliLh373KKaHTwSGPKoXdjdfM6mQt99P8T9O35VV4TuzJ4F452ETK8T3_jQfwhNBVnJ8OLsgL1EqLrPoHEOGxMZDQFA_sxNoQQtJ8JEG_Cl0TB"
+        },
+        {
+          "position": 10,
+          "title": "\u09a6\u09be\u09b8 \u09b0\u09be\u0987\u099f\u09bf\u0982 \u09b8\u09be\u09b0\u09cd\u09ad\u09bf\u09b8\u09c7\u09b8 \u09aa\u09bf\u09ad\u09bf\u099f\u09bf. \u098f\u09b2\u099f\u09bf\u09a1\u09bf.",
+          "place_id": "ChIJo0pfBpN1AjoRel2W6oyri6A",
+          "data_id": "0x3a027593065f4aa3:0xa08bab8cea965d7a",
+          "data_cid": "11568528689550744954",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a027593065f4aa3%3A0xa08bab8cea965d7a&engine=google_maps_reviews&hl=bn",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a027593065f4aa3%3A0xa08bab8cea965d7a&engine=google_maps_photos&hl=bn",
+          "gps_coordinates": {
+            "latitude": 22.5688571,
+            "longitude": 88.4333091
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=bn&place_id=ChIJo0pfBpN1AjoRel2W6oyri6A",
+          "provider_id": "/g/11bw5zpr07",
+          "rating": 4.1,
+          "reviews": 117,
+          "type": "\u0987\u09a8\u09cd\u099f\u09be\u09b0\u09a8\u09c7\u099f \u09ac\u09bf\u09aa\u09a3\u09a8 \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be",
+          "types": [
+            "\u0987\u09a8\u09cd\u099f\u09be\u09b0\u09a8\u09c7\u099f \u09ac\u09bf\u09aa\u09a3\u09a8 \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be"
+          ],
+          "type_id": "internet_marketing_service",
+          "type_ids": [
+            "internet_marketing_service"
+          ],
+          "address": "8th floor, TOWER-1, SRIJAN CORPORATE PARK, 803A, PS, GP Block, Sector V, Bidhannagar, Kolkata, West Bengal 700091",
+          "country": "\u09ad\u09be\u09b0\u09a4",
+          "open_state": "\u09e8\u09ea \u0998\u09a3\u09cd\u099f\u09be \u0996\u09cb\u09b2\u09be",
+          "hours": "\u09e8\u09ea \u0998\u09a3\u09cd\u099f\u09be \u0996\u09cb\u09b2\u09be",
+          "operating_hours": {
+            "\u09b0\u09ac\u09bf\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09b8\u09cb\u09ae\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09ae\u0999\u09cd\u0997\u09b2\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09ac\u09c1\u09a7\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09ac\u09c3\u09b9\u09b8\u09cd\u09aa\u09a4\u09bf\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09b6\u09c1\u0995\u09cd\u09b0\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09b6\u09a8\u09bf\u09ac\u09be\u09b0": "Open 24 hours"
+          },
+          "website": "https://www.daswritingservices.com/",
+          "extensions": [
+            {
+              "service_options": [
+                "\u0985\u09a8\u09b8\u09be\u0987\u099f \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be"
+              ]
+            },
+            {
+              "accessibility": [
+                "\u09b9\u09c1\u0987\u09b2\u099a\u09c7\u09af\u09bc\u09be\u09b0 \u09aa\u09cd\u09b0\u09ac\u09c7\u09b6\u09af\u09cb\u0997\u09cd\u09af \u09aa\u09be\u09b0\u09cd\u0995\u09bf\u0982 \u09b2\u099f"
+              ]
+            },
+            {
+              "amenities": [
+                "\u09aa\u09c1\u09b0\u09c1\u09b7 \u0993 \u09ae\u09b9\u09bf\u09b2\u09be \u0989\u09ad\u09df\u09c7\u09b0 \u099c\u09a8\u09cd\u09af \u099f\u09df\u09b2\u09c7\u099f"
+              ]
+            },
+            {
+              "planning": [
+                "\u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f \u09a8\u09bf\u09a4\u09c7 \u09b9\u09ac\u09c7"
+              ]
+            }
+          ],
+          "unsupported_extensions": [
+            {
+              "service_options": [
+                "\u0985\u09a8\u09b2\u09be\u0987\u09a8 \u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0985\u09a8\u09b8\u09be\u0987\u099f_\u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be": true,
+            "\u0985\u09a8\u09b2\u09be\u0987\u09a8_\u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f": false
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkG03HDrAqNZTPC6JCwz4kSJiaiu2pjlb4ees0WIJCOtKaNpbvEQe0aEymBMRr_hcWvymLRIqwJwJDA7ARNMt5hBg2OGfjn5UcSf6otOop64tEGwIbE1zBL98JWn3kNXOPkuCP9Cc0z6byb=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/aXcrxnicHcRBjoIwAADAFyFVENdNPEAlSFVA1GC8GNpUqkBbabGBT3re32ziHObvw7SW6te2G-ZMKiGqhvaKdkRwTbmeENHalVQWUZay_U2enYo6As5m3fmv5HrKoIegGd36iB7lo5_JZ4NdShUoYgRTvS0Tid_hgYIyHNpgn3c3Ror30O7y-GWQQWt_4efJXs9ZUM3S6P7k8zM53j2hUyE9V4eRiXE4HYPd8gcV3KmTS5rVPcyWkIDRwwNemSkAwGLficX_AZ5tRzE"
+        },
+        {
+          "position": 11,
+          "title": "\u09b6\u09cd\u09b0\u09c7\u09af\u09bc\u09be\u0982\u09b6 \u098f\u09a8\u09cd\u099f\u09be\u09b0\u09aa\u09cd\u09b0\u09be\u0987\u099c",
+          "place_id": "ChIJjWIDYYB7AjoRgP70B5PRO_U",
+          "data_id": "0x3a027b806103628d:0xf53bd19307f4fe80",
+          "data_cid": "17670947992342167168",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a027b806103628d%3A0xf53bd19307f4fe80&engine=google_maps_reviews&hl=bn",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a027b806103628d%3A0xf53bd19307f4fe80&engine=google_maps_photos&hl=bn",
+          "gps_coordinates": {
+            "latitude": 22.4795357,
+            "longitude": 88.29764929999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=bn&place_id=ChIJjWIDYYB7AjoRgP70B5PRO_U",
+          "provider_id": "/g/11y50bdccp",
+          "rating": 4.9,
+          "reviews": 25,
+          "type": "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995",
+          "types": [
+            "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995",
+            "\u09ad\u09cd\u09b0\u09ae\u09a3 \u09b8\u0982\u09b8\u09cd\u09a5\u09be"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator",
+            "travel_agency"
+          ],
+          "address": "50, Sarsuna Main Rd, opposite of BADAMTALA CLUB, Talpukur, Paschim Barisha, \u0995\u09b2\u0995\u09be\u09a4\u09be, \u0993\u09af\u09bc\u09c7\u09b8\u09cd\u099f \u09ac\u09c7\u0999\u09cd\u0997\u09b2 700061",
+          "country": "\u09ad\u09be\u09b0\u09a4",
+          "open_state": "\u0996\u09cb\u09b2\u09be \u0986\u099b\u09c7 \u00b7 \u09ed:\u09e6\u09e6 PM-\u098f \u09ac\u09a8\u09cd\u09a7 \u09b9\u09ac\u09c7",
+          "hours": "\u0996\u09cb\u09b2\u09be \u0986\u099b\u09c7 \u00b7 \u09ed:\u09e6\u09e6 PM-\u098f \u09ac\u09a8\u09cd\u09a7 \u09b9\u09ac\u09c7",
+          "operating_hours": {
+            "\u09b0\u09ac\u09bf\u09ac\u09be\u09b0": "\u09e7\u09e7:\u09e6\u09e6AM\u2013\u09ed:\u09e6\u09e6PM",
+            "\u09b8\u09cb\u09ae\u09ac\u09be\u09b0": "\u09e7\u09e7:\u09e6\u09e6AM\u2013\u09ed:\u09e6\u09e6PM",
+            "\u09ae\u0999\u09cd\u0997\u09b2\u09ac\u09be\u09b0": "\u09e7\u09e7:\u09e6\u09e6AM\u2013\u09ed:\u09e6\u09e6PM",
+            "\u09ac\u09c1\u09a7\u09ac\u09be\u09b0": "\u09e7\u09e7:\u09e6\u09e6AM\u2013\u09ed:\u09e6\u09e6PM",
+            "\u09ac\u09c3\u09b9\u09b8\u09cd\u09aa\u09a4\u09bf\u09ac\u09be\u09b0": "\u09e7\u09e7:\u09e6\u09e6AM\u2013\u09ed:\u09e6\u09e6PM",
+            "\u09b6\u09c1\u0995\u09cd\u09b0\u09ac\u09be\u09b0": "\u09e7\u09e7:\u09e6\u09e6AM\u2013\u09ed:\u09e6\u09e6PM",
+            "\u09b6\u09a8\u09bf\u09ac\u09be\u09b0": "\u09e7\u09e7:\u09e6\u09e6AM\u2013\u09ed:\u09e6\u09e6PM"
+          },
+          "phone": "070446 31678",
+          "website": "https://www.shreyanshenterprise.co.in/",
+          "extensions": [
+            {
+              "from_the_business": [
+                "\u09ae\u09b9\u09bf\u09b2\u09be\u09a6\u09c7\u09b0 \u09ae\u09be\u09b2\u09bf\u0995\u09be\u09a8\u09be\u09a7\u09c0\u09a8 \u09b9\u09bf\u09b8\u09c7\u09ac\u09c7 \u099a\u09bf\u09b9\u09cd\u09a8\u09bf\u09a4 \u0995\u09b0\u09c7"
+              ]
+            },
+            {
+              "service_options": [
+                "\u0985\u09a8\u09b8\u09be\u0987\u099f \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0985\u09a8\u09b8\u09be\u0987\u099f_\u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be": true
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkYYfKtNLix9eXdfmOHTiEykQ0_RAR1I4hEa80Lmmokn3-RfoNC8_9rpClzsBf9NMBtOaeZ4ajBMLTnif1Wy7Xm1LRVQQmzOjzo0EXx3ouziA10dmhzAUY35bsvpzkM5AtJy8JLTw=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/6FNxynicHcRdboIwAADgE1XaIBGW7KEYEn8KjIYp7MUgthShLbF1Sm-4I3gbk30P3-tPWDuZD88bhb_otO5Gdjfs1mplmbKLVkuvmwxoDTAe3tCv8jjUNd_bjPTPiFUXLvNN2SfzUMATxRRtlyJpQkik1IPyAeU6W4en6DatR2diHmVpbPOG_Syba5ySUvUcHedVJRGhh6KQLr86DZPq6eu76zGCFykc_q794Gx-JzekAba7OdyR8vH5QBBCIP5vgXoDFXlF-Q"
+        },
+        {
+          "position": 12,
+          "title": "\u09b9\u09cb\u09ae",
+          "place_id": "ChIJMffr-3Sd-DkRETDidR-pvww",
+          "data_id": "0x39f89d74fbebf731:0xcbfa91f75e23011",
+          "data_cid": "918638801593708561",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x39f89d74fbebf731%3A0xcbfa91f75e23011&engine=google_maps_reviews&hl=bn",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x39f89d74fbebf731%3A0xcbfa91f75e23011&engine=google_maps_photos&hl=bn",
+          "gps_coordinates": {
+            "latitude": 22.6434203,
+            "longitude": 88.36655069999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=bn&place_id=ChIJMffr-3Sd-DkRETDidR-pvww",
+          "provider_id": "/g/11zf9kf9mp",
+          "type": "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995",
+          "types": [
+            "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator"
+          ],
+          "address": "Rajkumar Mukherjee Rd, \u09ac\u09b0\u09be\u09b9\u09a8\u0997\u09b0, \u0995\u09b2\u0995\u09be\u09a4\u09be, \u09ac\u09b0\u09be\u09b9\u09a8\u0997\u09b0, \u0993\u09af\u09bc\u09c7\u09b8\u09cd\u099f \u09ac\u09c7\u0999\u09cd\u0997\u09b2 700036",
+          "country": "\u09ad\u09be\u09b0\u09a4",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkXKl4dnt7akxh0j_B8AwhgWuzZ5PEhmvxpz_aoF74P6au3LCiI1lud0ro-qVVcjwjlvAwYXefnjtQm7gvHgevkynkAolkVP6bzulfmChcUOBTOVVie759C3eAEd_Ex7oUmqRN_5-_ZncZN=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/j8IeEnicHcTNboIwAADgJ6rUIHZbskMlGM0WZUar49KwUlvpH9oWGC-5895myb7D9_sjQ-j8S5Jomc6Ec0Lz6PmDORu4DTPmTCI6D5gHPsGbQ3k8q8ubXjQ2oFqNErZ09YQHKc5xqrKykKYfu4nWbo0W5bKO6Xt-2851bODDgTshrB1a3ePh88Kvtg0fBol-I3ivvq3CTitSLr-mqK8ml-y0Xx33hNw4yp7zlOOiocWI3MncDzuaAVpZVu1ehzmEEMj_GbB_rCNJ7A"
+        },
+        {
+          "position": 13,
+          "title": "\u099c\u09c7\u0995\u09c7 \u0987\u09a8\u09ab\u09cb\u099f\u09c7\u0995 \u0987\u09a8\u0995.",
+          "place_id": "ChIJgXZ_GepwAjoRJ5UyYRebFaU",
+          "data_id": "0x3a0270ea197f7681:0xa5159b1761329527",
+          "data_cid": "11895584515486291239",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a0270ea197f7681%3A0xa5159b1761329527&engine=google_maps_reviews&hl=bn",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a0270ea197f7681%3A0xa5159b1761329527&engine=google_maps_photos&hl=bn",
+          "gps_coordinates": {
+            "latitude": 22.505312,
+            "longitude": 88.3477271
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=bn&place_id=ChIJgXZ_GepwAjoRJ5UyYRebFaU",
+          "provider_id": "/g/1tywwcb3",
+          "rating": 4.8,
+          "reviews": 12,
+          "type": "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995",
+          "types": [
+            "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995",
+            "\u09b8\u09be\u09b0\u09cd\u09ad\u09bf\u09b8\u09bf\u0982 \u09b8\u09b9 \u09a5\u09be\u0995\u09be\u09b0 \u09ac\u09cd\u09af\u09ac\u09b8\u09cd\u09a5\u09be"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator",
+            "serviced_accommodation"
+          ],
+          "address": "Charu market, 64, Russa Road E 1st Ln, \u09ac\u09be\u09a6\u09be\u09ae \u09a4\u09be\u09b2\u09cd\u09b2\u09be, \u099f\u09be\u09b2\u09bf\u0997\u099e\u09cd\u099c, \u0995\u09b2\u0995\u09be\u09a4\u09be, \u0993\u09af\u09bc\u09c7\u09b8\u09cd\u099f \u09ac\u09c7\u0999\u09cd\u0997\u09b2 700033",
+          "country": "\u09ad\u09be\u09b0\u09a4",
+          "phone": "091237 87744",
+          "website": "https://jkinfotechinc.in/",
+          "extensions": [
+            {
+              "planning": [
+                "\u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f \u09a8\u09bf\u09a4\u09c7 \u09b9\u09ac\u09c7"
+              ]
+            }
+          ],
+          "unsupported_extensions": [
+            {
+              "service_options": [
+                "\u0985\u09a8\u09b2\u09be\u0987\u09a8 \u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f",
+                "\u0985\u09a8\u09b8\u09be\u0987\u099f \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0985\u09a8\u09b2\u09be\u0987\u09a8_\u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f": false,
+            "\u0985\u09a8\u09b8\u09be\u0987\u099f_\u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be": false
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkYJyd_igMT-bCi0li2P02davN-cUdJQTatH--pWMQHj077YevQLCOuLW6C5qAd69RTk8MMzlWO0JnUejnrhRX1sv7GOtvLxcM-YXTXo5jUwQk3K-toEBaOhttELPcRQF-XczcySg=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/1LoeRHicHc7dboIwGADQJ_qkahS3ZBeOoATpoFgCXBn8aMrfWmYrTt_QR9jbbNnNuT4_z8ba0bw6ztAsZ1JrOYirERfUygplZ6g_HTkaQAPG2QZpwvO-DO_1qZWUw9lrydAuErKoq-kDMKtDxisbAIw5ZUFHXLcUE4u8-Brla2_1ta3XLynvN5Q-hjwmocpEpy5NWszN5O5jO0XfSKEseKFXXXZj_fIAVvvvVfzX9KMEU7aDAh94P8q325wQAs2_COoXm65E5A"
+        },
+        {
+          "position": 14,
+          "title": "\u09ae\u09be\u09a8\u09b8 \u09b8\u09be\u09b9\u09be",
+          "place_id": "ChIJVzLx8m1xAjoR--OcMghcfBM",
+          "data_id": "0x3a02716df2f13257:0x137c5c08329ce3fb",
+          "data_cid": "1404098374111388667",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a02716df2f13257%3A0x137c5c08329ce3fb&engine=google_maps_reviews&hl=bn",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a02716df2f13257%3A0x137c5c08329ce3fb&engine=google_maps_photos&hl=bn",
+          "gps_coordinates": {
+            "latitude": 22.4534651,
+            "longitude": 88.38099249999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=bn&place_id=ChIJVzLx8m1xAjoR--OcMghcfBM",
+          "provider_id": "/g/11tsj000hk",
+          "rating": 5,
+          "reviews": 2,
+          "type": "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995",
+          "types": [
+            "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator"
+          ],
+          "address": "Landmark: Jagarani Sangha Club, Kalitala Rd, Laskarpur, Garia, Kolkata, West Bengal 700153",
+          "country": "\u09ad\u09be\u09b0\u09a4",
+          "open_state": "\u09ac\u09a8\u09cd\u09a7 \u09b9\u09df\u09c7 \u0997\u09c7\u099b\u09c7 \u00b7 \u09b8\u09cb\u09ae \u09e7\u09e8:\u09e6\u09e6 AM-\u098f \u0996\u09c1\u09b2\u09ac\u09c7",
+          "hours": "\u09ac\u09a8\u09cd\u09a7 \u09b9\u09df\u09c7 \u0997\u09c7\u099b\u09c7 \u00b7 \u09b8\u09cb\u09ae \u09e7\u09e8:\u09e6\u09e6 AM-\u098f \u0996\u09c1\u09b2\u09ac\u09c7",
+          "operating_hours": {
+            "\u09b0\u09ac\u09bf\u09ac\u09be\u09b0": "Closed",
+            "\u09b8\u09cb\u09ae\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09ae\u0999\u09cd\u0997\u09b2\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09ac\u09c1\u09a7\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09ac\u09c3\u09b9\u09b8\u09cd\u09aa\u09a4\u09bf\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09b6\u09c1\u0995\u09cd\u09b0\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09b6\u09a8\u09bf\u09ac\u09be\u09b0": "Open 24 hours"
+          },
+          "phone": "082400 57537",
+          "website": "https://manassahaenterprise.com.free/",
+          "extensions": [
+            {
+              "service_options": [
+                "\u0985\u09a8\u09b2\u09be\u0987\u09a8 \u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f",
+                "\u0985\u09a8\u09b8\u09be\u0987\u099f \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be"
+              ]
+            },
+            {
+              "amenities": [
+                "\u09aa\u09c1\u09b0\u09c1\u09b7 \u0993 \u09ae\u09b9\u09bf\u09b2\u09be \u0989\u09ad\u09df\u09c7\u09b0 \u099c\u09a8\u09cd\u09af \u099f\u09df\u09b2\u09c7\u099f"
+              ]
+            },
+            {
+              "crowd": [
+                "LGBTQ+ \u09ac\u09be\u09a8\u09cd\u09a7\u09ac"
+              ]
+            },
+            {
+              "parking": [
+                "\u0985\u09a8-\u09b8\u09be\u0987\u099f \u09aa\u09be\u09b0\u09cd\u0995\u09bf\u0982 \u0986\u099b\u09c7",
+                "\u09ab\u09cd\u09b0\u09bf \u09aa\u09be\u09b0\u09cd\u0995\u09bf\u0982\u09df\u09c7\u09b0 \u099c\u09be\u09df\u0997\u09be \u0989\u09aa\u09b2\u09ad\u09cd\u09af",
+                "\u09b0\u09be\u09b8\u09cd\u09a4\u09be\u09df \u09ab\u09cd\u09b0\u09bf \u09aa\u09be\u09b0\u09cd\u0995\u09bf\u0982 \u0989\u09aa\u09b2\u09ad\u09cd\u09af"
+              ]
+            }
+          ],
+          "unsupported_extensions": [
+            {
+              "accessibility": [
+                "\u09b8\u09b9\u09be\u09df\u0995 '\u09b9\u09bf\u09df\u09be\u09b0\u09bf\u0982 \u09b2\u09c1\u09aa' \u09b8\u09bf\u09b8\u09cd\u099f\u09c7\u09ae",
+                "\u09b9\u09c1\u0987\u09b2\u099a\u09c7\u09af\u09bc\u09be\u09b0 \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0\u09af\u09cb\u0997\u09cd\u09af \u0986\u09b8\u09a8",
+                "\ufeff\u09b9\u09c1\u0987\u09b2\u099a\u09c7\u09df\u09be\u09b0 \u09ac\u09cd\u09af\u09ac\u09b9\u09be\u09b0\u09c7\u09b0 \u09b8\u09c1\u09ac\u09bf\u09a7\u09be \u09b8\u09b9 \u09b6\u09cc\u099a\u09be\u09b2\u09df"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0985\u09a8\u09b2\u09be\u0987\u09a8_\u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f": true,
+            "\u0985\u09a8\u09b8\u09be\u0987\u099f_\u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be": true
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlLrcvfRNekHzAMuSoyk9QVaFGSo78YT1iypmzk3Kf6unNJNQypx1Ww1bK6DUSRnqNN0Qm1L47_E8YpbtFigKqoRwZJZPBT6kFjYOVlADMXVPUpmNQ5Jli0ZtH2tyWMrkKwjg32=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/38Nq8XicHcRdboIwAADgEyGtKDqTPbAoIyCVP0F4MdpgwZa20jKGF_QM3mbJvofv_Wq0lmpjmqyxZkQIwupB1T0WXNdcz7DoTCKVgZWhTMdLoqxg-x7_3BJUU-_phEMqJvoR5xf3OxWrdZnBdpLdk1rBzR448lE8yV9YjPAa2NtjmvAHQiDu4H6xOu_WpbxqtyXBQyRj5VfRV2ZT914ecuZsw1MeHWWH4qXPWlBpb66nIuxpMN6JNf8cIQDAaP7HBv8Du9VFTw"
+        },
+        {
+          "position": 15,
+          "title": "\u09ae\u09be\u0987\u0995\u09cd\u09b0\u09cb\u09b8\u09bf\u09b8 \u09b8\u09be\u09b0\u09cd\u09ad\u09bf\u09b8 \u0993 \u09b8\u09b2\u09bf\u0989\u09b6\u09a8 \u09aa\u09cd\u09b0\u09be\u0987\u09ad\u09c7\u099f \u09b2\u09bf\u09ae\u09bf\u099f\u09c7\u09a1",
+          "place_id": "ChIJu6pXlapwAjoRcXZz_IchmH0",
+          "data_id": "0x3a0270aa9557aabb:0x7d982187fc737671",
+          "data_cid": "9050020319140738673",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a0270aa9557aabb%3A0x7d982187fc737671&engine=google_maps_reviews&hl=bn",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a0270aa9557aabb%3A0x7d982187fc737671&engine=google_maps_photos&hl=bn",
+          "gps_coordinates": {
+            "latitude": 22.514346,
+            "longitude": 88.32511699999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=bn&place_id=ChIJu6pXlapwAjoRcXZz_IchmH0",
+          "provider_id": "/g/1ptyp4636",
+          "rating": 4,
+          "reviews": 1,
+          "type": "\u09ac\u09bf\u09aa\u09bf\u0993 \u09aa\u09cd\u09b2\u09c7\u09b8\u09ae\u09c7\u09a8\u09cd\u099f \u098f\u099c\u09c7\u09a8\u09cd\u09b8\u09bf",
+          "types": [
+            "\u09ac\u09bf\u09aa\u09bf\u0993 \u09aa\u09cd\u09b2\u09c7\u09b8\u09ae\u09c7\u09a8\u09cd\u099f \u098f\u099c\u09c7\u09a8\u09cd\u09b8\u09bf",
+            "\u09aa\u09b0\u09be\u09ae\u09b0\u09cd\u09b6\u09a6\u09be\u09a4\u09be",
+            "\u09ac\u09c0\u09ae\u09be \u098f\u099c\u09c7\u09a8\u09cd\u09b8\u09bf",
+            "\u099a\u09bf\u0995\u09bf\u09a4\u09cd\u09b8\u09be \u09aa\u09cd\u09b0\u09a4\u09bf\u09b2\u09bf\u09aa\u09bf\u0995\u09b0\u09a3 \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be"
+          ],
+          "type_id": "bpo_placement_agency",
+          "type_ids": [
+            "bpo_placement_agency",
+            "counselor",
+            "insurance_agency",
+            "medical_transcription_service"
+          ],
+          "address": "B 366 Lake Gardens Kolkata, West Bengal - 700 045, India, Kolkata, West Bengal 700045",
+          "country": "\u09ad\u09be\u09b0\u09a4",
+          "open_state": "Temporarily closed",
+          "hours": "Temporarily closed",
+          "website": "http://www.indiamart.com/microsysservicesolutionsprivatelimited/",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlZTjTTajBiHL2L2ZYlLqj4fh9t9EdLAB0Cto9x_wlbCLoZPt8ef-_HfDIhqmnyErhynLZ7vFRGrk2ywzPVFcAoUDGRImoea4-KtogBFZd3mR6fIf-_jE59DZGFpU8RhHscmWcaGg=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/YLdBsHicHctNcoIwGADQE0UoWivOuAD5nWbBZECm2Tg0hkSa5EOSFukNe4Tepk43b_d-f6Rzo917npLrlQAQin9aPjEwjhu3YqA9MVrELLJeVJCqbhWth7ruhvha4AAH9E3h27DpZejC9IKj2D86CO_nWb0fMdDK7XiPzkWflPKmzZJOcjGYvnxlJJ8-gmX-rk4Zi6BJclJq4N0GvToQcUYva022ffnIQ_ocJjTPxmZHZGGZblmXi8P85Ps-kv8yZP4AIdhFzQ"
+        },
+        {
+          "position": 16,
+          "title": "\u09b0\u09bf\u09b2\u09be\u09af\u09bc\u09c7\u09a8\u09cd\u09b8 \u099f\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u09b2\u09c7\u09b6\u09a8 \u09b8\u09be\u09b0\u09cd\u09ad\u09bf\u09b8\u09c7\u09b8",
+          "place_id": "ChIJwYy5BQ11AjoRNRtZHhqgJIQ",
+          "data_id": "0x3a02750d05b98cc1:0x8424a01a1e591b35",
+          "data_cid": "9521911546206821173",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a02750d05b98cc1%3A0x8424a01a1e591b35&engine=google_maps_reviews&hl=bn",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a02750d05b98cc1%3A0x8424a01a1e591b35&engine=google_maps_photos&hl=bn",
+          "gps_coordinates": {
+            "latitude": 22.5729014,
+            "longitude": 88.4371575
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=bn&place_id=ChIJwYy5BQ11AjoRNRtZHhqgJIQ",
+          "provider_id": "/g/11yq5_vmgj",
+          "type": "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995",
+          "types": [
+            "\u0985\u09a8\u09c1\u09ac\u09be\u09a6\u0995"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator"
+          ],
+          "address": "1st Floor, D2, & GP, Address :, Salt Lake, EP Block, Sector V, Bidhannagar, Kolkata, West Bengal 700091",
+          "country": "\u09ad\u09be\u09b0\u09a4",
+          "open_state": "Temporarily closed",
+          "hours": "Temporarily closed",
+          "website": "https://www.honeytranslations.com/",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmVmXpnHNDL2msbd6WPfK0706hXkTkdY963B9OGHo_BnIS897wzajrLLGwhr9rAOo2sh6UzSQOWpXG8Fpv6uTboernTVtH-ss2AmeByXfPqhMwbiBjhz71YSjfeNtIM0npqvOP8zUhjlnrJ=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/4SV6NXicHcTLboJAFADQLxoZMRmgSReQpmCLgoKCq6bgwC0yD-eOkvKTXfdvTDyL8_8H1mp8cZwRVoteqX7kN-SmVdJyaRetEk6vkbRI0AmTfV5W4ihqLZPtW-oKbM6syrtP6lEG9aW8nE8BW0VBFifqK5Lrwg-8af4eTJrGE5jAhJlyEdhhLnZZpevYf9d3disbxY0sjzYhiG4oePRbd_kVNlPzEw0we8tTMXR8a9cbKvX1nuX-fIBhlObjdVpSSgk8b4l8ALDTSJQ"
+        },
+        {
+          "position": 17,
+          "title": "\u0989\u09b0\u09bf\u09ac\u09be\u09ac\u09be",
+          "place_id": "ChIJU5hH0nZxAjoR1YMoYuXbrTI",
+          "data_id": "0x3a027176d2479853:0x32addbe5622883d5",
+          "data_cid": "3651816651108156373",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a027176d2479853%3A0x32addbe5622883d5&engine=google_maps_reviews&hl=bn",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a027176d2479853%3A0x32addbe5622883d5&engine=google_maps_photos&hl=bn",
+          "gps_coordinates": {
+            "latitude": 22.5113825,
+            "longitude": 88.3999724
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=bn&place_id=ChIJU5hH0nZxAjoR1YMoYuXbrTI",
+          "provider_id": "/g/11nxd0rcbw",
+          "rating": 4.7,
+          "reviews": 53,
+          "type": "\u09ac\u09bf\u09a8\u09cb\u09a6\u09a8 \u09b8\u0982\u09b8\u09cd\u09a5\u09be",
+          "types": [
+            "\u09ac\u09bf\u09a8\u09cb\u09a6\u09a8 \u09b8\u0982\u09b8\u09cd\u09a5\u09be"
+          ],
+          "type_id": "entertainment_agency",
+          "type_ids": [
+            "entertainment_agency"
+          ],
+          "address": "Gateway Hotel, GF-14 Rajdanga Main Road, Ruby Crossing, near Vivanta, EKTP Phase 3, Kolkata, West Bengal 700107",
+          "country": "\u09ad\u09be\u09b0\u09a4",
+          "open_state": "\u09ac\u09a8\u09cd\u09a7 \u09b9\u09df\u09c7 \u0997\u09c7\u099b\u09c7 \u00b7 \u09b8\u09cb\u09ae \u09e7\u09e8:\u09e6\u09e6 AM-\u098f \u0996\u09c1\u09b2\u09ac\u09c7",
+          "hours": "\u09ac\u09a8\u09cd\u09a7 \u09b9\u09df\u09c7 \u0997\u09c7\u099b\u09c7 \u00b7 \u09b8\u09cb\u09ae \u09e7\u09e8:\u09e6\u09e6 AM-\u098f \u0996\u09c1\u09b2\u09ac\u09c7",
+          "operating_hours": {
+            "\u09b0\u09ac\u09bf\u09ac\u09be\u09b0": "Closed",
+            "\u09b8\u09cb\u09ae\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09ae\u0999\u09cd\u0997\u09b2\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09ac\u09c1\u09a7\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09ac\u09c3\u09b9\u09b8\u09cd\u09aa\u09a4\u09bf\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09b6\u09c1\u0995\u09cd\u09b0\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09b6\u09a8\u09bf\u09ac\u09be\u09b0": "Open 24 hours"
+          },
+          "phone": "062904 31166",
+          "website": "http://uribaba.tv/",
+          "extensions": [
+            {
+              "service_options": [
+                "\u0985\u09a8\u09b2\u09be\u0987\u09a8 \u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f",
+                "\u0985\u09a8\u09b8\u09be\u0987\u099f \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be"
+              ]
+            }
+          ],
+          "unsupported_extensions": [
+            {
+              "accessibility": [
+                "\u09b9\u09c1\u0987\u09b2\u099a\u09c7\u09df\u09be\u09b0 \u09a8\u09bf\u09df\u09c7 \u09a2\u09cb\u0995\u09be\u09b0 \u09aa\u09cd\u09b0\u09ac\u09c7\u09b6\u09aa\u09a5",
+                "\u09b9\u09c1\u0987\u09b2\u099a\u09c7\u09af\u09bc\u09be\u09b0 \u09aa\u09cd\u09b0\u09ac\u09c7\u09b6\u09af\u09cb\u0997\u09cd\u09af \u09aa\u09be\u09b0\u09cd\u0995\u09bf\u0982 \u09b2\u099f"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0985\u09a8\u09b2\u09be\u0987\u09a8_\u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f": true,
+            "\u0985\u09a8\u09b8\u09be\u0987\u099f_\u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be": true
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk7ejF-_T-nFhoPZ5igBxSCXCzzfYcv938Yx88V9RjSJJfWjlBaV6Q6sLKHwkXRv3UNy4o_YOjLMOG34F2R1aCdFhJpTOUU9u3VTeVn2F18TBEG3u3UyFyVzcX3MP6uWb9Tsl5oQg=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/Gl5sCHicHcTvEoEwAADwJ5rKSLnzQZ1x-VOyVvnimNkkW2eFekOP4G3c-X34fT-iris9NoxSwB5Xipes0exBlayZrHtU3Q1eaUA10MZ0EUc4vY1YgcABA4mEivbDK_feOz_zu-6S06cLnfztOMSNi10QXNKi9I7E3tp6tVy8bln8hMmmHahDHhardTiHA9SPraN_RiKocJgkbgMJZkT2keVgbzaHDUxa1JKOZnAd2U16crEuh2rLJy_LNE0g_lMgf4IiQ94"
+        },
+        {
+          "position": 18,
+          "title": "\u09b8\u09be\u0987\u09ac\u09be\u09b0\u09cd\u099f\u09b8 \u09aa\u09bf\u09ad\u09bf\u099f\u09bf \u098f\u09b2\u099f\u09bf\u09a1\u09bf",
+          "place_id": "ChIJ1W0bi6Wa-DkR9rwD5VbByDs",
+          "data_id": "0x39f89aa58b1b6dd5:0x3bc8c156e503bcf6",
+          "data_cid": "4307905622533455094",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x39f89aa58b1b6dd5%3A0x3bc8c156e503bcf6&engine=google_maps_reviews&hl=bn",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x39f89aa58b1b6dd5%3A0x3bc8c156e503bcf6&engine=google_maps_photos&hl=bn",
+          "gps_coordinates": {
+            "latitude": 22.7479191,
+            "longitude": 88.348383
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=bn&place_id=ChIJ1W0bi6Wa-DkR9rwD5VbByDs",
+          "provider_id": "/g/11g6995tq3",
+          "rating": 3.8,
+          "reviews": 98,
+          "type": "\u0995\u09ae\u09cd\u09aa\u09bf\u0989\u099f\u09be\u09b0 \u09b8\u09b9\u09be\u09df\u09a4\u09be \u0993 \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be",
+          "types": [
+            "\u0995\u09ae\u09cd\u09aa\u09bf\u0989\u099f\u09be\u09b0 \u09b8\u09b9\u09be\u09df\u09a4\u09be \u0993 \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be"
+          ],
+          "type_id": "computer_support_and_services",
+          "type_ids": [
+            "computer_support_and_services"
+          ],
+          "address": "100, Grand Trunk Road Sirishtala, Srirampur Khash Bagan, Maniktala, Serampore, Kolkata, West Bengal 712201",
+          "country": "\u09ad\u09be\u09b0\u09a4",
+          "open_state": "\u09ac\u09a8\u09cd\u09a7 \u09b9\u09df\u09c7 \u0997\u09c7\u099b\u09c7 \u00b7 \u09b8\u09cb\u09ae \u09e7\u09e8:\u09e6\u09e6 AM-\u098f \u0996\u09c1\u09b2\u09ac\u09c7",
+          "hours": "\u09ac\u09a8\u09cd\u09a7 \u09b9\u09df\u09c7 \u0997\u09c7\u099b\u09c7 \u00b7 \u09b8\u09cb\u09ae \u09e7\u09e8:\u09e6\u09e6 AM-\u098f \u0996\u09c1\u09b2\u09ac\u09c7",
+          "operating_hours": {
+            "\u09b0\u09ac\u09bf\u09ac\u09be\u09b0": "Closed",
+            "\u09b8\u09cb\u09ae\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09ae\u0999\u09cd\u0997\u09b2\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09ac\u09c1\u09a7\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09ac\u09c3\u09b9\u09b8\u09cd\u09aa\u09a4\u09bf\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09b6\u09c1\u0995\u09cd\u09b0\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09b6\u09a8\u09bf\u09ac\u09be\u09b0": "Closed"
+          },
+          "phone": "085828 81664",
+          "website": "http://www.cybertoss.com/",
+          "unsupported_extensions": [
+            {
+              "accessibility": [
+                "\u09b9\u09c1\u0987\u09b2\u099a\u09c7\u09df\u09be\u09b0 \u09a8\u09bf\u09df\u09c7 \u09a2\u09cb\u0995\u09be\u09b0 \u09aa\u09cd\u09b0\u09ac\u09c7\u09b6\u09aa\u09a5"
+              ]
+            }
+          ],
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmSK9XYsxB_yl5rMNKCtX9OKlagLsju_4wLwqrsTpcPeexDUTKxc_j5LOSML5N3plFlXeUmE9FrbRf6enss2XFgJflfdqOGmwBfbH-WzDG3XTbqPgQTvlf2opIGdSfIitRz_Yeua5gGz_wU=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/tcjDsnicHcTBToMwGADgJ-rAISaYeHBO2IQNhJJ1p2Z0bXEptPAXi7yk572Nid_hu_-21hp49jzVBiuptVR8Aj4y3Vve2xXTnScNIAYIvNddWeBTV6UROcO8oT8qHA_H9M2SKE_VRWZwm-ijy9wwAjas4Hze1jidGb2FWV4dsvAYGBUrwuvuPYrHphRPvAdYk1h-CCWuQ550biOaHTot2yQguBkK-Ym_lVhrs0-uldh_2XKhZz5dQpks1NUv7sH3fdT-z1D_B3EJSeU"
+        },
+        {
+          "position": 19,
+          "title": "\u09a8\u09c7\u099f\u09b8\u09cd\u0995\u09cd\u09b0\u09be\u0987\u09ac\u09b8",
+          "place_id": "ChIJF569bQV3AjoREIyjU2zV0q0",
+          "data_id": "0x3a0277056dbd9e17:0xadd2d56c53a38c10",
+          "data_cid": "12525308174907182096",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a0277056dbd9e17%3A0xadd2d56c53a38c10&engine=google_maps_reviews&hl=bn",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a0277056dbd9e17%3A0xadd2d56c53a38c10&engine=google_maps_photos&hl=bn",
+          "gps_coordinates": {
+            "latitude": 22.5766883,
+            "longitude": 88.430764
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=bn&place_id=ChIJF569bQV3AjoREIyjU2zV0q0",
+          "provider_id": "/g/1hf2t0nw_",
+          "rating": 3.7,
+          "reviews": 561,
+          "type": "\u09ae\u09be\u09b0\u09cd\u0995\u09c7\u099f\u09bf\u0982 \u0995\u09a8\u09b8\u09be\u09b2\u09cd\u099f\u09c7\u09a8\u09cd\u099f",
+          "types": [
+            "\u09ae\u09be\u09b0\u09cd\u0995\u09c7\u099f\u09bf\u0982 \u0995\u09a8\u09b8\u09be\u09b2\u09cd\u099f\u09c7\u09a8\u09cd\u099f",
+            "\u09ac\u09be\u099c\u09be\u09b0 \u0997\u09ac\u09c7\u09b7\u09a3\u09be\u0995\u09be\u09b0\u09c0",
+            "\u09b8\u09ab\u09cd\u099f\u0993\u09df\u09cd\u09af\u09be\u09b0 \u0995\u09cb\u09ae\u09cd\u09aa\u09be\u09a8\u09bf"
+          ],
+          "type_id": "marketing_consultant",
+          "type_ids": [
+            "marketing_consultant",
+            "market_researcher",
+            "software_company"
+          ],
+          "address": "5th Floor, Millennium City, DN 62, Street Number 10, DN Block, Sector V, Bidhannagar, Kolkata, West Bengal 700091",
+          "country": "\u09ad\u09be\u09b0\u09a4",
+          "open_state": "\u0996\u09cb\u09b2\u09be \u0986\u099b\u09c7 \u00b7 \u09e7\u09e8:\u09e6\u09e6 AM-\u098f \u09ac\u09a8\u09cd\u09a7 \u09b9\u09ac\u09c7",
+          "hours": "\u0996\u09cb\u09b2\u09be \u0986\u099b\u09c7 \u00b7 \u09e7\u09e8:\u09e6\u09e6 AM-\u098f \u09ac\u09a8\u09cd\u09a7 \u09b9\u09ac\u09c7",
+          "operating_hours": {
+            "\u09b0\u09ac\u09bf\u09ac\u09be\u09b0": "Open 24 hours",
+            "\u09b8\u09cb\u09ae\u09ac\u09be\u09b0": "\u09ee:\u09e6\u09e6AM\u2013\u09e7\u09e8:\u09e6\u09e6AM",
+            "\u09ae\u0999\u09cd\u0997\u09b2\u09ac\u09be\u09b0": "\u09ee:\u09e6\u09e6AM\u2013\u09e7\u09e8:\u09e6\u09e6AM",
+            "\u09ac\u09c1\u09a7\u09ac\u09be\u09b0": "\u09ee:\u09e6\u09e6AM\u2013\u09e7\u09e8:\u09e6\u09e6AM",
+            "\u09ac\u09c3\u09b9\u09b8\u09cd\u09aa\u09a4\u09bf\u09ac\u09be\u09b0": "\u09ee:\u09e6\u09e6AM\u2013\u09e7\u09e8:\u09e6\u09e6AM",
+            "\u09b6\u09c1\u0995\u09cd\u09b0\u09ac\u09be\u09b0": "\u09ee:\u09e6\u09e6AM\u2013\u09e7\u09e8:\u09e6\u09e6AM",
+            "\u09b6\u09a8\u09bf\u09ac\u09be\u09b0": "\u09ee:\u09e6\u09e6AM\u2013\u09e7\u09e8:\u09e6\u09e6AM"
+          },
+          "phone": "033 4027 6200",
+          "website": "http://www.netscribes.com/",
+          "extensions": [
+            {
+              "accessibility": [
+                "\u09b9\u09c1\u0987\u09b2\u099a\u09c7\u09af\u09bc\u09be\u09b0 \u09aa\u09cd\u09b0\u09ac\u09c7\u09b6\u09af\u09cb\u0997\u09cd\u09af \u09aa\u09be\u09b0\u09cd\u0995\u09bf\u0982 \u09b2\u099f"
+              ]
+            }
+          ],
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnDsjGQXct8YsayPVAAtT4ma0sjpUvCGgYmx2Jor9qs1xLnWOl5Mg39FX8TIwqURcb93v3czU140cZtVoZ_YP3ZY9sYjtwJErbysRR2hqi-rYbgy800R4bRfipzwyLGEdcMiOI1vh17M9hv=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/BClFGnicHcTBboIwGADgJ6q0lkW6ZAfiHGoksgbUclmkYy0EWuDvQHzJnfc2Jn6H7_9PO9fBq-c1mi6Utaopf6EcpDWuNG4hbeupDpAEBF645Ul6Nu9QR58X6QIB1zk5haFL_faKoe6ycR0p0d6WezuwHsjtYM7H5iVWlH1cgnQ39RmXBaMjlfeM-Fjm7mTzL5HQXDAQtZv2m6GYgfOl7is0iELNAcbcL_hP1d2n-RBtvmVcHXdk1GQVMz2-TQRjjPRzicwDEXlIZA"
+        },
+        {
+          "position": 20,
+          "title": "\u0995\u09b0\u09a4\u09cb\u09af\u09bc\u09be \u09aa\u09be\u09ac\u09b2\u09bf\u0995\u09c7\u09b6\u09a8",
+          "place_id": "ChIJkY35UDdxAjoRPGMqzpW_e2Q",
+          "data_id": "0x3a02713750f98d91:0x647bbf95ce2a633c",
+          "data_cid": "7240591476058121020",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3a02713750f98d91%3A0x647bbf95ce2a633c&engine=google_maps_reviews&hl=bn",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3a02713750f98d91%3A0x647bbf95ce2a633c&engine=google_maps_photos&hl=bn",
+          "gps_coordinates": {
+            "latitude": 22.4802471,
+            "longitude": 88.36913849999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=bn&place_id=ChIJkY35UDdxAjoRPGMqzpW_e2Q",
+          "provider_id": "/g/11xf65zlwz",
+          "rating": 5,
+          "reviews": 67,
+          "type": "\u09ac\u0987 \u09aa\u09cd\u09b0\u0995\u09be\u09b6\u0995",
+          "types": [
+            "\u09ac\u0987 \u09aa\u09cd\u09b0\u0995\u09be\u09b6\u0995"
+          ],
+          "type_id": "book_publisher",
+          "type_ids": [
+            "book_publisher"
+          ],
+          "address": "Nilasha Apartment, Jorabagan Rd, \u09a8\u09be\u0995\u09a4\u09b2\u09be, \u09a8\u09c7\u09a4\u09be\u09be\u099c\u09bf \u09a8\u0997\u09b0, \u0995\u09b2\u0995\u09be\u09a4\u09be, \u0993\u09af\u09bc\u09c7\u09b8\u09cd\u099f \u09ac\u09c7\u0999\u09cd\u0997\u09b2 700047",
+          "country": "\u09ad\u09be\u09b0\u09a4",
+          "open_state": "\u09ac\u09a8\u09cd\u09a7 \u09b9\u09df\u09c7 \u0997\u09c7\u099b\u09c7 \u00b7 \u09b8\u09cb\u09ae \u09e7\u09e6:\u09e6\u09e6 AM-\u098f \u0996\u09c1\u09b2\u09ac\u09c7",
+          "hours": "\u09ac\u09a8\u09cd\u09a7 \u09b9\u09df\u09c7 \u0997\u09c7\u099b\u09c7 \u00b7 \u09b8\u09cb\u09ae \u09e7\u09e6:\u09e6\u09e6 AM-\u098f \u0996\u09c1\u09b2\u09ac\u09c7",
+          "operating_hours": {
+            "\u09b0\u09ac\u09bf\u09ac\u09be\u09b0": "Closed",
+            "\u09b8\u09cb\u09ae\u09ac\u09be\u09b0": "\u09e7\u09e6:\u09e6\u09e6AM\u2013\u09ec:\u09e6\u09e6PM",
+            "\u09ae\u0999\u09cd\u0997\u09b2\u09ac\u09be\u09b0": "\u09e7\u09e6:\u09e6\u09e6AM\u2013\u09ec:\u09e6\u09e6PM",
+            "\u09ac\u09c1\u09a7\u09ac\u09be\u09b0": "\u09e7\u09e6:\u09e6\u09e6AM\u2013\u09ec:\u09e6\u09e6PM",
+            "\u09ac\u09c3\u09b9\u09b8\u09cd\u09aa\u09a4\u09bf\u09ac\u09be\u09b0": "\u09e7\u09e6:\u09e6\u09e6AM\u2013\u09ec:\u09e6\u09e6PM",
+            "\u09b6\u09c1\u0995\u09cd\u09b0\u09ac\u09be\u09b0": "\u09e7\u09e6:\u09e6\u09e6AM\u2013\u09ec:\u09e6\u09e6PM",
+            "\u09b6\u09a8\u09bf\u09ac\u09be\u09b0": "\u09e7\u09e6:\u09e6\u09e6AM\u2013\u09ec:\u09e6\u09e6PM"
+          },
+          "phone": "089818 79256",
+          "website": "https://www.karatowabooks.com/",
+          "extensions": [
+            {
+              "service_options": [
+                "\u0985\u09a8\u09b2\u09be\u0987\u09a8 \u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f",
+                "\u0985\u09a8\u09b8\u09be\u0987\u099f \u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be"
+              ]
+            },
+            {
+              "amenities": [
+                "\u09aa\u09c1\u09b0\u09c1\u09b7 \u0993 \u09ae\u09b9\u09bf\u09b2\u09be \u0989\u09ad\u09df\u09c7\u09b0 \u099c\u09a8\u09cd\u09af \u099f\u09df\u09b2\u09c7\u099f"
+              ]
+            },
+            {
+              "crowd": [
+                "LGBTQ+ \u09ac\u09be\u09a8\u09cd\u09a7\u09ac"
+              ]
+            },
+            {
+              "planning": [
+                "\u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f \u09a8\u09bf\u09a4\u09c7 \u09b9\u09ac\u09c7"
+              ]
+            },
+            {
+              "parking": [
+                "\u09b0\u09be\u09b8\u09cd\u09a4\u09be\u09df \u09ab\u09cd\u09b0\u09bf \u09aa\u09be\u09b0\u09cd\u0995\u09bf\u0982 \u0989\u09aa\u09b2\u09ad\u09cd\u09af"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0985\u09a8\u09b2\u09be\u0987\u09a8_\u0985\u09cd\u09af\u09be\u09aa\u09df\u09c7\u09a8\u09cd\u099f\u09ae\u09c7\u09a8\u09cd\u099f": true,
+            "\u0985\u09a8\u09b8\u09be\u0987\u099f_\u09aa\u09b0\u09bf\u09b7\u09c7\u09ac\u09be": true
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkQKvSEOkUSq-vpaDQhjJVufkLwnhJvDQjVNPSsi4S2Q6QG0ckLZR6PT-R5cvVFXGomaRfDvWDwZ13p_t6qzZRec8q5sjy24FY9IGhMT-piGD6KCw9DCJlqJGQNcSmZmf8AgYFf9vovK1de=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/ASGrm3icHcTbboIwAADQL6qAIhETH4wdVfBCW4aTl8V0hcqtxdYS95M--zdLdh7O-yWMUXrpOK2YTSopq5Y_NL8z2RvemwmTnVMpDZgG2llvSZqdG5xY-nFqPukArLpCLOo4f5TNfuxFbCGu82NK9c2nUxxg5LJmX5AgzQCZM5tHX0h2V1JCe4Zj4c3UtwmG34Jwthjmun5O_egS7pA4ZEDdEAySzRjCTdwOMcJHRruiKxfr6hKVoZU28X74avRc1wXifwb6P76DR0s"
+        }
+      ],
+      "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?engine=google_maps&gl=in&google_domain=google.com&hl=bn&ll=%4022.5726%2C88.3639%2C12z&q=transcription+services+Bengali&start=20&type=search"
+      }
+    }
+  }
+}

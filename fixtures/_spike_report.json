@@ -1,0 +1,66 @@
+{
+  "http_requests": 19,
+  "billable_searches": 12,
+  "listings_pairs_ok": 2,
+  "providers_pairs_ok": 3,
+  "verdict": "NO-GO (revisit pairs)",
+  "rows": [
+    {
+      "language": "Hindi",
+      "city": "Delhi NCR",
+      "hl_requested": "hi",
+      "hl_used": "hi",
+      "jobs_pages": 2,
+      "jobs_count": 11,
+      "providers": 40,
+      "jobs_error": null,
+      "maps_errors": null
+    },
+    {
+      "language": "Tamil",
+      "city": "Chennai",
+      "hl_requested": "ta",
+      "hl_used": "ta",
+      "jobs_pages": 0,
+      "jobs_count": 0,
+      "providers": 40,
+      "jobs_error": "http error: ReadTimeout",
+      "maps_errors": null
+    },
+    {
+      "language": "Bengali",
+      "city": "Kolkata",
+      "hl_requested": "bn",
+      "hl_used": "bn",
+      "jobs_pages": 0,
+      "jobs_count": 0,
+      "providers": 36,
+      "jobs_error": "http error: ReadTimeout",
+      "maps_errors": null
+    },
+    {
+      "language": "Maithili",
+      "city": "Patna",
+      "hl_requested": "mai",
+      "hl_used": "hi",
+      "jobs_pages": 1,
+      "jobs_count": 5,
+      "providers": 3,
+      "jobs_error": null,
+      "maps_errors": null
+    },
+    {
+      "language": "Bhojpuri",
+      "city": "Lucknow",
+      "hl_requested": "bho",
+      "hl_used": "hi",
+      "jobs_pages": 0,
+      "jobs_count": 0,
+      "providers": 0,
+      "jobs_error": "Google hasn't returned any results for this query.",
+      "maps_errors": {
+        "transcription_services": "Google hasn't returned any results for this query."
+      }
+    }
+  ]
+}

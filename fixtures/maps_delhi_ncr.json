@@ -1,0 +1,2061 @@
+{
+  "engine": "google_maps",
+  "hl_used": "hi",
+  "hl_requested": "hi",
+  "queries": {
+    "translation_services": {
+      "search_metadata": {
+        "id": "6ac22ad5c4f20f59e8e4678e",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/-KT2D68sEpP8-hb_yX8MwGyZ3Q-OGvyaAl7VbeF467Q/6ac22ad5c4f20f59e8e4678e.json",
+        "markdown_endpoint": "https://serpapi.com/searches/-KT2D68sEpP8-hb_yX8MwGyZ3Q-OGvyaAl7VbeF467Q/6ac22ad5c4f20f59e8e4678e.md",
+        "created_at": "2026-10-04 10:30:45 UTC",
+        "processed_at": "2026-10-04 10:30:45 UTC",
+        "google_maps_url": "https://www.google.com/maps/search/translation+services+Hindi/@28.6139,77.209,12z/data=!3m1!4b1!4m2!2m1!6e5?hl=hi&gl=in",
+        "raw_html_file": "https://serpapi.com/searches/-KT2D68sEpP8-hb_yX8MwGyZ3Q-OGvyaAl7VbeF467Q/6ac22ad5c4f20f59e8e4678e.html",
+        "prettify_html_file": "https://serpapi.com/searches/-KT2D68sEpP8-hb_yX8MwGyZ3Q-OGvyaAl7VbeF467Q/6ac22ad5c4f20f59e8e4678e.prettify",
+        "total_time_taken": 6.26
+      },
+      "search_parameters": {
+        "engine": "google_maps",
+        "type": "search",
+        "q": "translation services Hindi",
+        "ll": "@28.6139,77.209,12z",
+        "google_domain": "google.com",
+        "hl": "hi",
+        "gl": "in"
+      },
+      "search_information": {
+        "local_results_state": "Results for exact spelling",
+        "query_displayed": "translation services Hindi"
+      },
+      "local_results": [
+        {
+          "position": 1,
+          "title": "\u0906\u0907\u0921\u093f\u092f\u0932 \u0932\u093f\u0902\u0917\u0941\u0906 \u091f\u094d\u0930\u093e\u0902\u0938\u0932\u0947\u0936\u0928",
+          "place_id": "ChIJezTsa5oGDTkRRsWbkJvqm3M",
+          "data_id": "0x390d069a6bec347b:0x739bea9b909bc546",
+          "data_cid": "8330509889618822470",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x390d069a6bec347b%3A0x739bea9b909bc546&engine=google_maps_reviews&hl=hi",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x390d069a6bec347b%3A0x739bea9b909bc546&engine=google_maps_photos&hl=hi",
+          "gps_coordinates": {
+            "latitude": 28.71414,
+            "longitude": 77.1103856
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=hi&place_id=ChIJezTsa5oGDTkRRsWbkJvqm3M",
+          "provider_id": "/g/1tgj76h7",
+          "rating": 4.9,
+          "reviews": 2013,
+          "type": "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+          "types": [
+            "\u0905\u0928\u0941\u0935\u093e\u0926\u0915"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator"
+          ],
+          "address": "C-4/39, UGF, Sector 6 Rd, opposite Mount Abu School, Rohini, New Delhi, Delhi 110085",
+          "country": "\u092d\u093e\u0930\u0924",
+          "open_state": "24 \u0918\u0902\u091f\u0947 \u0916\u0941\u0932\u093e \u0930\u0939\u0924\u093e \u0939\u0948",
+          "hours": "24 \u0918\u0902\u091f\u0947 \u0916\u0941\u0932\u093e \u0930\u0939\u0924\u093e \u0939\u0948",
+          "operating_hours": {
+            "\u0930\u0935\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0938\u094b\u092e\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092e\u0902\u0917\u0932\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092c\u0941\u0927\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0917\u0941\u0930\u0941\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0928\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947"
+          },
+          "phone": "087506 46517",
+          "website": "http://certifiedtranslationindia.com/",
+          "extensions": [
+            {
+              "service_options": [
+                "\u0911\u0928\u0938\u093e\u0907\u091f \u0938\u0947\u0935\u093e\u090f\u0902"
+              ]
+            },
+            {
+              "planning": [
+                "\u0905\u092a\u0949\u0907\u0902\u091f\u092e\u0947\u0902\u091f \u0932\u0947\u0928\u093e \u095b\u0930\u0942\u0930\u0940 \u0939\u0948"
+              ]
+            }
+          ],
+          "unsupported_extensions": [
+            {
+              "service_options": [
+                "\u0911\u0928\u0932\u093e\u0907\u0928 \u0905\u092a\u0949\u0907\u0902\u091f\u092e\u0947\u0902\u091f \u0915\u0940 \u0938\u0941\u0935\u093f\u0927\u093e"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0911\u0928\u0938\u093e\u0907\u091f_\u0938\u0947\u0935\u093e\u090f\u0902": true,
+            "\u0911\u0928\u0932\u093e\u0907\u0928_\u0905\u092a\u0949\u0907\u0902\u091f\u092e\u0947\u0902\u091f_\u0915\u0940_\u0938\u0941\u0935\u093f\u0927\u093e": false
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPLug3FYlXONKFzOwmuw5ZdXojx-IjXenWkgfXk4rce0tDwhUCSmGkSCAKO5nZy5CMd2yICKjud1WIMd5j3FY0bjhkSHkEqUEZqQ_afUInYAQVLpfAS35Q9J3XmjR8uKtjj6U-D=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/MF9YHHicHcxRbsIgAADQE2HRjmWa7KNB3bqqXdd0Yn8WRykECtQCdu6CnsHbzOznfb7bVXjfu0UUdSKecGt5x4JjA7XGM-Mn1OqID0fnAHVRgs99p983gcfrQ0fyXbb-zUcdRlQ3xMofkErCzF7xlqiHgTLol6OocKlfVImTLEemviC8bWaXFGcyNNN9um2QvGfwWwpVvqrVqVrVp-Lr2FapOSTF56ZvkzJGxfwtJlp-PIXMS_lYgeXzOIUQAvEvBeYPEOxFag"
+        },
+        {
+          "position": 2,
+          "title": "\u0932\u093e \u0915\u094d\u0932\u093e\u0938 \u091f\u094d\u0930\u093e\u0902\u0938\u0932\u0947\u0936\u0928 \u092a\u0940\u0935\u0940\u091f\u0940 \u090f\u0932\u091f\u0940\u0921\u0940.",
+          "place_id": "ChIJq6qaAVH7DDkRQG8Qw8zHJAE",
+          "data_id": "0x390cfb51019aaaab:0x124c7ccc3106f40",
+          "data_cid": "82410375459401536",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x390cfb51019aaaab%3A0x124c7ccc3106f40&engine=google_maps_reviews&hl=hi",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x390cfb51019aaaab%3A0x124c7ccc3106f40&engine=google_maps_photos&hl=hi",
+          "gps_coordinates": {
+            "latitude": 28.6391073,
+            "longitude": 77.2947916
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=hi&place_id=ChIJq6qaAVH7DDkRQG8Qw8zHJAE",
+          "provider_id": "/g/1tf5nm07",
+          "rating": 4.9,
+          "reviews": 627,
+          "type": "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+          "types": [
+            "\u0905\u0928\u0941\u0935\u093e\u0926\u0915"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator"
+          ],
+          "address": "Aditya Arcade, La Classe Translation Pvt. Ltd, F-126-128, Preet Vihar, New Delhi, Delhi 110092",
+          "country": "\u092d\u093e\u0930\u0924",
+          "open_state": "24 \u0918\u0902\u091f\u0947 \u0916\u0941\u0932\u093e \u0930\u0939\u0924\u093e \u0939\u0948",
+          "hours": "24 \u0918\u0902\u091f\u0947 \u0916\u0941\u0932\u093e \u0930\u0939\u0924\u093e \u0939\u0948",
+          "operating_hours": {
+            "\u0930\u0935\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0938\u094b\u092e\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092e\u0902\u0917\u0932\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092c\u0941\u0927\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0917\u0941\u0930\u0941\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0928\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947"
+          },
+          "phone": "099582 98424",
+          "website": "https://www.laclasse.in/",
+          "extensions": [
+            {
+              "service_options": [
+                "\u0911\u0928\u0932\u093e\u0907\u0928 \u0905\u092a\u0949\u0907\u0902\u091f\u092e\u0947\u0902\u091f \u0915\u0940 \u0938\u0941\u0935\u093f\u0927\u093e",
+                "\u0911\u0928\u0938\u093e\u0907\u091f \u0938\u0947\u0935\u093e\u090f\u0902"
+              ]
+            },
+            {
+              "amenities": [
+                "\u092f\u0939\u093e\u0902 \u092f\u0942\u0928\u093f\u0938\u0947\u0915\u094d\u0938 \u0936\u094c\u091a\u093e\u0932\u092f \u0939\u0948"
+              ]
+            },
+            {
+              "crowd": [
+                "LGBTQ+ \u092b\u093c\u094d\u0930\u0947\u0902\u0921\u0932\u0940"
+              ]
+            },
+            {
+              "parking": [
+                "\u092a\u093e\u0930\u094d\u0915\u093f\u0902\u0917 \u0915\u0940 \u0938\u0941\u0935\u093f\u0927\u093e \u0915\u0947 \u0932\u093f\u090f \u092a\u0948\u0938\u0947 \u091a\u0941\u0915\u093e\u0928\u0947 \u0939\u094b\u0902\u0917\u0947"
+              ]
+            }
+          ],
+          "unsupported_extensions": [
+            {
+              "accessibility": [
+                "\u0935\u094d\u0939\u0940\u0932\u091a\u0947\u092f\u0930 \u0915\u0940 \u0938\u0941\u0935\u093f\u0927\u093e \u0935\u093e\u0932\u0940 \u0938\u0940\u091f\u093f\u0902\u0917",
+                "\u0935\u094d\u0939\u0940\u0932\u091a\u0947\u092f\u0930 \u0932\u093e\u0928\u0947-\u0932\u0947 \u091c\u093e\u0928\u0947 \u0915\u0940 \u0938\u0941\u0935\u093f\u0927\u093e \u0935\u093e\u0932\u093e \u0936\u094c\u091a\u093e\u0932\u092f"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0911\u0928\u0932\u093e\u0907\u0928_\u0905\u092a\u0949\u0907\u0902\u091f\u092e\u0947\u0902\u091f_\u0915\u0940_\u0938\u0941\u0935\u093f\u0927\u093e": true,
+            "\u0911\u0928\u0938\u093e\u0907\u091f_\u0938\u0947\u0935\u093e\u090f\u0902": true
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNBZftdoJDyKl5_NBpWijHNr42k3S_w_T0Xe8U179zUBCsHvumAJZJaRGeqnDNluGgFoOHJp7hFspkdwzfipdBufUb-a_21tWBAZ8mMXJPH_GhDwOPz-CNirJ8ly196fyu107jv=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/OxF-E3icHcRRboIwAADQE1VanYIm-6AQIV1WjY5o-GkYFIoWWmkLgQvuDLvNkr2P9_sjrNXm4HlSbFaNUo3kzvChVL3lvV2VqvOaoTAGlMYLo1HLjuK8tpUi8fwht4xifWsfKR3e1s_NlU3sC955kCF_v2Q4MunoupDkpLgk_NXHVLqkOapTSrQvjkY_q2mpW11hV2ffoGBrZG84zIPu807OKUtEPJ3OC4hoO5BAzmi_q2eHoP8Y3ycEIQTi_xL0f-LlRYE"
+        },
+        {
+          "position": 3,
+          "title": "\u0935\u094b\u0932\u094d\u0917\u093e \u091f\u094d\u0930\u093e\u0902\u0938\u0932\u0947\u0936\u0928 \u0938\u0930\u094d\u0935\u093f\u0938\u0947\u091c",
+          "place_id": "ChIJ1ZGxF-oFDTkR9gmZCayynII",
+          "data_id": "0x390d05ea17b191d5:0x829cb2ac099909f6",
+          "data_cid": "9411593773262637558",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x390d05ea17b191d5%3A0x829cb2ac099909f6&engine=google_maps_reviews&hl=hi",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x390d05ea17b191d5%3A0x829cb2ac099909f6&engine=google_maps_photos&hl=hi",
+          "gps_coordinates": {
+            "latitude": 28.637636699999998,
+            "longitude": 77.04888849999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=hi&place_id=ChIJ1ZGxF-oFDTkR9gmZCayynII",
+          "provider_id": "/g/11lqmb10kx",
+          "rating": 4.9,
+          "reviews": 121,
+          "type": "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+          "types": [
+            "\u0905\u0928\u0941\u0935\u093e\u0926\u0915"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator"
+          ],
+          "address": "457, LIG Flats, Hastsal, Vikaspuri, New Delhi, Delhi 110059",
+          "country": "\u092d\u093e\u0930\u0924",
+          "open_state": "24 \u0918\u0902\u091f\u0947 \u0916\u0941\u0932\u093e \u0930\u0939\u0924\u093e \u0939\u0948",
+          "hours": "24 \u0918\u0902\u091f\u0947 \u0916\u0941\u0932\u093e \u0930\u0939\u0924\u093e \u0939\u0948",
+          "operating_hours": {
+            "\u0930\u0935\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0938\u094b\u092e\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092e\u0902\u0917\u0932\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092c\u0941\u0927\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0917\u0941\u0930\u0941\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0928\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947"
+          },
+          "phone": "099102 93194",
+          "website": "https://volgatranslationservices.wordpress.com/",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLczL4ZNq7jAWwzxIqEDb_1FV_O-HBYGqhA-G1DyEjpdqvkT5Ar-tNfkz3cR1LaG2VeFHz8r5c0yqE2StIeNLo3zM494CUd6hKZAynfFqcNEpVnNeTZpCEMqK8s2jXwSa77h3_0F=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/_og_wHicHcRdboIwAADgE1XKj4JLfKha0Ahdoo5NXgjWSgPaUtqJ9IKeYbcx2ffw_b24MZ3-cJwb9ye1lPWN_WrWUykME2ZC5d2p-0prQLWD0LK9p9SmQUFU2KDvwT63Cq_PpRvn5SfYLE-J4ggk7nrETXdRj_Y4RT0w5Npan-7dtEq8nMUbG_VTCkeFvYPZMpJK32bBPFh9XWZ8V6BRXGNFCe5yQdix6FY4U7tIe83PcKjCkPsljBeDCyEE_H8KxBtTcEP_"
+        },
+        {
+          "position": 4,
+          "title": "\u091f\u094d\u0930\u093e\u0902\u0938\u0932\u0947\u0936\u0928 \u0938\u0930\u094d\u0935\u093f\u0938\u0947\u091c \u090f\u0915\u094d\u0938\u092a\u0930\u094d\u091f\u094d\u0938 (\u0907\u0932\u0940)",
+          "place_id": "ChIJfyCmWKzlDDkRMaWoM2gB99k",
+          "data_id": "0x390ce5ac58a6207f:0xd9f7016833a8a531",
+          "data_cid": "15706023772532811057",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x390ce5ac58a6207f%3A0xd9f7016833a8a531&engine=google_maps_reviews&hl=hi",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x390ce5ac58a6207f%3A0xd9f7016833a8a531&engine=google_maps_photos&hl=hi",
+          "gps_coordinates": {
+            "latitude": 28.581531899999998,
+            "longitude": 77.3043537
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=hi&place_id=ChIJfyCmWKzlDDkRMaWoM2gB99k",
+          "provider_id": "/g/11jj_s0v3r",
+          "rating": 4.9,
+          "reviews": 308,
+          "type": "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+          "types": [
+            "\u0905\u0928\u0941\u0935\u093e\u0926\u0915"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator"
+          ],
+          "address": "Basement, Building, No. 93, Sector 15A, Noida, Uttar Pradesh 201301",
+          "country": "\u092d\u093e\u0930\u0924",
+          "open_state": "\u0916\u0941\u0932\u093e \u0939\u0948 \u00b7 11 pm \u092c\u0902\u0926 \u0939\u094b\u0917\u093e",
+          "hours": "\u0916\u0941\u0932\u093e \u0939\u0948 \u00b7 11 pm \u092c\u0902\u0926 \u0939\u094b\u0917\u093e",
+          "operating_hours": {
+            "\u0930\u0935\u093f\u0935\u093e\u0930": "8am\u201311pm",
+            "\u0938\u094b\u092e\u0935\u093e\u0930": "8am\u201311pm",
+            "\u092e\u0902\u0917\u0932\u0935\u093e\u0930": "8am\u201311pm",
+            "\u092c\u0941\u0927\u0935\u093e\u0930": "8am\u201311pm",
+            "\u0917\u0941\u0930\u0941\u0935\u093e\u0930": "8am\u201311pm",
+            "\u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930": "8am\u201311pm",
+            "\u0936\u0928\u093f\u0935\u093e\u0930": "8am\u201311pm"
+          },
+          "phone": "098110 84818",
+          "website": "http://www.translationservicesexperts.com/",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOXbxh6v4cTEXa8DC3f9jTJSOKO53LJlJDPEXRxQXlHmNEtQO72OkGv8WQuYBWk_iw8lCb563mnorx2uZcJuRlARrVvriY9AvR_a2Fp2K-lnPZK36adQrPliEphU1EdM3lWKZTF2w=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/5yosfXicHcRRToMwGADgEzFYuyEz8YGxTgNqAVEYLwvrkOJ-WtKWwhV3BG9j4vfw_d65MaN-dF3geNVJ2UE76VYxKUwrzIrJwe1Uo7XDtBtGdoSBVpeF-3bDClI1wSHC37ufIv6gCd3i1xjiQ0qqfMkqeBneicnoA6K3ZxuU2XTal7dzPwcQXbY-HoRUC5pqFk85hLn6sqo_7UKbnxt0HFHigEjrBPvNNVMp9GTkn2tyfcNQJnVxRPPTvPY8z-H_M0f8AflKRTY"
+        },
+        {
+          "position": 5,
+          "title": "\u092f\u0942\u092c\u0940\u0938\u0940 \u091f\u094d\u0930\u093e\u0902\u0938\u0932\u0947\u0936\u0928 \u0938\u0930\u094d\u0935\u093f\u0938\u0947\u091c",
+          "place_id": "ChIJAQAAwWkBDTkRr8-7FUuUVG4",
+          "data_id": "0x390d0169c1000001:0x6e54944b15bbcfaf",
+          "data_cid": "7950142292423856047",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x390d0169c1000001%3A0x6e54944b15bbcfaf&engine=google_maps_reviews&hl=hi",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x390d0169c1000001%3A0x6e54944b15bbcfaf&engine=google_maps_photos&hl=hi",
+          "gps_coordinates": {
+            "latitude": 28.7220393,
+            "longitude": 77.1270461
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=hi&place_id=ChIJAQAAwWkBDTkRr8-7FUuUVG4",
+          "provider_id": "/g/1td1sv2x",
+          "rating": 4.8,
+          "reviews": 202,
+          "type": "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+          "types": [
+            "\u0905\u0928\u0941\u0935\u093e\u0926\u0915"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator"
+          ],
+          "address": "93, A, Ayodhya Enclave, North, Rajapur, Pocket 30/2, Sector 13, Rohini, New Delhi, Delhi, 110085",
+          "country": "\u092d\u093e\u0930\u0924",
+          "open_state": "\u0916\u0941\u0932\u093e \u0939\u0948 \u00b7 9 pm \u092c\u0902\u0926 \u0939\u094b\u0917\u093e",
+          "hours": "\u0916\u0941\u0932\u093e \u0939\u0948 \u00b7 9 pm \u092c\u0902\u0926 \u0939\u094b\u0917\u093e",
+          "operating_hours": {
+            "\u0930\u0935\u093f\u0935\u093e\u0930": "8am\u20139pm",
+            "\u0938\u094b\u092e\u0935\u093e\u0930": "8am\u20139pm",
+            "\u092e\u0902\u0917\u0932\u0935\u093e\u0930": "8am\u20139pm",
+            "\u092c\u0941\u0927\u0935\u093e\u0930": "8am\u20139pm",
+            "\u0917\u0941\u0930\u0941\u0935\u093e\u0930": "8am\u20139pm",
+            "\u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930": "8am\u20139pm",
+            "\u0936\u0928\u093f\u0935\u093e\u0930": "8am\u20137pm"
+          },
+          "phone": "089203 90196",
+          "extensions": [
+            {
+              "service_options": [
+                "\u0911\u0928\u0932\u093e\u0907\u0928 \u0905\u092a\u0949\u0907\u0902\u091f\u092e\u0947\u0902\u091f \u0915\u0940 \u0938\u0941\u0935\u093f\u0927\u093e",
+                "\u0911\u0928\u0938\u093e\u0907\u091f \u0938\u0947\u0935\u093e\u090f\u0902"
+              ]
+            },
+            {
+              "planning": [
+                "\u0905\u092a\u0949\u0907\u0902\u091f\u092e\u0947\u0902\u091f \u0932\u0947\u0928\u093e \u095b\u0930\u0942\u0930\u0940 \u0939\u0948"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0911\u0928\u0932\u093e\u0907\u0928_\u0905\u092a\u0949\u0907\u0902\u091f\u092e\u0947\u0902\u091f_\u0915\u0940_\u0938\u0941\u0935\u093f\u0927\u093e": true,
+            "\u0911\u0928\u0938\u093e\u0907\u091f_\u0938\u0947\u0935\u093e\u090f\u0902": true
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNuvOR8G7rYns_nCSzwb5F38yOg7h4eqO_Ts8uNexvtdh3W2nxZib0bLeNeBFsck1uskLT-Fxbk7LX77Ikk_FzgfPICMf2l56rsW6ZWbysglRvylDGFMHXgE4LoalgSdl7pGqkt=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/VzYsDnicHcRRDoIgGADgE5mWGa6th7KwNtNWbVYvLpCgQWD-aNoFO0O3aet7-L4fYW0FU9dVwh9wY7hiDbCaGm2ZtgNqHi6vrwAOBXcetZV6pE2b7cMY1WcNhY4O7xcJsB_2GUdizJ5ZcYSwSVnX2lL4-Uh3lzvxSMJStsBA5bABmRwd3BGJkhNCGykL_Oa33Sba3kYqmNSQTy456YGrfdurZYy36xNfjRNzVfxQKlTFT2lnr6HneY74Tx39Az1eRt8"
+        },
+        {
+          "position": 6,
+          "title": "\u0911\u0925\u0930\u093e\u0907\u091c\u094d\u0921 \u091f\u094d\u0930\u093e\u0902\u0938\u0932\u0947\u0936\u0928 \u0907\u0902\u0921\u093f\u092f\u093e",
+          "place_id": "ChIJm3f-XuIHDTkRSo_fg2zZcCs",
+          "data_id": "0x390d07e25efe779b:0x2b70d96c83df8f4a",
+          "data_cid": "3130240801114656586",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x390d07e25efe779b%3A0x2b70d96c83df8f4a&engine=google_maps_reviews&hl=hi",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x390d07e25efe779b%3A0x2b70d96c83df8f4a&engine=google_maps_photos&hl=hi",
+          "gps_coordinates": {
+            "latitude": 28.705662,
+            "longitude": 77.10579659999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=hi&place_id=ChIJm3f-XuIHDTkRSo_fg2zZcCs",
+          "provider_id": "/g/11w8x69pkm",
+          "rating": 4.9,
+          "reviews": 37,
+          "type": "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+          "types": [
+            "\u0905\u0928\u0941\u0935\u093e\u0926\u0915"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator"
+          ],
+          "address": "E-21, 233, Sector 3, Rohini, Delhi, 110085",
+          "country": "\u092d\u093e\u0930\u0924",
+          "open_state": "24 \u0918\u0902\u091f\u0947 \u0916\u0941\u0932\u093e \u0930\u0939\u0924\u093e \u0939\u0948",
+          "hours": "24 \u0918\u0902\u091f\u0947 \u0916\u0941\u0932\u093e \u0930\u0939\u0924\u093e \u0939\u0948",
+          "operating_hours": {
+            "\u0930\u0935\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0938\u094b\u092e\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092e\u0902\u0917\u0932\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092c\u0941\u0927\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0917\u0941\u0930\u0941\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0928\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947"
+          },
+          "phone": "070112 62559",
+          "website": "https://authorizedtranslationindia.com/"
+        },
+        {
+          "position": 7,
+          "title": "\u090f\u0938\u0915\u0947 \u091f\u094d\u0930\u093e\u0902\u0938\u0932\u0947\u0936\u0928 \u0938\u0930\u094d\u0935\u093f\u0938\u0947\u091c",
+          "place_id": "ChIJQ4GGEu0FDTkRggWYRaupTis",
+          "data_id": "0x390d05ed12868143:0x2b4ea9ab45980582",
+          "data_cid": "3120618144886424962",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x390d05ed12868143%3A0x2b4ea9ab45980582&engine=google_maps_reviews&hl=hi",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x390d05ed12868143%3A0x2b4ea9ab45980582&engine=google_maps_photos&hl=hi",
+          "gps_coordinates": {
+            "latitude": 28.6141118,
+            "longitude": 77.0838995
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=hi&place_id=ChIJQ4GGEu0FDTkRggWYRaupTis",
+          "provider_id": "/g/11v02zhdyp",
+          "rating": 4.8,
+          "reviews": 140,
+          "type": "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+          "types": [
+            "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+            "\u0915\u093e\u0928\u0942\u0928\u0940 \u0938\u0947\u0935\u093e\u090f\u0902",
+            "\u0935\u0940\u091c\u093e \u0915\u0902\u0938\u0932\u094d\u091f\u0947\u0902\u091f"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator",
+            "legal_services",
+            "visa_consultant"
+          ],
+          "address": "Ground Floor, Street Number 8, near Dabri Metro Station Gate No. 3, C-2 Janakpuri, New Delhi, Delhi 110045, Delhi, 110058",
+          "country": "\u092d\u093e\u0930\u0924",
+          "open_state": "24 \u0918\u0902\u091f\u0947 \u0916\u0941\u0932\u093e \u0930\u0939\u0924\u093e \u0939\u0948",
+          "hours": "24 \u0918\u0902\u091f\u0947 \u0916\u0941\u0932\u093e \u0930\u0939\u0924\u093e \u0939\u0948",
+          "operating_hours": {
+            "\u0930\u0935\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0938\u094b\u092e\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092e\u0902\u0917\u0932\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092c\u0941\u0927\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0917\u0941\u0930\u0941\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0928\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947"
+          },
+          "phone": "085270 71283",
+          "website": "https://sktranslationservice.com/",
+          "extensions": [
+            {
+              "service_options": [
+                "\u0911\u0928\u0932\u093e\u0907\u0928 \u0905\u092a\u0949\u0907\u0902\u091f\u092e\u0947\u0902\u091f \u0915\u0940 \u0938\u0941\u0935\u093f\u0927\u093e"
+              ]
+            },
+            {
+              "planning": [
+                "\u0905\u092a\u0949\u0907\u0902\u091f\u092e\u0947\u0902\u091f \u0932\u0947\u0928\u093e \u095b\u0930\u0942\u0930\u0940 \u0939\u0948"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0911\u0928\u0932\u093e\u0907\u0928_\u0905\u092a\u0949\u0907\u0902\u091f\u092e\u0947\u0902\u091f_\u0915\u0940_\u0938\u0941\u0935\u093f\u0927\u093e": true
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeo3cLoEODLWQt-NWLgF5czpcIvOEYu_zwBs7fll4R-igE3IGz_SG6cSuW2H-mWpw39FFJviNBJ6GGAzByL075fGcOihIv375DtXcc5yzK7U2lvmZ_KiJ75Gef99gPOoP3PVV2t=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/CIvB1nicHcRRboIwGADgE1UYXW1YsgeIUMFGmEaZvhDzpxSyQoktEHvBncHbmPg9fM__1trRfHmeavFKai2VmIy4gx6sGOwKdO_J-80YBMaLoviv50Jj4DopNrz6sWhfcZkScCNkc5FcptotsaGNUp8H1MkEZ8zVR7aG41QFW9RX44LDNM3nbh_na8YiFz-4T0nDoOjabMaUbOwvAHm4HT0Fau6v9a7LKWGiCUNZFrrE5fkc2O_lw_d91L4HNLwAQsZDng"
+        },
+        {
+          "position": 8,
+          "title": "\u0932\u093f\u0902\u0917\u0941\u0905\u0936\u093e\u0907\u0928 - \u091f\u094d\u0930\u093e\u0902\u0938\u0932\u0947\u0936\u0928 \u0915\u0902\u092a\u0928\u0940 \u0907\u0928 \u0907\u0902\u0921\u093f\u092f\u093e (\u0932\u0940\u0917\u0932 \u091f\u094d\u0930\u093e\u0902\u0938\u0932\u0947\u0936\u0928 & \u092e\u0947\u0921\u093f\u0915\u0932 \u091f\u094d\u0930\u093e\u0902\u0938\u0932\u0947\u0936\u0928)",
+          "place_id": "ChIJo1mI89EDDTkRH7eI99Bebnk",
+          "data_id": "0x390d03d1f38859a3:0x796e5ed0f788b71f",
+          "data_cid": "8750035377626593055",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x390d03d1f38859a3%3A0x796e5ed0f788b71f&engine=google_maps_reviews&hl=hi",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x390d03d1f38859a3%3A0x796e5ed0f788b71f&engine=google_maps_photos&hl=hi",
+          "gps_coordinates": {
+            "latitude": 28.541776199999997,
+            "longitude": 77.2542544
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=hi&place_id=ChIJo1mI89EDDTkRH7eI99Bebnk",
+          "provider_id": "/g/11h1278ph3",
+          "rating": 4.9,
+          "reviews": 64,
+          "type": "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+          "types": [
+            "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+            "\u0921\u0947\u0938\u094d\u0915\u091f\u0949\u092a \u092a\u092c\u094d\u0932\u093f\u0936\u093f\u0902\u0917 \u0938\u0947\u0935\u093e",
+            "\u092a\u094d\u0930\u0924\u093f\u0932\u0947\u0916\u0928 \u0938\u0947\u0935\u093e"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator",
+            "desktop_publishing_service",
+            "transcription_service"
+          ],
+          "address": "Second Floor, F-10, Kalkaji, Delhi, 110019",
+          "country": "\u092d\u093e\u0930\u0924",
+          "open_state": "24 \u0918\u0902\u091f\u0947 \u0916\u0941\u0932\u093e \u0930\u0939\u0924\u093e \u0939\u0948",
+          "hours": "24 \u0918\u0902\u091f\u0947 \u0916\u0941\u0932\u093e \u0930\u0939\u0924\u093e \u0939\u0948",
+          "operating_hours": {
+            "\u0930\u0935\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0938\u094b\u092e\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092e\u0902\u0917\u0932\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092c\u0941\u0927\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0917\u0941\u0930\u0941\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0928\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947"
+          },
+          "phone": "093191 56737",
+          "website": "http://www.linguashine.com/",
+          "extensions": [
+            {
+              "service_options": [
+                "\u0911\u0928\u0932\u093e\u0907\u0928 \u0905\u092a\u0949\u0907\u0902\u091f\u092e\u0947\u0902\u091f \u0915\u0940 \u0938\u0941\u0935\u093f\u0927\u093e",
+                "\u0911\u0928\u0938\u093e\u0907\u091f \u0938\u0947\u0935\u093e\u090f\u0902"
+              ]
+            },
+            {
+              "planning": [
+                "\u0905\u092a\u0949\u0907\u0902\u091f\u092e\u0947\u0902\u091f \u0932\u0947\u0928\u093e \u095b\u0930\u0942\u0930\u0940 \u0939\u0948"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0911\u0928\u0932\u093e\u0907\u0928_\u0905\u092a\u0949\u0907\u0902\u091f\u092e\u0947\u0902\u091f_\u0915\u0940_\u0938\u0941\u0935\u093f\u0927\u093e": true,
+            "\u0911\u0928\u0938\u093e\u0907\u091f_\u0938\u0947\u0935\u093e\u090f\u0902": true
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOf6HAiaOLk8u5avmx-tMJCAWgcY7YMub8auCVFE9fguiHFi6ZAKLU5Jw490wcvxBh9SE3Jf3-_-LUJ9vZ7gyuq93oPnX70nBnYi2iElJXMWM-1Bgd0Br-HZ3a29dUiaCm8uNMyJs7hhpah=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/CH4X2HicHcTBboIwAADQL6pUq0JNPADBkI7OJQsqXJauQtsMWkZb0K_07N-Y-A7v-ZDODXYXBJ1EC2GM6Bpvm5Eb7RrtFtz0gRiZtYDbIE6noeuP7TaPFTsWf5HfsKm_AUdJGp8Fr8KK-t-I-fR0yHArvMoPalvHH0W5IfMaw5lPt0Ti7wyRFoEfUJQET3Uo7v4fI_OlLyHUia7USmUdudAzBctEXGEygrxGbIWvpWJpH_lPeic2lHJgcj8vIYRAvudAvwB3rkZY"
+        },
+        {
+          "position": 9,
+          "title": "\u0932\u093f\u0902\u0917\u0941\u0905\u0932 \u091f\u094d\u0930\u093e\u0902\u0938\u0932\u0947\u091f\u0930 \u092a\u0940 \u090f\u0932\u091f\u0940\u0921\u0940",
+          "place_id": "ChIJWd1UXgkFDTkRVSK_UmpG92I",
+          "data_id": "0x390d05095e54dd59:0x62f7466a52bf2255",
+          "data_cid": "7131245957433205333",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x390d05095e54dd59%3A0x62f7466a52bf2255&engine=google_maps_reviews&hl=hi",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x390d05095e54dd59%3A0x62f7466a52bf2255&engine=google_maps_photos&hl=hi",
+          "gps_coordinates": {
+            "latitude": 28.6229685,
+            "longitude": 77.0560376
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=hi&place_id=ChIJWd1UXgkFDTkRVSK_UmpG92I",
+          "provider_id": "/g/11hy9tcg75",
+          "rating": 5,
+          "reviews": 217,
+          "type": "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+          "types": [
+            "\u0905\u0928\u0941\u0935\u093e\u0926\u0915"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator"
+          ],
+          "address": "Flat no 701, E 119, Uttam Nagar West, Nanhey Park, Mohan Garden, Uttam Nagar, New Delhi, Delhi, 110059",
+          "country": "\u092d\u093e\u0930\u0924",
+          "open_state": "24 \u0918\u0902\u091f\u0947 \u0916\u0941\u0932\u093e \u0930\u0939\u0924\u093e \u0939\u0948",
+          "hours": "24 \u0918\u0902\u091f\u0947 \u0916\u0941\u0932\u093e \u0930\u0939\u0924\u093e \u0939\u0948",
+          "operating_hours": {
+            "\u0930\u0935\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0938\u094b\u092e\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092e\u0902\u0917\u0932\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092c\u0941\u0927\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0917\u0941\u0930\u0941\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0928\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947"
+          },
+          "phone": "081785 54578",
+          "website": "https://lingualtranslators.com/",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPILmxZ3oSL0dqxZmBQQPgB9KtypjxNTnSfkoYlpPjAK2eCWFVoUHcbseFxeY7XkVaEEN358tf11DQRImd_yC5orwdMHvYbwi2PYNWk_bFByKARBgMc8HK-BOK9JIuxkKgkHCvJ=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/wQrF_nicHcRJDoIwAADAFyEgIS6JB4oQsIrghngxUmrRUoq0Qnmhb_A3Js5hvp9SykbMdb0qrRHhnFT4LXCLeC1xLUeIM520NyE0JHTH7ZqKxeGaqYvF92ujeKkLA0kSEzCDcmieKjrU-zvlWdXETweOsZv6J34MUC6wr3A2OdPTzfMiy57Ku2kuk13Iiuvg2rzti03QZXn_GMdZlNJr7oMBOjtANmgaQA1s4WwVvhWFhAZut1r0pmEYWvkfafUPEplFtA"
+        },
+        {
+          "position": 10,
+          "title": "\u091f\u094d\u0930\u093e\u0902\u0938\u094d\u0932\u093f\u0902\u0917\u094b\u0902\u0935\u0930\u094d\u0932\u094d\u0921",
+          "place_id": "ChIJryLI5UblDDkRAH9zlOcGixI",
+          "data_id": "0x390ce546e5c822af:0x128b06e794737f00",
+          "data_cid": "1336169306143293184",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x390ce546e5c822af%3A0x128b06e794737f00&engine=google_maps_reviews&hl=hi",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x390ce546e5c822af%3A0x128b06e794737f00&engine=google_maps_photos&hl=hi",
+          "gps_coordinates": {
+            "latitude": 28.5494368,
+            "longitude": 77.3013653
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=hi&place_id=ChIJryLI5UblDDkRAH9zlOcGixI",
+          "provider_id": "/g/11m_zjnrn8",
+          "rating": 4.9,
+          "reviews": 185,
+          "type": "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+          "types": [
+            "\u0905\u0928\u0941\u0935\u093e\u0926\u0915"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator"
+          ],
+          "address": "B, 38, Thokar Number 7, Shaheen Bagh, Abul Fazal Enclave Part 2, Jamia Nagar, Okhla, New Delhi, Delhi 110025",
+          "country": "\u092d\u093e\u0930\u0924",
+          "open_state": "24 \u0918\u0902\u091f\u0947 \u0916\u0941\u0932\u093e \u0930\u0939\u0924\u093e \u0939\u0948",
+          "hours": "24 \u0918\u0902\u091f\u0947 \u0916\u0941\u0932\u093e \u0930\u0939\u0924\u093e \u0939\u0948",
+          "operating_hours": {
+            "\u0930\u0935\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0938\u094b\u092e\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092e\u0902\u0917\u0932\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092c\u0941\u0927\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0917\u0941\u0930\u0941\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0928\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947"
+          },
+          "phone": "084476 15351",
+          "website": "https://translingoworld.com/",
+          "extensions": [
+            {
+              "service_options": [
+                "\u0911\u0928\u0932\u093e\u0907\u0928 \u0905\u092a\u0949\u0907\u0902\u091f\u092e\u0947\u0902\u091f \u0915\u0940 \u0938\u0941\u0935\u093f\u0927\u093e",
+                "\u0911\u0928\u0938\u093e\u0907\u091f \u0938\u0947\u0935\u093e\u090f\u0902"
+              ]
+            },
+            {
+              "accessibility": [
+                "\u0935\u094d\u0939\u0940\u0932\u091a\u0947\u092f\u0930 \u0915\u0940 \u0938\u0941\u0935\u093f\u0927\u093e \u0935\u093e\u0932\u0940 \u0938\u0940\u091f\u093f\u0902\u0917",
+                "\u0935\u094d\u0939\u0940\u0932\u091a\u0947\u092f\u0930 \u0932\u093e\u0928\u0947-\u0932\u0947 \u091c\u093e\u0928\u0947 \u0915\u0940 \u0938\u0941\u0935\u093f\u0927\u093e \u0935\u093e\u0932\u093e \u0936\u094c\u091a\u093e\u0932\u092f"
+              ]
+            },
+            {
+              "amenities": [
+                "\u092f\u0939\u093e\u0902 \u092f\u0942\u0928\u093f\u0938\u0947\u0915\u094d\u0938 \u0936\u094c\u091a\u093e\u0932\u092f \u0939\u0948"
+              ]
+            },
+            {
+              "planning": [
+                "\u0905\u092a\u0949\u0907\u0902\u091f\u092e\u0947\u0902\u091f \u0932\u0947\u0928\u093e \u095b\u0930\u0942\u0930\u0940 \u0939\u0948"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0911\u0928\u0932\u093e\u0907\u0928_\u0905\u092a\u0949\u0907\u0902\u091f\u092e\u0947\u0902\u091f_\u0915\u0940_\u0938\u0941\u0935\u093f\u0927\u093e": true,
+            "\u0911\u0928\u0938\u093e\u0907\u091f_\u0938\u0947\u0935\u093e\u090f\u0902": true
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPHaxTzQGFVjNtTyeM7fHwWzYLzfqlRPH_gSjEHB-ycuiStdobQ_EIOq4NOxcuxmLijISfXVB5gxe4ZzJcsWIQHQ2elXpAkRI53wR5wfyyosZYvy41GQxZ1XX2hEM8pQfHOC7Ic=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/dnXnCHicHcRRDoIgAADQE5laulpbH9VMaJWhzcyfVgSYoVhgghfsDN2mrffxvp9CqUZObZsXowETgnHSSvLColakVgMsKpu9LlJaWNrz5bvh1R5c9KFH4Sotd-pgyHZMQXfsT5uePnm8B2eWlAFYWAa390TdxBWdAxg9vV2kcaurzb2ECc3Shc808fJ-jeURIoCGhGfN_BFDf9TFfkeNETI_vY3nhkjnbpYNi2A7aRAF0XIM8axzHcexiv_Yqn-BnEbO"
+        },
+        {
+          "position": 11,
+          "title": "\u0939\u093f\u0902\u0926\u0940 \u091f\u093e\u0907\u092a\u093f\u0902\u0917 \u0938\u0947\u0935\u093e",
+          "place_id": "ChIJ01GOfnUEDTkR6tFiSaR2in4",
+          "data_id": "0x390d04757e8e51d3:0x7e8a76a44962d1ea",
+          "data_cid": "9118230843542917610",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x390d04757e8e51d3%3A0x7e8a76a44962d1ea&engine=google_maps_reviews&hl=hi",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x390d04757e8e51d3%3A0x7e8a76a44962d1ea&engine=google_maps_photos&hl=hi",
+          "gps_coordinates": {
+            "latitude": 28.679413999999998,
+            "longitude": 77.0856642
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=hi&place_id=ChIJ01GOfnUEDTkR6tFiSaR2in4",
+          "provider_id": "/g/1hhwbst3y",
+          "rating": 3.7,
+          "reviews": 60,
+          "type": "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+          "types": [
+            "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+            "\u091f\u093e\u0907\u092a\u093f\u0902\u0917 \u0938\u0947\u0935\u093e"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator",
+            "typing_service"
+          ],
+          "address": "Near, Madipur, Paschim Vihar, Delhi, 110063",
+          "country": "\u092d\u093e\u0930\u0924",
+          "open_state": "24 \u0918\u0902\u091f\u0947 \u0916\u0941\u0932\u093e \u0930\u0939\u0924\u093e \u0939\u0948",
+          "hours": "24 \u0918\u0902\u091f\u0947 \u0916\u0941\u0932\u093e \u0930\u0939\u0924\u093e \u0939\u0948",
+          "operating_hours": {
+            "\u0930\u0935\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0938\u094b\u092e\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092e\u0902\u0917\u0932\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092c\u0941\u0927\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0917\u0941\u0930\u0941\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0928\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947"
+          },
+          "website": "https://www.easyhindityping.com/",
+          "extensions": [
+            {
+              "crowd": [
+                "LGBTQ+ \u092b\u093c\u094d\u0930\u0947\u0902\u0921\u0932\u0940"
+              ]
+            }
+          ],
+          "unsupported_extensions": [
+            {
+              "service_options": [
+                "\u0911\u0928\u0938\u093e\u0907\u091f \u0938\u0947\u0935\u093e\u090f\u0902"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0911\u0928\u0938\u093e\u0907\u091f_\u0938\u0947\u0935\u093e\u090f\u0902": false
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOvD4Ug--0TFGNXtseKTFYpAVUMU7idRl5wY8lq4Cx_BrNmF6d6o4BNrLNOB6_7ZqTCJrN-ZzL9qqUn2D9s3b1ewvrI4Is9XUNazWf78YsMyBRtgcM0wtcLsJM_UJp8caXNQJGY8AgJWFs=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/VPUknHicHcTdboIwGADQJ6rUyfhZsgvAYOygRkMVvCGs1mJSKPSrsPmQu9_bmHguzv9fa-0AH46j2tVCai2VuIMwXPdW9HbBdedI0wAgDk6UTIPqdtPaZRIhXKQbWloQX0VaDdGR5cy_XQ7qfa4CNbrJTx0b2qXexdNuTE1Gd7FX--exSIih6PzIwnFk_ds6hNX3UsyT2bpbCEtGm8fp6gcV5L_xwUqe49nyDEheMzIEvCnpnmyqIJLklMLnvMQYo_Y1R_0TP7dGpA"
+        },
+        {
+          "position": 12,
+          "title": "\u0917\u094d\u0932\u094b\u092c\u0932 \u091f\u094d\u0930\u093e\u0902\u0938\u0932\u0947\u0936\u0928 \u0915\u0928\u0947\u0915\u094d\u091f",
+          "place_id": "ChIJkYQSp3EFDTkRiEdmFWbf2UQ",
+          "data_id": "0x390d0571a7128491:0x44d9df6615664788",
+          "data_cid": "4961242094063994760",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x390d0571a7128491%3A0x44d9df6615664788&engine=google_maps_reviews&hl=hi",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x390d0571a7128491%3A0x44d9df6615664788&engine=google_maps_photos&hl=hi",
+          "gps_coordinates": {
+            "latitude": 28.6169126,
+            "longitude": 77.0628402
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=hi&place_id=ChIJkYQSp3EFDTkRiEdmFWbf2UQ",
+          "provider_id": "/g/11t4y5c_f5",
+          "rating": 4.9,
+          "reviews": 66,
+          "type": "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+          "types": [
+            "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+            "\u0921\u0947\u0938\u094d\u0915\u091f\u0949\u092a \u092a\u092c\u094d\u0932\u093f\u0936\u093f\u0902\u0917 \u0938\u0947\u0935\u093e",
+            "\u0915\u093e\u0928\u0942\u0928\u0940 \u0938\u0947\u0935\u093e\u090f\u0902",
+            "\u092e\u0940\u0921\u093f\u092f\u093e \u0915\u0902\u092a\u0928\u0940",
+            "\u0928\u094b\u091f\u0930\u0940 \u092a\u092c\u094d\u0932\u093f\u0915",
+            "\u092a\u094d\u0930\u0924\u093f\u0932\u0947\u0916\u0928 \u0938\u0947\u0935\u093e"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator",
+            "desktop_publishing_service",
+            "legal_services",
+            "media_company",
+            "notary_public",
+            "transcription_service"
+          ],
+          "address": "Top floor, Gulati medicos, R-143, near Vani public school, Vijay Vihar, Vani Vihar, New Uttam Nagar, Uttam Nagar, Delhi, 110059",
+          "country": "\u092d\u093e\u0930\u0924",
+          "open_state": "24 \u0918\u0902\u091f\u0947 \u0916\u0941\u0932\u093e \u0930\u0939\u0924\u093e \u0939\u0948",
+          "hours": "24 \u0918\u0902\u091f\u0947 \u0916\u0941\u0932\u093e \u0930\u0939\u0924\u093e \u0939\u0948",
+          "operating_hours": {
+            "\u0930\u0935\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0938\u094b\u092e\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092e\u0902\u0917\u0932\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092c\u0941\u0927\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0917\u0941\u0930\u0941\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0928\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947"
+          },
+          "phone": "083683 37217",
+          "website": "http://www.globaltranslationconnect.com/",
+          "extensions": [
+            {
+              "from_the_business": [
+                "\u0915\u093e\u0930\u094b\u092c\u093e\u0930 \u0915\u0940 \u092e\u093e\u0932\u0915\u093f\u0928 \u092e\u0939\u093f\u0932\u093e \u0939\u0948"
+              ]
+            },
+            {
+              "service_options": [
+                "\u0911\u0928\u0932\u093e\u0907\u0928 \u0905\u092a\u0949\u0907\u0902\u091f\u092e\u0947\u0902\u091f \u0915\u0940 \u0938\u0941\u0935\u093f\u0927\u093e"
+              ]
+            }
+          ],
+          "unsupported_extensions": [
+            {
+              "service_options": [
+                "\u0911\u0928\u0938\u093e\u0907\u091f \u0938\u0947\u0935\u093e\u090f\u0902"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0911\u0928\u0932\u093e\u0907\u0928_\u0905\u092a\u0949\u0907\u0902\u091f\u092e\u0947\u0902\u091f_\u0915\u0940_\u0938\u0941\u0935\u093f\u0927\u093e": true,
+            "\u0911\u0928\u0938\u093e\u0907\u091f_\u0938\u0947\u0935\u093e\u090f\u0902": false
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfphc9tfGrmiiWT44BCvCKn02UMTxzQNgTpbZBbcFTeDv1jUhSggCnjYFGqROzUYfbn_FoKjF_kQvJhXjIDyExMA5Tf5dze0XArNRtTZ4i6yDLe61sXOBp36UeMx8DyYEzEgx_gYHj5ZMY=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/8fEoVXicHcTbboIwAADQL0LKBKJLfODqvKBRS6S8EOlKS5UWaceAj_Tdv1my83DeL6Z1qz5N88HmMyolfZAfRToshSZCz7BsTNrdlDKwMj3Pvzf7qmV4qat119T1Fdq2H_TBToCPNIHDdDpQ2Ja5X-IYkrC3eMoulAaCo3j9PB-nFFWlKGK543FxP_VblvFNOEZD4jmwcr4nAjKvO5w1zO3aHcM9cS2VHf127qYkGRbhiKIpokNB0Rd38gStfi0AgMH-x4b4A_ePSDc"
+        },
+        {
+          "position": 13,
+          "title": "\u092f\u0936\u094d\u0935\u0940 \u091f\u094d\u0930\u093e\u0902\u0938\u0932\u0947\u0936\u0928",
+          "place_id": "ChIJD6TZP1P6DDkRH3IAboP-Ps0",
+          "data_id": "0x390cfa533fd9a40f:0xcd3efe836e00721f",
+          "data_cid": "14789538066770981407",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x390cfa533fd9a40f%3A0xcd3efe836e00721f&engine=google_maps_reviews&hl=hi",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x390cfa533fd9a40f%3A0xcd3efe836e00721f&engine=google_maps_photos&hl=hi",
+          "gps_coordinates": {
+            "latitude": 28.692294999999998,
+            "longitude": 77.345343
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=hi&place_id=ChIJD6TZP1P6DDkRH3IAboP-Ps0",
+          "provider_id": "/g/11by_gktcf",
+          "rating": 4.9,
+          "reviews": 162,
+          "type": "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+          "types": [
+            "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+            "\u0938\u0930\u094d\u091f\u093f\u092b\u093f\u0915\u0947\u0936\u0928 \u090f\u091c\u0947\u0902\u0938\u0940",
+            "\u0915\u093e\u0928\u0942\u0928\u0940 \u0938\u0947\u0935\u093e\u090f\u0902",
+            "\u092a\u094d\u0930\u0924\u093f\u0932\u0947\u0916\u0928 \u0938\u0947\u0935\u093e"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator",
+            "certification_agency",
+            "legal_services",
+            "transcription_service"
+          ],
+          "address": "SM-9, Plot No.A-105, Tushaar Apartment, 150 Feet Rd, Shalimar Garden Extension II, Shalimar Garden, Sahibabad, Ghaziabad, Uttar Pradesh 201005",
+          "country": "\u092d\u093e\u0930\u0924",
+          "open_state": "\u0916\u0941\u0932\u093e \u0939\u0948 \u00b7 10 pm \u092c\u0902\u0926 \u0939\u094b\u0917\u093e",
+          "hours": "\u0916\u0941\u0932\u093e \u0939\u0948 \u00b7 10 pm \u092c\u0902\u0926 \u0939\u094b\u0917\u093e",
+          "operating_hours": {
+            "\u0930\u0935\u093f\u0935\u093e\u0930": "8am\u201310pm",
+            "\u0938\u094b\u092e\u0935\u093e\u0930": "8am\u201310pm",
+            "\u092e\u0902\u0917\u0932\u0935\u093e\u0930": "8am\u201310pm",
+            "\u092c\u0941\u0927\u0935\u093e\u0930": "8am\u201310pm",
+            "\u0917\u0941\u0930\u0941\u0935\u093e\u0930": "8am\u201310pm",
+            "\u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930": "8am\u201310pm",
+            "\u0936\u0928\u093f\u0935\u093e\u0930": "8am\u201310pm"
+          },
+          "phone": "099111 53839",
+          "website": "https://www.translate-englishto.com/translation-service-ghaziabad/",
+          "extensions": [
+            {
+              "service_options": [
+                "\u0911\u0928\u0932\u093e\u0907\u0928 \u0905\u092a\u0949\u0907\u0902\u091f\u092e\u0947\u0902\u091f \u0915\u0940 \u0938\u0941\u0935\u093f\u0927\u093e",
+                "\u0911\u0928\u0938\u093e\u0907\u091f \u0938\u0947\u0935\u093e\u090f\u0902"
+              ]
+            },
+            {
+              "planning": [
+                "\u0905\u092a\u0949\u0907\u0902\u091f\u092e\u0947\u0902\u091f \u0932\u0947\u0928\u093e \u095b\u0930\u0942\u0930\u0940 \u0939\u0948"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0911\u0928\u0932\u093e\u0907\u0928_\u0905\u092a\u0949\u0907\u0902\u091f\u092e\u0947\u0902\u091f_\u0915\u0940_\u0938\u0941\u0935\u093f\u0927\u093e": true,
+            "\u0911\u0928\u0938\u093e\u0907\u091f_\u0938\u0947\u0935\u093e\u090f\u0902": true
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOn8jTx1BDoEJcJxZwUYFyy1-h5V5esbzVJLiHPwAthykhqbAxQ6a5rLJ2e5azNXAsanzHl1oL_KdERHKgnd7Bs1pjb2oYc3-x4UInG_zrTlIahSVH7Zpb_sGLYaf7ZXxxDvFCihw=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/7XOM43icHcRLDoIwFADAE1WoihgTF_hFJP4lwoaUWqlaW-RVKdzQI3gbE2cx3w_XuoCBZQneaeVK5YK9gJVUSc2kblH1sPKSACAKljd-F-Kxlv3bweDRRE0DGpikOsazusaIO5HDIGuiILz6m8rTvL7zZ-aZbY84ZRi0mUOa1ckDIhtfYBWmy_N05y9zeXZHgItb1lYx7SDTPS7kPG3Kg1gQvo98NymyFOZhTC5ucjJm8p6Nr7waVti2bcT_UyR_qYxHPw"
+        },
+        {
+          "position": 14,
+          "title": "\u0911\u0932 \u091f\u094d\u0930\u093e\u0902\u0938\u0932\u0947\u0936\u0928 \u0938\u0930\u094d\u0935\u093f\u0938\u0947\u091c \u092a\u0935\u0924. \u090f\u0932\u091f\u0940\u0921\u0940.",
+          "place_id": "ChIJp81qH-UDDTkRQGTuBPtbs-o",
+          "data_id": "0x390d03e51f6acda7:0xeab35bfb04ee6440",
+          "data_cid": "16911962159383995456",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x390d03e51f6acda7%3A0xeab35bfb04ee6440&engine=google_maps_reviews&hl=hi",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x390d03e51f6acda7%3A0xeab35bfb04ee6440&engine=google_maps_photos&hl=hi",
+          "gps_coordinates": {
+            "latitude": 28.6966945,
+            "longitude": 77.1155364
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=hi&place_id=ChIJp81qH-UDDTkRQGTuBPtbs-o",
+          "provider_id": "/g/1hc3mql_6",
+          "rating": 4.8,
+          "reviews": 5,
+          "type": "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+          "types": [
+            "\u0905\u0928\u0941\u0935\u093e\u0926\u0915"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator"
+          ],
+          "address": "Vardhman Premium Mall, 337-338, Deepali, \u092a\u0940\u0924\u092e\u092a\u0941\u0930\u093e, \u0928\u0908 \u0926\u093f\u0932\u094d\u0932\u0940, \u0926\u093f\u0932\u094d\u0932\u0940, 110034",
+          "country": "\u092d\u093e\u0930\u0924",
+          "open_state": "\u0916\u0941\u0932\u093e \u0939\u0948 \u00b7 11 pm \u092c\u0902\u0926 \u0939\u094b\u0917\u093e",
+          "hours": "\u0916\u0941\u0932\u093e \u0939\u0948 \u00b7 11 pm \u092c\u0902\u0926 \u0939\u094b\u0917\u093e",
+          "operating_hours": {
+            "\u0930\u0935\u093f\u0935\u093e\u0930": "9am\u201311pm",
+            "\u0938\u094b\u092e\u0935\u093e\u0930": "9am\u201311pm",
+            "\u092e\u0902\u0917\u0932\u0935\u093e\u0930": "9am\u201311pm",
+            "\u092c\u0941\u0927\u0935\u093e\u0930": "9am\u201311pm",
+            "\u0917\u0941\u0930\u0941\u0935\u093e\u0930": "9am\u201311pm",
+            "\u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930": "9am\u201311pm",
+            "\u0936\u0928\u093f\u0935\u093e\u0930": "9am\u201311pm"
+          },
+          "phone": "098118 57488",
+          "website": "http://www.alltranslationservices.com/",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcs5cgVmxzcdNomttbZf6ohlTyIXULFNjodJqjgxb2OOfuPUgbPsG-Q9HGFgkUAL7r2IhcHj3cotE59VfFkGsliwpn-qVRM-m1s6W_gpxfQMrKa9eEe4CTbAGt00DAthc24z4Vt=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/WV8r73icHcRbjoIwFADQFVUqogaT-ejMCD7wGUEzP0aupRUoRe41MmzQNbibSeZ8nPdLE9U4cZxSD3rKWlXKB8oGbEWyoh5Y46jmgsgAHSE-CxMBDkElpu3guraGKP3JRlaXh9_5KY6CdW6vi3uu2tTdbLLHNlbpFkO282dhoIpYROPGnWuY5QOwNB36SRYUIZa3Z12xe7JfMdPH0fGs6jbbrZrlxZdT6X0dUhES59-CNLhe5yX08exzzpn-H1j1B0qsRgo"
+        },
+        {
+          "position": 15,
+          "title": "\u0905\u091f\u094d\u0930\u0948\u0921\u094b \u091f\u094d\u0930\u093e\u0902\u0938\u0932\u0947\u0936\u0928 \u0938\u094b\u0932\u094d\u092f\u0942\u0936\u0928 \u092a\u0935\u0924. \u090f\u0932\u090f\u092e\u091f\u0940.",
+          "place_id": "ChIJI-D5XgEBDTkRZRdCKpO4ssk",
+          "data_id": "0x390d01015ef9e023:0xc9b2b8932a421765",
+          "data_cid": "14533881889686689637",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x390d01015ef9e023%3A0xc9b2b8932a421765&engine=google_maps_reviews&hl=hi",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x390d01015ef9e023%3A0xc9b2b8932a421765&engine=google_maps_photos&hl=hi",
+          "gps_coordinates": {
+            "latitude": 28.7495242,
+            "longitude": 77.14301119999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=hi&place_id=ChIJI-D5XgEBDTkRZRdCKpO4ssk",
+          "provider_id": "/g/11s1ttktt5",
+          "rating": 4.9,
+          "reviews": 904,
+          "type": "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+          "types": [
+            "\u0905\u0928\u0941\u0935\u093e\u0926\u0915"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator"
+          ],
+          "address": "office no. 19, Vinayak Plaza, Yadav Nagar, Samaypur, Badli, Delhi, 110042",
+          "country": "\u092d\u093e\u0930\u0924",
+          "open_state": "24 \u0918\u0902\u091f\u0947 \u0916\u0941\u0932\u093e \u0930\u0939\u0924\u093e \u0939\u0948",
+          "hours": "24 \u0918\u0902\u091f\u0947 \u0916\u0941\u0932\u093e \u0930\u0939\u0924\u093e \u0939\u0948",
+          "operating_hours": {
+            "\u0930\u0935\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0938\u094b\u092e\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092e\u0902\u0917\u0932\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092c\u0941\u0927\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0917\u0941\u0930\u0941\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0928\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947"
+          },
+          "phone": "092058 40051",
+          "website": "http://atraidotranslationsolution.com/",
+          "extensions": [
+            {
+              "service_options": [
+                "\u0911\u0928\u0932\u093e\u0907\u0928 \u0905\u092a\u0949\u0907\u0902\u091f\u092e\u0947\u0902\u091f \u0915\u0940 \u0938\u0941\u0935\u093f\u0927\u093e"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0911\u0928\u0932\u093e\u0907\u0928_\u0905\u092a\u0949\u0907\u0902\u091f\u092e\u0947\u0902\u091f_\u0915\u0940_\u0938\u0941\u0935\u093f\u0927\u093e": true
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOSkwwoJsfJ_oITc0EBYuNKcnnVIfhh_qWLcDKaENJNXmWtIdRSpMFqKakrHEe3W_1UzPtmaXyFULKoG6kMf_ZygW1CYK189aI2Bsq7AA83ERz4Tzr2nTp2nKdA_sWlNUcMMtDV=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/PBCLi3icHcRJDoIwAADAFyGbUTTxwKZCAY0CRS9NU4EmQAu0SuSDvsHfmDiH-X6olL3YqmpLzUXNed2WT1GOhDNZMrkgvFPrEQuhEKHa7qtvu9O1mSYeiipEPEiJ5ju3ZwIIY3lQUYoGGBEPYD8Jk6KDMnhcrn28HwBuxqNfmhDp2XyWHS7e-ywC_LBq4grd3zXU3RvQrQ0ODEcMa9u2TP8yL9N5NFjaGww8bCRgm2QkjqWX7yZd0zSF_icK-wEeD0Ws"
+        },
+        {
+          "position": 16,
+          "title": "\u0926\u093f\u0932\u094d\u0932\u0940 \u091f\u094d\u0930\u093e\u0902\u0938\u0932\u0947\u0936\u0928 \u092c\u094d\u092f\u0942\u0930\u094b - \u091f\u094d\u0930\u093e\u0902\u0938\u0932\u0947\u091f\u0930 & \u0907\u0902\u091f\u0930\u092a\u094d\u0930\u0947\u091f\u0930 \u092b\u094d\u0930\u0949\u092e \u0907\u0902\u0917\u094d\u0932\u093f\u0936 \u0924\u094b \u0905\u0930\u0947\u092c\u093f\u0915, \u091a\u093e\u0907\u0928\u0940\u091c, \u092b\u094d\u0930\u0947\u0902\u091a, \u0938\u094d\u092a\u0947\u0928\u093f\u0936, \u091c\u0930\u094d\u092e\u0928, \u0930\u0936\u093f\u092f\u0928, \u0908\u091f\u0940\u0938\u0940",
+          "place_id": "ChIJbWDuFtDjDDkRJlCuc7Ke8xQ",
+          "data_id": "0x390ce3d016ee606d:0x14f39eb273ae5026",
+          "data_cid": "1509724789381419046",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x390ce3d016ee606d%3A0x14f39eb273ae5026&engine=google_maps_reviews&hl=hi",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x390ce3d016ee606d%3A0x14f39eb273ae5026&engine=google_maps_photos&hl=hi",
+          "gps_coordinates": {
+            "latitude": 28.568495799999997,
+            "longitude": 77.2859115
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=hi&place_id=ChIJbWDuFtDjDDkRJlCuc7Ke8xQ",
+          "provider_id": "/g/11rd_2304g",
+          "rating": 5,
+          "reviews": 8,
+          "type": "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+          "types": [
+            "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+            "\u0930\u094b\u091c\u0917\u093e\u0930 \u0938\u0932\u093e\u0939\u0915\u093e\u0930"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator",
+            "employment_consultant"
+          ],
+          "address": "Second Floor, R-22, Joga Bai Extension, Jogabai Extension, Jamia Nagar, Okhla, New Delhi, Delhi 110025",
+          "country": "\u092d\u093e\u0930\u0924",
+          "open_state": "24 \u0918\u0902\u091f\u0947 \u0916\u0941\u0932\u093e \u0930\u0939\u0924\u093e \u0939\u0948",
+          "hours": "24 \u0918\u0902\u091f\u0947 \u0916\u0941\u0932\u093e \u0930\u0939\u0924\u093e \u0939\u0948",
+          "operating_hours": {
+            "\u0930\u0935\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0938\u094b\u092e\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092e\u0902\u0917\u0932\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092c\u0941\u0927\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0917\u0941\u0930\u0941\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0928\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947"
+          },
+          "phone": "077949 29614",
+          "website": "https://translingoworld.com/delhi-translation-bureau",
+          "extensions": [
+            {
+              "service_options": [
+                "\u0911\u0928\u0932\u093e\u0907\u0928 \u0905\u092a\u0949\u0907\u0902\u091f\u092e\u0947\u0902\u091f \u0915\u0940 \u0938\u0941\u0935\u093f\u0927\u093e",
+                "\u0911\u0928\u0938\u093e\u0907\u091f \u0938\u0947\u0935\u093e\u090f\u0902"
+              ]
+            },
+            {
+              "accessibility": [
+                "\u0935\u094d\u0939\u0940\u0932\u091a\u0947\u092f\u0930 \u0915\u0940 \u0938\u0941\u0935\u093f\u0927\u093e \u0935\u093e\u0932\u0940 \u0938\u0940\u091f\u093f\u0902\u0917",
+                "\u0935\u094d\u0939\u0940\u0932\u091a\u0947\u092f\u0930 \u0932\u093e\u0928\u0947-\u0932\u0947 \u091c\u093e\u0928\u0947 \u0915\u0940 \u0938\u0941\u0935\u093f\u0927\u093e \u0935\u093e\u0932\u093e \u0926\u0930\u0935\u093e\u091c\u093c\u093e"
+              ]
+            },
+            {
+              "amenities": [
+                "\u092f\u0939\u093e\u0902 \u092f\u0942\u0928\u093f\u0938\u0947\u0915\u094d\u0938 \u0936\u094c\u091a\u093e\u0932\u092f \u0939\u0948"
+              ]
+            },
+            {
+              "crowd": [
+                "LGBTQ+ \u092b\u093c\u094d\u0930\u0947\u0902\u0921\u0932\u0940"
+              ]
+            },
+            {
+              "planning": [
+                "\u0905\u092a\u0949\u0907\u0902\u091f\u092e\u0947\u0902\u091f \u0932\u0947\u0928\u093e \u095b\u0930\u0942\u0930\u0940 \u0939\u0948"
+              ]
+            }
+          ],
+          "unsupported_extensions": [
+            {
+              "accessibility": [
+                "\u0935\u094d\u0939\u0940\u0932\u091a\u0947\u092f\u0930 \u0932\u093e\u0928\u0947-\u0932\u0947 \u091c\u093e\u0928\u0947 \u0915\u0940 \u0938\u0941\u0935\u093f\u0927\u093e \u0935\u093e\u0932\u093e \u0936\u094c\u091a\u093e\u0932\u092f"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0911\u0928\u0932\u093e\u0907\u0928_\u0905\u092a\u0949\u0907\u0902\u091f\u092e\u0947\u0902\u091f_\u0915\u0940_\u0938\u0941\u0935\u093f\u0927\u093e": true,
+            "\u0911\u0928\u0938\u093e\u0907\u091f_\u0938\u0947\u0935\u093e\u090f\u0902": true
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcWGhOKpE_OjcPioi6bCJzCibnv9ZvKLKMggXZ-S3QhI8tPtPtfOfBaYM-mAZkQYPE8aZ7wqXDWNxLD75btD3Tt-WcpGThRu71eIOvUaMBOOfYPbVHceQyfP4jffYD-IjC0wtPuEn1Shqpo=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/uOBqtXicHcTbboIwAADQL6pAUHFL9sAtyoC1qBPhxUDTCygt2gLqT-55fzOznOT8_nCte_VuGBduz5iU7EIGRW5YCk2EnmHZGexWKQWwMlzXO3cJztccxn14gi1GjWyWtf_59JtajG_lGCdxytixBDs749FKoxcKqVcVKejc8pwVKFxVpTNdj0H-dU8CZ1HrwN5rkON-vefbwbFIBMfvKvUgpAWqDxtMsgdF85bSIgBR65uTRkMorB2_9vJjskzTBPx_DMQf6kRH8A"
+        },
+        {
+          "position": 17,
+          "title": "\u0906\u0928\u0928 \u090f\u0902\u091f\u0930\u092a\u094d\u0930\u093e\u0907\u091c\u0947\u091c",
+          "place_id": "ChIJH315fKj9DDkRC-aS9mTD67w",
+          "data_id": "0x390cfda87c797d1f:0xbcebc364f692e60b",
+          "data_cid": "13613189137058424331",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x390cfda87c797d1f%3A0xbcebc364f692e60b&engine=google_maps_reviews&hl=hi",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x390cfda87c797d1f%3A0xbcebc364f692e60b&engine=google_maps_photos&hl=hi",
+          "gps_coordinates": {
+            "latitude": 28.645200799999998,
+            "longitude": 77.17821719999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=hi&place_id=ChIJH315fKj9DDkRC-aS9mTD67w",
+          "provider_id": "/g/11h2c2lcgm",
+          "rating": 4.9,
+          "reviews": 341,
+          "type": "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+          "types": [
+            "\u0905\u0928\u0941\u0935\u093e\u0926\u0915"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator"
+          ],
+          "address": "5th floor, Padma Tower-2, Rajendra Palace, 504, New Delhi, Delhi 110005",
+          "country": "\u092d\u093e\u0930\u0924",
+          "open_state": "24 \u0918\u0902\u091f\u0947 \u0916\u0941\u0932\u093e \u0930\u0939\u0924\u093e \u0939\u0948",
+          "hours": "24 \u0918\u0902\u091f\u0947 \u0916\u0941\u0932\u093e \u0930\u0939\u0924\u093e \u0939\u0948",
+          "operating_hours": {
+            "\u0930\u0935\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0938\u094b\u092e\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092e\u0902\u0917\u0932\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092c\u0941\u0927\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0917\u0941\u0930\u0941\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0928\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947"
+          },
+          "phone": "099962 35369",
+          "website": "https://ananenterprises.com/",
+          "unsupported_extensions": [
+            {
+              "service_options": [
+                "\u0911\u0928\u0932\u093e\u0907\u0928 \u0905\u092a\u0949\u0907\u0902\u091f\u092e\u0947\u0902\u091f \u0915\u0940 \u0938\u0941\u0935\u093f\u0927\u093e"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0911\u0928\u0932\u093e\u0907\u0928_\u0905\u092a\u0949\u0907\u0902\u091f\u092e\u0947\u0902\u091f_\u0915\u0940_\u0938\u0941\u0935\u093f\u0927\u093e": false
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNeGPwbGRA1DnYZs5htCm1Kxj0nCDr6g_u3moSi0XVc0cJBKXAb3HfgchRgCNipLWS4tHNegVRtkOBLv6dr-fGPcRpSCHRRa-bFAYNDSXWWQmucG4jZLgODlZKxnn6BFnkFzDHa=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/SC7cQHicHcTBboIwGADgJ6qUoBxMPEAbIIMAK4kgFwP_SqvSltCiZi-4Z9jbLNl3-H5_pHOLPXreLIOdMEbMfLN8BaMd124HRnliHaxFYL2IPJdZlTytX2PKIp_qS28P0hHl5-871oSuobhugTLNDXdnwPAR5100BtkkQDJByttStM3eZSUXZ-YeVVw8w68VTWkNbGlIxtiAxiS6lLTp2vZTbZDu730hKjr3-VvrME70I_mm2XB6-RhjJP8HpP8ApBRFCQ"
+        },
+        {
+          "position": 18,
+          "title": "\u091f\u094d\u0930\u093f\u0921\u0907\u0902\u0921\u093f\u092f\u093e",
+          "place_id": "ChIJA83jVlf6DDkRdA4VIl2AvLg",
+          "data_id": "0x390cfa5756e3cd03:0xb8bc805d22150e74",
+          "data_cid": "13311655736092462708",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x390cfa5756e3cd03%3A0xb8bc805d22150e74&engine=google_maps_reviews&hl=hi",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x390cfa5756e3cd03%3A0xb8bc805d22150e74&engine=google_maps_photos&hl=hi",
+          "gps_coordinates": {
+            "latitude": 28.627945399999998,
+            "longitude": 77.3803777
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=hi&place_id=ChIJA83jVlf6DDkRdA4VIl2AvLg",
+          "provider_id": "/g/113k1cmss",
+          "rating": 4.7,
+          "reviews": 130,
+          "type": "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+          "types": [
+            "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+            "\u0921\u0947\u0938\u094d\u0915\u091f\u0949\u092a \u092a\u092c\u094d\u0932\u093f\u0936\u093f\u0902\u0917 \u0938\u0947\u0935\u093e",
+            "\u092a\u094d\u0930\u0924\u093f\u0932\u0947\u0916\u0928 \u0938\u0947\u0935\u093e"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator",
+            "desktop_publishing_service",
+            "transcription_service"
+          ],
+          "address": "1st Floor, H, 192, Lohia Rd, H Block, Sector 63, Noida, Uttar Pradesh 201309",
+          "country": "\u092d\u093e\u0930\u0924",
+          "open_state": "\u0916\u0941\u0932\u093e \u0939\u0948 \u00b7 7 pm \u092c\u0902\u0926 \u0939\u094b\u0917\u093e",
+          "hours": "\u0916\u0941\u0932\u093e \u0939\u0948 \u00b7 7 pm \u092c\u0902\u0926 \u0939\u094b\u0917\u093e",
+          "operating_hours": {
+            "\u0930\u0935\u093f\u0935\u093e\u0930": "10am\u20137pm",
+            "\u0938\u094b\u092e\u0935\u093e\u0930": "10am\u20137pm",
+            "\u092e\u0902\u0917\u0932\u0935\u093e\u0930": "10am\u20137pm",
+            "\u092c\u0941\u0927\u0935\u093e\u0930": "10am\u20137pm",
+            "\u0917\u0941\u0930\u0941\u0935\u093e\u0930": "10am\u20137pm",
+            "\u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930": "10am\u20137pm",
+            "\u0936\u0928\u093f\u0935\u093e\u0930": "10am\u20137pm"
+          },
+          "phone": "085275 99523",
+          "website": "https://www.tridindia.com/",
+          "extensions": [
+            {
+              "service_options": [
+                "\u0911\u0928\u0932\u093e\u0907\u0928 \u0905\u092a\u0949\u0907\u0902\u091f\u092e\u0947\u0902\u091f \u0915\u0940 \u0938\u0941\u0935\u093f\u0927\u093e"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0911\u0928\u0932\u093e\u0907\u0928_\u0905\u092a\u0949\u0907\u0902\u091f\u092e\u0947\u0902\u091f_\u0915\u0940_\u0938\u0941\u0935\u093f\u0927\u093e": true
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMEIyIwNwMru4x2PcM5adVYGUStqLl33njd4CIEzN6IPAydBeGLhP7XO2Mm3MN2cqRYuvEIwVyl2XgTJrJGb81kQxyzx3zSSOhT3fT6BofWyviKOdSXJTlZGihkOC1NLxW7fXOK=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/6VAZ1HicHcRJDoIwAADAFyFLcYmJByWEFClFQUVvWpaqhSotS_mgb_A3Js5hvh8q5UssdZ1RMCk5L1neirwhvJZ5LSeEV3rZXIXQiNDXTvdiFXKhgn3Yo6a1BysiaHrNjmfvEMt3wACoH5ntQHcMZzBaq2yTewGN5im2UAVQaJH3_tx2LuyPillpmfiN790W5nM3qHEAYxxjmoAimW14cVLdfYuzOPUTdvHu9IkdMwyG07xI8XbVm4ZhaPQ_0eofwrpFbw"
+        },
+        {
+          "position": 19,
+          "title": "Modlingua",
+          "place_id": "ChIJq6qqXmThDDkRKA60OqmCOPU",
+          "data_id": "0x390ce1645eaaaaab:0xf53882a93ab40e28",
+          "data_cid": "17670016801334103592",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x390ce1645eaaaaab%3A0xf53882a93ab40e28&engine=google_maps_reviews&hl=hi",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x390ce1645eaaaaab%3A0xf53882a93ab40e28&engine=google_maps_photos&hl=hi",
+          "gps_coordinates": {
+            "latitude": 28.522989499999998,
+            "longitude": 77.2520483
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=hi&place_id=ChIJq6qqXmThDDkRKA60OqmCOPU",
+          "provider_id": "/g/1tk6ywh7",
+          "rating": 4.9,
+          "reviews": 196,
+          "type": "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+          "types": [
+            "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+            "\u0930\u094b\u091c\u093c\u0917\u093e\u0930 \u090f\u091c\u0947\u0902\u0938\u0940",
+            "\u092d\u093e\u0937\u093e \u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f",
+            "\u0915\u093e\u0928\u0942\u0928\u0940 \u0938\u0947\u0935\u093e\u090f\u0902",
+            "\u092a\u094d\u0930\u0936\u093f\u0915\u094d\u0937\u0923 \u0915\u0947\u0902\u0926\u094d\u0930",
+            "\u092a\u094d\u0930\u0924\u093f\u0932\u0947\u0916\u0928 \u0938\u0947\u0935\u093e"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator",
+            "employment_agency",
+            "language_school",
+            "legal_services",
+            "training_center",
+            "transcription_service"
+          ],
+          "address": "Gangotri Apartments, C47C, Alaknanda, \u0928\u0908 \u0926\u093f\u0932\u094d\u0932\u0940, \u0926\u093f\u0932\u094d\u0932\u0940 110019",
+          "country": "\u092d\u093e\u0930\u0924",
+          "open_state": "\u0916\u0941\u0932\u093e \u0939\u0948 \u00b7 9 pm \u092c\u0902\u0926 \u0939\u094b\u0917\u093e",
+          "hours": "\u0916\u0941\u0932\u093e \u0939\u0948 \u00b7 9 pm \u092c\u0902\u0926 \u0939\u094b\u0917\u093e",
+          "operating_hours": {
+            "\u0930\u0935\u093f\u0935\u093e\u0930": "11am\u20139pm",
+            "\u0938\u094b\u092e\u0935\u093e\u0930": "11am\u20139pm",
+            "\u092e\u0902\u0917\u0932\u0935\u093e\u0930": "11am\u20139pm",
+            "\u092c\u0941\u0927\u0935\u093e\u0930": "11am\u20139pm",
+            "\u0917\u0941\u0930\u0941\u0935\u093e\u0930": "11am\u20139pm",
+            "\u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930": "11am\u20139pm",
+            "\u0936\u0928\u093f\u0935\u093e\u0930": "\u092c\u0902\u0926"
+          },
+          "phone": "098216 12481",
+          "website": "http://modlingua.com/",
+          "extensions": [
+            {
+              "service_options": [
+                "\u0911\u0928\u0932\u093e\u0907\u0928 \u0905\u092a\u0949\u0907\u0902\u091f\u092e\u0947\u0902\u091f \u0915\u0940 \u0938\u0941\u0935\u093f\u0927\u093e",
+                "\u0911\u0928\u0938\u093e\u0907\u091f \u0938\u0947\u0935\u093e\u090f\u0902"
+              ]
+            },
+            {
+              "amenities": [
+                "\u092f\u0939\u093e\u0902 \u092f\u0942\u0928\u093f\u0938\u0947\u0915\u094d\u0938 \u0936\u094c\u091a\u093e\u0932\u092f \u0939\u0948"
+              ]
+            },
+            {
+              "crowd": [
+                "LGBTQ+ \u092b\u093c\u094d\u0930\u0947\u0902\u0921\u0932\u0940"
+              ]
+            },
+            {
+              "planning": [
+                "\u0905\u092a\u0949\u0907\u0902\u091f\u092e\u0947\u0902\u091f \u0932\u0947\u0928\u093e \u095b\u0930\u0942\u0930\u0940 \u0939\u0948"
+              ]
+            }
+          ],
+          "service_options": {
+            "\u0911\u0928\u0932\u093e\u0907\u0928_\u0905\u092a\u0949\u0907\u0902\u091f\u092e\u0947\u0902\u091f_\u0915\u0940_\u0938\u0941\u0935\u093f\u0927\u093e": true,
+            "\u0911\u0928\u0938\u093e\u0907\u091f_\u0938\u0947\u0935\u093e\u090f\u0902": true
+          },
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMfBqvHzZzXWj3FtHFG8x3PZiweJLFYlGfSFxgenWK7MUUu7muHYDvgZHtFuclhVOJx7PXfXMxHM7OLzmSXzxZqspJvh76WumkOlEfs1MhpBKPu4Ogi8LQLynd0le5Dwjrh_04B=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/pZh4e3icHcRdboIwAADgEyE16GqW-CDT2iANGKP8vBjTlVbXFqQtVC64M3ibJfsevvevsLYzn2EoRTTjbcslc4b1tNWWaTujrQp5fzMmoCbcfA2dVKSJnwOe6qksHhGyGO1XPsrr-8iSFFVy35yQ50wXB0jOZweVw9V24DW2yFEpLlniYV42JfGYwCyd1KmcfP00XTII-FE49ZPJXWPmRHTxIXeLjN9X6TF96W8g2XI7PnpxBYt4Pc4BAIH4nwb6D1u3RvQ"
+        },
+        {
+          "position": 20,
+          "title": "\u092f\u0936 \u091f\u094d\u0930\u093e\u0902\u0938\u0932\u0947\u0936\u0928 \u090f\u0902\u0921 \u091f\u094d\u0930\u093e\u0902\u0938\u0915\u094d\u0930\u093f\u092a\u094d\u0936\u0928 \u0938\u0930\u094d\u0935\u093f\u0938\u0947\u091c",
+          "place_id": "ChIJ6RQsdzXhDDkRZfm_BnE-ULw",
+          "data_id": "0x390ce135772c14e9:0xbc503e7106bff965",
+          "data_cid": "13569414332432775525",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x390ce135772c14e9%3A0xbc503e7106bff965&engine=google_maps_reviews&hl=hi",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x390ce135772c14e9%3A0xbc503e7106bff965&engine=google_maps_photos&hl=hi",
+          "gps_coordinates": {
+            "latitude": 28.5290005,
+            "longitude": 77.2226871
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=hi&place_id=ChIJ6RQsdzXhDDkRZfm_BnE-ULw",
+          "provider_id": "/g/11nr2kqg4p",
+          "rating": 5,
+          "reviews": 1,
+          "type": "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+          "types": [
+            "\u0905\u0928\u0941\u0935\u093e\u0926\u0915"
+          ],
+          "type_id": "translator",
+          "type_ids": [
+            "translator"
+          ],
+          "address": "COMPLEX, SAKET COURT, \u0938\u0947\u0915\u094d\u091f\u0930 6, \u092a\u0941\u0937\u094d\u092a \u0935\u093f\u0939\u093e\u0930, \u0928\u0908 \u0926\u093f\u0932\u094d\u0932\u0940, \u0926\u093f\u0932\u094d\u0932\u0940 110017",
+          "country": "\u092d\u093e\u0930\u0924",
+          "open_state": "24 \u0918\u0902\u091f\u0947 \u0916\u0941\u0932\u093e \u0930\u0939\u0924\u093e \u0939\u0948",
+          "hours": "24 \u0918\u0902\u091f\u0947 \u0916\u0941\u0932\u093e \u0930\u0939\u0924\u093e \u0939\u0948",
+          "operating_hours": {
+            "\u0930\u0935\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0938\u094b\u092e\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092e\u0902\u0917\u0932\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092c\u0941\u0927\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0917\u0941\u0930\u0941\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0928\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947"
+          }
+        }
+      ],
+      "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?engine=google_maps&gl=in&google_domain=google.com&hl=hi&ll=%4028.6139%2C77.209%2C12z&q=translation+services+Hindi&start=20&type=search"
+      }
+    },
+    "transcription_services": {
+      "search_metadata": {
+        "id": "6ac22adc71ff8cc13d62ae23",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/m2be73uDgTcFsDRRsnYt_pYkVkf0kf1Ozctvi3ODZl0/6ac22adc71ff8cc13d62ae23.json",
+        "markdown_endpoint": "https://serpapi.com/searches/m2be73uDgTcFsDRRsnYt_pYkVkf0kf1Ozctvi3ODZl0/6ac22adc71ff8cc13d62ae23.md",
+        "created_at": "2026-10-04 10:30:52 UTC",
+        "processed_at": "2026-10-04 10:30:52 UTC",
+        "google_maps_url": "https://www.google.com/maps/search/transcription+services+Hindi/@28.6139,77.209,12z/data=!3m1!4b1!4m2!2m1!6e5?hl=hi&gl=in",
+        "raw_html_file": "https://serpapi.com/searches/m2be73uDgTcFsDRRsnYt_pYkVkf0kf1Ozctvi3ODZl0/6ac22adc71ff8cc13d62ae23.html",
+        "prettify_html_file": "https://serpapi.com/searches/m2be73uDgTcFsDRRsnYt_pYkVkf0kf1Ozctvi3ODZl0/6ac22adc71ff8cc13d62ae23.prettify",
+        "total_time_taken": 1.92
+      },
+      "search_parameters": {
+        "engine": "google_maps",
+        "type": "search",
+        "q": "transcription services Hindi",
+        "ll": "@28.6139,77.209,12z",
+        "google_domain": "google.com",
+        "hl": "hi",
+        "gl": "in"
+      },
+      "search_information": {
+        "local_results_state": "Results for exact spelling",
+        "query_displayed": "transcription services Hindi"
+      },
+      "local_results": [
+        {
+          "position": 1,
+          "title": "\u0907\u0902\u0921\u094b\u0938\u094d\u0935\u093f\u092b\u094d\u091f \u0915\u0902\u0938\u0932\u091f\u0947\u0902\u0938\u0940 \u0938\u0930\u094d\u0935\u093f\u0938\u0947\u091c \u092a\u0935\u0924. \u090f\u0932\u091f\u0940\u0921\u0940.",
+          "place_id": "ChIJa1VVZTMCDTkRWkUNbjdyYNc",
+          "data_id": "0x390d02336555556b:0xd76072376e0d455a",
+          "data_cid": "15519529898313860442",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x390d02336555556b%3A0xd76072376e0d455a&engine=google_maps_reviews&hl=hi",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x390d02336555556b%3A0xd76072376e0d455a&engine=google_maps_photos&hl=hi",
+          "gps_coordinates": {
+            "latitude": 28.6927244,
+            "longitude": 77.1527473
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=hi&place_id=ChIJa1VVZTMCDTkRWkUNbjdyYNc",
+          "provider_id": "/g/1v_s48qg",
+          "rating": 4.3,
+          "reviews": 12,
+          "type": "\u092a\u094d\u0930\u0924\u093f\u0932\u0947\u0916\u0928 \u0938\u0947\u0935\u093e",
+          "types": [
+            "\u092a\u094d\u0930\u0924\u093f\u0932\u0947\u0916\u0928 \u0938\u0947\u0935\u093e"
+          ],
+          "address": "Office # 303 A, D Mall, Lala Jagat Narayan Marg, Netaji Subhash Place, Pitampura, Delhi, 110034",
+          "country": "\u092d\u093e\u0930\u0924",
+          "open_state": "\u092c\u0902\u0926 \u0939\u0948 \u00b7 \u0938\u094b\u092e \u0915\u094b 12 am \u0916\u0941\u0932\u0947\u0917\u093e",
+          "hours": "\u092c\u0902\u0926 \u0939\u0948 \u00b7 \u0938\u094b\u092e \u0915\u094b 12 am \u0916\u0941\u0932\u0947\u0917\u093e",
+          "operating_hours": {
+            "\u0930\u0935\u093f\u0935\u093e\u0930": "\u092c\u0902\u0926",
+            "\u0938\u094b\u092e\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092e\u0902\u0917\u0932\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092c\u0941\u0927\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0917\u0941\u0930\u0941\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0928\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947"
+          },
+          "phone": "099994 51959",
+          "website": "https://linktr.ee/indoswift",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RU-jC1f4c5_oh1PLV_0hdIbj2qT2KDgoSKp-5oV3_ibylnngCMGEp9JqZHwxId-YPIKT7SZ8EA0-hsEA4CAKslfL--EZJETf-m2FfNXIL8NU2bIrbDtpjhNgWphVZD3iUVyepmKA=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/CzIdSXicHcxNjoIwGADQE338akYnmUUDVUsZYhRQ2ZBQoYVAW20nyhHnCHObMW7e8v39Cmu1-XTdUYQOV4qP7Y9p70xJ20rrMDW5XBtgBoyLslM_rw8FDJHfLdiyVsLfp2XtiStphuCWBzTm6kg1LFUZ1n0zj1Ly6HuL9Tq5VbvHk1zhsic0_zhWK4w8EAajRYSoGbsUAFcJzjuYgk2XnUm6yoqgIfcmtnoQGT9pUVZx2Bfl3OqJoq-H73mv4i0D-Q9YRUPP"
+        },
+        {
+          "position": 2,
+          "title": "\u0911\u0921\u093f\u092f\u094b \u0935\u0940\u0921\u093f\u092f\u094b \u091f\u094d\u0930\u093e\u0902\u0938\u0915\u094d\u0930\u093f\u092a\u094d\u0936\u0928 \u0938\u0930\u094d\u0935\u093f\u0938\u0947\u091c",
+          "place_id": "ChIJWRLD6MYdDTkR33BnROVOEo8",
+          "data_id": "0x390d1dc6e8c31259:0x8f124ee5446770df",
+          "data_cid": "10309389243606593759",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x390d1dc6e8c31259%3A0x8f124ee5446770df&engine=google_maps_reviews&hl=hi",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x390d1dc6e8c31259%3A0x8f124ee5446770df&engine=google_maps_photos&hl=hi",
+          "gps_coordinates": {
+            "latitude": 28.5576199,
+            "longitude": 77.1723791
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=hi&place_id=ChIJWRLD6MYdDTkR33BnROVOEo8",
+          "provider_id": "/g/11clvssgk1",
+          "rating": 5,
+          "reviews": 4,
+          "type": "\u092a\u094d\u0930\u0924\u093f\u0932\u0947\u0916\u0928 \u0938\u0947\u0935\u093e",
+          "types": [
+            "\u092a\u094d\u0930\u0924\u093f\u0932\u0947\u0916\u0928 \u0938\u0947\u0935\u093e"
+          ],
+          "address": "F-205/3,1ST FLOOR, Munirka, New Delhi, Delhi 110067",
+          "country": "\u092d\u093e\u0930\u0924",
+          "open_state": "\u091c\u0932\u094d\u0926 \u0939\u0940 \u092c\u0902\u0926 \u0939\u094b \u091c\u093e\u090f\u0917\u093e \u00b7 5 pm \u00b7 \u0938\u094b\u092e \u0915\u094b 9 am \u0916\u0941\u0932\u0947\u0917\u093e",
+          "hours": "\u091c\u0932\u094d\u0926 \u0939\u0940 \u092c\u0902\u0926 \u0939\u094b \u091c\u093e\u090f\u0917\u093e \u00b7 5 pm \u00b7 \u0938\u094b\u092e \u0915\u094b 9 am \u0916\u0941\u0932\u0947\u0917\u093e",
+          "operating_hours": {
+            "\u0930\u0935\u093f\u0935\u093e\u0930": "9am\u20135pm",
+            "\u0938\u094b\u092e\u0935\u093e\u0930": "9am\u20135pm",
+            "\u092e\u0902\u0917\u0932\u0935\u093e\u0930": "9am\u20135pm",
+            "\u092c\u0941\u0927\u0935\u093e\u0930": "9am\u20135pm",
+            "\u0917\u0941\u0930\u0941\u0935\u093e\u0930": "9am\u20135pm",
+            "\u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930": "9am\u20135pm",
+            "\u0936\u0928\u093f\u0935\u093e\u0930": "9am\u20135pm"
+          },
+          "phone": "099684 10010",
+          "website": "http://www.globalmultilinguaservices.com/"
+        },
+        {
+          "position": 3,
+          "title": "\u092a\u094d\u0930\u094b\u0917\u094d\u0930\u0947\u0938\u093f\u0935 \u092c\u094d\u092f\u0942\u0930\u094b",
+          "place_id": "ChIJRREwot7jDDkRAkoG_ULWxKc",
+          "data_id": "0x390ce3dea2301145:0xa7c4d642fd064a02",
+          "data_cid": "12089022882970487298",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x390ce3dea2301145%3A0xa7c4d642fd064a02&engine=google_maps_reviews&hl=hi",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x390ce3dea2301145%3A0xa7c4d642fd064a02&engine=google_maps_photos&hl=hi",
+          "gps_coordinates": {
+            "latitude": 28.538293799999998,
+            "longitude": 77.25877299999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=hi&place_id=ChIJRREwot7jDDkRAkoG_ULWxKc",
+          "provider_id": "/g/11snnz69hb",
+          "rating": 4.9,
+          "reviews": 191,
+          "type": "\u092a\u094d\u0930\u0924\u093f\u0932\u0947\u0916\u0928 \u0938\u0947\u0935\u093e",
+          "types": [
+            "\u092a\u094d\u0930\u0924\u093f\u0932\u0947\u0916\u0928 \u0938\u0947\u0935\u093e",
+            "\u0935\u094d\u092f\u0935\u0938\u093e\u092f \u0938\u0947 \u0935\u094d\u092f\u0935\u0938\u093e\u092f \u0938\u0947\u0935\u093e",
+            "\u092b\u093c\u094b\u091f\u094b\u0915\u0949\u092a\u0940 \u0915\u0940 \u0926\u0941\u0915\u093e\u0928",
+            "\u0915\u0949\u092a\u0940\u0930\u093e\u0907\u091f\u093f\u0902\u0917 \u0938\u0930\u094d\u0935\u093f\u0938",
+            "\u0921\u0947\u091f\u093e \u090f\u0902\u091f\u094d\u0930\u0940 \u0938\u0930\u094d\u0935\u093f\u0938",
+            "\u0935\u093f\u092a\u0923\u0928 \u090f\u091c\u0947\u0902\u0938\u0940",
+            "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+            "\u091f\u093e\u0907\u092a\u093f\u0902\u0917 \u0938\u0947\u0935\u093e"
+          ],
+          "address": "Ground Floor, L-52, Block L, Kalkaji, New Delhi, Delhi 110019",
+          "country": "\u092d\u093e\u0930\u0924",
+          "open_state": "24 \u0918\u0902\u091f\u0947 \u0916\u0941\u0932\u093e \u0930\u0939\u0924\u093e \u0939\u0948",
+          "hours": "24 \u0918\u0902\u091f\u0947 \u0916\u0941\u0932\u093e \u0930\u0939\u0924\u093e \u0939\u0948",
+          "operating_hours": {
+            "\u0930\u0935\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0938\u094b\u092e\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092e\u0902\u0917\u0932\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092c\u0941\u0927\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0917\u0941\u0930\u0941\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0928\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947"
+          },
+          "phone": "098717 57478",
+          "website": "https://progressivebureau.com/",
+          "extensions": [
+            {
+              "accessibility": [
+                "\u0935\u094d\u0939\u0940\u0932\u091a\u0947\u092f\u0930 \u0915\u0940 \u0938\u0941\u0935\u093f\u0927\u093e \u0935\u093e\u0932\u0940 \u0938\u0940\u091f\u093f\u0902\u0917",
+                "\u0935\u094d\u0939\u0940\u0932\u091a\u0947\u092f\u0930 \u0932\u093e\u0928\u0947-\u0932\u0947 \u091c\u093e\u0928\u0947 \u0915\u0940 \u0938\u0941\u0935\u093f\u0927\u093e \u0935\u093e\u0932\u093e \u0926\u0930\u0935\u093e\u091c\u093c\u093e",
+                "\u0935\u094d\u0939\u0940\u0932\u091a\u0947\u092f\u0930 \u0932\u093e\u0928\u0947-\u0932\u0947 \u091c\u093e\u0928\u0947 \u0915\u0940 \u0938\u0941\u0935\u093f\u0927\u093e \u0935\u093e\u0932\u093e \u0936\u094c\u091a\u093e\u0932\u092f",
+                "\u0935\u094d\u0939\u0940\u0932\u091a\u0947\u092f\u0930 \u0932\u093e\u0928\u0947-\u0932\u0947 \u091c\u093e\u0928\u0947 \u0915\u0940 \u0938\u0941\u0935\u093f\u0927\u093e \u0935\u093e\u0932\u0940 \u092a\u093e\u0930\u094d\u0915\u093f\u0902\u0917",
+                "\u0938\u0941\u0928\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0938\u0939\u093e\u092f\u0915 \u0921\u093f\u0935\u093e\u0907\u0938"
+              ]
+            }
+          ],
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qa4yuuxlfefRbQ5fRdkQTaEH1Zu8ZHWGMAg_Zy-1zKxfJJ-tK7zFtMkhW9IowpyifJk3b2Hq9JUFQID4cgbX-2eBeh6EZe3bLPRfSUAhGQb1mxYe7dpwQ5ZnPNo12nq-bMGi7M2XUffmWW=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/2kF3T3icHcTNboIwAADgJ6pQ0DFMPLBMQRzGspG6XhZb-0OAFm0J4EvuvLcx2Xf4_n6Vc71de16rwoU0RrZ8sPzOjHZcuwUznSd7C5gF1kuOuJ5jdFnOwzC1gouSopUorw36umwzSIZXkuG0SOQPmQF8HCaR58AdosfOFY3C8d6M_VyLvAlpkN3ivNqh_fuSSXoGAX_j6mVLeEg_TqX4rBKVIgq76ZtH135EK6JPRwMDfQO0SOuoCM6VEB3GmxH6vg_U_wzoJ9rRR1Y"
+        },
+        {
+          "position": 4,
+          "title": "\u092f\u0936 \u091f\u094d\u0930\u093e\u0902\u0938\u0932\u0947\u0936\u0928 \u090f\u0902\u0921 \u091f\u094d\u0930\u093e\u0902\u0938\u0915\u094d\u0930\u093f\u092a\u094d\u0936\u0928 \u0938\u0930\u094d\u0935\u093f\u0938\u0947\u091c",
+          "place_id": "ChIJ6RQsdzXhDDkRZfm_BnE-ULw",
+          "data_id": "0x390ce135772c14e9:0xbc503e7106bff965",
+          "data_cid": "13569414332432775525",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x390ce135772c14e9%3A0xbc503e7106bff965&engine=google_maps_reviews&hl=hi",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x390ce135772c14e9%3A0xbc503e7106bff965&engine=google_maps_photos&hl=hi",
+          "gps_coordinates": {
+            "latitude": 28.5290005,
+            "longitude": 77.2226871
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=hi&place_id=ChIJ6RQsdzXhDDkRZfm_BnE-ULw",
+          "provider_id": "/g/11nr2kqg4p",
+          "rating": 5,
+          "reviews": 1,
+          "type": "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+          "types": [
+            "\u0905\u0928\u0941\u0935\u093e\u0926\u0915"
+          ],
+          "address": "COMPLEX, SAKET COURT, \u0938\u0947\u0915\u094d\u091f\u0930 6, \u092a\u0941\u0937\u094d\u092a \u0935\u093f\u0939\u093e\u0930, \u0928\u0908 \u0926\u093f\u0932\u094d\u0932\u0940, \u0926\u093f\u0932\u094d\u0932\u0940 110017",
+          "country": "\u092d\u093e\u0930\u0924",
+          "open_state": "24 \u0918\u0902\u091f\u0947 \u0916\u0941\u0932\u093e \u0930\u0939\u0924\u093e \u0939\u0948",
+          "hours": "24 \u0918\u0902\u091f\u0947 \u0916\u0941\u0932\u093e \u0930\u0939\u0924\u093e \u0939\u0948",
+          "operating_hours": {
+            "\u0930\u0935\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0938\u094b\u092e\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092e\u0902\u0917\u0932\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092c\u0941\u0927\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0917\u0941\u0930\u0941\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0928\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947"
+          }
+        },
+        {
+          "position": 5,
+          "title": "\u090f\u0932\u093f\u0902\u0917\u094d\u0935\u093f\u0938\u094d\u091f\u093f\u0915\u094d\u0938\u094b\u0932\u094d\u092f\u0942\u0936\u0902\u0938 - \u0932\u0948\u0902\u0917\u094d\u0935\u0947\u091c \u091f\u094d\u0930\u093e\u0902\u0938\u0932\u0947\u0936\u0928 \u0938\u0930\u094d\u0935\u093f\u0938\u0947\u091c | \u091f\u094d\u0930\u093e\u0902\u0938\u0915\u094d\u0930\u093f\u092a\u094d\u0936\u0928 \u0935\u0949\u092f\u0938 \u0913\u0935\u0930 \u0921\u092c\u093f\u0902\u0917 \u0938\u0930\u094d\u0935\u093f\u0938\u0947\u091c \u0907\u0928 \u0907\u0902\u0921\u093f\u092f\u093e",
+          "place_id": "ChIJ5zvI1wHvDDkR9OU3G7jFJ_Y",
+          "data_id": "0x390cef01d7c83be7:0xf627c5b81b37e5f4",
+          "data_cid": "17737363051943290356",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x390cef01d7c83be7%3A0xf627c5b81b37e5f4&engine=google_maps_reviews&hl=hi",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x390cef01d7c83be7%3A0xf627c5b81b37e5f4&engine=google_maps_photos&hl=hi",
+          "gps_coordinates": {
+            "latitude": 28.620251999999997,
+            "longitude": 77.3811388
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=hi&place_id=ChIJ5zvI1wHvDDkR9OU3G7jFJ_Y",
+          "provider_id": "/g/11vd9wwrp5",
+          "rating": 4.8,
+          "reviews": 19,
+          "type": "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+          "types": [
+            "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+            "\u0921\u0947\u0938\u094d\u0915\u091f\u0949\u092a \u092a\u092c\u094d\u0932\u093f\u0936\u093f\u0902\u0917 \u0938\u0947\u0935\u093e",
+            "\u092e\u0940\u0921\u093f\u092f\u093e \u0938\u0932\u093e\u0939\u0915\u093e\u0930",
+            "\u0930\u093f\u0915\u0949\u0930\u094d\u0921\u093f\u0902\u0917 \u0938\u094d\u091f\u0942\u0921\u093f\u092f\u094b",
+            "\u092a\u094d\u0930\u0924\u093f\u0932\u0947\u0916\u0928 \u0938\u0947\u0935\u093e"
+          ],
+          "address": "H 120, LG 07, Sector 63 Rd, Hazratpur Wajidpur, H Block, Sector 63, Noida, Uttar Pradesh 201309",
+          "country": "\u092d\u093e\u0930\u0924",
+          "open_state": "\u0916\u0941\u0932\u093e \u0939\u0948 \u00b7 7 pm \u092c\u0902\u0926 \u0939\u094b\u0917\u093e",
+          "hours": "\u0916\u0941\u0932\u093e \u0939\u0948 \u00b7 7 pm \u092c\u0902\u0926 \u0939\u094b\u0917\u093e",
+          "operating_hours": {
+            "\u0930\u0935\u093f\u0935\u093e\u0930": "9am\u20137pm",
+            "\u0938\u094b\u092e\u0935\u093e\u0930": "9am\u20137pm",
+            "\u092e\u0902\u0917\u0932\u0935\u093e\u0930": "9am\u20137pm",
+            "\u092c\u0941\u0927\u0935\u093e\u0930": "9am\u20137pm",
+            "\u0917\u0941\u0930\u0941\u0935\u093e\u0930": "9am\u20137pm",
+            "\u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930": "9am\u20137pm",
+            "\u0936\u0928\u093f\u0935\u093e\u0930": "9am\u20137pm"
+          },
+          "phone": "093545 25101",
+          "website": "http://www.elinguisticsolutions.com/",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TzAzsX1RIYG6A3tijYncCRpYaw84dOU9DRDsdbhCHhNkJdnZBg-Gx87kqv0TF6Ui4O9UYAhUsaUaJT-mEK6lqZwZsqgf3nZ7sYiSd5UoepO2Z2AqdNSs-iB7rVRb99zvuoRyqL=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/B8nZuHicHcRRTsIwGADgE5UNhhs18aGAomi2pKxq-zba2VZGu_IXJrsgZ_A2Jn4P3-_NxNjDfZJ0Jpto73XXnqE9Se9i6-JE-mOie0ASECSk_LBXXI9khM8pfeGbnGTRfnMnV7TnzbCYq4rhNV2D2pvVsykPW-XEUqPNz6I4hEtaP-XMzivMODEMGtZsa3R8fM27IAYBQX9lThTA7U7dMd_21UzMSFDlDpBdFqd3usd4vJw9vYa3h2Gapiky_0vk_gBx7UUb"
+        },
+        {
+          "position": 6,
+          "title": "\u092e\u0947\u0921\u093f\u0915\u0932 \u091f\u094d\u0930\u093e\u0902\u0938\u0915\u094d\u0930\u093f\u092a\u094d\u0936\u0928 \u091f\u094d\u0930\u0947\u0928\u093f\u0902\u0917 \u0907\u0928 \u0926\u093f\u0932\u094d\u0932\u0940 | \u0928\u094b\u090f\u0921\u093e | \u0917\u0941\u0921\u093c\u0917\u093e\u0902\u0935 - \u092e\u0924 \u0938\u0930\u094d\u0935\u093f\u0938\u0947\u091c",
+          "place_id": "ChIJAQAAQDMFDTkRJon5Gr-_bvc",
+          "data_id": "0x390d053340000001:0xf76ebfbf1af98926",
+          "data_cid": "17829398802318592294",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x390d053340000001%3A0xf76ebfbf1af98926&engine=google_maps_reviews&hl=hi",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x390d053340000001%3A0xf76ebfbf1af98926&engine=google_maps_photos&hl=hi",
+          "gps_coordinates": {
+            "latitude": 28.608111599999997,
+            "longitude": 77.05850769999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=hi&place_id=ChIJAQAAQDMFDTkRJon5Gr-_bvc",
+          "provider_id": "/g/1tfp0vms",
+          "rating": 5,
+          "reviews": 2,
+          "type": "\u091a\u093f\u0915\u093f\u0924\u094d\u0938\u093e \u092a\u094d\u0930\u0924\u093f\u0932\u0947\u0916\u0928 \u0938\u0947\u0935\u093e",
+          "types": [
+            "\u091a\u093f\u0915\u093f\u0924\u094d\u0938\u093e \u092a\u094d\u0930\u0924\u093f\u0932\u0947\u0916\u0928 \u0938\u0947\u0935\u093e",
+            "\u092a\u094d\u0930\u0936\u093f\u0915\u094d\u0937\u0923 \u0915\u0947\u0902\u0926\u094d\u0930",
+            "\u092a\u094d\u0930\u0924\u093f\u0932\u0947\u0916\u0928 \u0938\u0947\u0935\u093e"
+          ],
+          "address": "A-1/179, Uttam Nagar, Madhu Vihar, \u0928\u0908 \u0926\u093f\u0932\u094d\u0932\u0940, \u0926\u093f\u0932\u094d\u0932\u0940, 110059",
+          "country": "\u092d\u093e\u0930\u0924",
+          "open_state": "\u0916\u0941\u0932\u093e \u0939\u0948 \u00b7 6 pm \u092c\u0902\u0926 \u0939\u094b\u0917\u093e",
+          "hours": "\u0916\u0941\u0932\u093e \u0939\u0948 \u00b7 6 pm \u092c\u0902\u0926 \u0939\u094b\u0917\u093e",
+          "operating_hours": {
+            "\u0930\u0935\u093f\u0935\u093e\u0930": "9am\u20136pm",
+            "\u0938\u094b\u092e\u0935\u093e\u0930": "9am\u20136pm",
+            "\u092e\u0902\u0917\u0932\u0935\u093e\u0930": "9am\u20136pm",
+            "\u092c\u0941\u0927\u0935\u093e\u0930": "9am\u20136pm",
+            "\u0917\u0941\u0930\u0941\u0935\u093e\u0930": "9am\u20136pm",
+            "\u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930": "9am\u20136pm",
+            "\u0936\u0928\u093f\u0935\u093e\u0930": "9am\u20136pm"
+          },
+          "phone": "098917 66750",
+          "website": "https://sssbpo.com/",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QF3yZ_9JEfHa8iEk_oTU61vqvLl2yhCu6iCxMwoNr1yIpCgnA3gGq9AsPmjafK7eGbzU1rIjl6Ikwdky80ouUNq8ihgGbpo_BllpYCsVvTKIPEVjAIFlf20ODQ9eODTOTdB_0fSA=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/pcMZQnicHcRJDoIwAADAFyFFEgQTDxUR6wIaQaMXolhaoNJCWaw_9An-xsQ5zPdD21bIqa4zao4I54ThTuIm5VWLq3aU8qdOhNRSqUkdBudcOYelqa6Js_ay1c3OvTLhUWwZfd1v2VhRt7Ny97UbeNAYCgmXVNAkfu1AuX8Wt2wzwf79HRsNKpiFyuFRKhvwLg5qO6fEvwuezBkTF1ee-miD9t6pgGjJsjEIFwcHh4sojB7zBGRHOBsMAIBG_6da9QNUVEYD"
+        },
+        {
+          "position": 7,
+          "title": "\u0938\u094b\u0930\u094d\u0938\u093f\u0915\u094b\u0921 \u091f\u094d\u0930\u093e\u0902\u0938\u0932\u0947\u0936\u0928 \u0938\u0930\u094d\u0935\u093f\u0938\u0947\u091c \u092a\u0940\u0935\u0940\u091f\u0940 \u090f\u0932\u091f\u0940\u0921\u0940.",
+          "place_id": "ChIJ____j53lDDkRFgyLKh3Q-3A",
+          "data_id": "0x390ce59d8fffffff:0x70fbd01d2a8b0c16",
+          "data_cid": "8141329575088688150",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x390ce59d8fffffff%3A0x70fbd01d2a8b0c16&engine=google_maps_reviews&hl=hi",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x390ce59d8fffffff%3A0x70fbd01d2a8b0c16&engine=google_maps_photos&hl=hi",
+          "gps_coordinates": {
+            "latitude": 28.5718015,
+            "longitude": 77.3241883
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=hi&place_id=ChIJ____j53lDDkRFgyLKh3Q-3A",
+          "provider_id": "/g/11cp7jv6sj",
+          "rating": 4.8,
+          "reviews": 36,
+          "type": "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+          "types": [
+            "\u0905\u0928\u0941\u0935\u093e\u0926\u0915"
+          ],
+          "address": "Wave Silver Tower, 17, Sector 18, Noida, Uttar Pradesh 201301",
+          "country": "\u092d\u093e\u0930\u0924",
+          "phone": "096432 29958",
+          "website": "http://sourcecodetrans.com/",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RaGPEO8UtqTr8juWrCPWxJT0R3rN-mcW52oCzoDR2HHJK9vLasaa3wDTKzR90ULvdEPsuI-8V42c4fwlVearR0e4DEQ-xw6WsSrZKYkzPltupP7_PBqzKpWd9KGS13JAQGrAsl=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/lHcs1nicHcRRToMwGADgE3V0gAomPuAgIF1m18Ea97I0pYLaUda_jMkFd4bdxsTv4bvfOucGePY83QWL1phWqxGUlaZ3qncLaU5eOwCSgMBLNvzrN2Yip9l7VLtzZaPvkdsV5deywiywG3SS_ME3q9mkzC-KksSXtQAhgimtyMxiXK8vTUZhfEPRPvRl-DnpvRKWYRWm2RZdp0cOO3sgHz8z1W4c6NORvp5nMvAmJvluGZTJNrcJ6JdpiTFG3f8S9X83Z0Q2"
+        },
+        {
+          "position": 8,
+          "title": "\u0932\u093f\u092f\u094b \u091f\u094d\u0930\u093e\u0902\u0938\u0915\u094d\u0930\u093f\u092a\u094d\u0936\u0928 \u0938\u0930\u094d\u0935\u093f\u0938\u0947\u091c",
+          "place_id": "ChIJ52HwA98DDTkR5rW1zXci4Tc",
+          "data_id": "0x390d03df03f061e7:0x37e12277cdb5b5e6",
+          "data_cid": "4026537439793624550",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x390d03df03f061e7%3A0x37e12277cdb5b5e6&engine=google_maps_reviews&hl=hi",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x390d03df03f061e7%3A0x37e12277cdb5b5e6&engine=google_maps_photos&hl=hi",
+          "gps_coordinates": {
+            "latitude": 28.7060586,
+            "longitude": 77.1238132
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=hi&place_id=ChIJ52HwA98DDTkR5rW1zXci4Tc",
+          "provider_id": "/g/11h8kpl76h",
+          "rating": 2,
+          "reviews": 1,
+          "type": "\u091a\u093f\u0915\u093f\u0924\u094d\u0938\u093e \u092a\u094d\u0930\u0924\u093f\u0932\u0947\u0916\u0928 \u0938\u0947\u0935\u093e",
+          "types": [
+            "\u091a\u093f\u0915\u093f\u0924\u094d\u0938\u093e \u092a\u094d\u0930\u0924\u093f\u0932\u0947\u0916\u0928 \u0938\u0947\u0935\u093e"
+          ],
+          "address": "105 2nd Floor, Shiva Rd, Pocket D-14, Pocket 14, Sector 8, Rohini, Delhi, 110085",
+          "country": "\u092d\u093e\u0930\u0924",
+          "phone": "099715 06496",
+          "website": "http://leotranscriptionservices.com/",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R7LFXZWm2YUOVkuvA77unxgS1BgjrlcTUAQ9_X_UKMenOrGnjkePeetUwdf8ZcLG1dfd4Y_eUS-mg4c6FLT50-rnrVl2NA_kCQKGD84l2cZdWiTDGCKCNBRCEVZHLZQ2pc9f5w=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/zzoD1nicHcRNjoIwGADQE1V-BkUmmQWiYgKiKAXthsVHKUoppC0yntAzeBsT3-K9X43Wg_o1DN78zFjfM05HRSX0QlOhZ9B3BhsUAoWU4SfF7emd3Hh7IUVnX_Ehb8eH77qj-Gdna8XukkOG_dQrLyWO9lQcZCjuLT1SqvFU1UsCcWhVdeVcS4rPqGMOLLZxNjeRFDLnduKXbZBG4XrpcBtIVdyydRhEQbI6BZuc7GKS2gN49Xz6myzTNFHzHZD4AGkWQ80"
+        },
+        {
+          "position": 9,
+          "title": "\u0932\u093f\u0902\u0917\u0941\u0905\u0936\u093e\u0907\u0928 - \u091f\u094d\u0930\u093e\u0902\u0938\u0932\u0947\u0936\u0928 \u0915\u0902\u092a\u0928\u0940 \u0907\u0928 \u0907\u0902\u0921\u093f\u092f\u093e (\u0932\u0940\u0917\u0932 \u091f\u094d\u0930\u093e\u0902\u0938\u0932\u0947\u0936\u0928 & \u092e\u0947\u0921\u093f\u0915\u0932 \u091f\u094d\u0930\u093e\u0902\u0938\u0932\u0947\u0936\u0928)",
+          "place_id": "ChIJo1mI89EDDTkRH7eI99Bebnk",
+          "data_id": "0x390d03d1f38859a3:0x796e5ed0f788b71f",
+          "data_cid": "8750035377626593055",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x390d03d1f38859a3%3A0x796e5ed0f788b71f&engine=google_maps_reviews&hl=hi",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x390d03d1f38859a3%3A0x796e5ed0f788b71f&engine=google_maps_photos&hl=hi",
+          "gps_coordinates": {
+            "latitude": 28.541776199999997,
+            "longitude": 77.2542544
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=hi&place_id=ChIJo1mI89EDDTkRH7eI99Bebnk",
+          "provider_id": "/g/11h1278ph3",
+          "rating": 4.9,
+          "reviews": 64,
+          "type": "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+          "types": [
+            "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+            "\u0921\u0947\u0938\u094d\u0915\u091f\u0949\u092a \u092a\u092c\u094d\u0932\u093f\u0936\u093f\u0902\u0917 \u0938\u0947\u0935\u093e",
+            "\u092a\u094d\u0930\u0924\u093f\u0932\u0947\u0916\u0928 \u0938\u0947\u0935\u093e"
+          ],
+          "address": "Second Floor, F-10, Kalkaji, Delhi, 110019",
+          "country": "\u092d\u093e\u0930\u0924",
+          "open_state": "24 \u0918\u0902\u091f\u0947 \u0916\u0941\u0932\u093e \u0930\u0939\u0924\u093e \u0939\u0948",
+          "hours": "24 \u0918\u0902\u091f\u0947 \u0916\u0941\u0932\u093e \u0930\u0939\u0924\u093e \u0939\u0948",
+          "operating_hours": {
+            "\u0930\u0935\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0938\u094b\u092e\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092e\u0902\u0917\u0932\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092c\u0941\u0927\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0917\u0941\u0930\u0941\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0928\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947"
+          },
+          "phone": "093191 56737",
+          "website": "http://www.linguashine.com/",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qn3DsVK_nWYUVzMfmpjH8KBHtLd1DbLOHhF5LwTt6MY4-SRs6gw3peeGj1Z7u8uZgueKudy1WJ1LPs7Apw7zv4wh_AY_FUF4SKxwZzRJF4uU-VDWUUC0bH0SO5jxPD9KiTQoW6QrVx127g=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/iJutjnicHcTBboIwAADQL6q0A0GX7MBGGLE4RSwNXEjErpVo29h2RX5y5_2Nyd7h_f0Ka7V5DYKrCBdcKX5lzrD7oKRl0i4GdQu4NmAwwATpF7081pUMM9PgXtKWNPP2-6bHYoXfC1ueUXYqd4XIl6U_2njbRqA-mJj7UDP2OaIucSvXccewOz8Q3aByb5JU-2T-ibzo07bPSR7VePLdfNjkkSOgySghH_BUwHq3HKd9tsaXY6VoXN2bCb0k_M0jCCEQ_w9APgGTLkaU"
+        },
+        {
+          "position": 10,
+          "title": "\u091f\u094d\u0930\u093e\u0902\u0938\u0915\u094d\u0930\u093e\u0907\u092c\u0930\u094d\u0938\u0928\u0947\u091f",
+          "place_id": "ChIJB1dvbrIEDTkR3BT04F0g_Ws",
+          "data_id": "0x390d04b26e6f5707:0x6bfd205de0f414dc",
+          "data_cid": "7781411318744224988",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x390d04b26e6f5707%3A0x6bfd205de0f414dc&engine=google_maps_reviews&hl=hi",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x390d04b26e6f5707%3A0x6bfd205de0f414dc&engine=google_maps_photos&hl=hi",
+          "gps_coordinates": {
+            "latitude": 28.6150411,
+            "longitude": 77.0901274
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=hi&place_id=ChIJB1dvbrIEDTkR3BT04F0g_Ws",
+          "provider_id": "/g/11dfj9vtm9",
+          "rating": 4.2,
+          "reviews": 6,
+          "unclaimed_listing": true,
+          "type": "\u0928\u093f\u0917\u092e \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f",
+          "types": [
+            "\u0928\u093f\u0917\u092e \u0915\u093e\u0930\u094d\u092f\u093e\u0932\u092f"
+          ],
+          "address": "C3-15, Ram Mandir Marg, Block C3, \u092c\u094d\u0932\u0949\u0915 C3, \u091c\u0928\u0915\u092a\u0941\u0930\u0940, \u0928\u0908 \u0926\u093f\u0932\u094d\u0932\u0940, \u0926\u093f\u0932\u094d\u0932\u0940, 110058",
+          "country": "\u092d\u093e\u0930\u0924",
+          "open_state": "\u092c\u0902\u0926 \u0939\u0948 \u00b7 \u0938\u094b\u092e \u0915\u094b 9 am \u0916\u0941\u0932\u0947\u0917\u093e",
+          "hours": "\u092c\u0902\u0926 \u0939\u0948 \u00b7 \u0938\u094b\u092e \u0915\u094b 9 am \u0916\u0941\u0932\u0947\u0917\u093e",
+          "operating_hours": {
+            "\u0930\u0935\u093f\u0935\u093e\u0930": "\u092c\u0902\u0926",
+            "\u0938\u094b\u092e\u0935\u093e\u0930": "9am\u20136pm",
+            "\u092e\u0902\u0917\u0932\u0935\u093e\u0930": "9am\u20136pm",
+            "\u092c\u0941\u0927\u0935\u093e\u0930": "9am\u20136pm",
+            "\u0917\u0941\u0930\u0941\u0935\u093e\u0930": "9am\u20136pm",
+            "\u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930": "9am\u20136pm",
+            "\u0936\u0928\u093f\u0935\u093e\u0930": "9am\u20136pm"
+          },
+          "phone": "099999 08929",
+          "website": "http://www.transcribersnet.com/",
+          "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3ByyF-RzF41hJCO4b570Pw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=188.30981&pitch=0&thumbfov=100",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/xPJAr3icHc3bDcIgFADQbfgrD1sjNSEmmvTDH40LGIpXIKHlpmCxTuNabqNxgXM-b5czpi1jKU8AefZQ0D8hpAo1tTHaABp9oiYObBYsu8fQj9qHHeox-puq98vSVZdX1wh3PJyafr3h50JMfzXBw5hVAj0ZR235iVO8UYuJFCU5capdkUUXJaSkNW-lIOizcYqT_3KPsxKcfwEpyTic"
+        },
+        {
+          "position": 11,
+          "title": "\u090f\u0928\u0902\u0938\u0940\u090f \u0917\u094d\u0932\u094b\u092c\u0932 - \u0938\u0930\u094d\u091f\u093f\u092b\u093e\u0907\u0921 \u091f\u094d\u0930\u093e\u0902\u0938\u0932\u0947\u0936\u0928 \u0938\u0930\u094d\u0935\u093f\u0938\u0947\u091c",
+          "place_id": "ChIJH28Kn6gFDTkRYRvtwoaPkmc",
+          "data_id": "0x390d05a89f0a6f1f:0x67928f86c2ed1b61",
+          "data_cid": "7463185341465041761",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x390d05a89f0a6f1f%3A0x67928f86c2ed1b61&engine=google_maps_reviews&hl=hi",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x390d05a89f0a6f1f%3A0x67928f86c2ed1b61&engine=google_maps_photos&hl=hi",
+          "gps_coordinates": {
+            "latitude": 28.6186589,
+            "longitude": 77.047388
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=hi&place_id=ChIJH28Kn6gFDTkRYRvtwoaPkmc",
+          "provider_id": "/g/11h2k1pfw8",
+          "rating": 5,
+          "reviews": 133,
+          "type": "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+          "types": [
+            "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+            "\u0915\u0949\u092a\u0940\u0930\u093e\u0907\u091f\u093f\u0902\u0917 \u0938\u0930\u094d\u0935\u093f\u0938",
+            "\u0915\u093e\u0928\u0942\u0928\u0940 \u0938\u0947\u0935\u093e\u090f\u0902",
+            "\u0928\u094b\u091f\u0930\u0940 \u092a\u092c\u094d\u0932\u093f\u0915",
+            "\u092a\u094d\u0930\u0924\u093f\u0932\u0947\u0916\u0928 \u0938\u0947\u0935\u093e"
+          ],
+          "address": "C-20, \u092e\u091f\u093f\u092f\u093e\u0932\u093e \u092e\u093e\u0930\u094d\u0917, G \u092c\u094d\u0932\u0949\u0915, \u092c\u094d\u0932\u0949\u0915 B, Kiran Garden, \u0909\u0924\u094d\u0924\u092e \u0928\u0917\u0930, \u0928\u0908 \u0926\u093f\u0932\u094d\u0932\u0940, \u0926\u093f\u0932\u094d\u0932\u0940, 110059",
+          "country": "\u092d\u093e\u0930\u0924",
+          "open_state": "\u092c\u0902\u0926 \u0939\u0948 \u00b7 \u0938\u094b\u092e \u0915\u094b 9 am \u0916\u0941\u0932\u0947\u0917\u093e",
+          "hours": "\u092c\u0902\u0926 \u0939\u0948 \u00b7 \u0938\u094b\u092e \u0915\u094b 9 am \u0916\u0941\u0932\u0947\u0917\u093e",
+          "operating_hours": {
+            "\u0930\u0935\u093f\u0935\u093e\u0930": "\u092c\u0902\u0926",
+            "\u0938\u094b\u092e\u0935\u093e\u0930": "9am\u20137:30pm",
+            "\u092e\u0902\u0917\u0932\u0935\u093e\u0930": "9am\u20137:30pm",
+            "\u092c\u0941\u0927\u0935\u093e\u0930": "9am\u20137:30pm",
+            "\u0917\u0941\u0930\u0941\u0935\u093e\u0930": "9am\u20137:30pm",
+            "\u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930": "9am\u20137:30pm",
+            "\u0936\u0928\u093f\u0935\u093e\u0930": "9am\u20133pm"
+          },
+          "phone": "093150 56112",
+          "website": "https://www.enuncia.global/",
+          "extensions": [
+            {
+              "accessibility": [
+                "\u0935\u094d\u0939\u0940\u0932\u091a\u0947\u092f\u0930 \u0915\u0940 \u0938\u0941\u0935\u093f\u0927\u093e \u0935\u093e\u0932\u0940 \u0938\u0940\u091f\u093f\u0902\u0917",
+                "\u0935\u094d\u0939\u0940\u0932\u091a\u0947\u092f\u0930 \u0932\u093e\u0928\u0947-\u0932\u0947 \u091c\u093e\u0928\u0947 \u0915\u0940 \u0938\u0941\u0935\u093f\u0927\u093e \u0935\u093e\u0932\u093e \u0936\u094c\u091a\u093e\u0932\u092f"
+              ]
+            }
+          ],
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RXfrG_fcLJkTH4wcOsKpvUF0IzVW23c5R1npPrlqCaeXrtLBn-iaDVlPvoQMv3e37TQUyknIHWLU1Jj7t_2y5YwTf8aUPXfpt58DCBQohmj3SjzIGvRuqqpmXPh677f7ZHqkCGGRsmNf8=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/RWTqX3icHcTNboIwAADgJ6qAHRZNPEyMgGMOGAh6MaRpqfy0hVYIPqR332bJvsP3fjGtpdoYRsvgohKiaslDkQELrgnXCyw6o5IKYAWU8XnK7_M6Kejg3SgOj03qf0z4R33JMTuYwfOcLyG2E4vLaGh7tyTFoMMdB_dyf26jUcTfIyQQpXE2Nzzw8zCzjjXSt-VsX6aUOmUWFVRq29m7u1iwroa_9TPwxuTR97IrIrZCiKKr3zeu5yWqO1FnO1mmaQL2Pwb8D7XvR9c"
+        },
+        {
+          "position": 12,
+          "title": "\u0928\u0947\u0924\u093e\u0915\u093f\u0932\u093e \u0938\u0949\u0932\u094d\u092f\u0942\u0936\u0902\u0938 \u092a\u0935\u0924. \u090f\u0932\u091f\u0940\u0921\u0940.",
+          "place_id": "ChIJ8Ym5rfDhDDkRvJW8KyIldKU",
+          "data_id": "0x390ce1f0adb989f1:0xa57425222bbc95bc",
+          "data_cid": "11922194942249440700",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x390ce1f0adb989f1%3A0xa57425222bbc95bc&engine=google_maps_reviews&hl=hi",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x390ce1f0adb989f1%3A0xa57425222bbc95bc&engine=google_maps_photos&hl=hi",
+          "gps_coordinates": {
+            "latitude": 28.567878099999998,
+            "longitude": 77.1602024
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=hi&place_id=ChIJ8Ym5rfDhDDkRvJW8KyIldKU",
+          "provider_id": "/g/11c2y7fm2w",
+          "rating": 3.7,
+          "reviews": 3,
+          "unclaimed_listing": true,
+          "type": "\u091a\u093f\u0915\u093f\u0924\u094d\u0938\u093e \u092a\u094d\u0930\u0924\u093f\u0932\u0947\u0916\u0928 \u0938\u0947\u0935\u093e",
+          "types": [
+            "\u091a\u093f\u0915\u093f\u0924\u094d\u0938\u093e \u092a\u094d\u0930\u0924\u093f\u0932\u0947\u0916\u0928 \u0938\u0947\u0935\u093e"
+          ],
+          "address": "H596+534, Paschimi Marg, Block C, \u0935\u0938\u0902\u0924 \u0935\u093f\u0939\u093e\u0930, \u0928\u0908 \u0926\u093f\u0932\u094d\u0932\u0940, \u0926\u093f\u0932\u094d\u0932\u0940 110057",
+          "country": "\u092d\u093e\u0930\u0924",
+          "open_state": "\u092c\u0902\u0926 \u0939\u0948 \u00b7 \u0938\u094b\u092e \u0915\u094b 12 am \u0916\u0941\u0932\u0947\u0917\u093e",
+          "hours": "\u092c\u0902\u0926 \u0939\u0948 \u00b7 \u0938\u094b\u092e \u0915\u094b 12 am \u0916\u0941\u0932\u0947\u0917\u093e",
+          "operating_hours": {
+            "\u0930\u0935\u093f\u0935\u093e\u0930": "\u092c\u0902\u0926",
+            "\u0938\u094b\u092e\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092e\u0902\u0917\u0932\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092c\u0941\u0927\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0917\u0941\u0930\u0941\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0928\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947"
+          },
+          "phone": "011 4612 4612",
+          "website": "http://netaquila.com/",
+          "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bjPTI-baCsx_Ukk3igQAwA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=275.35022&pitch=0&thumbfov=100",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/avLlh3icHc3NDcIgGADQbbgVKE3jT0JM48mbJnpugCJ8lhYCWOo2ruU2Ghd47_O2OYe0JyTlqHVeQJcAq3apCgIb743TIkDCyk9kqUm2z0nOAtwhiNnDwOXjfD1VUhzT2t_GsQFz6UqHlOyVAz1nnrSIymJTfmL0AzYhocK3FFm-Y-glCmebFjctZQwFyMpyiv7L3S-8pvQLiKU5sA"
+        },
+        {
+          "position": 13,
+          "title": "\u091f\u094d\u0930\u093f\u0921\u0907\u0902\u0921\u093f\u092f\u093e",
+          "place_id": "ChIJA83jVlf6DDkRdA4VIl2AvLg",
+          "data_id": "0x390cfa5756e3cd03:0xb8bc805d22150e74",
+          "data_cid": "13311655736092462708",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x390cfa5756e3cd03%3A0xb8bc805d22150e74&engine=google_maps_reviews&hl=hi",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x390cfa5756e3cd03%3A0xb8bc805d22150e74&engine=google_maps_photos&hl=hi",
+          "gps_coordinates": {
+            "latitude": 28.627945399999998,
+            "longitude": 77.3803777
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=hi&place_id=ChIJA83jVlf6DDkRdA4VIl2AvLg",
+          "provider_id": "/g/113k1cmss",
+          "rating": 4.7,
+          "reviews": 130,
+          "type": "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+          "types": [
+            "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+            "\u0921\u0947\u0938\u094d\u0915\u091f\u0949\u092a \u092a\u092c\u094d\u0932\u093f\u0936\u093f\u0902\u0917 \u0938\u0947\u0935\u093e",
+            "\u092a\u094d\u0930\u0924\u093f\u0932\u0947\u0916\u0928 \u0938\u0947\u0935\u093e"
+          ],
+          "address": "1st Floor, H, 192, Lohia Rd, H Block, Sector 63, Noida, Uttar Pradesh 201309",
+          "country": "\u092d\u093e\u0930\u0924",
+          "open_state": "\u0916\u0941\u0932\u093e \u0939\u0948 \u00b7 7 pm \u092c\u0902\u0926 \u0939\u094b\u0917\u093e",
+          "hours": "\u0916\u0941\u0932\u093e \u0939\u0948 \u00b7 7 pm \u092c\u0902\u0926 \u0939\u094b\u0917\u093e",
+          "operating_hours": {
+            "\u0930\u0935\u093f\u0935\u093e\u0930": "10am\u20137pm",
+            "\u0938\u094b\u092e\u0935\u093e\u0930": "10am\u20137pm",
+            "\u092e\u0902\u0917\u0932\u0935\u093e\u0930": "10am\u20137pm",
+            "\u092c\u0941\u0927\u0935\u093e\u0930": "10am\u20137pm",
+            "\u0917\u0941\u0930\u0941\u0935\u093e\u0930": "10am\u20137pm",
+            "\u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930": "10am\u20137pm",
+            "\u0936\u0928\u093f\u0935\u093e\u0930": "10am\u20137pm"
+          },
+          "phone": "085275 99523",
+          "website": "https://www.tridindia.com/",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QrU3S4mVGlIVS_-QO0fqzSBsci8zxrPDLh5IWYtop6mfM_JDYGgiVL8JMHQUAMADK4Hg8n35qHU8kw-knv_-XnEZbYLTHJPPC0FbFy8p_JYZOBm0aA_CR9I7uFHXV84fH44W8l=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/yoflGHicHcRdboIwAADgE1VqqLMu2QOKWBgMEAHxpZkNFCK0QOsPXtAzeJsl-x6-96vWulefhtHW5oxLydvyqsqRSaFLoWdMdgbvFWAKKMP6yZtpFY-pmaAu27VullAQh7AanslasQY_H2Nk-_XCzQst-4-uCqhnFzveZD72AhKnVmDZ34hwLMzFQFJ8uYOLuFFwFNvTufAPxIuiDXTOzoR76hWncN3BX4tu9it3eXXIMcOoIgjluP26zyGEoP6fAfEHDI1Csw"
+        },
+        {
+          "position": 14,
+          "title": "\u092a\u094d\u0930\u0949\u0932\u093f\u0902\u0917\u094b \u090f\u0921\u093f\u091f\u0930\u094d\u0938",
+          "place_id": "ChIJkZVpvgLxDDkRZoLmBGPSeBQ",
+          "data_id": "0x390cf102be699591:0x1478d26304e68266",
+          "data_cid": "1475160200689648230",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x390cf102be699591%3A0x1478d26304e68266&engine=google_maps_reviews&hl=hi",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x390cf102be699591%3A0x1478d26304e68266&engine=google_maps_photos&hl=hi",
+          "gps_coordinates": {
+            "latitude": 28.664721,
+            "longitude": 77.45305599999999
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=hi&place_id=ChIJkZVpvgLxDDkRZoLmBGPSeBQ",
+          "provider_id": "/g/11jjr22_t6",
+          "rating": 5,
+          "reviews": 11,
+          "type": "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+          "types": [
+            "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+            "\u0938\u0930\u094d\u091f\u093f\u092b\u093f\u0915\u0947\u0936\u0928 \u090f\u091c\u0947\u0902\u0938\u0940",
+            "\u0915\u0949\u092a\u0940\u0930\u093e\u0907\u091f\u093f\u0902\u0917 \u0938\u0930\u094d\u0935\u093f\u0938",
+            "\u0921\u0947\u0938\u094d\u0915\u091f\u0949\u092a \u092a\u092c\u094d\u0932\u093f\u0936\u093f\u0902\u0917 \u0938\u0947\u0935\u093e",
+            "\u092e\u0940\u0921\u093f\u092f\u093e \u0938\u0932\u093e\u0939\u0915\u093e\u0930",
+            "\u091a\u093f\u0915\u093f\u0924\u094d\u0938\u093e \u092a\u094d\u0930\u0924\u093f\u0932\u0947\u0916\u0928 \u0938\u0947\u0935\u093e",
+            "\u0928\u094b\u091f\u0930\u0940 \u092a\u092c\u094d\u0932\u093f\u0915",
+            "\u0935\u0947\u092c\u0938\u093e\u0907\u091f \u0921\u093f\u091c\u093c\u093e\u0907\u0928\u0930"
+          ],
+          "address": "I-163, \u092e\u0940\u0930\u093e \u092c\u093e\u0908 \u092e\u093e\u0930\u094d\u0917, Block I, Sector 18, Kavi Nagar, \u0917\u093e\u091c\u093f\u092f\u093e\u092c\u093e\u0926, \u0909\u0924\u094d\u0924\u0930 \u092a\u094d\u0930\u0926\u0947\u0936 201002",
+          "country": "\u092d\u093e\u0930\u0924",
+          "open_state": "\u0916\u0941\u0932\u093e \u0939\u0948 \u00b7 7 pm \u092c\u0902\u0926 \u0939\u094b\u0917\u093e",
+          "hours": "\u0916\u0941\u0932\u093e \u0939\u0948 \u00b7 7 pm \u092c\u0902\u0926 \u0939\u094b\u0917\u093e",
+          "operating_hours": {
+            "\u0930\u0935\u093f\u0935\u093e\u0930": "10am\u20137pm",
+            "\u0938\u094b\u092e\u0935\u093e\u0930": "10am\u20137pm",
+            "\u092e\u0902\u0917\u0932\u0935\u093e\u0930": "10am\u20137pm",
+            "\u092c\u0941\u0927\u0935\u093e\u0930": "10am\u20137pm",
+            "\u0917\u0941\u0930\u0941\u0935\u093e\u0930": "10am\u20137pm",
+            "\u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930": "10am\u20137pm",
+            "\u0936\u0928\u093f\u0935\u093e\u0930": "10am\u20137pm"
+          },
+          "phone": "095607 65770",
+          "website": "http://www.prolingoeditors.com/",
+          "extensions": [
+            {
+              "accessibility": [
+                "\u0935\u094d\u0939\u0940\u0932\u091a\u0947\u092f\u0930 \u0915\u0940 \u0938\u0941\u0935\u093f\u0927\u093e \u0935\u093e\u0932\u0940 \u0938\u0940\u091f\u093f\u0902\u0917"
+              ]
+            }
+          ],
+          "unsupported_extensions": [
+            {
+              "accessibility": [
+                "\u0935\u094d\u0939\u0940\u0932\u091a\u0947\u092f\u0930 \u0932\u093e\u0928\u0947-\u0932\u0947 \u091c\u093e\u0928\u0947 \u0915\u0940 \u0938\u0941\u0935\u093f\u0927\u093e \u0935\u093e\u0932\u093e \u0936\u094c\u091a\u093e\u0932\u092f"
+              ]
+            }
+          ],
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QWSem-jPy-JSDSd9DkXUGrO3Js8bT_GLZcsp1t2kLdipewuVScXXP2c0E4njv0wG_Dv0akk5sxUkNL8bKx8jHDoiS_lXphpCP1T1hl3Ws5_xAMS6zy84yu6tvU8a_52y_ytNwj=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/2bpeX3icHcTdboIwGADQJ6oUEFOXeGFkYXGILBUhu2m0NhSKtPErP_UF9wx7GxPPxfn_k9Ya-PC8ToaLWuu6EwOIB9e9Fb1dcH33agOIAwJvm5WNW_-UVNxRmzu0pzG9rWNVFcnjGO6BXE8sSX85GN8GKr01RkzDmfKqygOOP5d9O-IpYfGIL0pFMBcqS8n1eybtV6wbyrrKSLPL_ZMvu7CEiM3bA109HVm6YWXHglxYFDjmbDa1m8nHGCP5nqP-BZO3RZU"
+        },
+        {
+          "position": 15,
+          "title": "\u092f\u0936\u094d\u0935\u0940 \u091f\u094d\u0930\u093e\u0902\u0938\u0932\u0947\u0936\u0928",
+          "place_id": "ChIJD6TZP1P6DDkRH3IAboP-Ps0",
+          "data_id": "0x390cfa533fd9a40f:0xcd3efe836e00721f",
+          "data_cid": "14789538066770981407",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x390cfa533fd9a40f%3A0xcd3efe836e00721f&engine=google_maps_reviews&hl=hi",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x390cfa533fd9a40f%3A0xcd3efe836e00721f&engine=google_maps_photos&hl=hi",
+          "gps_coordinates": {
+            "latitude": 28.692294999999998,
+            "longitude": 77.345343
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=hi&place_id=ChIJD6TZP1P6DDkRH3IAboP-Ps0",
+          "provider_id": "/g/11by_gktcf",
+          "rating": 4.9,
+          "reviews": 162,
+          "type": "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+          "types": [
+            "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+            "\u0938\u0930\u094d\u091f\u093f\u092b\u093f\u0915\u0947\u0936\u0928 \u090f\u091c\u0947\u0902\u0938\u0940",
+            "\u0915\u093e\u0928\u0942\u0928\u0940 \u0938\u0947\u0935\u093e\u090f\u0902",
+            "\u092a\u094d\u0930\u0924\u093f\u0932\u0947\u0916\u0928 \u0938\u0947\u0935\u093e"
+          ],
+          "address": "SM-9, Plot No.A-105, Tushaar Apartment, 150 Feet Rd, Shalimar Garden Extension II, Shalimar Garden, Sahibabad, Ghaziabad, Uttar Pradesh 201005",
+          "country": "\u092d\u093e\u0930\u0924",
+          "open_state": "\u0916\u0941\u0932\u093e \u0939\u0948 \u00b7 10 pm \u092c\u0902\u0926 \u0939\u094b\u0917\u093e",
+          "hours": "\u0916\u0941\u0932\u093e \u0939\u0948 \u00b7 10 pm \u092c\u0902\u0926 \u0939\u094b\u0917\u093e",
+          "operating_hours": {
+            "\u0930\u0935\u093f\u0935\u093e\u0930": "8am\u201310pm",
+            "\u0938\u094b\u092e\u0935\u093e\u0930": "8am\u201310pm",
+            "\u092e\u0902\u0917\u0932\u0935\u093e\u0930": "8am\u201310pm",
+            "\u092c\u0941\u0927\u0935\u093e\u0930": "8am\u201310pm",
+            "\u0917\u0941\u0930\u0941\u0935\u093e\u0930": "8am\u201310pm",
+            "\u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930": "8am\u201310pm",
+            "\u0936\u0928\u093f\u0935\u093e\u0930": "8am\u201310pm"
+          },
+          "phone": "099111 53839",
+          "website": "https://www.translate-englishto.com/translation-service-ghaziabad/",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SPAbQ1-8tpfVtoKKhFL0CrOoSbOJsZqsxDbStjlr9ihlB5NXzzJKcqHzjI0ryso68gjvCMJ3zi0vFJNUvZoFu7xlBZUBZRE0mskBI2eL7462T6N34QWI1n3_1j7hMRLH-E9X_s=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/9fgnenicHcRJDoIwFADQE1XKIIiJC1GJzCpOYWNCgxSsFPgFkQt6Bm9j4lu874cKUcNckhhVJznnOcs6yFrCK5FVYkL4U8prQAQQSMvwUrzNeLdM9zKaifp-FtzzqO3jVRvxOI1cSBoY1mksStaaBWXWNLyOo-uRZjuWDm7fwPVZXvarwFXHAve2G576hNudMTArOVnJYYOf8LAcJfMNTVeOeqhq-4sjV-pNLg0aHPwt2pjXGyxeMsYY0f8EVT-eO0QO"
+        },
+        {
+          "position": 16,
+          "title": "\u0917\u094d\u0932\u094b\u092c\u0932 \u091f\u094d\u0930\u093e\u0902\u0938\u0932\u0947\u0936\u0928 \u0915\u0928\u0947\u0915\u094d\u091f",
+          "place_id": "ChIJkYQSp3EFDTkRiEdmFWbf2UQ",
+          "data_id": "0x390d0571a7128491:0x44d9df6615664788",
+          "data_cid": "4961242094063994760",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x390d0571a7128491%3A0x44d9df6615664788&engine=google_maps_reviews&hl=hi",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x390d0571a7128491%3A0x44d9df6615664788&engine=google_maps_photos&hl=hi",
+          "gps_coordinates": {
+            "latitude": 28.6169126,
+            "longitude": 77.0628402
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=hi&place_id=ChIJkYQSp3EFDTkRiEdmFWbf2UQ",
+          "provider_id": "/g/11t4y5c_f5",
+          "rating": 4.9,
+          "reviews": 66,
+          "type": "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+          "types": [
+            "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+            "\u0921\u0947\u0938\u094d\u0915\u091f\u0949\u092a \u092a\u092c\u094d\u0932\u093f\u0936\u093f\u0902\u0917 \u0938\u0947\u0935\u093e",
+            "\u0915\u093e\u0928\u0942\u0928\u0940 \u0938\u0947\u0935\u093e\u090f\u0902",
+            "\u092e\u0940\u0921\u093f\u092f\u093e \u0915\u0902\u092a\u0928\u0940",
+            "\u0928\u094b\u091f\u0930\u0940 \u092a\u092c\u094d\u0932\u093f\u0915",
+            "\u092a\u094d\u0930\u0924\u093f\u0932\u0947\u0916\u0928 \u0938\u0947\u0935\u093e"
+          ],
+          "address": "Top floor, Gulati medicos, R-143, near Vani public school, Vijay Vihar, Vani Vihar, New Uttam Nagar, Uttam Nagar, Delhi, 110059",
+          "country": "\u092d\u093e\u0930\u0924",
+          "open_state": "24 \u0918\u0902\u091f\u0947 \u0916\u0941\u0932\u093e \u0930\u0939\u0924\u093e \u0939\u0948",
+          "hours": "24 \u0918\u0902\u091f\u0947 \u0916\u0941\u0932\u093e \u0930\u0939\u0924\u093e \u0939\u0948",
+          "operating_hours": {
+            "\u0930\u0935\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0938\u094b\u092e\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092e\u0902\u0917\u0932\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092c\u0941\u0927\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0917\u0941\u0930\u0941\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0928\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947"
+          },
+          "phone": "083683 37217",
+          "website": "http://www.globaltranslationconnect.com/",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tgfn0TE5jmmHD2InQMFiP-c8-XNikkUIZQFTOy84U7s2nvSxe8pID4Kwfk6Hc7IuPHDexfyhSiCaUEW-P9URLeXMYXKLj3t0-pDNB1f3JUPRyZz_8oisw1NrEB7RRP0H71n8U74E4_n1po=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/AGiH7XicHcTdroIgAADgJyIhLajtXFTatB8jk2XdtMZQyQQWlHlesuvzNmfru_j-PrVzxk497177g0rr6i6eVjy4Vk4oN-C69SpjAbfAerP0KPtJXpUK5tHo1rZxOEzUfruUFHACilQ2DUvO-2W-60nAsB2q1-EtiEnCYN2VzTjmOHnSOBTvsq8PcnFl0RHQCcs2otieivXm5jsITJjOUemvGM368--FaGk7lD6iOc4yCmOMFGE4iIKLQkb_dAhCCOrvHKh_JvFFaA"
+        },
+        {
+          "position": 17,
+          "title": "\u0939\u093f\u0902\u0926\u0940 \u091f\u093e\u0907\u092a\u093f\u0902\u0917 \u0938\u0947\u0935\u093e",
+          "place_id": "ChIJ01GOfnUEDTkR6tFiSaR2in4",
+          "data_id": "0x390d04757e8e51d3:0x7e8a76a44962d1ea",
+          "data_cid": "9118230843542917610",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x390d04757e8e51d3%3A0x7e8a76a44962d1ea&engine=google_maps_reviews&hl=hi",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x390d04757e8e51d3%3A0x7e8a76a44962d1ea&engine=google_maps_photos&hl=hi",
+          "gps_coordinates": {
+            "latitude": 28.679413999999998,
+            "longitude": 77.0856642
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=hi&place_id=ChIJ01GOfnUEDTkR6tFiSaR2in4",
+          "provider_id": "/g/1hhwbst3y",
+          "rating": 3.7,
+          "reviews": 60,
+          "type": "\u091f\u093e\u0907\u092a\u093f\u0902\u0917 \u0938\u0947\u0935\u093e",
+          "types": [
+            "\u091f\u093e\u0907\u092a\u093f\u0902\u0917 \u0938\u0947\u0935\u093e",
+            "\u0905\u0928\u0941\u0935\u093e\u0926\u0915"
+          ],
+          "address": "Near, Madipur, Paschim Vihar, Delhi, 110063",
+          "country": "\u092d\u093e\u0930\u0924",
+          "open_state": "24 \u0918\u0902\u091f\u0947 \u0916\u0941\u0932\u093e \u0930\u0939\u0924\u093e \u0939\u0948",
+          "hours": "24 \u0918\u0902\u091f\u0947 \u0916\u0941\u0932\u093e \u0930\u0939\u0924\u093e \u0939\u0948",
+          "operating_hours": {
+            "\u0930\u0935\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0938\u094b\u092e\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092e\u0902\u0917\u0932\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092c\u0941\u0927\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0917\u0941\u0930\u0941\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0928\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947"
+          },
+          "website": "https://www.easyhindityping.com/",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TDJpoP6ucWcCFwUOze_XiHXMQzuu5vwRS_BO1R1fabU_xJyRTNyNuutZNXYmK3ID0Wl5_5P41Ay15PqxuX3tONxPwy8RgLtL1m8bZ1udqyM8PQ2rpnr1a--rTZ8OAwWk0fmc5oPxP1WL0A=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/l14c_3icHcTBboIwGADgJ6r0H3ZhS3ZAjXEOS2WYIheiFcEMKNLWUl9yZ9_GxO_wPf5rrXv16XlN7U8qKaumNKochOx02emJkK1X9QoJhZQXUn5xH-li3Uv2bgQX86XdxfeyyC6rbLO9G0NuNvktZjEkcD4cd8W4dklKHTVG5zTbtz_-9wLzhhSETSF0QNh1NJmvYzoy64KkinQEbXDMwZyubhOw7dvQdwMcEBrSPIhDy__wuRVEspEBj3D4ZQFjjOrXAnVPC05Hvg"
+        },
+        {
+          "position": 18,
+          "title": "\u0932\u0948\u0902\u0917\u094d\u0935\u0947\u091c\u0947\u0928\u094b\u092c\u093e\u0930 \u091f\u094d\u0930\u093e\u0902\u0938\u0932\u0947\u0936\u0928 \u0938\u0930\u094d\u0935\u093f\u0938\u0947\u091c | \u0932\u0948\u0902\u0917\u094d\u0935\u0947\u091c \u091f\u094d\u0930\u093e\u0902\u0938\u0932\u0947\u0936\u0928 & \u0932\u094b\u0915\u0932\u093e\u0907\u091c\u0947\u0936\u0928 \u0915\u0902\u092a\u0928\u0940 \u0907\u0928 \u0907\u0902\u0921\u093f\u092f\u093e",
+          "place_id": "ChIJsbiJL5vvDDkRsZMoKwyR7yU",
+          "data_id": "0x390cef9b2f89b8b1:0x25ef910c2b2893b1",
+          "data_cid": "2733562980286895025",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x390cef9b2f89b8b1%3A0x25ef910c2b2893b1&engine=google_maps_reviews&hl=hi",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x390cef9b2f89b8b1%3A0x25ef910c2b2893b1&engine=google_maps_photos&hl=hi",
+          "gps_coordinates": {
+            "latitude": 28.625260599999997,
+            "longitude": 77.3783591
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=hi&place_id=ChIJsbiJL5vvDDkRsZMoKwyR7yU",
+          "provider_id": "/g/1tdk_ysc",
+          "rating": 4.3,
+          "reviews": 56,
+          "type": "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+          "types": [
+            "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+            "\u092a\u094d\u0930\u0924\u093f\u0932\u0947\u0916\u0928 \u0938\u0947\u0935\u093e"
+          ],
+          "address": "H 161, 105, H Block, Sector 63, Noida, Uttar Pradesh 201301",
+          "country": "\u092d\u093e\u0930\u0924",
+          "open_state": "\u092c\u0902\u0926 \u0939\u0948 \u00b7 \u0938\u094b\u092e \u0915\u094b 12 am \u0916\u0941\u0932\u0947\u0917\u093e",
+          "hours": "\u092c\u0902\u0926 \u0939\u0948 \u00b7 \u0938\u094b\u092e \u0915\u094b 12 am \u0916\u0941\u0932\u0947\u0917\u093e",
+          "operating_hours": {
+            "\u0930\u0935\u093f\u0935\u093e\u0930": "\u092c\u0902\u0926",
+            "\u0938\u094b\u092e\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092e\u0902\u0917\u0932\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u092c\u0941\u0927\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0917\u0941\u0930\u0941\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947",
+            "\u0936\u0928\u093f\u0935\u093e\u0930": "24 \u0918\u0902\u091f\u0947"
+          },
+          "phone": "097115 52550",
+          "website": "https://www.languagenobar.com/",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T6sR--IGKOvzlNb6k1oVBmFNX8yKpYYywN12zkVkytKPCp_q1PygMJEAXW3ciquYuMykNZ7gPFjGp8xO4Az9PRDvUexKQbVKOyojc4HIugy1DsCbl20tMXQomx6ixiAwDitnFqbQ=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/p-WEqXicHcRJDoIwAADAF1WoGlwSDyji0lDAKIsXExpSKkuLLUL5oU_wNybOYb6fQikh14ZRFbMJ5ZxWeSfzF-GNyhs1Ibw2qJCASCANG8dMr66WvABwOiD_PVY4s0rIo23t4mSpkUhT3WM4Hcuo1AoFO_FoYaCpd97bSTwjrO3SztMlvi9o4D4PYjn4c3tcBRfnfcsHFGYR8jV_kvnx1FENHbnLqqmpvCTk9WCxgdm9w1Tjtlm46aFpmqD4T0DzA0V0RtQ"
+        },
+        {
+          "position": 19,
+          "title": "\u0905\u0937\u094d\u091f \u0935\u093f\u0928\u093e\u092f\u0915 \u091f\u094d\u0930\u093e\u0902\u0938\u0932\u0947\u0936\u0928 \u092a\u0935\u0924. \u090f\u0932\u091f\u0940\u0921\u0940.",
+          "place_id": "ChIJpbLIp88DDTkRZ92QXFhWy2I",
+          "data_id": "0x390d03cfa7c8b2a5:0x62cb56585c90dd67",
+          "data_cid": "7118878573499309415",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x390d03cfa7c8b2a5%3A0x62cb56585c90dd67&engine=google_maps_reviews&hl=hi",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x390d03cfa7c8b2a5%3A0x62cb56585c90dd67&engine=google_maps_photos&hl=hi",
+          "gps_coordinates": {
+            "latitude": 28.7038117,
+            "longitude": 77.1213416
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=hi&place_id=ChIJpbLIp88DDTkRZ92QXFhWy2I",
+          "provider_id": "/g/11p9rcjzv9",
+          "rating": 4.9,
+          "reviews": 64,
+          "type": "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+          "types": [
+            "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+            "\u0915\u0949\u092a\u0940\u0930\u093e\u0907\u091f\u093f\u0902\u0917 \u0938\u0930\u094d\u0935\u093f\u0938",
+            "\u0915\u093e\u0928\u0942\u0928\u0940 \u0938\u0947\u0935\u093e\u090f\u0902",
+            "\u092a\u094d\u0930\u0924\u093f\u0932\u0947\u0916\u0928 \u0938\u0947\u0935\u093e"
+          ],
+          "address": "359, Pocket 16, Sector 8, \u0930\u094b\u0939\u093f\u0923\u0940, \u0928\u0908 \u0926\u093f\u0932\u094d\u0932\u0940, \u0926\u093f\u0932\u094d\u0932\u0940, 110085",
+          "country": "\u092d\u093e\u0930\u0924",
+          "open_state": "\u092c\u0902\u0926 \u0939\u0948 \u00b7 \u0938\u094b\u092e \u0915\u094b 10 am \u0916\u0941\u0932\u0947\u0917\u093e",
+          "hours": "\u092c\u0902\u0926 \u0939\u0948 \u00b7 \u0938\u094b\u092e \u0915\u094b 10 am \u0916\u0941\u0932\u0947\u0917\u093e",
+          "operating_hours": {
+            "\u0930\u0935\u093f\u0935\u093e\u0930": "\u092c\u0902\u0926",
+            "\u0938\u094b\u092e\u0935\u093e\u0930": "10am\u20137pm",
+            "\u092e\u0902\u0917\u0932\u0935\u093e\u0930": "10am\u20137pm",
+            "\u092c\u0941\u0927\u0935\u093e\u0930": "10am\u20137pm",
+            "\u0917\u0941\u0930\u0941\u0935\u093e\u0930": "10am\u20137pm",
+            "\u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930": "10am\u20137pm",
+            "\u0936\u0928\u093f\u0935\u093e\u0930": "10am\u20133:30pm"
+          },
+          "phone": "070111 51369",
+          "website": "https://asht-vinayak.grexa.site/",
+          "extensions": [
+            {
+              "accessibility": [
+                "\u092f\u0939\u093e\u0902 \u0939\u093f\u092f\u0930\u093f\u0902\u0917 \u0932\u0942\u092a \u0915\u0940 \u0938\u0941\u0935\u093f\u0927\u093e \u0909\u092a\u0932\u092c\u094d\u0927 \u0939\u0948",
+                "\u0935\u094d\u0939\u0940\u0932\u091a\u0947\u092f\u0930 \u0915\u0940 \u0938\u0941\u0935\u093f\u0927\u093e \u0935\u093e\u0932\u0940 \u0938\u0940\u091f\u093f\u0902\u0917",
+                "\u0935\u094d\u0939\u0940\u0932\u091a\u0947\u092f\u0930 \u0932\u093e\u0928\u0947-\u0932\u0947 \u091c\u093e\u0928\u0947 \u0915\u0940 \u0938\u0941\u0935\u093f\u0927\u093e \u0935\u093e\u0932\u093e \u0926\u0930\u0935\u093e\u091c\u093c\u093e",
+                "\u0935\u094d\u0939\u0940\u0932\u091a\u0947\u092f\u0930 \u0932\u093e\u0928\u0947-\u0932\u0947 \u091c\u093e\u0928\u0947 \u0915\u0940 \u0938\u0941\u0935\u093f\u0927\u093e \u0935\u093e\u0932\u093e \u0936\u094c\u091a\u093e\u0932\u092f",
+                "\u0938\u0941\u0928\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0938\u0939\u093e\u092f\u0915 \u0921\u093f\u0935\u093e\u0907\u0938"
+              ]
+            }
+          ],
+          "unsupported_extensions": [
+            {
+              "accessibility": [
+                "\u0935\u094d\u0939\u0940\u0932\u091a\u0947\u092f\u0930 \u0932\u093e\u0928\u0947-\u0932\u0947 \u091c\u093e\u0928\u0947 \u0915\u0940 \u0938\u0941\u0935\u093f\u0927\u093e \u0935\u093e\u0932\u0940 \u092a\u093e\u0930\u094d\u0915\u093f\u0902\u0917"
+              ]
+            }
+          ],
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qr_oti49-Qt3d1qilzg7scsMaNl5O952rS6-Z4Lb-3L2dC_zZvYCB3zeDMCS1bjck-d0K82tkxmhU7MqEyOxdQDUtCa9ciRXS-M1iq9FBTeePUVVePFEgKFAhNWeQq60ZJ2pzJhTBgQaAv=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/sAZk0HicHcTLcoIwFADQL7oSwFc60wUPWaigKaCVDYMhk0SRAIlW-UnX_ZvO9CzO71sY0-kPy2qEO-FK8YbdNRuoag1rzYSqm8U7DVSDtrzkKF-YDKUycoqBGLe2e9mMfKGpjqukme3wzBnSORTT7RncrVMH5Vg8ToHvjiyMg9Q-X-gVarRZOub6vIl8Efer1-5ZkzA3QYWp_PpOIbZljyM_Y2yfHw5sH634JvJEcmSkn6Ni7XTjWmQ-J5X3-PyxEUIg_qfQ_gFMD0ZE"
+        },
+        {
+          "position": 20,
+          "title": "\u090f\u0915\u094d\u092f\u0942\u0930\u0947\u091f \u0932\u0948\u0902\u0917\u094d\u0935\u0947\u091c \u0938\u0949\u0932\u094d\u092f\u0942\u0936\u0902\u0938 \u092a\u094d\u0930\u093e\u0907\u0935\u0947\u091f \u0932\u093f\u092e\u093f\u091f\u0947\u0921",
+          "place_id": "ChIJYXaWu1flDDkR1X0vH61kMME",
+          "data_id": "0x390ce557bb967661:0xc13064ad1f2f7dd5",
+          "data_cid": "13920737142917529045",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x390ce557bb967661%3A0xc13064ad1f2f7dd5&engine=google_maps_reviews&hl=hi",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x390ce557bb967661%3A0xc13064ad1f2f7dd5&engine=google_maps_photos&hl=hi",
+          "gps_coordinates": {
+            "latitude": 28.5744963,
+            "longitude": 77.3133198
+          },
+          "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=hi&place_id=ChIJYXaWu1flDDkR1X0vH61kMME",
+          "provider_id": "/g/11zc_y1smd",
+          "rating": 5,
+          "reviews": 18,
+          "type": "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+          "types": [
+            "\u0905\u0928\u0941\u0935\u093e\u0926\u0915",
+            "\u091a\u093f\u0915\u093f\u0924\u094d\u0938\u093e \u092a\u094d\u0930\u0924\u093f\u0932\u0947\u0916\u0928 \u0938\u0947\u0935\u093e",
+            "\u092a\u094d\u0930\u0924\u093f\u0932\u0947\u0916\u0928 \u0938\u0947\u0935\u093e"
+          ],
+          "address": "C-001/A2, Sector 16B, Noida, \u0928\u094b\u090f\u0921\u093e, \u0909\u0924\u094d\u0924\u0930 \u092a\u094d\u0930\u0926\u0947\u0936 201301",
+          "country": "\u092d\u093e\u0930\u0924",
+          "open_state": "\u092c\u0902\u0926 \u0939\u0948 \u00b7 \u0938\u094b\u092e \u0915\u094b 8:30 am \u0916\u0941\u0932\u0947\u0917\u093e",
+          "hours": "\u092c\u0902\u0926 \u0939\u0948 \u00b7 \u0938\u094b\u092e \u0915\u094b 8:30 am \u0916\u0941\u0932\u0947\u0917\u093e",
+          "operating_hours": {
+            "\u0930\u0935\u093f\u0935\u093e\u0930": "\u092c\u0902\u0926",
+            "\u0938\u094b\u092e\u0935\u093e\u0930": "8:30am\u20137:30pm",
+            "\u092e\u0902\u0917\u0932\u0935\u093e\u0930": "8:30am\u20137:30pm",
+            "\u092c\u0941\u0927\u0935\u093e\u0930": "8:30am\u20137:30pm",
+            "\u0917\u0941\u0930\u0941\u0935\u093e\u0930": "8:30am\u20137:30pm",
+            "\u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930": "8:30am\u20137:30pm",
+            "\u0936\u0928\u093f\u0935\u093e\u0930": "8:30am\u20137:30pm"
+          },
+          "phone": "099106 37233",
+          "website": "https://accuratelangsols.com/",
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TKleqF4hEECH-cF6KvsGy4uLN3_YwRvLfKsPPEM3_JAsQI39M1VD497uBO_DKrXunCdIgsyfixPHBBu0r3kuVE0Jh6Gvw5AXk-GKd72sZ7kaZk5058neHyGJulR3yV-N1hSsWIl-TvMEPl=w1000-h1000-c-n",
+          "serpapi_thumbnail": "https://serpapi.com/images/url/mcrDo3icHcTdboIwGADQJ6qUFUSW7AK08lNhzBl03hBTKzV0xfFRWJ9y13ubJTsX5_dHjuMDnh1HSbJo-75VwoAYeK9HoccF7z-d9gGIAwInKo93Gx6YEl9bT1K6ThHfLtkEifXMriTNx7yfdjcGVUUL0uQRvGUkLNx644WBiV-bDRtORq-vWQv2dv-u0jg2eCCdqSnO5TKZZj86dShh1-AJzkF3OXc-9ldapDbJjdoTW6PSle9wzBQ6TAWt1MvsYoyR_J8j_Qcea0XR"
+        }
+      ],
+      "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?engine=google_maps&gl=in&google_domain=google.com&hl=hi&ll=%4028.6139%2C77.209%2C12z&q=transcription+services+Hindi&start=20&type=search"
+      }
+    }
+  }
+}
