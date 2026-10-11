@@ -3,6 +3,8 @@
 Run locally with:  uv run uvicorn app.main:app --reload
 """
 
+import contextlib
+
 from fastapi import FastAPI
 from fastapi.exceptions import RequestValidationError
 from slowapi.errors import RateLimitExceeded
@@ -22,6 +24,7 @@ from app.api.languages import router as languages_router
 from app.api.rate_limit import limiter
 from app.api.search import router as search_router
 from app.config import get_settings
+from app.db import repo
 
 
 def create_app() -> FastAPI:
@@ -43,6 +46,9 @@ def create_app() -> FastAPI:
     app.include_router(languages_router, prefix="/api")
     app.include_router(search_router, prefix="/api")
     app.include_router(coverage_router, prefix="/api")
+    # FR-7: create tables when a database is reachable; fail soft offline.
+    with contextlib.suppress(Exception):
+        repo.init_db()
     return app
 
 

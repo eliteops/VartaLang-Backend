@@ -7,7 +7,9 @@ Pick a **language** and a **city** and get:
 2. **Providers** — nearby language-service businesses (translation, transcription, localization) from Google Maps.
 3. **Visibility** — a dated snapshot of how covered that language–city pair looks, with a methodology note.
 
-> Status: **Step 1 (scaffold) complete.** API core, scoring, Maps module, cache/budget and the Streamlit UI land in the following steps.
+> Status: **MVP complete.** Listings (Google Jobs + explainable scoring), providers
+> (Google Maps), visibility snapshot, 24h cache + daily budget on Postgres, demo mode,
+> and the Streamlit UI are implemented. Run with `DEMO_MODE=1` for a keyless demo.
 
 ---
 

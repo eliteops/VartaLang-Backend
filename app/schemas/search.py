@@ -96,6 +96,7 @@ class SearchResponse(BaseModel):
     meta: SearchMeta
     listings: list[ListingItem] = Field(default_factory=list)
     providers: list[ProviderItem] = Field(default_factory=list)
+    providers_label: str | None = None
     notice: str
 
 

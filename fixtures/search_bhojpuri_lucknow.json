@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "source": "fallback",
+    "fetched_at": "2026-10-04T10:30:00+05:30",
+    "daily_budget_remaining": 200,
+    "visibility": {
+      "explicit": 0,
+      "inferred": 0
+    }
+  },
+  "listings": [],
+  "providers": [],
+  "providers_label": "Providers in Lucknow. Confirm language availability directly.",
+  "notice": "Results come from public sources. VartaLang does not verify employers or providers. Never pay to apply."
+}
