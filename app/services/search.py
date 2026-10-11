@@ -104,6 +104,11 @@ def _demo_payload(lang_id: str, city_id: str, budget: int) -> dict | None:
         return None
     doc.setdefault("meta", {})["source"] = "fallback"
     doc["meta"]["daily_budget_remaining"] = budget
+    vis = {"explicit": 0, "inferred": 0}
+    for item in doc.get("listings") or []:
+        key = "explicit" if item.get("relevance_label") == EXPLICIT else "inferred"
+        vis[key] += 1
+    doc["meta"]["visibility"] = vis
     doc.setdefault("notice", TRUST_NOTICE)
     return doc
 
