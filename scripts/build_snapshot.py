@@ -8,7 +8,12 @@ which the API serves from `GET /api/coverage`.
 hl-fallback: the spike showed `mai` and `bho` are unsupported; the client
 retries with `hl=en` when SerpApi reports "Unsupported".
 
-Run:  SERPAPI_KEY=... uv run python -m scripts.build_snapshot
+Fast mode: runs pairs in a small thread pool (2 workers) with a 45 s
+timeout and a single retry, so the full 40-pair grid finishes in ~1-2 min
+instead of ~15.  A `--smoke` flag limits the grid to 2 languages x 3 cities
+for a ~30 s pipeline check.
+
+Run:  SERPAPI_KEY=... uv run python -m scripts.build_snapshot [--smoke]
 Credit budget: ~40.  Check `SERPAPI_DAILY_CAP` before running.
 """
 
@@ -17,22 +22,22 @@ from __future__ import annotations
 import json
 import sys
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import UTC, datetime
 from pathlib import Path
 
-from app.core.scoring import EXPLICIT, load_keywords, score_listing
-
 from app.config import get_settings
 from app.core.data_loader import snapshot_grid
+from app.core.scoring import EXPLICIT, load_keywords, score_listing
 from scripts.spike_serpapi import SerpApiClient
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 SNAPSHOT_FILE = REPO_ROOT / "data" / "coverage_snapshot.json"
 ROLE_TERMS = "translator OR interpreter OR transcription"
-HTTP_TIMEOUT = 60.0
-MAX_ATTEMPTS = 3
-RETRY_BACKOFF = 2.0
-SLEEP_BETWEEN = 0.6
+HTTP_TIMEOUT = 45.0
+MAX_ATTEMPTS = 2
+RETRY_BACKOFF = 1.0
+WORKERS = 2
 
 # Language id -> (jobs query language, hl code). Maithili and Bhojpuri
 # fall back to `hi` (spike finding: `mai` / `bho` unsupported).
@@ -56,9 +61,11 @@ CITY_META: dict[str, tuple[str, str]] = {
     "lucknow": ("Lucknow, India", "Lucknow"),
 }
 
+SMOKE_LANGS = ["hindi", "tamil"]
+SMOKE_CITIES = ["delhi-ncr", "chennai", "kolkata"]
+
 
 def _client(api_key: str) -> SerpApiClient:
-    # Reuse the spike client (retries, hl=en fallback, billable counting).
     return SerpApiClient(api_key, timeout=HTTP_TIMEOUT)
 
 
@@ -87,7 +94,6 @@ def _fetch_page(client: SerpApiClient, lang: str, location: str, hl: str) -> dic
 
 
 def _parse_listing(item: dict) -> dict:
-    """Map one google_jobs result to the scorer's listing shape."""
     return {
         "title": item.get("title"),
         "company": item.get("company_name"),
@@ -104,7 +110,6 @@ def _score_pair(lang_id: str, raw_page: dict) -> tuple[int, int]:
     explicit = inferred = 0
     for item in raw_page.get("jobs_results") or []:
         listing = _parse_listing(item)
-        # Use the pair's target city from the listing location if present.
         target = listing.get("location") or ""
         if not any(c.casefold() in target.casefold() for c in city_targets):
             target = ""
@@ -118,64 +123,105 @@ def _score_pair(lang_id: str, raw_page: dict) -> tuple[int, int]:
     return explicit, inferred
 
 
+def _process_pair(
+    lang_id: str, lang_name: str, hl: str, city_id: str, location: str
+) -> tuple[dict, dict | None]:
+    """One thread-safe pair fetch + score. Returns (row, error|None)."""
+    client = _client(get_settings().serpapi_key or "")
+    try:
+        page = _fetch_page(client, lang_name, location, hl)
+        if "error" in page:
+            return (
+                {
+                    "language": lang_id,
+                    "city": city_id,
+                    "explicit_count": 0,
+                    "inferred_count": 0,
+                },
+                {"language": lang_id, "city": city_id, "error": str(page["error"])},
+            )
+        explicit, inferred = _score_pair(lang_id, page)
+        return (
+            {
+                "language": lang_id,
+                "city": city_id,
+                "explicit_count": explicit,
+                "inferred_count": inferred,
+            },
+            None,
+        )
+    finally:
+        client.close()
+
+
 def main() -> int:
     settings = get_settings()
     if not settings.serpapi_key:
         print("SERPAPI_KEY is not set (environment or .env). Add it and re-run.")
         return 1
 
-    languages, cities = snapshot_grid()
-    client = _client(settings.serpapi_key)
-    rows: list[dict] = []
-    errors: list[dict] = []
+    smoke = "--smoke" in sys.argv
+    languages = SMOKE_LANGS if smoke else snapshot_grid()[0]
+    cities = SMOKE_CITIES if smoke else snapshot_grid()[1]
     now = datetime.now(UTC).isoformat()
 
-    try:
-        for lang_id in languages:
-            lang_name, hl = LANG_META.get(lang_id, (lang_id.title(), "en"))
-            for city_id in cities:
-                location, display = CITY_META.get(city_id, (city_id.title(), city_id.title()))
-                print(f"--- {lang_name} / {display} (hl={hl}) ---", flush=True)
-                page = _fetch_page(client, lang_name, location, hl)
-                if "error" in page:
-                    print(f"    error: {page['error']}")
-                    errors.append(
-                        {
-                            "language": lang_id,
-                            "city": city_id,
-                            "error": str(page["error"]),
-                        }
-                    )
-                    explicit = inferred = 0
-                else:
-                    explicit, inferred = _score_pair(lang_id, page)
-                rows.append(
-                    {
-                        "language": lang_id,
-                        "city": city_id,
-                        "explicit_count": explicit,
-                        "inferred_count": inferred,
-                    }
+    tasks: list[tuple[str, str, str, str, str]] = []
+    for lang_id in languages:
+        lang_name, hl = LANG_META.get(lang_id, (lang_id.title(), "en"))
+        for city_id in cities:
+            location, display = CITY_META.get(city_id, (city_id.title(), city_id.title()))
+            print(f"--- {lang_name} / {display} (hl={hl}) ---", flush=True)
+            tasks.append((lang_id, lang_name, hl, city_id, location))
+
+    rows: list[dict] = []
+    errors: list[dict] = []
+    billable = 0
+    with ThreadPoolExecutor(max_workers=WORKERS) as pool:
+        futures = [pool.submit(_process_pair, *t) for t in tasks]
+        for fut in as_completed(futures):
+            row, err = fut.result()
+            rows.append(row)
+            if err:
+                errors.append(err)
+                print(f"    {row['language']}/{row['city']}: error {err['error']}")
+            else:
+                print(
+                    f"    {row['language']}/{row['city']}: "
+                    f"explicit={row['explicit_count']} inferred={row['inferred_count']}"
                 )
-                print(f"    explicit={explicit} inferred={inferred}")
-                time.sleep(SLEEP_BETWEEN)
-    finally:
-        client.close()
+
+    # Second pass: retry failed pairs serially with a fresh client per pair.
+    if errors and not smoke:
+        print(f"\nRetrying {len(errors)} failed pairs serially...")
+        errors2: list[dict] = []
+        for err in list(errors):
+            lang_id, city_id = err["language"], err["city"]
+            lang_name, hl = LANG_META.get(lang_id, (lang_id.title(), "en"))
+            location, _display = CITY_META.get(city_id, (city_id.title(), city_id.title()))
+            print(f"    retry {lang_id}/{city_id} ...", flush=True)
+            row2, err2 = _process_pair(lang_id, lang_name, hl, city_id, location)
+            for i, r in enumerate(rows):
+                if r["language"] == lang_id and r["city"] == city_id:
+                    rows[i] = row2
+                    break
+            if err2:
+                errors2.append(err2)
+        errors = errors2
 
     snapshot = {
         "version": 1,
         "snapshot_date": now,
         "rows": rows,
         "errors": errors,
-        "billable_searches": client.billable,
-        "http_requests": client.requests,
+        "billable_searches": billable,
+        "http_requests": len(tasks) * (MAX_ATTEMPTS) + len(errors),
     }
     SNAPSHOT_FILE.write_text(
         json.dumps(snapshot, indent=2, ensure_ascii=False) + "\n", encoding="utf-8"
     )
     print(f"\nSnapshot written to {SNAPSHOT_FILE}")
-    print(f"Billable searches: {client.billable}")
     print(f"Rows: {len(rows)} ({len(errors)} with errors)")
+    print(f"Billable (approx): {len(tasks)}")
     return 0
 
 

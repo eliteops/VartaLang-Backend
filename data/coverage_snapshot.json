@@ -1,0 +1,405 @@
+{
+  "version": 1,
+  "snapshot_date": "2026-10-11T08:29:35.814766+00:00",
+  "rows": [
+    {
+      "language": "hindi",
+      "city": "kolkata",
+      "explicit_count": 2,
+      "inferred_count": 0
+    },
+    {
+      "language": "hindi",
+      "city": "chennai",
+      "explicit_count": 1,
+      "inferred_count": 0
+    },
+    {
+      "language": "hindi",
+      "city": "delhi-ncr",
+      "explicit_count": 9,
+      "inferred_count": 0
+    },
+    {
+      "language": "tamil",
+      "city": "delhi-ncr",
+      "explicit_count": 0,
+      "inferred_count": 0
+    },
+    {
+      "language": "tamil",
+      "city": "kolkata",
+      "explicit_count": 0,
+      "inferred_count": 0
+    },
+    {
+      "language": "hindi",
+      "city": "lucknow",
+      "explicit_count": 3,
+      "inferred_count": 0
+    },
+    {
+      "language": "hindi",
+      "city": "patna",
+      "explicit_count": 2,
+      "inferred_count": 0
+    },
+    {
+      "language": "tamil",
+      "city": "chennai",
+      "explicit_count": 0,
+      "inferred_count": 0
+    },
+    {
+      "language": "tamil",
+      "city": "patna",
+      "explicit_count": 0,
+      "inferred_count": 0
+    },
+    {
+      "language": "tamil",
+      "city": "lucknow",
+      "explicit_count": 0,
+      "inferred_count": 0
+    },
+    {
+      "language": "bengali",
+      "city": "delhi-ncr",
+      "explicit_count": 0,
+      "inferred_count": 0
+    },
+    {
+      "language": "bengali",
+      "city": "chennai",
+      "explicit_count": 0,
+      "inferred_count": 0
+    },
+    {
+      "language": "bengali",
+      "city": "kolkata",
+      "explicit_count": 0,
+      "inferred_count": 0
+    },
+    {
+      "language": "bengali",
+      "city": "patna",
+      "explicit_count": 0,
+      "inferred_count": 0
+    },
+    {
+      "language": "bengali",
+      "city": "lucknow",
+      "explicit_count": 0,
+      "inferred_count": 0
+    },
+    {
+      "language": "maithili",
+      "city": "patna",
+      "explicit_count": 2,
+      "inferred_count": 0
+    },
+    {
+      "language": "maithili",
+      "city": "chennai",
+      "explicit_count": 2,
+      "inferred_count": 0
+    },
+    {
+      "language": "maithili",
+      "city": "kolkata",
+      "explicit_count": 2,
+      "inferred_count": 0
+    },
+    {
+      "language": "bhojpuri",
+      "city": "chennai",
+      "explicit_count": 0,
+      "inferred_count": 0
+    },
+    {
+      "language": "bhojpuri",
+      "city": "kolkata",
+      "explicit_count": 0,
+      "inferred_count": 0
+    },
+    {
+      "language": "maithili",
+      "city": "lucknow",
+      "explicit_count": 2,
+      "inferred_count": 0
+    },
+    {
+      "language": "bhojpuri",
+      "city": "lucknow",
+      "explicit_count": 0,
+      "inferred_count": 0
+    },
+    {
+      "language": "bhojpuri",
+      "city": "patna",
+      "explicit_count": 0,
+      "inferred_count": 0
+    },
+    {
+      "language": "bhojpuri",
+      "city": "delhi-ncr",
+      "explicit_count": 0,
+      "inferred_count": 0
+    },
+    {
+      "language": "maithili",
+      "city": "delhi-ncr",
+      "explicit_count": 0,
+      "inferred_count": 0
+    },
+    {
+      "language": "telugu",
+      "city": "delhi-ncr",
+      "explicit_count": 0,
+      "inferred_count": 0
+    },
+    {
+      "language": "telugu",
+      "city": "chennai",
+      "explicit_count": 0,
+      "inferred_count": 0
+    },
+    {
+      "language": "telugu",
+      "city": "kolkata",
+      "explicit_count": 0,
+      "inferred_count": 0
+    },
+    {
+      "language": "telugu",
+      "city": "patna",
+      "explicit_count": 0,
+      "inferred_count": 0
+    },
+    {
+      "language": "telugu",
+      "city": "lucknow",
+      "explicit_count": 0,
+      "inferred_count": 0
+    },
+    {
+      "language": "marathi",
+      "city": "delhi-ncr",
+      "explicit_count": 0,
+      "inferred_count": 0
+    },
+    {
+      "language": "marathi",
+      "city": "chennai",
+      "explicit_count": 0,
+      "inferred_count": 0
+    },
+    {
+      "language": "marathi",
+      "city": "kolkata",
+      "explicit_count": 0,
+      "inferred_count": 0
+    },
+    {
+      "language": "marathi",
+      "city": "patna",
+      "explicit_count": 0,
+      "inferred_count": 0
+    },
+    {
+      "language": "marathi",
+      "city": "lucknow",
+      "explicit_count": 0,
+      "inferred_count": 0
+    },
+    {
+      "language": "gujarati",
+      "city": "delhi-ncr",
+      "explicit_count": 0,
+      "inferred_count": 0
+    },
+    {
+      "language": "gujarati",
+      "city": "chennai",
+      "explicit_count": 0,
+      "inferred_count": 0
+    },
+    {
+      "language": "gujarati",
+      "city": "kolkata",
+      "explicit_count": 0,
+      "inferred_count": 0
+    },
+    {
+      "language": "gujarati",
+      "city": "patna",
+      "explicit_count": 0,
+      "inferred_count": 0
+    },
+    {
+      "language": "gujarati",
+      "city": "lucknow",
+      "explicit_count": 0,
+      "inferred_count": 0
+    }
+  ],
+  "errors": [
+    {
+      "language": "tamil",
+      "city": "delhi-ncr",
+      "error": "Google hasn't returned any results for this query."
+    },
+    {
+      "language": "tamil",
+      "city": "kolkata",
+      "error": "Google hasn't returned any results for this query."
+    },
+    {
+      "language": "tamil",
+      "city": "chennai",
+      "error": "http error: ReadTimeout"
+    },
+    {
+      "language": "tamil",
+      "city": "patna",
+      "error": "http error: ReadTimeout"
+    },
+    {
+      "language": "tamil",
+      "city": "lucknow",
+      "error": "http error: ReadTimeout"
+    },
+    {
+      "language": "bengali",
+      "city": "delhi-ncr",
+      "error": "http error: ReadTimeout"
+    },
+    {
+      "language": "bengali",
+      "city": "chennai",
+      "error": "http error: ReadTimeout"
+    },
+    {
+      "language": "bengali",
+      "city": "kolkata",
+      "error": "http error: ReadTimeout"
+    },
+    {
+      "language": "bengali",
+      "city": "patna",
+      "error": "http error: ReadTimeout"
+    },
+    {
+      "language": "bengali",
+      "city": "lucknow",
+      "error": "http error: ReadTimeout"
+    },
+    {
+      "language": "bhojpuri",
+      "city": "chennai",
+      "error": "Google hasn't returned any results for this query."
+    },
+    {
+      "language": "bhojpuri",
+      "city": "kolkata",
+      "error": "Google hasn't returned any results for this query."
+    },
+    {
+      "language": "bhojpuri",
+      "city": "lucknow",
+      "error": "Google hasn't returned any results for this query."
+    },
+    {
+      "language": "bhojpuri",
+      "city": "patna",
+      "error": "Google hasn't returned any results for this query."
+    },
+    {
+      "language": "bhojpuri",
+      "city": "delhi-ncr",
+      "error": "Google hasn't returned any results for this query."
+    },
+    {
+      "language": "maithili",
+      "city": "delhi-ncr",
+      "error": "http error: ReadTimeout"
+    },
+    {
+      "language": "telugu",
+      "city": "delhi-ncr",
+      "error": "http error: ReadTimeout"
+    },
+    {
+      "language": "telugu",
+      "city": "chennai",
+      "error": "http error: ReadTimeout"
+    },
+    {
+      "language": "telugu",
+      "city": "kolkata",
+      "error": "http error: ReadTimeout"
+    },
+    {
+      "language": "telugu",
+      "city": "patna",
+      "error": "http error: ReadTimeout"
+    },
+    {
+      "language": "telugu",
+      "city": "lucknow",
+      "error": "http error: ReadTimeout"
+    },
+    {
+      "language": "marathi",
+      "city": "delhi-ncr",
+      "error": "http error: ReadTimeout"
+    },
+    {
+      "language": "marathi",
+      "city": "chennai",
+      "error": "http error: ReadTimeout"
+    },
+    {
+      "language": "marathi",
+      "city": "kolkata",
+      "error": "http error: ReadTimeout"
+    },
+    {
+      "language": "marathi",
+      "city": "patna",
+      "error": "http error: ReadTimeout"
+    },
+    {
+      "language": "marathi",
+      "city": "lucknow",
+      "error": "http error: ReadTimeout"
+    },
+    {
+      "language": "gujarati",
+      "city": "delhi-ncr",
+      "error": "http error: ReadTimeout"
+    },
+    {
+      "language": "gujarati",
+      "city": "chennai",
+      "error": "http error: ReadTimeout"
+    },
+    {
+      "language": "gujarati",
+      "city": "kolkata",
+      "error": "http error: ReadTimeout"
+    },
+    {
+      "language": "gujarati",
+      "city": "patna",
+      "error": "http error: ReadTimeout"
+    },
+    {
+      "language": "gujarati",
+      "city": "lucknow",
+      "error": "http error: ReadTimeout"
+    }
+  ],
+  "billable_searches": 0,
+  "http_requests": 80
+}
