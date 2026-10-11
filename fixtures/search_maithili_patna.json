@@ -1,8 +1,8 @@
 {
   "meta": {
     "source": "fallback",
-    "fetched_at": "2026-10-04T10:30:00+05:30",
-    "daily_budget_remaining": 200,
+    "fetched_at": "2026-10-11T17:21:09.093318+00:00",
+    "daily_budget_remaining": 0,
     "visibility": {
       "explicit": 5,
       "inferred": 0
@@ -92,7 +92,32 @@
       "trust_hints": []
     }
   ],
-  "providers": [],
+  "providers": [
+    {
+      "name": "एनंसीए ग्लोबल - सर्टिफाइड ट्रांसलेशन सर्विसेज",
+      "category": "translator",
+      "address": "C-20, मटियाला मार्ग, G ब्लॉक, ब्लॉक B, Kiran Garden, उत्तम नगर, नई दिल्ली, दिल्ली, 110059",
+      "rating": 5.0,
+      "website": "https://www.enuncia.global/",
+      "phone": "093150 56112"
+    },
+    {
+      "name": "राजिन्फो टेक्नोलॉजी सर्विसेज प्राइवेट लिमिटेड",
+      "category": "translator",
+      "address": "Jaipur International Airport, Terminal 1, Infront of, टोंक रोड, behind HP Petrol Pump, जयपुर, राजस्थान 302011",
+      "rating": 4.9,
+      "website": "https://www.rajitservices.com/",
+      "phone": "098291 16505"
+    },
+    {
+      "name": "MEDICINEPASAL JANAKPUR",
+      "category": "transcription_service",
+      "address": null,
+      "rating": null,
+      "website": null,
+      "phone": "+977 986-1147203"
+    }
+  ],
   "providers_label": "Providers in Patna. Confirm language availability directly.",
   "notice": "Results come from public sources. VartaLang does not verify employers or providers. Never pay to apply."
 }

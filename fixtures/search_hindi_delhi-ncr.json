@@ -1,8 +1,8 @@
 {
   "meta": {
     "source": "fallback",
-    "fetched_at": "2026-10-04T10:30:00+05:30",
-    "daily_budget_remaining": 200,
+    "fetched_at": "2026-10-11T17:21:09.085612+00:00",
+    "daily_budget_remaining": 0,
     "visibility": {
       "explicit": 10,
       "inferred": 0
@@ -188,7 +188,72 @@
       "trust_hints": []
     }
   ],
-  "providers": [],
+  "providers": [
+    {
+      "name": "लिंगुअल ट्रांसलेटर पी एलटीडी",
+      "category": "translator",
+      "address": "Flat no 701, E 119, Uttam Nagar West, Nanhey Park, Mohan Garden, Uttam Nagar, New Delhi, Delhi, 110059",
+      "rating": 5.0,
+      "website": "https://lingualtranslators.com/",
+      "phone": "081785 54578"
+    },
+    {
+      "name": "दिल्ली ट्रांसलेशन ब्यूरो - ट्रांसलेटर & इंटरप्रेटर फ्रॉम इंग्लिश तो अरेबिक, चाइनीज, फ्रेंच, स्पेनिश, जर्मन, रशियन, ईटीसी",
+      "category": "translator",
+      "address": "Second Floor, R-22, Joga Bai Extension, Jogabai Extension, Jamia Nagar, Okhla, New Delhi, Delhi 110025",
+      "rating": 5.0,
+      "website": "https://translingoworld.com/delhi-translation-bureau",
+      "phone": "077949 29614"
+    },
+    {
+      "name": "यश ट्रांसलेशन एंड ट्रांसक्रिप्शन सर्विसेज",
+      "category": "translator",
+      "address": "COMPLEX, SAKET COURT, सेक्टर 6, पुष्प विहार, नई दिल्ली, दिल्ली 110017",
+      "rating": 5.0,
+      "website": null,
+      "phone": null
+    },
+    {
+      "name": "आइडियल लिंगुआ ट्रांसलेशन",
+      "category": "translator",
+      "address": "C-4/39, UGF, Sector 6 Rd, opposite Mount Abu School, Rohini, New Delhi, Delhi 110085",
+      "rating": 4.9,
+      "website": "http://certifiedtranslationindia.com/",
+      "phone": "087506 46517"
+    },
+    {
+      "name": "अट्रैडो ट्रांसलेशन सोल्यूशन पवत. एलएमटी.",
+      "category": "translator",
+      "address": "office no. 19, Vinayak Plaza, Yadav Nagar, Samaypur, Badli, Delhi, 110042",
+      "rating": 4.9,
+      "website": "http://atraidotranslationsolution.com/",
+      "phone": "092058 40051"
+    },
+    {
+      "name": "ला क्लास ट्रांसलेशन पीवीटी एलटीडी.",
+      "category": "translator",
+      "address": "Aditya Arcade, La Classe Translation Pvt. Ltd, F-126-128, Preet Vihar, New Delhi, Delhi 110092",
+      "rating": 4.9,
+      "website": "https://www.laclasse.in/",
+      "phone": "099582 98424"
+    },
+    {
+      "name": "आनन एंटरप्राइजेज",
+      "category": "translator",
+      "address": "5th floor, Padma Tower-2, Rajendra Palace, 504, New Delhi, Delhi 110005",
+      "rating": 4.9,
+      "website": "https://ananenterprises.com/",
+      "phone": "099962 35369"
+    },
+    {
+      "name": "ट्रांसलेशन सर्विसेज एक्सपर्ट्स (इली)",
+      "category": "translator",
+      "address": "Basement, Building, No. 93, Sector 15A, Noida, Uttar Pradesh 201301",
+      "rating": 4.9,
+      "website": "http://www.translationservicesexperts.com/",
+      "phone": "098110 84818"
+    }
+  ],
   "providers_label": "Providers in Delhi NCR. Confirm language availability directly.",
   "notice": "Results come from public sources. VartaLang does not verify employers or providers. Never pay to apply."
 }

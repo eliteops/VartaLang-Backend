@@ -1,10 +1,13 @@
 {
   "_note": "SAMPLE placeholder in the section-10 contract shape. Replace with the real saved SerpApi-derived response from the Day-1 spike.",
   "meta": {
-    "source": "cache",
-    "fetched_at": "2026-10-05T09:00:00+05:30",
-    "daily_budget_remaining": 42,
-    "visibility": {"explicit": 3, "inferred": 2}
+    "source": "fallback",
+    "fetched_at": "2026-10-11T17:21:09.089128+00:00",
+    "daily_budget_remaining": 0,
+    "visibility": {
+      "explicit": 1,
+      "inferred": 1
+    }
   },
   "listings": [
     {
@@ -18,7 +21,11 @@
       "source_name": "Example Jobs",
       "relevance_label": "Explicit match",
       "relevance_score": 8,
-      "matched_terms": ["Tamil (title)", "role: translator", "location match"],
+      "matched_terms": [
+        "Tamil (title)",
+        "role: translator",
+        "location match"
+      ],
       "trust_hints": []
     },
     {
@@ -32,19 +39,82 @@
       "source_name": "Example Jobs",
       "relevance_label": "May need this language",
       "relevance_score": 4,
-      "matched_terms": ["role: voice", "regional language mention", "location match"],
-      "trust_hints": ["Worth double-checking: asks applicants to message a personal number"]
+      "matched_terms": [
+        "role: voice",
+        "regional language mention",
+        "location match"
+      ],
+      "trust_hints": [
+        "Worth double-checking: asks applicants to message a personal number"
+      ]
     }
   ],
   "providers": [
     {
-      "name": "Sample Translation Services",
-      "category": "Translation service",
-      "address": "Anna Nagar, Chennai",
-      "rating": 4.5,
-      "website": "https://example.com",
-      "phone": "+91 00000 00000"
+      "name": "TransCloud Language Services | Certified Document Translation Services",
+      "category": "மொழிபெயர்ப்புச் சேவை",
+      "address": "B-Block, 26/48, Kamaraj Nagar 3rd St, Meenambal Nagar, Ezhil Nagar, Kodungaiyur, Chennai, Tamil Nadu 600021",
+      "rating": 5.0,
+      "website": "http://www.transcloudservices.com/",
+      "phone": "093446 97173"
+    },
+    {
+      "name": "PRP TRANSLATION SERVICES",
+      "category": "மொழிபெயர்ப்புச் சேவை",
+      "address": "KB Dasan Rd, Teynampet, Chennai, Tamil Nadu 600018",
+      "rating": 5.0,
+      "website": "https://sites.google.com/view/pr-translation-services/home",
+      "phone": "094947 47616"
+    },
+    {
+      "name": "Akshaya French Translation Services",
+      "category": "மொழிபெயர்ப்புச் சேவை",
+      "address": "Raja Hanumantha Ln, Narayana Krishnaraja Puram, Triplicane, Chennai, Tamil Nadu 600005",
+      "rating": 5.0,
+      "website": null,
+      "phone": "098402 22902"
+    },
+    {
+      "name": "ஸ்-ஸ்க்ரிப் மெடிக்கல் டாகுமெண்டேசன் பிரைவட் லிமிடெட்",
+      "category": "medical_transcription_service",
+      "address": "2/16, Giri St, SWAMY NAGAR, Ex-2, புழுதிவாக்கம், மடிப்பாக்கம், சென்னை, தமிழ் நாடு 600091",
+      "rating": 5.0,
+      "website": "https://z-scribe.com/",
+      "phone": "098407 49517"
+    },
+    {
+      "name": "Virtual Practice Solutions India Pvt Ltd",
+      "category": "medical_transcription_service",
+      "address": "Regus, Olympia Platina, South Phase, Guindy Industrial Estate, SIDCO Industrial Estate, Guindy, St.Thomas Mount, Tamil Nadu 600032",
+      "rating": 5.0,
+      "website": "https://vpsolutionsindia.com/",
+      "phone": "080150 83069"
+    },
+    {
+      "name": "Global Languages & Translation Services",
+      "category": "மொழிபெயர்ப்புச் சேவை",
+      "address": "Club House Rd, near Bank of Baroda, Express Estate, Royapettah, Chennai, Tamil Nadu 600002",
+      "rating": 5.0,
+      "website": "https://sworncertifiedtranslation.com/",
+      "phone": null
+    },
+    {
+      "name": "Najiullah Russian Interpreter Translator",
+      "category": "நிறுவன அலுவலகம்",
+      "address": "186, Peter's Rd, Indira Garden, Royapettah, Chennai, Tamil Nadu 600014",
+      "rating": 5.0,
+      "website": "https://russiantranslatorchennai.wordpress.com/",
+      "phone": null
+    },
+    {
+      "name": "Fusionscribe Solutions Private Limited",
+      "category": "medical_transcription_service",
+      "address": "Sri Ambal Towers, 288B, 4th Link Rd, Meenatchi Sundareswarar Koil, Sadasiva Nagar, Madipakkam, Kancheepuram, Chennai, Tamil Nadu 600091",
+      "rating": 5.0,
+      "website": null,
+      "phone": "099622 92974"
     }
   ],
-  "notice": "Results come from public sources. VartaLang does not verify employers or providers. Never pay to apply."
+  "notice": "Results come from public sources. VartaLang does not verify employers or providers. Never pay to apply.",
+  "providers_label": "Providers in Chennai. Confirm language availability directly."
 }

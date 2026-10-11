@@ -162,11 +162,22 @@ def select_providers(
     filters: dict | None = None,
     limit: int = MAX_PROVIDERS,
 ) -> list[dict]:
-    """Parse, filter, dedupe by place_id, rank (rating, then reviews), cap."""
+    """Parse, filter, dedupe by place_id, rank (rating, then reviews), cap.
+
+    Hindi/Marathi-locale Maps responses often return Devanagari `type`
+    strings with no English `type_id`, so the filter also honours the
+    native-script category/keyword lists from the data file.
+    """
     filters = filters or {}
-    include_cats = _list(filters, "include_categories", default=())
-    exclude_cats = _list(filters, "exclude_categories", default=())
-    include_names = _list(filters, "include_name_keywords", default=())
+    include_cats = _list(filters, "include_categories", default=()) + _list(
+        filters, "native_script_include_categories", default=()
+    )
+    exclude_cats = _list(filters, "exclude_categories", default=()) + _list(
+        filters, "native_script_exclude_categories", default=()
+    )
+    include_names = _list(filters, "include_name_keywords", default=()) + _list(
+        filters, "native_script_include_name_keywords", default=()
+    )
     exclude_names = _list(filters, "exclude_name_keywords", default=())
     include_any = _list(filters, "include_keywords", "keywords", "include", default=DEFAULT_INCLUDE)
     exclude_any = _list(

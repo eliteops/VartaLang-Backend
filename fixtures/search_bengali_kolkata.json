@@ -1,15 +1,80 @@
 {
   "meta": {
     "source": "fallback",
-    "fetched_at": "2026-10-04T10:30:00+05:30",
-    "daily_budget_remaining": 200,
+    "fetched_at": "2026-10-11T17:21:09.092168+00:00",
+    "daily_budget_remaining": 0,
     "visibility": {
       "explicit": 0,
       "inferred": 0
     }
   },
   "listings": [],
-  "providers": [],
+  "providers": [
+    {
+      "name": "পারসেপশন মাইন্ডস",
+      "category": "translator",
+      "address": "57/2X, নেতাজী সুভাষ চন্দ্র বোস রোড, নেহেরু কোলোনি, অশোক নগর, টালিগঞ্জ, কলকাতা, ওয়েস্ট বেঙ্গল 700040",
+      "rating": 5.0,
+      "website": null,
+      "phone": "083359 93606"
+    },
+    {
+      "name": "মানস সাহা",
+      "category": "translator",
+      "address": "Landmark: Jagarani Sangha Club, Kalitala Rd, Laskarpur, Garia, Kolkata, West Bengal 700153",
+      "rating": 5.0,
+      "website": "https://manassahaenterprise.com.free/",
+      "phone": "082400 57537"
+    },
+    {
+      "name": "ফিউশন ট্রান্সলেশনস (ক্রিয়েটিভ ইংলিশ তো বেঙ্গলি ট্রান্সলেশন & প্রুফরীডিং)",
+      "category": "translator",
+      "address": "A-14, Ramgarh, Ganguly Bagan, কলকাতা, ওয়েস্ট বেঙ্গল 700047",
+      "rating": 5.0,
+      "website": null,
+      "phone": null
+    },
+    {
+      "name": "শ্রেয়াংশ এন্টারপ্রাইজ",
+      "category": "translator",
+      "address": "50, Sarsuna Main Rd, opposite of BADAMTALA CLUB, Talpukur, Paschim Barisha, কলকাতা, ওয়েস্ট বেঙ্গল 700061",
+      "rating": 4.9,
+      "website": "https://www.shreyanshenterprise.co.in/",
+      "phone": "070446 31678"
+    },
+    {
+      "name": "যশ্বী ট্রান্সলেশন",
+      "category": "translator",
+      "address": "15th Floor, EM-4, Street No. 13, beside Techno India College, opposite to Monotel Hotel, EM Block, Sector V, Bidhannagar, Kolkata, West Bengal 700091",
+      "rating": 4.8,
+      "website": "https://www.translate-englishto.com/translation-service-kolkata/",
+      "phone": "099111 95559"
+    },
+    {
+      "name": "জেকে ইনফোটেক ইনক.",
+      "category": "translator",
+      "address": "Charu market, 64, Russa Road E 1st Ln, বাদাম তাল্লা, টালিগঞ্জ, কলকাতা, ওয়েস্ট বেঙ্গল 700033",
+      "rating": 4.8,
+      "website": "https://jkinfotechinc.in/",
+      "phone": "091237 87744"
+    },
+    {
+      "name": "অ্যাস্থেটিক ফরেন ল্যাঙ্গুয়েজ সার্ভিস",
+      "category": "translator",
+      "address": "FL-3D,3/91, Vidyasagar colony P.O, P.S, Naktala, Netaji Nagar, Kolkata, West Bengal 700047",
+      "rating": 4.7,
+      "website": "http://afltranslator.com/",
+      "phone": "079084 03316"
+    },
+    {
+      "name": "এলফিন ইন্ডিয়া",
+      "category": "translator",
+      "address": "401, Ground Floor, New Green Park, Sonarpur Station Rd, Netajipalli, Narendrapur, Rajpur Sonarpur, West Bengal 700103",
+      "rating": 4.6,
+      "website": "http://elfinindiaservices.in/",
+      "phone": "098117 08306"
+    }
+  ],
   "providers_label": "Providers in Kolkata. Confirm language availability directly.",
   "notice": "Results come from public sources. VartaLang does not verify employers or providers. Never pay to apply."
 }

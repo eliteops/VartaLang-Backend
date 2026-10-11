@@ -47,5 +47,29 @@
     "pte",
     "course"
   ],
-  "rule": "Keep a place if its category is in include_categories OR its name matches include_name_keywords. Drop it if its category is in exclude_categories AND its name matches nothing in include_name_keywords. Always drop names matching exclude_name_keywords. Category strings must be verified against real Maps responses in the spike."
+  "native_script_include_categories": [
+    "अनुवादक",
+    "अनुवाद सेवा",
+    "प्रतिलेखन सेवा",
+    "स्थानीयकरण सेवा",
+    "दुभाषिया",
+    "भाषा सेवा"
+  ],
+  "native_script_include_name_keywords": [
+    "अनुवाद",
+    "अनुवादक",
+    "प्रतिलेखन",
+    "स्थानीयकरण",
+    "दुभाषिया",
+    "ट्रांसलेशन",
+    "ट्रांसलेटर",
+    "ट्रांसक्रिप्शन",
+    "लोकलाइज़ेशन"
+  ],
+  "native_script_exclude_categories": [
+    "विद्यालय",
+    "शिक्षण संस्था",
+    "प्रशिक्षण केंद्र"
+  ],
+  "rule": "Keep a place if its category is in include_categories OR its name matches include_name_keywords. Drop it if its category is in exclude_categories AND its name matches nothing in include_name_keywords. Always drop names matching exclude_name_keywords. Category strings must be verified against real Maps responses in the spike. Hindi-locale Maps responses return Devanagari type strings with no type_id, so native_script_* mirrors of the lists above are also honoured."
 }
